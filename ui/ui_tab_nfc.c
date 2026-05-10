@@ -2,6 +2,8 @@
 #include "../app/app_nfc.h"
 #include <stdio.h>
 
+LV_FONT_DECLARE(font_korean_16);
+
 static lv_obj_t *status_circle;
 static lv_obj_t *status_icon;
 static lv_obj_t *status_label;
@@ -12,7 +14,6 @@ static lv_obj_t *conn_label;
 static void nfc_update_cb(lv_timer_t *t) {
     (void)t;
 
-    // 연결 상태
     if (g_nfc.connected) {
         lv_obj_set_style_bg_color(conn_dot, lv_color_hex(0x00FF88), 0);
         lv_label_set_text(conn_label, "PN532 연결됨");
@@ -21,7 +22,6 @@ static void nfc_update_cb(lv_timer_t *t) {
         lv_label_set_text(conn_label, "PN532 연결 안됨");
     }
 
-    // 태그 감지 상태
     if (g_nfc.tag_detected) {
         lv_obj_set_style_bg_color(status_circle, lv_color_hex(0x1DB954), 0);
         lv_label_set_text(status_icon, LV_SYMBOL_OK);
@@ -65,6 +65,7 @@ void ui_tab_nfc_create(lv_obj_t *parent) {
     conn_label = lv_label_create(conn_bar);
     lv_label_set_text(conn_label, "PN532 확인 중...");
     lv_obj_set_style_text_color(conn_label, lv_color_hex(0xAAAAAA), 0);
+    lv_obj_set_style_text_font(conn_label, &font_korean_16, 0);
     lv_obj_align(conn_label, LV_ALIGN_LEFT_MID, 30, 0);
 
     // 중앙 원형 상태
@@ -84,6 +85,7 @@ void ui_tab_nfc_create(lv_obj_t *parent) {
     status_label = lv_label_create(parent);
     lv_label_set_text(status_label, "태그 없음");
     lv_obj_set_style_text_color(status_label, lv_color_hex(0x888888), 0);
+    lv_obj_set_style_text_font(status_label, &font_korean_16, 0);
     lv_obj_align(status_label, LV_ALIGN_TOP_MID, 0, 158);
 
     // 구분선
@@ -97,6 +99,7 @@ void ui_tab_nfc_create(lv_obj_t *parent) {
     uid_label = lv_label_create(parent);
     lv_label_set_text(uid_label, "스마트폰을 센서 위에 대주세요");
     lv_obj_set_style_text_color(uid_label, lv_color_hex(0x444466), 0);
+    lv_obj_set_style_text_font(uid_label, &font_korean_16, 0);
     lv_obj_set_width(uid_label, 220);
     lv_obj_set_style_text_align(uid_label, LV_TEXT_ALIGN_CENTER, 0);
     lv_label_set_long_mode(uid_label, LV_LABEL_LONG_WRAP);

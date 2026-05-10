@@ -111,10 +111,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_3.c.s: cmake_for
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_3.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/anim/lv_example_anim_3.c -o CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_3.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/anim/lv_example_anim_4.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/anim/lv_example_anim_4.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/anim/lv_example_anim_4.c > CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/anim/lv_example_anim_4.c -o CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/anim/lv_example_anim_timeline_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/anim/lv_example_anim_timeline_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.i: cmake_force
@@ -128,7 +142,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.s: 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/animimg001.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/animimg001.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.i: cmake_force
@@ -142,7 +156,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/animimg002.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/animimg002.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.i: cmake_force
@@ -156,7 +170,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/animimg003.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/animimg003.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.i: cmake_force
@@ -170,7 +184,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/emoji/img_emoji_F617.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/emoji/img_emoji_F617.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.i: cmake_force
@@ -184,7 +198,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.s: cmak
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_caret_down.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_caret_down.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.i: cmake_force
@@ -198,7 +212,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.s: cmake_forc
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_cogwheel_argb.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_cogwheel_argb.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.i: cmake_force
@@ -212,7 +226,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.s: cmake_f
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_cogwheel_indexed16.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_cogwheel_indexed16.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.i: cmake_force
@@ -226,7 +240,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.s: cm
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_cogwheel_rgb.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_cogwheel_rgb.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.i: cmake_force
@@ -240,7 +254,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.s: cmake_fo
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_hand.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_hand.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.i: cmake_force
@@ -251,10 +265,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_hand.c -o CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_multilang_like.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_multilang_like.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_multilang_like.c > CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_multilang_like.c -o CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_skew_strip.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_skew_strip.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.i: cmake_force
@@ -268,7 +296,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.s: cmake_forc
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_star.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_star.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.i: cmake_force
@@ -279,10 +307,38 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_star.c -o CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_svg_img.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_svg_img.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_svg_img.c > CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_svg_img.c -o CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_transform_avatar_15.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_transform_avatar_15.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_transform_avatar_15.c > CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/assets/img_transform_avatar_15.c -o CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/imgbtn_left.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/imgbtn_left.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.i: cmake_force
@@ -296,7 +352,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/imgbtn_mid.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/imgbtn_mid.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.i: cmake_force
@@ -310,7 +366,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/assets/imgbtn_right.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o -MF CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/assets/imgbtn_right.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.i: cmake_force
@@ -321,66 +377,94 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/assets/imgbtn_right.c -o CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.s
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_1.c
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_bubble.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_bubble.c
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_1.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.i
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_bubble.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.i
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_1.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.s
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_bubble.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.s
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_2.c
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_button.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_button.c
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_2.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.i
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_button.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.i
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_2.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.s
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_button.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.s
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_3.c
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_click.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_click.c
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_3.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.i
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_click.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.i
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_3.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.s
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_click.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.s
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_4.c
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_4.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_draw.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_draw.c
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_4.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.i
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_draw.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.i
 
-lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_4.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.s
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_draw.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_streak.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_streak.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_streak.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_streak.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_trickle.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o -MF CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_trickle.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_trickle.c > CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/event/lv_example_event_trickle.c -o CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.s
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.i: cmake_force
@@ -394,7 +478,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.i: cmake_force
@@ -408,7 +492,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.i: cmake_force
@@ -422,7 +506,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.i: cmake_force
@@ -433,10 +517,66 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/get_started/lv_example_get_started_4.c -o CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_1.c > CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_1.c -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_2.c > CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_2.c -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_3.c > CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_3.c -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_4.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_4.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_4.c > CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/grad/lv_example_grad_4.c -o CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.i: cmake_force
@@ -450,7 +590,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.i: cmake_force
@@ -464,7 +604,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.i: cmake_force
@@ -478,7 +618,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.i: cmake_force
@@ -492,7 +632,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.i: cmake_force
@@ -506,7 +646,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/flex/lv_example_flex_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.i: cmake_force
@@ -520,7 +660,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.i: cmake_force
@@ -534,7 +674,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.i: cmake_force
@@ -548,7 +688,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.i: cmake_force
@@ -562,7 +702,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.i: cmake_force
@@ -576,7 +716,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.i: cmake_force
@@ -590,7 +730,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/layouts/grid/lv_example_grid_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.i: cmake_force
@@ -604,7 +744,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/barcode/lv_example_barcode_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/barcode/lv_example_barcode_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.i: cmake_force
@@ -618,7 +758,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.s
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/bmp/lv_example_bmp_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/bmp/lv_example_bmp_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.i: cmake_force
@@ -632,7 +772,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.i: cmake_force
@@ -646,7 +786,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.s: 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.i: cmake_force
@@ -660,7 +800,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.s: 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.i: cmake_force
@@ -671,10 +811,38 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_2.c > CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_2.c -o CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_3.c > CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/freetype/lv_example_freetype_3.c -o CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gif/img_bulb_gif.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gif/img_bulb_gif.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.i: cmake_force
@@ -688,7 +856,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.s: cmake_forc
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gif/lv_example_gif_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gif/lv_example_gif_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.i: cmake_force
@@ -699,10 +867,80 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.s: cmake_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gif/lv_example_gif_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_1.c > CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_2.c > CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_2.c -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_3.c > CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_3.c -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_4.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_4.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_4.c > CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gltf/lv_example_gltf_4.c -o CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gstreamer/lv_example_gstreamer_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gstreamer/lv_example_gstreamer_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gstreamer/lv_example_gstreamer_1.c > CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/gstreamer/lv_example_gstreamer_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.i: cmake_force
@@ -713,10 +951,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libpng/img_png_demo.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libpng/img_png_demo.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libpng/img_png_demo.c > CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libpng/img_png_demo.c -o CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libpng/lv_example_libpng_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libpng/lv_example_libpng_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.i: cmake_force
@@ -727,10 +979,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.s: 
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libpng/lv_example_libpng_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libwebp/lv_example_libwebp_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libwebp/lv_example_libwebp_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libwebp/lv_example_libwebp_1.c > CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/libwebp/lv_example_libwebp_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/lodepng/img_wink_png.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/lodepng/img_wink_png.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.i: cmake_force
@@ -744,7 +1010,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/lodepng/lv_example_lodepng_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/lodepng/lv_example_lodepng_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.i: cmake_force
@@ -758,7 +1024,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.s
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/qrcode/lv_example_qrcode_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/qrcode/lv_example_qrcode_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.i: cmake_force
@@ -772,7 +1038,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.s: 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/rlottie/lv_example_rlottie_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/rlottie/lv_example_rlottie_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.i: cmake_force
@@ -786,7 +1052,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.s
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/rlottie/lv_example_rlottie_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/rlottie/lv_example_rlottie_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.i: cmake_force
@@ -800,7 +1066,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.s
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/rlottie/lv_example_rlottie_approve.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/rlottie/lv_example_rlottie_approve.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.i: cmake_force
@@ -811,10 +1077,52 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_appro
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/rlottie/lv_example_rlottie_approve.c -o CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_1.c > CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_1.c -o CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_2.c > CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_2.c -o CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_3.c > CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/libs/svg/lv_example_svg_3.c -o CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.i: cmake_force
@@ -828,7 +1136,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.i: cmake_force
@@ -842,7 +1150,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.i: cmake_force
@@ -856,7 +1164,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/ubuntu_font.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tiny_ttf/ubuntu_font.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.i: cmake_force
@@ -870,7 +1178,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tjpgd/lv_example_tjpgd_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/libs/tjpgd/lv_example_tjpgd_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.i: cmake_force
@@ -884,7 +1192,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.s: cm
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/file_explorer/lv_example_file_explorer_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/file_explorer/lv_example_file_explorer_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.i: cmake_force
@@ -898,7 +1206,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/file_explorer/lv_example_file_explorer_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/file_explorer/lv_example_file_explorer_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.i: cmake_force
@@ -912,7 +1220,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/file_explorer/lv_example_file_explorer_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/file_explorer/lv_example_file_explorer_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.i: cmake_force
@@ -923,10 +1231,52 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/file_explorer/lv_example_file_explorer_3.c -o CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_1.c > CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_1.c -o CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_2.c > CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_2.c -o CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_3.c > CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/font_manager/lv_example_font_manager_3.c -o CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/fragment/lv_example_fragment_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/fragment/lv_example_fragment_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.i: cmake_force
@@ -940,7 +1290,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/fragment/lv_example_fragment_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/fragment/lv_example_fragment_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.i: cmake_force
@@ -951,10 +1301,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/fragment/lv_example_fragment_2.c -o CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/gestures/lv_example_gestures.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/gestures/lv_example_gestures.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/others/gestures/lv_example_gestures.c > CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/gestures/lv_example_gestures.c -o CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.i: cmake_force
@@ -968,7 +1332,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.i: cmake_force
@@ -982,7 +1346,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.i: cmake_force
@@ -996,7 +1360,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.i: cmake_force
@@ -1007,10 +1371,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_4.c -o CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_5.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_5.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_5.c > CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/gridnav/lv_example_gridnav_5.c -o CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/ime/lv_example_ime_pinyin_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/ime/lv_example_ime_pinyin_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.i: cmake_force
@@ -1024,7 +1402,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/ime/lv_example_ime_pinyin_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/ime/lv_example_ime_pinyin_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.i: cmake_force
@@ -1038,7 +1416,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/imgfont/lv_example_imgfont_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/imgfont/lv_example_imgfont_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.i: cmake_force
@@ -1052,7 +1430,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/monkey/lv_example_monkey_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/monkey/lv_example_monkey_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.i: cmake_force
@@ -1066,7 +1444,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.s
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/monkey/lv_example_monkey_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/monkey/lv_example_monkey_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.i: cmake_force
@@ -1080,7 +1458,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.s
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/monkey/lv_example_monkey_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/monkey/lv_example_monkey_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.i: cmake_force
@@ -1094,7 +1472,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.s
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.i: cmake_force
@@ -1108,7 +1486,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.i: cmake_force
@@ -1122,7 +1500,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.i: cmake_force
@@ -1136,7 +1514,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.i: cmake_force
@@ -1150,7 +1528,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.i: cmake_force
@@ -1164,7 +1542,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.i: cmake_force
@@ -1178,7 +1556,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_7.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/observer/lv_example_observer_7.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.i: cmake_force
@@ -1192,7 +1570,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/snapshot/lv_example_snapshot_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/snapshot/lv_example_snapshot_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.i: cmake_force
@@ -1203,10 +1581,38 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/snapshot/lv_example_snapshot_1.c -o CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_1.c > CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_1.c -o CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_2.c > CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/others/translation/lv_example_translation_2.c -o CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_disp_template.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o -MF CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_disp_template.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.i: cmake_force
@@ -1220,7 +1626,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.s: cm
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_fs_template.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o -MF CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_fs_template.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.i: cmake_force
@@ -1234,7 +1640,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.s: cmak
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_indev_template.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o -MF CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_indev_template.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.i: cmake_force
@@ -1248,7 +1654,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_lcd_stm32_template.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o -MF CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_lcd_stm32_template.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.i: cmake_force
@@ -1259,10 +1665,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/porting/lv_port_lcd_stm32_template.c -o CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/porting/osal/lv_example_osal.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o -MF CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/porting/osal/lv_example_osal.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/porting/osal/lv_example_osal.c > CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/porting/osal/lv_example_osal.c -o CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.i: cmake_force
@@ -1276,7 +1696,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.i: cmake_force
@@ -1290,7 +1710,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.i: cmake_force
@@ -1304,7 +1724,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.i: cmake_force
@@ -1318,7 +1738,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.i: cmake_force
@@ -1332,7 +1752,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.i: cmake_force
@@ -1343,10 +1763,52 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.s: cmake
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_6.c -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_7.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_7.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_7.c > CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_7.c -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_8.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_8.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_8.c > CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_8.c -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_9.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o -MF CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_9.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_9.c > CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/scroll/lv_example_scroll_9.c -o CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.i: cmake_force
@@ -1360,7 +1822,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_10.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_10.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.i: cmake_force
@@ -1374,7 +1836,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_11.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_11.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.i: cmake_force
@@ -1388,7 +1850,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_12.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_12.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.i: cmake_force
@@ -1402,7 +1864,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_13.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_13.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.i: cmake_force
@@ -1416,7 +1878,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_14.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_14.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.i: cmake_force
@@ -1430,7 +1892,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.s: cmake
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_15.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_15.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.i: cmake_force
@@ -1441,10 +1903,66 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.s: cmake
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_15.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_16.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_16.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_16.c > CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_16.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_17.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_17.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_17.c > CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_17.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_18.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_18.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_18.c > CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_18.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_19.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_19.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_19.c > CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_19.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.i: cmake_force
@@ -1455,10 +1973,38 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.s: cmake_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_2.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_20.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_20.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_20.c > CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_20.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_21.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_21.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_21.c > CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_21.c -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.i: cmake_force
@@ -1472,7 +2018,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.i: cmake_force
@@ -1486,7 +2032,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.i: cmake_force
@@ -1500,7 +2046,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.i: cmake_force
@@ -1514,7 +2060,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_7.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_7.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.i: cmake_force
@@ -1528,7 +2074,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_8.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_8.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.i: cmake_force
@@ -1542,7 +2088,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_9.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o -MF CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/styles/lv_example_style_9.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.i: cmake_force
@@ -1556,7 +2102,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.s: cmake_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/animimg/lv_example_animimg_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/animimg/lv_example_animimg_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.i: cmake_force
@@ -1570,7 +2116,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.i: cmake_force
@@ -1584,7 +2130,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.i: cmake_force
@@ -1595,10 +2141,38 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_3.c > CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arc/lv_example_arc_3.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arclabel/lv_example_arclabel_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arclabel/lv_example_arclabel_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arclabel/lv_example_arclabel_1.c > CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/arclabel/lv_example_arclabel_1.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.i: cmake_force
@@ -1612,7 +2186,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.i: cmake_force
@@ -1626,7 +2200,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.i: cmake_force
@@ -1640,7 +2214,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.i: cmake_force
@@ -1654,7 +2228,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.i: cmake_force
@@ -1668,7 +2242,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.i: cmake_force
@@ -1682,7 +2256,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_7.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/bar/lv_example_bar_7.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.i: cmake_force
@@ -1696,7 +2270,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/button/lv_example_button_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/button/lv_example_button_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.i: cmake_force
@@ -1710,7 +2284,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/button/lv_example_button_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/button/lv_example_button_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.i: cmake_force
@@ -1724,7 +2298,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/button/lv_example_button_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/button/lv_example_button_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.i: cmake_force
@@ -1738,7 +2312,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.i: cmake_force
@@ -1752,7 +2326,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_butto
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.i: cmake_force
@@ -1766,7 +2340,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_butto
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.i: cmake_force
@@ -1780,7 +2354,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_butto
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/calendar/lv_example_calendar_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/calendar/lv_example_calendar_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.i: cmake_force
@@ -1791,10 +2365,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/calendar/lv_example_calendar_1.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/calendar/lv_example_calendar_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/calendar/lv_example_calendar_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/calendar/lv_example_calendar_2.c > CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/calendar/lv_example_calendar_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.i: cmake_force
@@ -1805,10 +2393,52 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_1.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_10.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_10.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_10.c > CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_10.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_11.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_11.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_11.c > CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_11.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_12.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_12.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_12.c > CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_12.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.i: cmake_force
@@ -1822,7 +2452,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.i: cmake_force
@@ -1836,7 +2466,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.i: cmake_force
@@ -1850,7 +2480,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.i: cmake_force
@@ -1864,7 +2494,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.i: cmake_force
@@ -1878,7 +2508,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_7.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_7.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.i: cmake_force
@@ -1892,7 +2522,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_8.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_8.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.i: cmake_force
@@ -1903,10 +2533,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_8.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_9.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_9.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_9.c > CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/canvas/lv_example_canvas_9.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.i: cmake_force
@@ -1920,7 +2564,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.i: cmake_force
@@ -1934,7 +2578,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.i: cmake_force
@@ -1948,7 +2592,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.i: cmake_force
@@ -1962,7 +2606,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.i: cmake_force
@@ -1976,7 +2620,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_6.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_6.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.i: cmake_force
@@ -1990,7 +2634,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_7.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_7.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.i: cmake_force
@@ -2004,7 +2648,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_8.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/chart/lv_example_chart_8.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.i: cmake_force
@@ -2018,7 +2662,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/checkbox/lv_example_checkbox_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/checkbox/lv_example_checkbox_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.i: cmake_force
@@ -2032,7 +2676,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.i: cmake_force
@@ -2046,7 +2690,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/dropdown/lv_example_dropdown_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/dropdown/lv_example_dropdown_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.i: cmake_force
@@ -2060,7 +2704,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/dropdown/lv_example_dropdown_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/dropdown/lv_example_dropdown_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.i: cmake_force
@@ -2074,7 +2718,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/dropdown/lv_example_dropdown_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/dropdown/lv_example_dropdown_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.i: cmake_force
@@ -2088,7 +2732,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.i: cmake_force
@@ -2102,7 +2746,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.i: cmake_force
@@ -2116,7 +2760,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.i: cmake_force
@@ -2130,7 +2774,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.i: cmake_force
@@ -2141,10 +2785,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_4.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_5.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_5.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_5.c > CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/image/lv_example_image_5.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/imagebutton/lv_example_imagebutton_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/imagebutton/lv_example_imagebutton_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.i: cmake_force
@@ -2158,7 +2816,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imageb
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.i: cmake_force
@@ -2172,7 +2830,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.i: cmake_force
@@ -2183,10 +2841,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_3.c > CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/keyboard/lv_example_keyboard_3.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.i: cmake_force
@@ -2200,7 +2872,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.i: cmake_force
@@ -2214,7 +2886,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.i: cmake_force
@@ -2228,7 +2900,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.i: cmake_force
@@ -2242,7 +2914,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.i: cmake_force
@@ -2253,10 +2925,38 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_5.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_6.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_6.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_6.c > CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_6.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_7.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_7.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_7.c > CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/label/lv_example_label_7.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/led/lv_example_led_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/led/lv_example_led_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.i: cmake_force
@@ -2270,7 +2970,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/line/lv_example_line_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/line/lv_example_line_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.i: cmake_force
@@ -2284,7 +2984,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/list/lv_example_list_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/list/lv_example_list_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.i: cmake_force
@@ -2298,7 +2998,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/list/lv_example_list_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/list/lv_example_list_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.i: cmake_force
@@ -2309,10 +3009,52 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/list/lv_example_list_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_1.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_1.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_1.c > CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_1.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_2.c > CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_approve.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_approve.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_approve.c > CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/lottie/lv_example_lottie_approve.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.i: cmake_force
@@ -2326,7 +3068,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.i: cmake_force
@@ -2340,7 +3082,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.i: cmake_force
@@ -2354,7 +3096,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.i: cmake_force
@@ -2368,7 +3110,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/menu/lv_example_menu_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.i: cmake_force
@@ -2382,7 +3124,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.i: cmake_force
@@ -2393,10 +3135,38 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_1.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_2.c > CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_3.c > CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/msgbox/lv_example_msgbox_3.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.i: cmake_force
@@ -2410,7 +3180,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.s: cma
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.i: cmake_force
@@ -2421,10 +3191,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_3.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_3.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_3.c > CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/obj/lv_example_obj_3.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/roller/lv_example_roller_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/roller/lv_example_roller_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.i: cmake_force
@@ -2438,7 +3222,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/roller/lv_example_roller_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/roller/lv_example_roller_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.i: cmake_force
@@ -2452,7 +3236,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/roller/lv_example_roller_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/roller/lv_example_roller_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.i: cmake_force
@@ -2466,7 +3250,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.i: cmake_force
@@ -2477,10 +3261,52 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_1.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_10.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_10.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_10.c > CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_10.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_11.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_11.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_11.c > CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_11.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_12.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_12.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_12.c > CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_12.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.i: cmake_force
@@ -2494,7 +3320,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.i: cmake_force
@@ -2508,7 +3334,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.i: cmake_force
@@ -2522,7 +3348,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_5.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_5.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.i: cmake_force
@@ -2533,10 +3359,66 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_5.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_6.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_6.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_6.c > CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_6.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_7.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_7.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_7.c > CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_7.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_8.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_8.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_8.c > CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_8.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.s
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_9.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_9.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_9.c > CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/scale/lv_example_scale_9.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.i: cmake_force
@@ -2550,7 +3432,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.i: cmake_force
@@ -2564,7 +3446,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.i: cmake_force
@@ -2578,7 +3460,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_4.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/slider/lv_example_slider_4.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.i: cmake_force
@@ -2592,7 +3474,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/span/lv_example_span_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/span/lv_example_span_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.i: cmake_force
@@ -2606,7 +3488,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.s: c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/spinbox/lv_example_spinbox_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/spinbox/lv_example_spinbox_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.i: cmake_force
@@ -2620,7 +3502,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/spinner/lv_example_spinner_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/spinner/lv_example_spinner_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.i: cmake_force
@@ -2634,7 +3516,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/switch/lv_example_switch_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/switch/lv_example_switch_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.i: cmake_force
@@ -2645,10 +3527,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/switch/lv_example_switch_1.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/switch/lv_example_switch_2.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/switch/lv_example_switch_2.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/switch/lv_example_switch_2.c > CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/switch/lv_example_switch_2.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/table/lv_example_table_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/table/lv_example_table_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.i: cmake_force
@@ -2662,7 +3558,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/table/lv_example_table_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/table/lv_example_table_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.i: cmake_force
@@ -2676,7 +3572,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.s:
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/tabview/lv_example_tabview_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/tabview/lv_example_tabview_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.i: cmake_force
@@ -2690,7 +3586,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/tabview/lv_example_tabview_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/tabview/lv_example_tabview_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.i: cmake_force
@@ -2704,7 +3600,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.i: cmake_force
@@ -2718,7 +3614,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_2.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_2.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.i: cmake_force
@@ -2732,7 +3628,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_3.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_3.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.i: cmake_force
@@ -2743,10 +3639,24 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_3.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.s
 
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_4.c
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_4.c
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_4.c > CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.i
+
+lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/textarea/lv_example_textarea_4.c -o CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.s
+
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/tileview/lv_example_tileview_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/tileview/lv_example_tileview_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.i: cmake_force
@@ -2760,7 +3670,7 @@ lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/flags.make
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/win/lv_example_win_1.c
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o: lvgl/CMakeFiles/lvgl_examples.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building C object lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o -MF CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o.d -o CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/examples/widgets/win/lv_example_win_1.c
 
 lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.i: cmake_force
@@ -2776,6 +3686,7 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_3.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o" \
@@ -2786,19 +3697,28 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o" \
-"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o" \
-"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o" \
-"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o" \
-"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o" \
@@ -2816,16 +3736,28 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o" \
@@ -2834,12 +3766,17 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o" \
@@ -2854,16 +3791,22 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o" \
@@ -2871,7 +3814,13 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o" \
@@ -2882,6 +3831,8 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o" \
@@ -2896,7 +3847,11 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o" \
@@ -2904,6 +3859,7 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o" \
@@ -2921,34 +3877,51 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o" \
@@ -2957,6 +3930,7 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o" \
@@ -2964,213 +3938,279 @@ lvgl_examples_OBJECTS = \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o" \
+"CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o" \
 "CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o"
 
 # External object files for target lvgl_examples
 lvgl_examples_EXTERNAL_OBJECTS =
 
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/build.make
-lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Linking C static library ../lib/liblvgl_examples.a"
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_timeline_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg001.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg002.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/animimg003.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/emoji/img_emoji_F617.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_caret_down.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_argb.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_indexed16.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_cogwheel_rgb.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_skew_strip.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_left.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_mid.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/flex/lv_example_flex_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/layouts/grid/lv_example_grid_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/barcode/lv_example_barcode_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/bmp/lv_example_bmp_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/img_bulb_gif.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/img_wink_png.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/lodepng/lv_example_lodepng_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/qrcode/lv_example_qrcode_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/lv_example_tiny_ttf_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tiny_ttf/ubuntu_font.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/tjpgd/lv_example_tjpgd_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/ime/lv_example_ime_pinyin_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/imgfont/lv_example_imgfont_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/monkey/lv_example_monkey_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/observer/lv_example_observer_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_10.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_11.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_12.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_13.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_14.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_8.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_9.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/animimg/lv_example_animimg_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/bar/lv_example_bar_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/button/lv_example_button_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/buttonmatrix/lv_example_buttonmatrix_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/chart/lv_example_chart_8.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/imagebutton/lv_example_imagebutton_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/led/lv_example_led_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/line/lv_example_line_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/menu/lv_example_menu_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/roller/lv_example_roller_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/slider/lv_example_slider_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/span/lv_example_span_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/spinner/lv_example_spinner_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/table/lv_example_table_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tabview/lv_example_tabview_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_2.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.o
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/build.make
+lvgl/lib/liblvgl_examples.a: lvgl/CMakeFiles/lvgl_examples.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Linking CXX static library lib/liblvgl_examples.a"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && $(CMAKE_COMMAND) -P CMakeFiles/lvgl_examples.dir/cmake_clean_target.cmake
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lvgl_examples.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-lvgl/CMakeFiles/lvgl_examples.dir/build: lib/liblvgl_examples.a
+lvgl/CMakeFiles/lvgl_examples.dir/build: lvgl/lib/liblvgl_examples.a
 .PHONY : lvgl/CMakeFiles/lvgl_examples.dir/build
 
 lvgl/CMakeFiles/lvgl_examples.dir/clean:

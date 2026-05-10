@@ -3,15 +3,22 @@
 
 # compile ASM with /usr/bin/cc
 # compile C with /usr/bin/cc
-ASM_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_CONF_PATH=/home/dkgkgk183/lvgl_project/lv_conf.h -DLV_LVGL_H_INCLUDE_SIMPLE -D__ASSEMBLY__
+# compile CXX with /usr/bin/c++
+ASM_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE
 
-ASM_INCLUDES = -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project
+ASM_INCLUDES = -I/home/dkgkgk183/lvgl_project/lvgl/include/lvgl -isystem /home/dkgkgk183/lvgl_project -isystem /home/dkgkgk183/lvgl_project/lvgl/include -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project/build/lvgl -isystem /home/dkgkgk183/lvgl_project/lvgl/examples -isystem /home/dkgkgk183/lvgl_project/lvgl/demos
 
 ASM_FLAGS = 
 
-C_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_CONF_PATH=/home/dkgkgk183/lvgl_project/lv_conf.h -DLV_LVGL_H_INCLUDE_SIMPLE
+C_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE
 
-C_INCLUDES = -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project
+C_INCLUDES = -I/home/dkgkgk183/lvgl_project/lvgl/include/lvgl -isystem /home/dkgkgk183/lvgl_project -isystem /home/dkgkgk183/lvgl_project/lvgl/include -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project/build/lvgl -isystem /home/dkgkgk183/lvgl_project/lvgl/examples -isystem /home/dkgkgk183/lvgl_project/lvgl/demos
 
 C_FLAGS = -std=gnu99
+
+CXX_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE
+
+CXX_INCLUDES = -I/home/dkgkgk183/lvgl_project/lvgl/include/lvgl -isystem /home/dkgkgk183/lvgl_project -isystem /home/dkgkgk183/lvgl_project/lvgl/include -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project/build/lvgl -isystem /home/dkgkgk183/lvgl_project/lvgl/examples -isystem /home/dkgkgk183/lvgl_project/lvgl/demos
+
+CXX_FLAGS = 
 

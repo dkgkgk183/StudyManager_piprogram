@@ -69,108 +69,150 @@ include lvgl/CMakeFiles/lvgl_demos.dir/progress.make
 # Include the compile flags for this target's objects.
 include lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_avatar.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_avatar.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_avatar.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_avatar.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c > CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.s
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/lv_demo_benchmark.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o -MF CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/lv_demo_benchmark.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.i: cmake_force
@@ -181,94 +223,24 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/benchmark/lv_demo_benchmark.c -o CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o -MF CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/gltf/lv_demo_gltf.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o -MF CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/gltf/lv_demo_gltf.c
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c > CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.i
+lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/gltf/lv_demo_gltf.c > CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.i
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_flex_loader.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o -MF CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_flex_loader.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_flex_loader.c > CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_flex_loader.c -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_main.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o -MF CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_main.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_main.c > CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_main.c -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o -MF CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view.c > CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view.c -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_child_node.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o -MF CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_child_node.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_child_node.c > CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_child_node.c -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o -MF CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c > CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c -o CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.s
+lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/gltf/lv_demo_gltf.c -o CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.s
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o -MF CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.i: cmake_force
@@ -282,7 +254,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.s: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/lv_demos.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o -MF CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/lv_demos.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.i: cmake_force
@@ -293,528 +265,10 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/lv_demos.c -o CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_1.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_1.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_1.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_1.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_10.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_10.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_10.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_10.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_11.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_11.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_11.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_11.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_12.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_12.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_12.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_12.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_13.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_13.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_13.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_13.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_14.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_14.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_14.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_14.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_15.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_15.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_15.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_15.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_16.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_16.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_16.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_16.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_17.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_17.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_17.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_17.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_18.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_18.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_18.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_18.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_19.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_19.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_19.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_19.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_2.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_2.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_2.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_2.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_22.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_22.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_22.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_22.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_25.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_25.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_25.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_25.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_3.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_3.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_3.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_3.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_4.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_4.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_4.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_4.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_5.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_5.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_5.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_5.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_6.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_6.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_6.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_6.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_7.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_7.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_7.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_7.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_8.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_8.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_8.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_8.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_9.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_9.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_9.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/avatars/img_multilang_avatar_9.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_artist_palette.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_artist_palette.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_artist_palette.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_artist_palette.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_books.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_books.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_books.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_books.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_cat_face.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_cat_face.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_cat_face.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_cat_face.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_dog_face.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_dog_face.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_dog_face.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_dog_face.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_movie_camera.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_movie_camera.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_movie_camera.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_movie_camera.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_red_heart.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_red_heart.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_red_heart.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_red_heart.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_rocket.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_rocket.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_rocket.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_rocket.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_soccer_ball.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_soccer_ball.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_soccer_ball.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/emojis/img_emoji_soccer_ball.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_large.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_large.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_large.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_large.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_small.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_small.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_small.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/fonts/font_multilang_small.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/img_multilang_like.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/img_multilang_like.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/img_multilang_like.c > CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/assets/img_multilang_like.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/lv_demo_multilang.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o -MF CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/lv_demo_multilang.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/lv_demo_multilang.c > CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/multilang/lv_demo_multilang.c -o CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.s
-
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.i: cmake_force
@@ -828,7 +282,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_l
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.i: cmake_force
@@ -842,7 +296,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pau
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.i: cmake_force
@@ -856,7 +310,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pau
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.i: cmake_force
@@ -870,7 +324,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pla
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.i: cmake_force
@@ -884,7 +338,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pla
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.i: cmake_force
@@ -898,7 +352,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.s
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.i: cmake_force
@@ -912,7 +366,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.i: cmake_force
@@ -926,7 +380,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.s
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.i: cmake_force
@@ -940,7 +394,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.i: cmake_force
@@ -954,7 +408,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.i: cmake_force
@@ -968,7 +422,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_la
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.i: cmake_force
@@ -982,7 +436,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.s
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.i: cmake_force
@@ -996,7 +450,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.i: cmake_force
@@ -1010,7 +464,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.s
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.i: cmake_force
@@ -1024,7 +478,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.i: cmake_force
@@ -1038,7 +492,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.s:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.i: cmake_force
@@ -1052,7 +506,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.i: cmake_force
@@ -1066,7 +520,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.i: cmake_force
@@ -1080,7 +534,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.i: cmake_force
@@ -1094,7 +548,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.i: cmake_force
@@ -1108,7 +562,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.i: cmake_force
@@ -1122,7 +576,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.s:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.i: cmake_force
@@ -1136,7 +590,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.i: cmake_force
@@ -1150,7 +604,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.s:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.i: cmake_force
@@ -1164,7 +618,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.i: cmake_force
@@ -1178,7 +632,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.s:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.i: cmake_force
@@ -1192,7 +646,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.i: cmake_force
@@ -1206,7 +660,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.s: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.i: cmake_force
@@ -1220,7 +674,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.i: cmake_force
@@ -1234,7 +688,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.s: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.i: cmake_force
@@ -1248,7 +702,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.i: cmake_force
@@ -1262,7 +716,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.s: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.i: cmake_force
@@ -1276,7 +730,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.i: cmake_force
@@ -1290,7 +744,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.s: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.i: cmake_force
@@ -1304,7 +758,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_list_border.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_list_border.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.i: cmake_force
@@ -1318,7 +772,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.i: cmake_force
@@ -1332,7 +786,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_logo.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_logo.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.i: cmake_force
@@ -1346,7 +800,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.s: cm
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.i: cmake_force
@@ -1360,7 +814,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.i: cmake_force
@@ -1374,7 +828,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.i: cmake_force
@@ -1388,7 +842,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.i: cmake_force
@@ -1402,7 +856,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.i: cmake_force
@@ -1416,7 +870,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.s
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.i: cmake_force
@@ -1430,7 +884,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/lv_demo_music.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/lv_demo_music.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.i: cmake_force
@@ -1444,7 +898,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/lv_demo_music_list.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/lv_demo_music_list.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.i: cmake_force
@@ -1458,7 +912,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/music/lv_demo_music_main.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o -MF CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/music/lv_demo_music_main.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.i: cmake_force
@@ -1472,7 +926,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_arc_bg.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_arc_bg.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.i: cmake_force
@@ -1486,7 +940,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.s: cmake_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_argb8888.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_argb8888.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.i: cmake_force
@@ -1497,10 +951,52 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_argb8888.c -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.s
 
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c > CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_i1.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_i1.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_i1.c > CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_i1.c -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_l8.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_l8.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_l8.c > CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_l8.c -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.s
+
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.i: cmake_force
@@ -1511,10 +1007,38 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565.c -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.s
 
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c > CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565a8.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565a8.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565a8.c > CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb565a8.c -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.s
+
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb888.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_rgb888.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.i: cmake_force
@@ -1528,7 +1052,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_xrgb8888.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/assets/img_render_lvgl_logo_xrgb8888.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.i: cmake_force
@@ -1542,7 +1066,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/render/lv_demo_render.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o -MF CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/render/lv_demo_render.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.i: cmake_force
@@ -1553,24 +1077,10 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/render/lv_demo_render.c -o CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/scroll/lv_demo_scroll.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o -MF CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/scroll/lv_demo_scroll.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/scroll/lv_demo_scroll.c > CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/scroll/lv_demo_scroll.c -o CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.s
-
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/stress/lv_demo_stress.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o -MF CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/stress/lv_demo_stress.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.i: cmake_force
@@ -1581,38 +1091,10 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/stress/lv_demo_stress.c -o CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.s
 
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/transform/assets/img_transform_avatar_15.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o -MF CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/transform/assets/img_transform_avatar_15.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/transform/assets/img_transform_avatar_15.c > CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/transform/assets/img_transform_avatar_15.c -o CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.s
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/transform/lv_demo_transform.c
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o -MF CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/transform/lv_demo_transform.c
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.i"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/transform/lv_demo_transform.c > CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.i
-
-lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.s"
-	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/transform/lv_demo_transform.c -o CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.s
-
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/vector_graphic/assets/img_demo_vector_avatar.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o -MF CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/vector_graphic/assets/img_demo_vector_avatar.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.i: cmake_force
@@ -1626,7 +1108,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avata
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/vector_graphic/lv_demo_vector_graphic.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o -MF CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/vector_graphic/lv_demo_vector_graphic.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.i: cmake_force
@@ -1640,7 +1122,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.s: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_clothes.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_clothes.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.i: cmake_force
@@ -1654,7 +1136,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.s: cmake_force
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.i: cmake_force
@@ -1668,7 +1150,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.s:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_demo_widgets_needle.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_demo_widgets_needle.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.i: cmake_force
@@ -1682,7 +1164,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.s:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_lvgl_logo.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/assets/img_lvgl_logo.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.i: cmake_force
@@ -1696,7 +1178,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.s: cmake_for
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets.c
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.i: cmake_force
@@ -1707,61 +1189,78 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.s"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets.c -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.s
 
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_analytics.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_analytics.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_analytics.c > CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_analytics.c -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_components.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_components.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_components.c > CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_components.c -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_profile.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_profile.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_profile.c > CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_profile.c -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.s
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o: lvgl/CMakeFiles/lvgl_demos.dir/flags.make
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o: /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_shop.c
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o: lvgl/CMakeFiles/lvgl_demos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o -MF CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o.d -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o -c /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_shop.c
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.i"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_shop.c > CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.i
+
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.s"
+	cd /home/dkgkgk183/lvgl_project/build/lvgl && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/lvgl/demos/widgets/lv_demo_widgets_shop.c -o CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.s
+
 # Object files for target lvgl_demos
 lvgl_demos_OBJECTS = \
-"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o" \
@@ -1811,150 +1310,123 @@ lvgl_demos_OBJECTS = \
 "CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o" \
 "CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o" \
-"CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o"
+"CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o" \
+"CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o"
 
 # External object files for target lvgl_demos
 lvgl_demos_EXTERNAL_OBJECTS =
 
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/build.make
-lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Linking C static library ../lib/liblvgl_demos.a"
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_arc_bg.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb888.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_xrgb8888.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/assets/img_demo_vector_avatar.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/vector_graphic/lv_demo_vector_graphic.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_needle.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/build.make
+lvgl/lib/liblvgl_demos.a: lvgl/CMakeFiles/lvgl_demos.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Linking CXX static library lib/liblvgl_demos.a"
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && $(CMAKE_COMMAND) -P CMakeFiles/lvgl_demos.dir/cmake_clean_target.cmake
 	cd /home/dkgkgk183/lvgl_project/build/lvgl && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lvgl_demos.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-lvgl/CMakeFiles/lvgl_demos.dir/build: lib/liblvgl_demos.a
+lvgl/CMakeFiles/lvgl_demos.dir/build: lvgl/lib/liblvgl_demos.a
 .PHONY : lvgl/CMakeFiles/lvgl_demos.dir/build
 
 lvgl/CMakeFiles/lvgl_demos.dir/clean:

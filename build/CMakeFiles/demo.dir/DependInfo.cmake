@@ -20,6 +20,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl.dir/DependInfo.cmake"
+  "/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl_thorvg.dir/DependInfo.cmake"
+  "/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl_examples.dir/DependInfo.cmake"
+  "/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl_demos.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

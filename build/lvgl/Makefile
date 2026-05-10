@@ -217,173 +217,245 @@ lvgl_demos/fast:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/build
 .PHONY : lvgl_demos/fast
 
-demos/benchmark/assets/img_benchmark_cogwheel_alpha256.o: demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_alpha256.o
+demos/benchmark/assets/img_benchmark_avatar.o: demos/benchmark/assets/img_benchmark_avatar.c.o
+.PHONY : demos/benchmark/assets/img_benchmark_avatar.o
 
 # target to build an object file
-demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.o
+demos/benchmark/assets/img_benchmark_avatar.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.o
+.PHONY : demos/benchmark/assets/img_benchmark_avatar.c.o
 
-demos/benchmark/assets/img_benchmark_cogwheel_alpha256.i: demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_alpha256.i
+demos/benchmark/assets/img_benchmark_avatar.i: demos/benchmark/assets/img_benchmark_avatar.c.i
+.PHONY : demos/benchmark/assets/img_benchmark_avatar.i
 
 # target to preprocess a source file
-demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.i
+demos/benchmark/assets/img_benchmark_avatar.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.i
+.PHONY : demos/benchmark/assets/img_benchmark_avatar.c.i
 
-demos/benchmark/assets/img_benchmark_cogwheel_alpha256.s: demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_alpha256.s
+demos/benchmark/assets/img_benchmark_avatar.s: demos/benchmark/assets/img_benchmark_avatar.c.s
+.PHONY : demos/benchmark/assets/img_benchmark_avatar.s
 
 # target to generate assembly for a file
-demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.s
+demos/benchmark/assets/img_benchmark_avatar.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_avatar.c.s
+.PHONY : demos/benchmark/assets/img_benchmark_avatar.c.s
 
-demos/benchmark/assets/img_benchmark_cogwheel_argb.o: demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_argb.o
+demos/benchmark/assets/img_benchmark_lvgl_logo_argb.o: demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_argb.o
 
 # target to build an object file
-demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o
+demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.o
 
-demos/benchmark/assets/img_benchmark_cogwheel_argb.i: demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_argb.i
+demos/benchmark/assets/img_benchmark_lvgl_logo_argb.i: demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.i
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_argb.i
 
 # target to preprocess a source file
-demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i
+demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.i
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.i
 
-demos/benchmark/assets/img_benchmark_cogwheel_argb.s: demos/benchmark/assets/img_benchmark_cogwheel_argb.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_argb.s
+demos/benchmark/assets/img_benchmark_lvgl_logo_argb.s: demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.s
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_argb.s
 
 # target to generate assembly for a file
-demos/benchmark/assets/img_benchmark_cogwheel_argb.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_argb.c.s
+demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.s
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_argb.c.s
 
-demos/benchmark/assets/img_benchmark_cogwheel_indexed16.o: demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_indexed16.o
+demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.o: demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.o
 
 # target to build an object file
-demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o
+demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.o
 
-demos/benchmark/assets/img_benchmark_cogwheel_indexed16.i: demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_indexed16.i
+demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.i: demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.i
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.i
 
 # target to preprocess a source file
-demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i
+demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.i
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.i
 
-demos/benchmark/assets/img_benchmark_cogwheel_indexed16.s: demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_indexed16.s
+demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.s: demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.s
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.s
 
 # target to generate assembly for a file
-demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.s
+demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.s
+.PHONY : demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.c.s
 
-demos/benchmark/assets/img_benchmark_cogwheel_rgb.o: demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_rgb.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.o: demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.o
 
 # target to build an object file
-demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.o
 
-demos/benchmark/assets/img_benchmark_cogwheel_rgb.i: demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_rgb.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.i: demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.i
 
 # target to preprocess a source file
-demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.i
 
-demos/benchmark/assets/img_benchmark_cogwheel_rgb.s: demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_rgb.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.s: demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.s
 
 # target to generate assembly for a file
-demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.s
-.PHONY : demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.c.s
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.o: demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.o: demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.o
 
 # target to build an object file
-demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.o
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.i: demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.i
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.i: demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.i
 
 # target to preprocess a source file
-demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.i
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.i
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.s: demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.s
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.s: demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.s
 
 # target to generate assembly for a file
-demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.s
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.c.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.c.s
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.o: demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.o: demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.o
 
 # target to build an object file
-demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.o
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.i: demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.i
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.i: demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.i
 
 # target to preprocess a source file
-demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.i
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.i
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.s: demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.s
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.s: demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.s
 
 # target to generate assembly for a file
-demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.s
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.c.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.c.s
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.o: demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.o: demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.o
 
 # target to build an object file
-demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.o
+demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.o
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.i: demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.i
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.i: demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.i
 
 # target to preprocess a source file
-demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.i
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.i
+demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.i
 
-demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.s: demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.s
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.s: demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.s
 
 # target to generate assembly for a file
-demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.s
-.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.c.s
+demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.c.s
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.o: demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.o
+
+# target to build an object file
+demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.o
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.i: demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.i
+
+# target to preprocess a source file
+demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.i
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.s: demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.s
+
+# target to generate assembly for a file
+demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.c.s
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.o: demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.o
+
+# target to build an object file
+demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.o
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.i: demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.i
+
+# target to preprocess a source file
+demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.i
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.s: demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.s
+
+# target to generate assembly for a file
+demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.c.s
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.o: demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.o
+
+# target to build an object file
+demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.o
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.i: demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.i
+
+# target to preprocess a source file
+demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.i
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.i
+
+demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.s: demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.s
+
+# target to generate assembly for a file
+demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.s
+.PHONY : demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.c.s
 
 demos/benchmark/lv_demo_benchmark.o: demos/benchmark/lv_demo_benchmark.c.o
 .PHONY : demos/benchmark/lv_demo_benchmark.o
@@ -409,149 +481,29 @@ demos/benchmark/lv_demo_benchmark.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.s
 .PHONY : demos/benchmark/lv_demo_benchmark.c.s
 
-demos/flex_layout/lv_demo_flex_layout_ctrl_pad.o: demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_ctrl_pad.o
+demos/gltf/lv_demo_gltf.o: demos/gltf/lv_demo_gltf.c.o
+.PHONY : demos/gltf/lv_demo_gltf.o
 
 # target to build an object file
-demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.o
+demos/gltf/lv_demo_gltf.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.o
+.PHONY : demos/gltf/lv_demo_gltf.c.o
 
-demos/flex_layout/lv_demo_flex_layout_ctrl_pad.i: demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_ctrl_pad.i
-
-# target to preprocess a source file
-demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.i
-
-demos/flex_layout/lv_demo_flex_layout_ctrl_pad.s: demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_ctrl_pad.s
-
-# target to generate assembly for a file
-demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_ctrl_pad.c.s
-
-demos/flex_layout/lv_demo_flex_layout_flex_loader.o: demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_flex_loader.o
-
-# target to build an object file
-demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_flex_loader.c.o
-
-demos/flex_layout/lv_demo_flex_layout_flex_loader.i: demos/flex_layout/lv_demo_flex_layout_flex_loader.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_flex_loader.i
+demos/gltf/lv_demo_gltf.i: demos/gltf/lv_demo_gltf.c.i
+.PHONY : demos/gltf/lv_demo_gltf.i
 
 # target to preprocess a source file
-demos/flex_layout/lv_demo_flex_layout_flex_loader.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_flex_loader.c.i
+demos/gltf/lv_demo_gltf.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.i
+.PHONY : demos/gltf/lv_demo_gltf.c.i
 
-demos/flex_layout/lv_demo_flex_layout_flex_loader.s: demos/flex_layout/lv_demo_flex_layout_flex_loader.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_flex_loader.s
-
-# target to generate assembly for a file
-demos/flex_layout/lv_demo_flex_layout_flex_loader.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_flex_loader.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_flex_loader.c.s
-
-demos/flex_layout/lv_demo_flex_layout_main.o: demos/flex_layout/lv_demo_flex_layout_main.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_main.o
-
-# target to build an object file
-demos/flex_layout/lv_demo_flex_layout_main.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_main.c.o
-
-demos/flex_layout/lv_demo_flex_layout_main.i: demos/flex_layout/lv_demo_flex_layout_main.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_main.i
-
-# target to preprocess a source file
-demos/flex_layout/lv_demo_flex_layout_main.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_main.c.i
-
-demos/flex_layout/lv_demo_flex_layout_main.s: demos/flex_layout/lv_demo_flex_layout_main.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_main.s
+demos/gltf/lv_demo_gltf.s: demos/gltf/lv_demo_gltf.c.s
+.PHONY : demos/gltf/lv_demo_gltf.s
 
 # target to generate assembly for a file
-demos/flex_layout/lv_demo_flex_layout_main.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_main.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_main.c.s
-
-demos/flex_layout/lv_demo_flex_layout_view.o: demos/flex_layout/lv_demo_flex_layout_view.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view.o
-
-# target to build an object file
-demos/flex_layout/lv_demo_flex_layout_view.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view.c.o
-
-demos/flex_layout/lv_demo_flex_layout_view.i: demos/flex_layout/lv_demo_flex_layout_view.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view.i
-
-# target to preprocess a source file
-demos/flex_layout/lv_demo_flex_layout_view.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view.c.i
-
-demos/flex_layout/lv_demo_flex_layout_view.s: demos/flex_layout/lv_demo_flex_layout_view.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view.s
-
-# target to generate assembly for a file
-demos/flex_layout/lv_demo_flex_layout_view.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view.c.s
-
-demos/flex_layout/lv_demo_flex_layout_view_child_node.o: demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_child_node.o
-
-# target to build an object file
-demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_child_node.c.o
-
-demos/flex_layout/lv_demo_flex_layout_view_child_node.i: demos/flex_layout/lv_demo_flex_layout_view_child_node.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_child_node.i
-
-# target to preprocess a source file
-demos/flex_layout/lv_demo_flex_layout_view_child_node.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_child_node.c.i
-
-demos/flex_layout/lv_demo_flex_layout_view_child_node.s: demos/flex_layout/lv_demo_flex_layout_view_child_node.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_child_node.s
-
-# target to generate assembly for a file
-demos/flex_layout/lv_demo_flex_layout_view_child_node.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_child_node.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_child_node.c.s
-
-demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.o: demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.o
-
-# target to build an object file
-demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.o
-
-demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.i: demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.i
-
-# target to preprocess a source file
-demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.i
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.i
-
-demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.s: demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.s
-
-# target to generate assembly for a file
-demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.s
-.PHONY : demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.c.s
+demos/gltf/lv_demo_gltf.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/gltf/lv_demo_gltf.c.s
+.PHONY : demos/gltf/lv_demo_gltf.c.s
 
 demos/keypad_encoder/lv_demo_keypad_encoder.o: demos/keypad_encoder/lv_demo_keypad_encoder.c.o
 .PHONY : demos/keypad_encoder/lv_demo_keypad_encoder.o
@@ -600,894 +552,6 @@ demos/lv_demos.s: demos/lv_demos.c.s
 demos/lv_demos.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/lv_demos.c.s
 .PHONY : demos/lv_demos.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_1.o: demos/multilang/assets/avatars/img_multilang_avatar_1.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_1.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_1.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_1.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_1.i: demos/multilang/assets/avatars/img_multilang_avatar_1.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_1.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_1.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_1.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_1.s: demos/multilang/assets/avatars/img_multilang_avatar_1.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_1.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_1.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_1.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_1.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_10.o: demos/multilang/assets/avatars/img_multilang_avatar_10.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_10.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_10.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_10.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_10.i: demos/multilang/assets/avatars/img_multilang_avatar_10.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_10.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_10.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_10.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_10.s: demos/multilang/assets/avatars/img_multilang_avatar_10.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_10.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_10.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_10.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_10.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_11.o: demos/multilang/assets/avatars/img_multilang_avatar_11.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_11.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_11.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_11.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_11.i: demos/multilang/assets/avatars/img_multilang_avatar_11.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_11.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_11.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_11.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_11.s: demos/multilang/assets/avatars/img_multilang_avatar_11.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_11.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_11.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_11.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_11.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_12.o: demos/multilang/assets/avatars/img_multilang_avatar_12.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_12.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_12.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_12.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_12.i: demos/multilang/assets/avatars/img_multilang_avatar_12.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_12.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_12.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_12.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_12.s: demos/multilang/assets/avatars/img_multilang_avatar_12.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_12.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_12.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_12.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_12.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_13.o: demos/multilang/assets/avatars/img_multilang_avatar_13.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_13.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_13.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_13.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_13.i: demos/multilang/assets/avatars/img_multilang_avatar_13.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_13.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_13.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_13.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_13.s: demos/multilang/assets/avatars/img_multilang_avatar_13.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_13.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_13.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_13.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_13.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_14.o: demos/multilang/assets/avatars/img_multilang_avatar_14.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_14.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_14.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_14.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_14.i: demos/multilang/assets/avatars/img_multilang_avatar_14.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_14.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_14.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_14.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_14.s: demos/multilang/assets/avatars/img_multilang_avatar_14.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_14.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_14.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_14.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_14.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_15.o: demos/multilang/assets/avatars/img_multilang_avatar_15.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_15.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_15.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_15.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_15.i: demos/multilang/assets/avatars/img_multilang_avatar_15.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_15.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_15.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_15.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_15.s: demos/multilang/assets/avatars/img_multilang_avatar_15.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_15.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_15.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_15.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_15.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_16.o: demos/multilang/assets/avatars/img_multilang_avatar_16.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_16.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_16.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_16.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_16.i: demos/multilang/assets/avatars/img_multilang_avatar_16.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_16.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_16.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_16.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_16.s: demos/multilang/assets/avatars/img_multilang_avatar_16.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_16.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_16.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_16.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_16.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_17.o: demos/multilang/assets/avatars/img_multilang_avatar_17.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_17.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_17.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_17.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_17.i: demos/multilang/assets/avatars/img_multilang_avatar_17.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_17.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_17.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_17.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_17.s: demos/multilang/assets/avatars/img_multilang_avatar_17.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_17.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_17.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_17.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_17.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_18.o: demos/multilang/assets/avatars/img_multilang_avatar_18.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_18.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_18.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_18.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_18.i: demos/multilang/assets/avatars/img_multilang_avatar_18.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_18.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_18.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_18.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_18.s: demos/multilang/assets/avatars/img_multilang_avatar_18.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_18.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_18.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_18.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_18.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_19.o: demos/multilang/assets/avatars/img_multilang_avatar_19.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_19.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_19.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_19.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_19.i: demos/multilang/assets/avatars/img_multilang_avatar_19.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_19.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_19.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_19.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_19.s: demos/multilang/assets/avatars/img_multilang_avatar_19.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_19.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_19.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_19.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_19.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_2.o: demos/multilang/assets/avatars/img_multilang_avatar_2.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_2.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_2.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_2.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_2.i: demos/multilang/assets/avatars/img_multilang_avatar_2.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_2.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_2.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_2.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_2.s: demos/multilang/assets/avatars/img_multilang_avatar_2.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_2.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_2.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_2.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_2.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_22.o: demos/multilang/assets/avatars/img_multilang_avatar_22.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_22.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_22.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_22.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_22.i: demos/multilang/assets/avatars/img_multilang_avatar_22.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_22.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_22.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_22.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_22.s: demos/multilang/assets/avatars/img_multilang_avatar_22.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_22.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_22.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_22.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_22.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_25.o: demos/multilang/assets/avatars/img_multilang_avatar_25.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_25.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_25.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_25.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_25.i: demos/multilang/assets/avatars/img_multilang_avatar_25.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_25.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_25.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_25.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_25.s: demos/multilang/assets/avatars/img_multilang_avatar_25.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_25.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_25.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_25.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_25.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_3.o: demos/multilang/assets/avatars/img_multilang_avatar_3.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_3.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_3.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_3.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_3.i: demos/multilang/assets/avatars/img_multilang_avatar_3.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_3.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_3.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_3.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_3.s: demos/multilang/assets/avatars/img_multilang_avatar_3.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_3.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_3.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_3.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_3.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_4.o: demos/multilang/assets/avatars/img_multilang_avatar_4.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_4.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_4.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_4.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_4.i: demos/multilang/assets/avatars/img_multilang_avatar_4.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_4.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_4.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_4.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_4.s: demos/multilang/assets/avatars/img_multilang_avatar_4.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_4.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_4.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_4.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_4.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_5.o: demos/multilang/assets/avatars/img_multilang_avatar_5.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_5.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_5.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_5.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_5.i: demos/multilang/assets/avatars/img_multilang_avatar_5.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_5.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_5.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_5.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_5.s: demos/multilang/assets/avatars/img_multilang_avatar_5.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_5.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_5.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_5.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_5.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_6.o: demos/multilang/assets/avatars/img_multilang_avatar_6.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_6.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_6.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_6.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_6.i: demos/multilang/assets/avatars/img_multilang_avatar_6.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_6.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_6.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_6.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_6.s: demos/multilang/assets/avatars/img_multilang_avatar_6.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_6.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_6.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_6.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_6.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_7.o: demos/multilang/assets/avatars/img_multilang_avatar_7.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_7.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_7.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_7.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_7.i: demos/multilang/assets/avatars/img_multilang_avatar_7.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_7.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_7.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_7.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_7.s: demos/multilang/assets/avatars/img_multilang_avatar_7.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_7.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_7.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_7.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_7.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_8.o: demos/multilang/assets/avatars/img_multilang_avatar_8.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_8.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_8.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_8.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_8.i: demos/multilang/assets/avatars/img_multilang_avatar_8.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_8.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_8.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_8.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_8.s: demos/multilang/assets/avatars/img_multilang_avatar_8.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_8.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_8.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_8.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_8.c.s
-
-demos/multilang/assets/avatars/img_multilang_avatar_9.o: demos/multilang/assets/avatars/img_multilang_avatar_9.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_9.o
-
-# target to build an object file
-demos/multilang/assets/avatars/img_multilang_avatar_9.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.o
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_9.c.o
-
-demos/multilang/assets/avatars/img_multilang_avatar_9.i: demos/multilang/assets/avatars/img_multilang_avatar_9.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_9.i
-
-# target to preprocess a source file
-demos/multilang/assets/avatars/img_multilang_avatar_9.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.i
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_9.c.i
-
-demos/multilang/assets/avatars/img_multilang_avatar_9.s: demos/multilang/assets/avatars/img_multilang_avatar_9.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_9.s
-
-# target to generate assembly for a file
-demos/multilang/assets/avatars/img_multilang_avatar_9.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/avatars/img_multilang_avatar_9.c.s
-.PHONY : demos/multilang/assets/avatars/img_multilang_avatar_9.c.s
-
-demos/multilang/assets/emojis/img_emoji_artist_palette.o: demos/multilang/assets/emojis/img_emoji_artist_palette.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_artist_palette.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_artist_palette.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_artist_palette.c.o
-
-demos/multilang/assets/emojis/img_emoji_artist_palette.i: demos/multilang/assets/emojis/img_emoji_artist_palette.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_artist_palette.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_artist_palette.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_artist_palette.c.i
-
-demos/multilang/assets/emojis/img_emoji_artist_palette.s: demos/multilang/assets/emojis/img_emoji_artist_palette.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_artist_palette.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_artist_palette.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_artist_palette.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_artist_palette.c.s
-
-demos/multilang/assets/emojis/img_emoji_books.o: demos/multilang/assets/emojis/img_emoji_books.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_books.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_books.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_books.c.o
-
-demos/multilang/assets/emojis/img_emoji_books.i: demos/multilang/assets/emojis/img_emoji_books.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_books.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_books.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_books.c.i
-
-demos/multilang/assets/emojis/img_emoji_books.s: demos/multilang/assets/emojis/img_emoji_books.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_books.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_books.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_books.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_books.c.s
-
-demos/multilang/assets/emojis/img_emoji_camera_with_flash.o: demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_camera_with_flash.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.o
-
-demos/multilang/assets/emojis/img_emoji_camera_with_flash.i: demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_camera_with_flash.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.i
-
-demos/multilang/assets/emojis/img_emoji_camera_with_flash.s: demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_camera_with_flash.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_camera_with_flash.c.s
-
-demos/multilang/assets/emojis/img_emoji_cat_face.o: demos/multilang/assets/emojis/img_emoji_cat_face.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_cat_face.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_cat_face.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_cat_face.c.o
-
-demos/multilang/assets/emojis/img_emoji_cat_face.i: demos/multilang/assets/emojis/img_emoji_cat_face.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_cat_face.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_cat_face.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_cat_face.c.i
-
-demos/multilang/assets/emojis/img_emoji_cat_face.s: demos/multilang/assets/emojis/img_emoji_cat_face.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_cat_face.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_cat_face.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_cat_face.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_cat_face.c.s
-
-demos/multilang/assets/emojis/img_emoji_deciduous_tree.o: demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_deciduous_tree.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.o
-
-demos/multilang/assets/emojis/img_emoji_deciduous_tree.i: demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_deciduous_tree.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.i
-
-demos/multilang/assets/emojis/img_emoji_deciduous_tree.s: demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_deciduous_tree.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_deciduous_tree.c.s
-
-demos/multilang/assets/emojis/img_emoji_dog_face.o: demos/multilang/assets/emojis/img_emoji_dog_face.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_dog_face.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_dog_face.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_dog_face.c.o
-
-demos/multilang/assets/emojis/img_emoji_dog_face.i: demos/multilang/assets/emojis/img_emoji_dog_face.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_dog_face.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_dog_face.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_dog_face.c.i
-
-demos/multilang/assets/emojis/img_emoji_dog_face.s: demos/multilang/assets/emojis/img_emoji_dog_face.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_dog_face.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_dog_face.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_dog_face.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_dog_face.c.s
-
-demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.o: demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.o
-
-demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.i: demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.i
-
-demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.s: demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.c.s
-
-demos/multilang/assets/emojis/img_emoji_flexed_biceps.o: demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_flexed_biceps.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.o
-
-demos/multilang/assets/emojis/img_emoji_flexed_biceps.i: demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_flexed_biceps.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.i
-
-demos/multilang/assets/emojis/img_emoji_flexed_biceps.s: demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_flexed_biceps.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_flexed_biceps.c.s
-
-demos/multilang/assets/emojis/img_emoji_movie_camera.o: demos/multilang/assets/emojis/img_emoji_movie_camera.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_movie_camera.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_movie_camera.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_movie_camera.c.o
-
-demos/multilang/assets/emojis/img_emoji_movie_camera.i: demos/multilang/assets/emojis/img_emoji_movie_camera.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_movie_camera.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_movie_camera.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_movie_camera.c.i
-
-demos/multilang/assets/emojis/img_emoji_movie_camera.s: demos/multilang/assets/emojis/img_emoji_movie_camera.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_movie_camera.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_movie_camera.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_movie_camera.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_movie_camera.c.s
-
-demos/multilang/assets/emojis/img_emoji_red_heart.o: demos/multilang/assets/emojis/img_emoji_red_heart.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_red_heart.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_red_heart.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_red_heart.c.o
-
-demos/multilang/assets/emojis/img_emoji_red_heart.i: demos/multilang/assets/emojis/img_emoji_red_heart.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_red_heart.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_red_heart.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_red_heart.c.i
-
-demos/multilang/assets/emojis/img_emoji_red_heart.s: demos/multilang/assets/emojis/img_emoji_red_heart.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_red_heart.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_red_heart.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_red_heart.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_red_heart.c.s
-
-demos/multilang/assets/emojis/img_emoji_rocket.o: demos/multilang/assets/emojis/img_emoji_rocket.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_rocket.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_rocket.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_rocket.c.o
-
-demos/multilang/assets/emojis/img_emoji_rocket.i: demos/multilang/assets/emojis/img_emoji_rocket.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_rocket.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_rocket.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_rocket.c.i
-
-demos/multilang/assets/emojis/img_emoji_rocket.s: demos/multilang/assets/emojis/img_emoji_rocket.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_rocket.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_rocket.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_rocket.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_rocket.c.s
-
-demos/multilang/assets/emojis/img_emoji_soccer_ball.o: demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_soccer_ball.o
-
-# target to build an object file
-demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o
-.PHONY : demos/multilang/assets/emojis/img_emoji_soccer_ball.c.o
-
-demos/multilang/assets/emojis/img_emoji_soccer_ball.i: demos/multilang/assets/emojis/img_emoji_soccer_ball.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_soccer_ball.i
-
-# target to preprocess a source file
-demos/multilang/assets/emojis/img_emoji_soccer_ball.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.i
-.PHONY : demos/multilang/assets/emojis/img_emoji_soccer_ball.c.i
-
-demos/multilang/assets/emojis/img_emoji_soccer_ball.s: demos/multilang/assets/emojis/img_emoji_soccer_ball.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_soccer_ball.s
-
-# target to generate assembly for a file
-demos/multilang/assets/emojis/img_emoji_soccer_ball.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/emojis/img_emoji_soccer_ball.c.s
-.PHONY : demos/multilang/assets/emojis/img_emoji_soccer_ball.c.s
-
-demos/multilang/assets/fonts/font_multilang_large.o: demos/multilang/assets/fonts/font_multilang_large.c.o
-.PHONY : demos/multilang/assets/fonts/font_multilang_large.o
-
-# target to build an object file
-demos/multilang/assets/fonts/font_multilang_large.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.o
-.PHONY : demos/multilang/assets/fonts/font_multilang_large.c.o
-
-demos/multilang/assets/fonts/font_multilang_large.i: demos/multilang/assets/fonts/font_multilang_large.c.i
-.PHONY : demos/multilang/assets/fonts/font_multilang_large.i
-
-# target to preprocess a source file
-demos/multilang/assets/fonts/font_multilang_large.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.i
-.PHONY : demos/multilang/assets/fonts/font_multilang_large.c.i
-
-demos/multilang/assets/fonts/font_multilang_large.s: demos/multilang/assets/fonts/font_multilang_large.c.s
-.PHONY : demos/multilang/assets/fonts/font_multilang_large.s
-
-# target to generate assembly for a file
-demos/multilang/assets/fonts/font_multilang_large.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_large.c.s
-.PHONY : demos/multilang/assets/fonts/font_multilang_large.c.s
-
-demos/multilang/assets/fonts/font_multilang_small.o: demos/multilang/assets/fonts/font_multilang_small.c.o
-.PHONY : demos/multilang/assets/fonts/font_multilang_small.o
-
-# target to build an object file
-demos/multilang/assets/fonts/font_multilang_small.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.o
-.PHONY : demos/multilang/assets/fonts/font_multilang_small.c.o
-
-demos/multilang/assets/fonts/font_multilang_small.i: demos/multilang/assets/fonts/font_multilang_small.c.i
-.PHONY : demos/multilang/assets/fonts/font_multilang_small.i
-
-# target to preprocess a source file
-demos/multilang/assets/fonts/font_multilang_small.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.i
-.PHONY : demos/multilang/assets/fonts/font_multilang_small.c.i
-
-demos/multilang/assets/fonts/font_multilang_small.s: demos/multilang/assets/fonts/font_multilang_small.c.s
-.PHONY : demos/multilang/assets/fonts/font_multilang_small.s
-
-# target to generate assembly for a file
-demos/multilang/assets/fonts/font_multilang_small.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/fonts/font_multilang_small.c.s
-.PHONY : demos/multilang/assets/fonts/font_multilang_small.c.s
-
-demos/multilang/assets/img_multilang_like.o: demos/multilang/assets/img_multilang_like.c.o
-.PHONY : demos/multilang/assets/img_multilang_like.o
-
-# target to build an object file
-demos/multilang/assets/img_multilang_like.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.o
-.PHONY : demos/multilang/assets/img_multilang_like.c.o
-
-demos/multilang/assets/img_multilang_like.i: demos/multilang/assets/img_multilang_like.c.i
-.PHONY : demos/multilang/assets/img_multilang_like.i
-
-# target to preprocess a source file
-demos/multilang/assets/img_multilang_like.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.i
-.PHONY : demos/multilang/assets/img_multilang_like.c.i
-
-demos/multilang/assets/img_multilang_like.s: demos/multilang/assets/img_multilang_like.c.s
-.PHONY : demos/multilang/assets/img_multilang_like.s
-
-# target to generate assembly for a file
-demos/multilang/assets/img_multilang_like.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/assets/img_multilang_like.c.s
-.PHONY : demos/multilang/assets/img_multilang_like.c.s
-
-demos/multilang/lv_demo_multilang.o: demos/multilang/lv_demo_multilang.c.o
-.PHONY : demos/multilang/lv_demo_multilang.o
-
-# target to build an object file
-demos/multilang/lv_demo_multilang.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.o
-.PHONY : demos/multilang/lv_demo_multilang.c.o
-
-demos/multilang/lv_demo_multilang.i: demos/multilang/lv_demo_multilang.c.i
-.PHONY : demos/multilang/lv_demo_multilang.i
-
-# target to preprocess a source file
-demos/multilang/lv_demo_multilang.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.i
-.PHONY : demos/multilang/lv_demo_multilang.c.i
-
-demos/multilang/lv_demo_multilang.s: demos/multilang/lv_demo_multilang.c.s
-.PHONY : demos/multilang/lv_demo_multilang.s
-
-# target to generate assembly for a file
-demos/multilang/lv_demo_multilang.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/multilang/lv_demo_multilang.c.s
-.PHONY : demos/multilang/lv_demo_multilang.c.s
 
 demos/music/assets/img_lv_demo_music_btn_corner_large.o: demos/music/assets/img_lv_demo_music_btn_corner_large.c.o
 .PHONY : demos/music/assets/img_lv_demo_music_btn_corner_large.o
@@ -2665,6 +1729,78 @@ demos/render/assets/img_render_lvgl_logo_argb8888.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888.c.s
 .PHONY : demos/render/assets/img_render_lvgl_logo_argb8888.c.s
 
+demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.o: demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.o
+
+# target to build an object file
+demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.o
+
+demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.i: demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.i
+
+# target to preprocess a source file
+demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.i
+
+demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.s: demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.s
+
+# target to generate assembly for a file
+demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.c.s
+
+demos/render/assets/img_render_lvgl_logo_i1.o: demos/render/assets/img_render_lvgl_logo_i1.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_i1.o
+
+# target to build an object file
+demos/render/assets/img_render_lvgl_logo_i1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_i1.c.o
+
+demos/render/assets/img_render_lvgl_logo_i1.i: demos/render/assets/img_render_lvgl_logo_i1.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_i1.i
+
+# target to preprocess a source file
+demos/render/assets/img_render_lvgl_logo_i1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_i1.c.i
+
+demos/render/assets/img_render_lvgl_logo_i1.s: demos/render/assets/img_render_lvgl_logo_i1.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_i1.s
+
+# target to generate assembly for a file
+demos/render/assets/img_render_lvgl_logo_i1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_i1.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_i1.c.s
+
+demos/render/assets/img_render_lvgl_logo_l8.o: demos/render/assets/img_render_lvgl_logo_l8.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_l8.o
+
+# target to build an object file
+demos/render/assets/img_render_lvgl_logo_l8.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_l8.c.o
+
+demos/render/assets/img_render_lvgl_logo_l8.i: demos/render/assets/img_render_lvgl_logo_l8.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_l8.i
+
+# target to preprocess a source file
+demos/render/assets/img_render_lvgl_logo_l8.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_l8.c.i
+
+demos/render/assets/img_render_lvgl_logo_l8.s: demos/render/assets/img_render_lvgl_logo_l8.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_l8.s
+
+# target to generate assembly for a file
+demos/render/assets/img_render_lvgl_logo_l8.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_l8.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_l8.c.s
+
 demos/render/assets/img_render_lvgl_logo_rgb565.o: demos/render/assets/img_render_lvgl_logo_rgb565.c.o
 .PHONY : demos/render/assets/img_render_lvgl_logo_rgb565.o
 
@@ -2688,6 +1824,54 @@ demos/render/assets/img_render_lvgl_logo_rgb565.s: demos/render/assets/img_rende
 demos/render/assets/img_render_lvgl_logo_rgb565.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565.c.s
 .PHONY : demos/render/assets/img_render_lvgl_logo_rgb565.c.s
+
+demos/render/assets/img_render_lvgl_logo_rgb565_swapped.o: demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565_swapped.o
+
+# target to build an object file
+demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.o
+
+demos/render/assets/img_render_lvgl_logo_rgb565_swapped.i: demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565_swapped.i
+
+# target to preprocess a source file
+demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.i
+
+demos/render/assets/img_render_lvgl_logo_rgb565_swapped.s: demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565_swapped.s
+
+# target to generate assembly for a file
+demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565_swapped.c.s
+
+demos/render/assets/img_render_lvgl_logo_rgb565a8.o: demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565a8.o
+
+# target to build an object file
+demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565a8.c.o
+
+demos/render/assets/img_render_lvgl_logo_rgb565a8.i: demos/render/assets/img_render_lvgl_logo_rgb565a8.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565a8.i
+
+# target to preprocess a source file
+demos/render/assets/img_render_lvgl_logo_rgb565a8.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.i
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565a8.c.i
+
+demos/render/assets/img_render_lvgl_logo_rgb565a8.s: demos/render/assets/img_render_lvgl_logo_rgb565a8.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565a8.s
+
+# target to generate assembly for a file
+demos/render/assets/img_render_lvgl_logo_rgb565a8.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/assets/img_render_lvgl_logo_rgb565a8.c.s
+.PHONY : demos/render/assets/img_render_lvgl_logo_rgb565a8.c.s
 
 demos/render/assets/img_render_lvgl_logo_rgb888.o: demos/render/assets/img_render_lvgl_logo_rgb888.c.o
 .PHONY : demos/render/assets/img_render_lvgl_logo_rgb888.o
@@ -2761,30 +1945,6 @@ demos/render/lv_demo_render.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/render/lv_demo_render.c.s
 .PHONY : demos/render/lv_demo_render.c.s
 
-demos/scroll/lv_demo_scroll.o: demos/scroll/lv_demo_scroll.c.o
-.PHONY : demos/scroll/lv_demo_scroll.o
-
-# target to build an object file
-demos/scroll/lv_demo_scroll.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.o
-.PHONY : demos/scroll/lv_demo_scroll.c.o
-
-demos/scroll/lv_demo_scroll.i: demos/scroll/lv_demo_scroll.c.i
-.PHONY : demos/scroll/lv_demo_scroll.i
-
-# target to preprocess a source file
-demos/scroll/lv_demo_scroll.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.i
-.PHONY : demos/scroll/lv_demo_scroll.c.i
-
-demos/scroll/lv_demo_scroll.s: demos/scroll/lv_demo_scroll.c.s
-.PHONY : demos/scroll/lv_demo_scroll.s
-
-# target to generate assembly for a file
-demos/scroll/lv_demo_scroll.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/scroll/lv_demo_scroll.c.s
-.PHONY : demos/scroll/lv_demo_scroll.c.s
-
 demos/stress/lv_demo_stress.o: demos/stress/lv_demo_stress.c.o
 .PHONY : demos/stress/lv_demo_stress.o
 
@@ -2808,54 +1968,6 @@ demos/stress/lv_demo_stress.s: demos/stress/lv_demo_stress.c.s
 demos/stress/lv_demo_stress.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.s
 .PHONY : demos/stress/lv_demo_stress.c.s
-
-demos/transform/assets/img_transform_avatar_15.o: demos/transform/assets/img_transform_avatar_15.c.o
-.PHONY : demos/transform/assets/img_transform_avatar_15.o
-
-# target to build an object file
-demos/transform/assets/img_transform_avatar_15.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.o
-.PHONY : demos/transform/assets/img_transform_avatar_15.c.o
-
-demos/transform/assets/img_transform_avatar_15.i: demos/transform/assets/img_transform_avatar_15.c.i
-.PHONY : demos/transform/assets/img_transform_avatar_15.i
-
-# target to preprocess a source file
-demos/transform/assets/img_transform_avatar_15.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.i
-.PHONY : demos/transform/assets/img_transform_avatar_15.c.i
-
-demos/transform/assets/img_transform_avatar_15.s: demos/transform/assets/img_transform_avatar_15.c.s
-.PHONY : demos/transform/assets/img_transform_avatar_15.s
-
-# target to generate assembly for a file
-demos/transform/assets/img_transform_avatar_15.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/assets/img_transform_avatar_15.c.s
-.PHONY : demos/transform/assets/img_transform_avatar_15.c.s
-
-demos/transform/lv_demo_transform.o: demos/transform/lv_demo_transform.c.o
-.PHONY : demos/transform/lv_demo_transform.o
-
-# target to build an object file
-demos/transform/lv_demo_transform.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.o
-.PHONY : demos/transform/lv_demo_transform.c.o
-
-demos/transform/lv_demo_transform.i: demos/transform/lv_demo_transform.c.i
-.PHONY : demos/transform/lv_demo_transform.i
-
-# target to preprocess a source file
-demos/transform/lv_demo_transform.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.i
-.PHONY : demos/transform/lv_demo_transform.c.i
-
-demos/transform/lv_demo_transform.s: demos/transform/lv_demo_transform.c.s
-.PHONY : demos/transform/lv_demo_transform.s
-
-# target to generate assembly for a file
-demos/transform/lv_demo_transform.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/transform/lv_demo_transform.c.s
-.PHONY : demos/transform/lv_demo_transform.c.s
 
 demos/vector_graphic/assets/img_demo_vector_avatar.o: demos/vector_graphic/assets/img_demo_vector_avatar.c.o
 .PHONY : demos/vector_graphic/assets/img_demo_vector_avatar.o
@@ -3025,6 +2137,102 @@ demos/widgets/lv_demo_widgets.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.s
 .PHONY : demos/widgets/lv_demo_widgets.c.s
 
+demos/widgets/lv_demo_widgets_analytics.o: demos/widgets/lv_demo_widgets_analytics.c.o
+.PHONY : demos/widgets/lv_demo_widgets_analytics.o
+
+# target to build an object file
+demos/widgets/lv_demo_widgets_analytics.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.o
+.PHONY : demos/widgets/lv_demo_widgets_analytics.c.o
+
+demos/widgets/lv_demo_widgets_analytics.i: demos/widgets/lv_demo_widgets_analytics.c.i
+.PHONY : demos/widgets/lv_demo_widgets_analytics.i
+
+# target to preprocess a source file
+demos/widgets/lv_demo_widgets_analytics.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.i
+.PHONY : demos/widgets/lv_demo_widgets_analytics.c.i
+
+demos/widgets/lv_demo_widgets_analytics.s: demos/widgets/lv_demo_widgets_analytics.c.s
+.PHONY : demos/widgets/lv_demo_widgets_analytics.s
+
+# target to generate assembly for a file
+demos/widgets/lv_demo_widgets_analytics.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_analytics.c.s
+.PHONY : demos/widgets/lv_demo_widgets_analytics.c.s
+
+demos/widgets/lv_demo_widgets_components.o: demos/widgets/lv_demo_widgets_components.c.o
+.PHONY : demos/widgets/lv_demo_widgets_components.o
+
+# target to build an object file
+demos/widgets/lv_demo_widgets_components.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.o
+.PHONY : demos/widgets/lv_demo_widgets_components.c.o
+
+demos/widgets/lv_demo_widgets_components.i: demos/widgets/lv_demo_widgets_components.c.i
+.PHONY : demos/widgets/lv_demo_widgets_components.i
+
+# target to preprocess a source file
+demos/widgets/lv_demo_widgets_components.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.i
+.PHONY : demos/widgets/lv_demo_widgets_components.c.i
+
+demos/widgets/lv_demo_widgets_components.s: demos/widgets/lv_demo_widgets_components.c.s
+.PHONY : demos/widgets/lv_demo_widgets_components.s
+
+# target to generate assembly for a file
+demos/widgets/lv_demo_widgets_components.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_components.c.s
+.PHONY : demos/widgets/lv_demo_widgets_components.c.s
+
+demos/widgets/lv_demo_widgets_profile.o: demos/widgets/lv_demo_widgets_profile.c.o
+.PHONY : demos/widgets/lv_demo_widgets_profile.o
+
+# target to build an object file
+demos/widgets/lv_demo_widgets_profile.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.o
+.PHONY : demos/widgets/lv_demo_widgets_profile.c.o
+
+demos/widgets/lv_demo_widgets_profile.i: demos/widgets/lv_demo_widgets_profile.c.i
+.PHONY : demos/widgets/lv_demo_widgets_profile.i
+
+# target to preprocess a source file
+demos/widgets/lv_demo_widgets_profile.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.i
+.PHONY : demos/widgets/lv_demo_widgets_profile.c.i
+
+demos/widgets/lv_demo_widgets_profile.s: demos/widgets/lv_demo_widgets_profile.c.s
+.PHONY : demos/widgets/lv_demo_widgets_profile.s
+
+# target to generate assembly for a file
+demos/widgets/lv_demo_widgets_profile.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_profile.c.s
+.PHONY : demos/widgets/lv_demo_widgets_profile.c.s
+
+demos/widgets/lv_demo_widgets_shop.o: demos/widgets/lv_demo_widgets_shop.c.o
+.PHONY : demos/widgets/lv_demo_widgets_shop.o
+
+# target to build an object file
+demos/widgets/lv_demo_widgets_shop.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.o
+.PHONY : demos/widgets/lv_demo_widgets_shop.c.o
+
+demos/widgets/lv_demo_widgets_shop.i: demos/widgets/lv_demo_widgets_shop.c.i
+.PHONY : demos/widgets/lv_demo_widgets_shop.i
+
+# target to preprocess a source file
+demos/widgets/lv_demo_widgets_shop.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.i
+.PHONY : demos/widgets/lv_demo_widgets_shop.c.i
+
+demos/widgets/lv_demo_widgets_shop.s: demos/widgets/lv_demo_widgets_shop.c.s
+.PHONY : demos/widgets/lv_demo_widgets_shop.s
+
+# target to generate assembly for a file
+demos/widgets/lv_demo_widgets_shop.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets_shop.c.s
+.PHONY : demos/widgets/lv_demo_widgets_shop.c.s
+
 examples/anim/lv_example_anim_1.o: examples/anim/lv_example_anim_1.c.o
 .PHONY : examples/anim/lv_example_anim_1.o
 
@@ -3096,6 +2304,30 @@ examples/anim/lv_example_anim_3.s: examples/anim/lv_example_anim_3.c.s
 examples/anim/lv_example_anim_3.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_3.c.s
 .PHONY : examples/anim/lv_example_anim_3.c.s
+
+examples/anim/lv_example_anim_4.o: examples/anim/lv_example_anim_4.c.o
+.PHONY : examples/anim/lv_example_anim_4.o
+
+# target to build an object file
+examples/anim/lv_example_anim_4.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.o
+.PHONY : examples/anim/lv_example_anim_4.c.o
+
+examples/anim/lv_example_anim_4.i: examples/anim/lv_example_anim_4.c.i
+.PHONY : examples/anim/lv_example_anim_4.i
+
+# target to preprocess a source file
+examples/anim/lv_example_anim_4.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.i
+.PHONY : examples/anim/lv_example_anim_4.c.i
+
+examples/anim/lv_example_anim_4.s: examples/anim/lv_example_anim_4.c.s
+.PHONY : examples/anim/lv_example_anim_4.s
+
+# target to generate assembly for a file
+examples/anim/lv_example_anim_4.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_4.c.s
+.PHONY : examples/anim/lv_example_anim_4.c.s
 
 examples/anim/lv_example_anim_timeline_1.o: examples/anim/lv_example_anim_timeline_1.c.o
 .PHONY : examples/anim/lv_example_anim_timeline_1.o
@@ -3337,6 +2569,30 @@ examples/assets/img_hand.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_hand.c.s
 .PHONY : examples/assets/img_hand.c.s
 
+examples/assets/img_multilang_like.o: examples/assets/img_multilang_like.c.o
+.PHONY : examples/assets/img_multilang_like.o
+
+# target to build an object file
+examples/assets/img_multilang_like.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.o
+.PHONY : examples/assets/img_multilang_like.c.o
+
+examples/assets/img_multilang_like.i: examples/assets/img_multilang_like.c.i
+.PHONY : examples/assets/img_multilang_like.i
+
+# target to preprocess a source file
+examples/assets/img_multilang_like.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.i
+.PHONY : examples/assets/img_multilang_like.c.i
+
+examples/assets/img_multilang_like.s: examples/assets/img_multilang_like.c.s
+.PHONY : examples/assets/img_multilang_like.s
+
+# target to generate assembly for a file
+examples/assets/img_multilang_like.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_multilang_like.c.s
+.PHONY : examples/assets/img_multilang_like.c.s
+
 examples/assets/img_skew_strip.o: examples/assets/img_skew_strip.c.o
 .PHONY : examples/assets/img_skew_strip.o
 
@@ -3384,6 +2640,54 @@ examples/assets/img_star.s: examples/assets/img_star.c.s
 examples/assets/img_star.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_star.c.s
 .PHONY : examples/assets/img_star.c.s
+
+examples/assets/img_svg_img.o: examples/assets/img_svg_img.c.o
+.PHONY : examples/assets/img_svg_img.o
+
+# target to build an object file
+examples/assets/img_svg_img.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.o
+.PHONY : examples/assets/img_svg_img.c.o
+
+examples/assets/img_svg_img.i: examples/assets/img_svg_img.c.i
+.PHONY : examples/assets/img_svg_img.i
+
+# target to preprocess a source file
+examples/assets/img_svg_img.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.i
+.PHONY : examples/assets/img_svg_img.c.i
+
+examples/assets/img_svg_img.s: examples/assets/img_svg_img.c.s
+.PHONY : examples/assets/img_svg_img.s
+
+# target to generate assembly for a file
+examples/assets/img_svg_img.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_svg_img.c.s
+.PHONY : examples/assets/img_svg_img.c.s
+
+examples/assets/img_transform_avatar_15.o: examples/assets/img_transform_avatar_15.c.o
+.PHONY : examples/assets/img_transform_avatar_15.o
+
+# target to build an object file
+examples/assets/img_transform_avatar_15.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.o
+.PHONY : examples/assets/img_transform_avatar_15.c.o
+
+examples/assets/img_transform_avatar_15.i: examples/assets/img_transform_avatar_15.c.i
+.PHONY : examples/assets/img_transform_avatar_15.i
+
+# target to preprocess a source file
+examples/assets/img_transform_avatar_15.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.i
+.PHONY : examples/assets/img_transform_avatar_15.c.i
+
+examples/assets/img_transform_avatar_15.s: examples/assets/img_transform_avatar_15.c.s
+.PHONY : examples/assets/img_transform_avatar_15.s
+
+# target to generate assembly for a file
+examples/assets/img_transform_avatar_15.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/img_transform_avatar_15.c.s
+.PHONY : examples/assets/img_transform_avatar_15.c.s
 
 examples/assets/imgbtn_left.o: examples/assets/imgbtn_left.c.o
 .PHONY : examples/assets/imgbtn_left.o
@@ -3457,101 +2761,149 @@ examples/assets/imgbtn_right.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/assets/imgbtn_right.c.s
 .PHONY : examples/assets/imgbtn_right.c.s
 
-examples/event/lv_example_event_1.o: examples/event/lv_example_event_1.c.o
-.PHONY : examples/event/lv_example_event_1.o
+examples/event/lv_example_event_bubble.o: examples/event/lv_example_event_bubble.c.o
+.PHONY : examples/event/lv_example_event_bubble.o
 
 # target to build an object file
-examples/event/lv_example_event_1.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.o
-.PHONY : examples/event/lv_example_event_1.c.o
+examples/event/lv_example_event_bubble.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.o
+.PHONY : examples/event/lv_example_event_bubble.c.o
 
-examples/event/lv_example_event_1.i: examples/event/lv_example_event_1.c.i
-.PHONY : examples/event/lv_example_event_1.i
+examples/event/lv_example_event_bubble.i: examples/event/lv_example_event_bubble.c.i
+.PHONY : examples/event/lv_example_event_bubble.i
 
 # target to preprocess a source file
-examples/event/lv_example_event_1.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.i
-.PHONY : examples/event/lv_example_event_1.c.i
+examples/event/lv_example_event_bubble.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.i
+.PHONY : examples/event/lv_example_event_bubble.c.i
 
-examples/event/lv_example_event_1.s: examples/event/lv_example_event_1.c.s
-.PHONY : examples/event/lv_example_event_1.s
+examples/event/lv_example_event_bubble.s: examples/event/lv_example_event_bubble.c.s
+.PHONY : examples/event/lv_example_event_bubble.s
 
 # target to generate assembly for a file
-examples/event/lv_example_event_1.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_1.c.s
-.PHONY : examples/event/lv_example_event_1.c.s
+examples/event/lv_example_event_bubble.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_bubble.c.s
+.PHONY : examples/event/lv_example_event_bubble.c.s
 
-examples/event/lv_example_event_2.o: examples/event/lv_example_event_2.c.o
-.PHONY : examples/event/lv_example_event_2.o
+examples/event/lv_example_event_button.o: examples/event/lv_example_event_button.c.o
+.PHONY : examples/event/lv_example_event_button.o
 
 # target to build an object file
-examples/event/lv_example_event_2.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.o
-.PHONY : examples/event/lv_example_event_2.c.o
+examples/event/lv_example_event_button.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.o
+.PHONY : examples/event/lv_example_event_button.c.o
 
-examples/event/lv_example_event_2.i: examples/event/lv_example_event_2.c.i
-.PHONY : examples/event/lv_example_event_2.i
+examples/event/lv_example_event_button.i: examples/event/lv_example_event_button.c.i
+.PHONY : examples/event/lv_example_event_button.i
 
 # target to preprocess a source file
-examples/event/lv_example_event_2.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.i
-.PHONY : examples/event/lv_example_event_2.c.i
+examples/event/lv_example_event_button.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.i
+.PHONY : examples/event/lv_example_event_button.c.i
 
-examples/event/lv_example_event_2.s: examples/event/lv_example_event_2.c.s
-.PHONY : examples/event/lv_example_event_2.s
+examples/event/lv_example_event_button.s: examples/event/lv_example_event_button.c.s
+.PHONY : examples/event/lv_example_event_button.s
 
 # target to generate assembly for a file
-examples/event/lv_example_event_2.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_2.c.s
-.PHONY : examples/event/lv_example_event_2.c.s
+examples/event/lv_example_event_button.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_button.c.s
+.PHONY : examples/event/lv_example_event_button.c.s
 
-examples/event/lv_example_event_3.o: examples/event/lv_example_event_3.c.o
-.PHONY : examples/event/lv_example_event_3.o
+examples/event/lv_example_event_click.o: examples/event/lv_example_event_click.c.o
+.PHONY : examples/event/lv_example_event_click.o
 
 # target to build an object file
-examples/event/lv_example_event_3.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.o
-.PHONY : examples/event/lv_example_event_3.c.o
+examples/event/lv_example_event_click.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.o
+.PHONY : examples/event/lv_example_event_click.c.o
 
-examples/event/lv_example_event_3.i: examples/event/lv_example_event_3.c.i
-.PHONY : examples/event/lv_example_event_3.i
+examples/event/lv_example_event_click.i: examples/event/lv_example_event_click.c.i
+.PHONY : examples/event/lv_example_event_click.i
 
 # target to preprocess a source file
-examples/event/lv_example_event_3.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.i
-.PHONY : examples/event/lv_example_event_3.c.i
+examples/event/lv_example_event_click.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.i
+.PHONY : examples/event/lv_example_event_click.c.i
 
-examples/event/lv_example_event_3.s: examples/event/lv_example_event_3.c.s
-.PHONY : examples/event/lv_example_event_3.s
+examples/event/lv_example_event_click.s: examples/event/lv_example_event_click.c.s
+.PHONY : examples/event/lv_example_event_click.s
 
 # target to generate assembly for a file
-examples/event/lv_example_event_3.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_3.c.s
-.PHONY : examples/event/lv_example_event_3.c.s
+examples/event/lv_example_event_click.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_click.c.s
+.PHONY : examples/event/lv_example_event_click.c.s
 
-examples/event/lv_example_event_4.o: examples/event/lv_example_event_4.c.o
-.PHONY : examples/event/lv_example_event_4.o
+examples/event/lv_example_event_draw.o: examples/event/lv_example_event_draw.c.o
+.PHONY : examples/event/lv_example_event_draw.o
 
 # target to build an object file
-examples/event/lv_example_event_4.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.o
-.PHONY : examples/event/lv_example_event_4.c.o
+examples/event/lv_example_event_draw.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.o
+.PHONY : examples/event/lv_example_event_draw.c.o
 
-examples/event/lv_example_event_4.i: examples/event/lv_example_event_4.c.i
-.PHONY : examples/event/lv_example_event_4.i
+examples/event/lv_example_event_draw.i: examples/event/lv_example_event_draw.c.i
+.PHONY : examples/event/lv_example_event_draw.i
 
 # target to preprocess a source file
-examples/event/lv_example_event_4.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.i
-.PHONY : examples/event/lv_example_event_4.c.i
+examples/event/lv_example_event_draw.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.i
+.PHONY : examples/event/lv_example_event_draw.c.i
 
-examples/event/lv_example_event_4.s: examples/event/lv_example_event_4.c.s
-.PHONY : examples/event/lv_example_event_4.s
+examples/event/lv_example_event_draw.s: examples/event/lv_example_event_draw.c.s
+.PHONY : examples/event/lv_example_event_draw.s
 
 # target to generate assembly for a file
-examples/event/lv_example_event_4.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_4.c.s
-.PHONY : examples/event/lv_example_event_4.c.s
+examples/event/lv_example_event_draw.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_draw.c.s
+.PHONY : examples/event/lv_example_event_draw.c.s
+
+examples/event/lv_example_event_streak.o: examples/event/lv_example_event_streak.c.o
+.PHONY : examples/event/lv_example_event_streak.o
+
+# target to build an object file
+examples/event/lv_example_event_streak.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.o
+.PHONY : examples/event/lv_example_event_streak.c.o
+
+examples/event/lv_example_event_streak.i: examples/event/lv_example_event_streak.c.i
+.PHONY : examples/event/lv_example_event_streak.i
+
+# target to preprocess a source file
+examples/event/lv_example_event_streak.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.i
+.PHONY : examples/event/lv_example_event_streak.c.i
+
+examples/event/lv_example_event_streak.s: examples/event/lv_example_event_streak.c.s
+.PHONY : examples/event/lv_example_event_streak.s
+
+# target to generate assembly for a file
+examples/event/lv_example_event_streak.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_streak.c.s
+.PHONY : examples/event/lv_example_event_streak.c.s
+
+examples/event/lv_example_event_trickle.o: examples/event/lv_example_event_trickle.c.o
+.PHONY : examples/event/lv_example_event_trickle.o
+
+# target to build an object file
+examples/event/lv_example_event_trickle.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.o
+.PHONY : examples/event/lv_example_event_trickle.c.o
+
+examples/event/lv_example_event_trickle.i: examples/event/lv_example_event_trickle.c.i
+.PHONY : examples/event/lv_example_event_trickle.i
+
+# target to preprocess a source file
+examples/event/lv_example_event_trickle.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.i
+.PHONY : examples/event/lv_example_event_trickle.c.i
+
+examples/event/lv_example_event_trickle.s: examples/event/lv_example_event_trickle.c.s
+.PHONY : examples/event/lv_example_event_trickle.s
+
+# target to generate assembly for a file
+examples/event/lv_example_event_trickle.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/event/lv_example_event_trickle.c.s
+.PHONY : examples/event/lv_example_event_trickle.c.s
 
 examples/get_started/lv_example_get_started_1.o: examples/get_started/lv_example_get_started_1.c.o
 .PHONY : examples/get_started/lv_example_get_started_1.o
@@ -3648,6 +3000,102 @@ examples/get_started/lv_example_get_started_4.s: examples/get_started/lv_example
 examples/get_started/lv_example_get_started_4.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/get_started/lv_example_get_started_4.c.s
 .PHONY : examples/get_started/lv_example_get_started_4.c.s
+
+examples/grad/lv_example_grad_1.o: examples/grad/lv_example_grad_1.c.o
+.PHONY : examples/grad/lv_example_grad_1.o
+
+# target to build an object file
+examples/grad/lv_example_grad_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.o
+.PHONY : examples/grad/lv_example_grad_1.c.o
+
+examples/grad/lv_example_grad_1.i: examples/grad/lv_example_grad_1.c.i
+.PHONY : examples/grad/lv_example_grad_1.i
+
+# target to preprocess a source file
+examples/grad/lv_example_grad_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.i
+.PHONY : examples/grad/lv_example_grad_1.c.i
+
+examples/grad/lv_example_grad_1.s: examples/grad/lv_example_grad_1.c.s
+.PHONY : examples/grad/lv_example_grad_1.s
+
+# target to generate assembly for a file
+examples/grad/lv_example_grad_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_1.c.s
+.PHONY : examples/grad/lv_example_grad_1.c.s
+
+examples/grad/lv_example_grad_2.o: examples/grad/lv_example_grad_2.c.o
+.PHONY : examples/grad/lv_example_grad_2.o
+
+# target to build an object file
+examples/grad/lv_example_grad_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.o
+.PHONY : examples/grad/lv_example_grad_2.c.o
+
+examples/grad/lv_example_grad_2.i: examples/grad/lv_example_grad_2.c.i
+.PHONY : examples/grad/lv_example_grad_2.i
+
+# target to preprocess a source file
+examples/grad/lv_example_grad_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.i
+.PHONY : examples/grad/lv_example_grad_2.c.i
+
+examples/grad/lv_example_grad_2.s: examples/grad/lv_example_grad_2.c.s
+.PHONY : examples/grad/lv_example_grad_2.s
+
+# target to generate assembly for a file
+examples/grad/lv_example_grad_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_2.c.s
+.PHONY : examples/grad/lv_example_grad_2.c.s
+
+examples/grad/lv_example_grad_3.o: examples/grad/lv_example_grad_3.c.o
+.PHONY : examples/grad/lv_example_grad_3.o
+
+# target to build an object file
+examples/grad/lv_example_grad_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.o
+.PHONY : examples/grad/lv_example_grad_3.c.o
+
+examples/grad/lv_example_grad_3.i: examples/grad/lv_example_grad_3.c.i
+.PHONY : examples/grad/lv_example_grad_3.i
+
+# target to preprocess a source file
+examples/grad/lv_example_grad_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.i
+.PHONY : examples/grad/lv_example_grad_3.c.i
+
+examples/grad/lv_example_grad_3.s: examples/grad/lv_example_grad_3.c.s
+.PHONY : examples/grad/lv_example_grad_3.s
+
+# target to generate assembly for a file
+examples/grad/lv_example_grad_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_3.c.s
+.PHONY : examples/grad/lv_example_grad_3.c.s
+
+examples/grad/lv_example_grad_4.o: examples/grad/lv_example_grad_4.c.o
+.PHONY : examples/grad/lv_example_grad_4.o
+
+# target to build an object file
+examples/grad/lv_example_grad_4.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.o
+.PHONY : examples/grad/lv_example_grad_4.c.o
+
+examples/grad/lv_example_grad_4.i: examples/grad/lv_example_grad_4.c.i
+.PHONY : examples/grad/lv_example_grad_4.i
+
+# target to preprocess a source file
+examples/grad/lv_example_grad_4.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.i
+.PHONY : examples/grad/lv_example_grad_4.c.i
+
+examples/grad/lv_example_grad_4.s: examples/grad/lv_example_grad_4.c.s
+.PHONY : examples/grad/lv_example_grad_4.s
+
+# target to generate assembly for a file
+examples/grad/lv_example_grad_4.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/grad/lv_example_grad_4.c.s
+.PHONY : examples/grad/lv_example_grad_4.c.s
 
 examples/layouts/flex/lv_example_flex_1.o: examples/layouts/flex/lv_example_flex_1.c.o
 .PHONY : examples/layouts/flex/lv_example_flex_1.o
@@ -4057,6 +3505,54 @@ examples/libs/freetype/lv_example_freetype_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_1.c.s
 .PHONY : examples/libs/freetype/lv_example_freetype_1.c.s
 
+examples/libs/freetype/lv_example_freetype_2.o: examples/libs/freetype/lv_example_freetype_2.c.o
+.PHONY : examples/libs/freetype/lv_example_freetype_2.o
+
+# target to build an object file
+examples/libs/freetype/lv_example_freetype_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.o
+.PHONY : examples/libs/freetype/lv_example_freetype_2.c.o
+
+examples/libs/freetype/lv_example_freetype_2.i: examples/libs/freetype/lv_example_freetype_2.c.i
+.PHONY : examples/libs/freetype/lv_example_freetype_2.i
+
+# target to preprocess a source file
+examples/libs/freetype/lv_example_freetype_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.i
+.PHONY : examples/libs/freetype/lv_example_freetype_2.c.i
+
+examples/libs/freetype/lv_example_freetype_2.s: examples/libs/freetype/lv_example_freetype_2.c.s
+.PHONY : examples/libs/freetype/lv_example_freetype_2.s
+
+# target to generate assembly for a file
+examples/libs/freetype/lv_example_freetype_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_2.c.s
+.PHONY : examples/libs/freetype/lv_example_freetype_2.c.s
+
+examples/libs/freetype/lv_example_freetype_3.o: examples/libs/freetype/lv_example_freetype_3.c.o
+.PHONY : examples/libs/freetype/lv_example_freetype_3.o
+
+# target to build an object file
+examples/libs/freetype/lv_example_freetype_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.o
+.PHONY : examples/libs/freetype/lv_example_freetype_3.c.o
+
+examples/libs/freetype/lv_example_freetype_3.i: examples/libs/freetype/lv_example_freetype_3.c.i
+.PHONY : examples/libs/freetype/lv_example_freetype_3.i
+
+# target to preprocess a source file
+examples/libs/freetype/lv_example_freetype_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.i
+.PHONY : examples/libs/freetype/lv_example_freetype_3.c.i
+
+examples/libs/freetype/lv_example_freetype_3.s: examples/libs/freetype/lv_example_freetype_3.c.s
+.PHONY : examples/libs/freetype/lv_example_freetype_3.s
+
+# target to generate assembly for a file
+examples/libs/freetype/lv_example_freetype_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/freetype/lv_example_freetype_3.c.s
+.PHONY : examples/libs/freetype/lv_example_freetype_3.c.s
+
 examples/libs/gif/img_bulb_gif.o: examples/libs/gif/img_bulb_gif.c.o
 .PHONY : examples/libs/gif/img_bulb_gif.o
 
@@ -4105,6 +3601,126 @@ examples/libs/gif/lv_example_gif_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gif/lv_example_gif_1.c.s
 .PHONY : examples/libs/gif/lv_example_gif_1.c.s
 
+examples/libs/gltf/lv_example_gltf_1.o: examples/libs/gltf/lv_example_gltf_1.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_1.o
+
+# target to build an object file
+examples/libs/gltf/lv_example_gltf_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_1.c.o
+
+examples/libs/gltf/lv_example_gltf_1.i: examples/libs/gltf/lv_example_gltf_1.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_1.i
+
+# target to preprocess a source file
+examples/libs/gltf/lv_example_gltf_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_1.c.i
+
+examples/libs/gltf/lv_example_gltf_1.s: examples/libs/gltf/lv_example_gltf_1.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_1.s
+
+# target to generate assembly for a file
+examples/libs/gltf/lv_example_gltf_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_1.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_1.c.s
+
+examples/libs/gltf/lv_example_gltf_2.o: examples/libs/gltf/lv_example_gltf_2.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_2.o
+
+# target to build an object file
+examples/libs/gltf/lv_example_gltf_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_2.c.o
+
+examples/libs/gltf/lv_example_gltf_2.i: examples/libs/gltf/lv_example_gltf_2.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_2.i
+
+# target to preprocess a source file
+examples/libs/gltf/lv_example_gltf_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_2.c.i
+
+examples/libs/gltf/lv_example_gltf_2.s: examples/libs/gltf/lv_example_gltf_2.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_2.s
+
+# target to generate assembly for a file
+examples/libs/gltf/lv_example_gltf_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_2.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_2.c.s
+
+examples/libs/gltf/lv_example_gltf_3.o: examples/libs/gltf/lv_example_gltf_3.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_3.o
+
+# target to build an object file
+examples/libs/gltf/lv_example_gltf_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_3.c.o
+
+examples/libs/gltf/lv_example_gltf_3.i: examples/libs/gltf/lv_example_gltf_3.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_3.i
+
+# target to preprocess a source file
+examples/libs/gltf/lv_example_gltf_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_3.c.i
+
+examples/libs/gltf/lv_example_gltf_3.s: examples/libs/gltf/lv_example_gltf_3.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_3.s
+
+# target to generate assembly for a file
+examples/libs/gltf/lv_example_gltf_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_3.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_3.c.s
+
+examples/libs/gltf/lv_example_gltf_4.o: examples/libs/gltf/lv_example_gltf_4.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_4.o
+
+# target to build an object file
+examples/libs/gltf/lv_example_gltf_4.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.o
+.PHONY : examples/libs/gltf/lv_example_gltf_4.c.o
+
+examples/libs/gltf/lv_example_gltf_4.i: examples/libs/gltf/lv_example_gltf_4.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_4.i
+
+# target to preprocess a source file
+examples/libs/gltf/lv_example_gltf_4.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.i
+.PHONY : examples/libs/gltf/lv_example_gltf_4.c.i
+
+examples/libs/gltf/lv_example_gltf_4.s: examples/libs/gltf/lv_example_gltf_4.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_4.s
+
+# target to generate assembly for a file
+examples/libs/gltf/lv_example_gltf_4.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gltf/lv_example_gltf_4.c.s
+.PHONY : examples/libs/gltf/lv_example_gltf_4.c.s
+
+examples/libs/gstreamer/lv_example_gstreamer_1.o: examples/libs/gstreamer/lv_example_gstreamer_1.c.o
+.PHONY : examples/libs/gstreamer/lv_example_gstreamer_1.o
+
+# target to build an object file
+examples/libs/gstreamer/lv_example_gstreamer_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.o
+.PHONY : examples/libs/gstreamer/lv_example_gstreamer_1.c.o
+
+examples/libs/gstreamer/lv_example_gstreamer_1.i: examples/libs/gstreamer/lv_example_gstreamer_1.c.i
+.PHONY : examples/libs/gstreamer/lv_example_gstreamer_1.i
+
+# target to preprocess a source file
+examples/libs/gstreamer/lv_example_gstreamer_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.i
+.PHONY : examples/libs/gstreamer/lv_example_gstreamer_1.c.i
+
+examples/libs/gstreamer/lv_example_gstreamer_1.s: examples/libs/gstreamer/lv_example_gstreamer_1.c.s
+.PHONY : examples/libs/gstreamer/lv_example_gstreamer_1.s
+
+# target to generate assembly for a file
+examples/libs/gstreamer/lv_example_gstreamer_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/gstreamer/lv_example_gstreamer_1.c.s
+.PHONY : examples/libs/gstreamer/lv_example_gstreamer_1.c.s
+
 examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.o: examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.o
 .PHONY : examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.o
 
@@ -4129,6 +3745,30 @@ examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.s
 .PHONY : examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.c.s
 
+examples/libs/libpng/img_png_demo.o: examples/libs/libpng/img_png_demo.c.o
+.PHONY : examples/libs/libpng/img_png_demo.o
+
+# target to build an object file
+examples/libs/libpng/img_png_demo.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.o
+.PHONY : examples/libs/libpng/img_png_demo.c.o
+
+examples/libs/libpng/img_png_demo.i: examples/libs/libpng/img_png_demo.c.i
+.PHONY : examples/libs/libpng/img_png_demo.i
+
+# target to preprocess a source file
+examples/libs/libpng/img_png_demo.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.i
+.PHONY : examples/libs/libpng/img_png_demo.c.i
+
+examples/libs/libpng/img_png_demo.s: examples/libs/libpng/img_png_demo.c.s
+.PHONY : examples/libs/libpng/img_png_demo.s
+
+# target to generate assembly for a file
+examples/libs/libpng/img_png_demo.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/img_png_demo.c.s
+.PHONY : examples/libs/libpng/img_png_demo.c.s
+
 examples/libs/libpng/lv_example_libpng_1.o: examples/libs/libpng/lv_example_libpng_1.c.o
 .PHONY : examples/libs/libpng/lv_example_libpng_1.o
 
@@ -4152,6 +3792,30 @@ examples/libs/libpng/lv_example_libpng_1.s: examples/libs/libpng/lv_example_libp
 examples/libs/libpng/lv_example_libpng_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libpng/lv_example_libpng_1.c.s
 .PHONY : examples/libs/libpng/lv_example_libpng_1.c.s
+
+examples/libs/libwebp/lv_example_libwebp_1.o: examples/libs/libwebp/lv_example_libwebp_1.c.o
+.PHONY : examples/libs/libwebp/lv_example_libwebp_1.o
+
+# target to build an object file
+examples/libs/libwebp/lv_example_libwebp_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.o
+.PHONY : examples/libs/libwebp/lv_example_libwebp_1.c.o
+
+examples/libs/libwebp/lv_example_libwebp_1.i: examples/libs/libwebp/lv_example_libwebp_1.c.i
+.PHONY : examples/libs/libwebp/lv_example_libwebp_1.i
+
+# target to preprocess a source file
+examples/libs/libwebp/lv_example_libwebp_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.i
+.PHONY : examples/libs/libwebp/lv_example_libwebp_1.c.i
+
+examples/libs/libwebp/lv_example_libwebp_1.s: examples/libs/libwebp/lv_example_libwebp_1.c.s
+.PHONY : examples/libs/libwebp/lv_example_libwebp_1.s
+
+# target to generate assembly for a file
+examples/libs/libwebp/lv_example_libwebp_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/libwebp/lv_example_libwebp_1.c.s
+.PHONY : examples/libs/libwebp/lv_example_libwebp_1.c.s
 
 examples/libs/lodepng/img_wink_png.o: examples/libs/lodepng/img_wink_png.c.o
 .PHONY : examples/libs/lodepng/img_wink_png.o
@@ -4296,6 +3960,78 @@ examples/libs/rlottie/lv_example_rlottie_approve.s: examples/libs/rlottie/lv_exa
 examples/libs/rlottie/lv_example_rlottie_approve.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.s
 .PHONY : examples/libs/rlottie/lv_example_rlottie_approve.c.s
+
+examples/libs/svg/lv_example_svg_1.o: examples/libs/svg/lv_example_svg_1.c.o
+.PHONY : examples/libs/svg/lv_example_svg_1.o
+
+# target to build an object file
+examples/libs/svg/lv_example_svg_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.o
+.PHONY : examples/libs/svg/lv_example_svg_1.c.o
+
+examples/libs/svg/lv_example_svg_1.i: examples/libs/svg/lv_example_svg_1.c.i
+.PHONY : examples/libs/svg/lv_example_svg_1.i
+
+# target to preprocess a source file
+examples/libs/svg/lv_example_svg_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.i
+.PHONY : examples/libs/svg/lv_example_svg_1.c.i
+
+examples/libs/svg/lv_example_svg_1.s: examples/libs/svg/lv_example_svg_1.c.s
+.PHONY : examples/libs/svg/lv_example_svg_1.s
+
+# target to generate assembly for a file
+examples/libs/svg/lv_example_svg_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_1.c.s
+.PHONY : examples/libs/svg/lv_example_svg_1.c.s
+
+examples/libs/svg/lv_example_svg_2.o: examples/libs/svg/lv_example_svg_2.c.o
+.PHONY : examples/libs/svg/lv_example_svg_2.o
+
+# target to build an object file
+examples/libs/svg/lv_example_svg_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.o
+.PHONY : examples/libs/svg/lv_example_svg_2.c.o
+
+examples/libs/svg/lv_example_svg_2.i: examples/libs/svg/lv_example_svg_2.c.i
+.PHONY : examples/libs/svg/lv_example_svg_2.i
+
+# target to preprocess a source file
+examples/libs/svg/lv_example_svg_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.i
+.PHONY : examples/libs/svg/lv_example_svg_2.c.i
+
+examples/libs/svg/lv_example_svg_2.s: examples/libs/svg/lv_example_svg_2.c.s
+.PHONY : examples/libs/svg/lv_example_svg_2.s
+
+# target to generate assembly for a file
+examples/libs/svg/lv_example_svg_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_2.c.s
+.PHONY : examples/libs/svg/lv_example_svg_2.c.s
+
+examples/libs/svg/lv_example_svg_3.o: examples/libs/svg/lv_example_svg_3.c.o
+.PHONY : examples/libs/svg/lv_example_svg_3.o
+
+# target to build an object file
+examples/libs/svg/lv_example_svg_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.o
+.PHONY : examples/libs/svg/lv_example_svg_3.c.o
+
+examples/libs/svg/lv_example_svg_3.i: examples/libs/svg/lv_example_svg_3.c.i
+.PHONY : examples/libs/svg/lv_example_svg_3.i
+
+# target to preprocess a source file
+examples/libs/svg/lv_example_svg_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.i
+.PHONY : examples/libs/svg/lv_example_svg_3.c.i
+
+examples/libs/svg/lv_example_svg_3.s: examples/libs/svg/lv_example_svg_3.c.s
+.PHONY : examples/libs/svg/lv_example_svg_3.s
+
+# target to generate assembly for a file
+examples/libs/svg/lv_example_svg_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/libs/svg/lv_example_svg_3.c.s
+.PHONY : examples/libs/svg/lv_example_svg_3.c.s
 
 examples/libs/tiny_ttf/lv_example_tiny_ttf_1.o: examples/libs/tiny_ttf/lv_example_tiny_ttf_1.c.o
 .PHONY : examples/libs/tiny_ttf/lv_example_tiny_ttf_1.o
@@ -4489,6 +4225,78 @@ examples/others/file_explorer/lv_example_file_explorer_3.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/file_explorer/lv_example_file_explorer_3.c.s
 .PHONY : examples/others/file_explorer/lv_example_file_explorer_3.c.s
 
+examples/others/font_manager/lv_example_font_manager_1.o: examples/others/font_manager/lv_example_font_manager_1.c.o
+.PHONY : examples/others/font_manager/lv_example_font_manager_1.o
+
+# target to build an object file
+examples/others/font_manager/lv_example_font_manager_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.o
+.PHONY : examples/others/font_manager/lv_example_font_manager_1.c.o
+
+examples/others/font_manager/lv_example_font_manager_1.i: examples/others/font_manager/lv_example_font_manager_1.c.i
+.PHONY : examples/others/font_manager/lv_example_font_manager_1.i
+
+# target to preprocess a source file
+examples/others/font_manager/lv_example_font_manager_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.i
+.PHONY : examples/others/font_manager/lv_example_font_manager_1.c.i
+
+examples/others/font_manager/lv_example_font_manager_1.s: examples/others/font_manager/lv_example_font_manager_1.c.s
+.PHONY : examples/others/font_manager/lv_example_font_manager_1.s
+
+# target to generate assembly for a file
+examples/others/font_manager/lv_example_font_manager_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_1.c.s
+.PHONY : examples/others/font_manager/lv_example_font_manager_1.c.s
+
+examples/others/font_manager/lv_example_font_manager_2.o: examples/others/font_manager/lv_example_font_manager_2.c.o
+.PHONY : examples/others/font_manager/lv_example_font_manager_2.o
+
+# target to build an object file
+examples/others/font_manager/lv_example_font_manager_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.o
+.PHONY : examples/others/font_manager/lv_example_font_manager_2.c.o
+
+examples/others/font_manager/lv_example_font_manager_2.i: examples/others/font_manager/lv_example_font_manager_2.c.i
+.PHONY : examples/others/font_manager/lv_example_font_manager_2.i
+
+# target to preprocess a source file
+examples/others/font_manager/lv_example_font_manager_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.i
+.PHONY : examples/others/font_manager/lv_example_font_manager_2.c.i
+
+examples/others/font_manager/lv_example_font_manager_2.s: examples/others/font_manager/lv_example_font_manager_2.c.s
+.PHONY : examples/others/font_manager/lv_example_font_manager_2.s
+
+# target to generate assembly for a file
+examples/others/font_manager/lv_example_font_manager_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_2.c.s
+.PHONY : examples/others/font_manager/lv_example_font_manager_2.c.s
+
+examples/others/font_manager/lv_example_font_manager_3.o: examples/others/font_manager/lv_example_font_manager_3.c.o
+.PHONY : examples/others/font_manager/lv_example_font_manager_3.o
+
+# target to build an object file
+examples/others/font_manager/lv_example_font_manager_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.o
+.PHONY : examples/others/font_manager/lv_example_font_manager_3.c.o
+
+examples/others/font_manager/lv_example_font_manager_3.i: examples/others/font_manager/lv_example_font_manager_3.c.i
+.PHONY : examples/others/font_manager/lv_example_font_manager_3.i
+
+# target to preprocess a source file
+examples/others/font_manager/lv_example_font_manager_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.i
+.PHONY : examples/others/font_manager/lv_example_font_manager_3.c.i
+
+examples/others/font_manager/lv_example_font_manager_3.s: examples/others/font_manager/lv_example_font_manager_3.c.s
+.PHONY : examples/others/font_manager/lv_example_font_manager_3.s
+
+# target to generate assembly for a file
+examples/others/font_manager/lv_example_font_manager_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/font_manager/lv_example_font_manager_3.c.s
+.PHONY : examples/others/font_manager/lv_example_font_manager_3.c.s
+
 examples/others/fragment/lv_example_fragment_1.o: examples/others/fragment/lv_example_fragment_1.c.o
 .PHONY : examples/others/fragment/lv_example_fragment_1.o
 
@@ -4536,6 +4344,30 @@ examples/others/fragment/lv_example_fragment_2.s: examples/others/fragment/lv_ex
 examples/others/fragment/lv_example_fragment_2.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/fragment/lv_example_fragment_2.c.s
 .PHONY : examples/others/fragment/lv_example_fragment_2.c.s
+
+examples/others/gestures/lv_example_gestures.o: examples/others/gestures/lv_example_gestures.c.o
+.PHONY : examples/others/gestures/lv_example_gestures.o
+
+# target to build an object file
+examples/others/gestures/lv_example_gestures.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.o
+.PHONY : examples/others/gestures/lv_example_gestures.c.o
+
+examples/others/gestures/lv_example_gestures.i: examples/others/gestures/lv_example_gestures.c.i
+.PHONY : examples/others/gestures/lv_example_gestures.i
+
+# target to preprocess a source file
+examples/others/gestures/lv_example_gestures.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.i
+.PHONY : examples/others/gestures/lv_example_gestures.c.i
+
+examples/others/gestures/lv_example_gestures.s: examples/others/gestures/lv_example_gestures.c.s
+.PHONY : examples/others/gestures/lv_example_gestures.s
+
+# target to generate assembly for a file
+examples/others/gestures/lv_example_gestures.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gestures/lv_example_gestures.c.s
+.PHONY : examples/others/gestures/lv_example_gestures.c.s
 
 examples/others/gridnav/lv_example_gridnav_1.o: examples/others/gridnav/lv_example_gridnav_1.c.o
 .PHONY : examples/others/gridnav/lv_example_gridnav_1.o
@@ -4632,6 +4464,30 @@ examples/others/gridnav/lv_example_gridnav_4.s: examples/others/gridnav/lv_examp
 examples/others/gridnav/lv_example_gridnav_4.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_4.c.s
 .PHONY : examples/others/gridnav/lv_example_gridnav_4.c.s
+
+examples/others/gridnav/lv_example_gridnav_5.o: examples/others/gridnav/lv_example_gridnav_5.c.o
+.PHONY : examples/others/gridnav/lv_example_gridnav_5.o
+
+# target to build an object file
+examples/others/gridnav/lv_example_gridnav_5.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.o
+.PHONY : examples/others/gridnav/lv_example_gridnav_5.c.o
+
+examples/others/gridnav/lv_example_gridnav_5.i: examples/others/gridnav/lv_example_gridnav_5.c.i
+.PHONY : examples/others/gridnav/lv_example_gridnav_5.i
+
+# target to preprocess a source file
+examples/others/gridnav/lv_example_gridnav_5.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.i
+.PHONY : examples/others/gridnav/lv_example_gridnav_5.c.i
+
+examples/others/gridnav/lv_example_gridnav_5.s: examples/others/gridnav/lv_example_gridnav_5.c.s
+.PHONY : examples/others/gridnav/lv_example_gridnav_5.s
+
+# target to generate assembly for a file
+examples/others/gridnav/lv_example_gridnav_5.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/gridnav/lv_example_gridnav_5.c.s
+.PHONY : examples/others/gridnav/lv_example_gridnav_5.c.s
 
 examples/others/ime/lv_example_ime_pinyin_1.o: examples/others/ime/lv_example_ime_pinyin_1.c.o
 .PHONY : examples/others/ime/lv_example_ime_pinyin_1.o
@@ -4969,6 +4825,54 @@ examples/others/snapshot/lv_example_snapshot_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/snapshot/lv_example_snapshot_1.c.s
 .PHONY : examples/others/snapshot/lv_example_snapshot_1.c.s
 
+examples/others/translation/lv_example_translation_1.o: examples/others/translation/lv_example_translation_1.c.o
+.PHONY : examples/others/translation/lv_example_translation_1.o
+
+# target to build an object file
+examples/others/translation/lv_example_translation_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.o
+.PHONY : examples/others/translation/lv_example_translation_1.c.o
+
+examples/others/translation/lv_example_translation_1.i: examples/others/translation/lv_example_translation_1.c.i
+.PHONY : examples/others/translation/lv_example_translation_1.i
+
+# target to preprocess a source file
+examples/others/translation/lv_example_translation_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.i
+.PHONY : examples/others/translation/lv_example_translation_1.c.i
+
+examples/others/translation/lv_example_translation_1.s: examples/others/translation/lv_example_translation_1.c.s
+.PHONY : examples/others/translation/lv_example_translation_1.s
+
+# target to generate assembly for a file
+examples/others/translation/lv_example_translation_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_1.c.s
+.PHONY : examples/others/translation/lv_example_translation_1.c.s
+
+examples/others/translation/lv_example_translation_2.o: examples/others/translation/lv_example_translation_2.c.o
+.PHONY : examples/others/translation/lv_example_translation_2.o
+
+# target to build an object file
+examples/others/translation/lv_example_translation_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.o
+.PHONY : examples/others/translation/lv_example_translation_2.c.o
+
+examples/others/translation/lv_example_translation_2.i: examples/others/translation/lv_example_translation_2.c.i
+.PHONY : examples/others/translation/lv_example_translation_2.i
+
+# target to preprocess a source file
+examples/others/translation/lv_example_translation_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.i
+.PHONY : examples/others/translation/lv_example_translation_2.c.i
+
+examples/others/translation/lv_example_translation_2.s: examples/others/translation/lv_example_translation_2.c.s
+.PHONY : examples/others/translation/lv_example_translation_2.s
+
+# target to generate assembly for a file
+examples/others/translation/lv_example_translation_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/others/translation/lv_example_translation_2.c.s
+.PHONY : examples/others/translation/lv_example_translation_2.c.s
+
 examples/porting/lv_port_disp_template.o: examples/porting/lv_port_disp_template.c.o
 .PHONY : examples/porting/lv_port_disp_template.o
 
@@ -5064,6 +4968,30 @@ examples/porting/lv_port_lcd_stm32_template.s: examples/porting/lv_port_lcd_stm3
 examples/porting/lv_port_lcd_stm32_template.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.s
 .PHONY : examples/porting/lv_port_lcd_stm32_template.c.s
+
+examples/porting/osal/lv_example_osal.o: examples/porting/osal/lv_example_osal.c.o
+.PHONY : examples/porting/osal/lv_example_osal.o
+
+# target to build an object file
+examples/porting/osal/lv_example_osal.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.o
+.PHONY : examples/porting/osal/lv_example_osal.c.o
+
+examples/porting/osal/lv_example_osal.i: examples/porting/osal/lv_example_osal.c.i
+.PHONY : examples/porting/osal/lv_example_osal.i
+
+# target to preprocess a source file
+examples/porting/osal/lv_example_osal.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.i
+.PHONY : examples/porting/osal/lv_example_osal.c.i
+
+examples/porting/osal/lv_example_osal.s: examples/porting/osal/lv_example_osal.c.s
+.PHONY : examples/porting/osal/lv_example_osal.s
+
+# target to generate assembly for a file
+examples/porting/osal/lv_example_osal.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/osal/lv_example_osal.c.s
+.PHONY : examples/porting/osal/lv_example_osal.c.s
 
 examples/scroll/lv_example_scroll_1.o: examples/scroll/lv_example_scroll_1.c.o
 .PHONY : examples/scroll/lv_example_scroll_1.o
@@ -5208,6 +5136,78 @@ examples/scroll/lv_example_scroll_6.s: examples/scroll/lv_example_scroll_6.c.s
 examples/scroll/lv_example_scroll_6.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_6.c.s
 .PHONY : examples/scroll/lv_example_scroll_6.c.s
+
+examples/scroll/lv_example_scroll_7.o: examples/scroll/lv_example_scroll_7.c.o
+.PHONY : examples/scroll/lv_example_scroll_7.o
+
+# target to build an object file
+examples/scroll/lv_example_scroll_7.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.o
+.PHONY : examples/scroll/lv_example_scroll_7.c.o
+
+examples/scroll/lv_example_scroll_7.i: examples/scroll/lv_example_scroll_7.c.i
+.PHONY : examples/scroll/lv_example_scroll_7.i
+
+# target to preprocess a source file
+examples/scroll/lv_example_scroll_7.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.i
+.PHONY : examples/scroll/lv_example_scroll_7.c.i
+
+examples/scroll/lv_example_scroll_7.s: examples/scroll/lv_example_scroll_7.c.s
+.PHONY : examples/scroll/lv_example_scroll_7.s
+
+# target to generate assembly for a file
+examples/scroll/lv_example_scroll_7.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_7.c.s
+.PHONY : examples/scroll/lv_example_scroll_7.c.s
+
+examples/scroll/lv_example_scroll_8.o: examples/scroll/lv_example_scroll_8.c.o
+.PHONY : examples/scroll/lv_example_scroll_8.o
+
+# target to build an object file
+examples/scroll/lv_example_scroll_8.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.o
+.PHONY : examples/scroll/lv_example_scroll_8.c.o
+
+examples/scroll/lv_example_scroll_8.i: examples/scroll/lv_example_scroll_8.c.i
+.PHONY : examples/scroll/lv_example_scroll_8.i
+
+# target to preprocess a source file
+examples/scroll/lv_example_scroll_8.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.i
+.PHONY : examples/scroll/lv_example_scroll_8.c.i
+
+examples/scroll/lv_example_scroll_8.s: examples/scroll/lv_example_scroll_8.c.s
+.PHONY : examples/scroll/lv_example_scroll_8.s
+
+# target to generate assembly for a file
+examples/scroll/lv_example_scroll_8.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_8.c.s
+.PHONY : examples/scroll/lv_example_scroll_8.c.s
+
+examples/scroll/lv_example_scroll_9.o: examples/scroll/lv_example_scroll_9.c.o
+.PHONY : examples/scroll/lv_example_scroll_9.o
+
+# target to build an object file
+examples/scroll/lv_example_scroll_9.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.o
+.PHONY : examples/scroll/lv_example_scroll_9.c.o
+
+examples/scroll/lv_example_scroll_9.i: examples/scroll/lv_example_scroll_9.c.i
+.PHONY : examples/scroll/lv_example_scroll_9.i
+
+# target to preprocess a source file
+examples/scroll/lv_example_scroll_9.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.i
+.PHONY : examples/scroll/lv_example_scroll_9.c.i
+
+examples/scroll/lv_example_scroll_9.s: examples/scroll/lv_example_scroll_9.c.s
+.PHONY : examples/scroll/lv_example_scroll_9.s
+
+# target to generate assembly for a file
+examples/scroll/lv_example_scroll_9.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_9.c.s
+.PHONY : examples/scroll/lv_example_scroll_9.c.s
 
 examples/styles/lv_example_style_1.o: examples/styles/lv_example_style_1.c.o
 .PHONY : examples/styles/lv_example_style_1.o
@@ -5377,6 +5377,102 @@ examples/styles/lv_example_style_15.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_15.c.s
 .PHONY : examples/styles/lv_example_style_15.c.s
 
+examples/styles/lv_example_style_16.o: examples/styles/lv_example_style_16.c.o
+.PHONY : examples/styles/lv_example_style_16.o
+
+# target to build an object file
+examples/styles/lv_example_style_16.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.o
+.PHONY : examples/styles/lv_example_style_16.c.o
+
+examples/styles/lv_example_style_16.i: examples/styles/lv_example_style_16.c.i
+.PHONY : examples/styles/lv_example_style_16.i
+
+# target to preprocess a source file
+examples/styles/lv_example_style_16.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.i
+.PHONY : examples/styles/lv_example_style_16.c.i
+
+examples/styles/lv_example_style_16.s: examples/styles/lv_example_style_16.c.s
+.PHONY : examples/styles/lv_example_style_16.s
+
+# target to generate assembly for a file
+examples/styles/lv_example_style_16.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_16.c.s
+.PHONY : examples/styles/lv_example_style_16.c.s
+
+examples/styles/lv_example_style_17.o: examples/styles/lv_example_style_17.c.o
+.PHONY : examples/styles/lv_example_style_17.o
+
+# target to build an object file
+examples/styles/lv_example_style_17.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.o
+.PHONY : examples/styles/lv_example_style_17.c.o
+
+examples/styles/lv_example_style_17.i: examples/styles/lv_example_style_17.c.i
+.PHONY : examples/styles/lv_example_style_17.i
+
+# target to preprocess a source file
+examples/styles/lv_example_style_17.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.i
+.PHONY : examples/styles/lv_example_style_17.c.i
+
+examples/styles/lv_example_style_17.s: examples/styles/lv_example_style_17.c.s
+.PHONY : examples/styles/lv_example_style_17.s
+
+# target to generate assembly for a file
+examples/styles/lv_example_style_17.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_17.c.s
+.PHONY : examples/styles/lv_example_style_17.c.s
+
+examples/styles/lv_example_style_18.o: examples/styles/lv_example_style_18.c.o
+.PHONY : examples/styles/lv_example_style_18.o
+
+# target to build an object file
+examples/styles/lv_example_style_18.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.o
+.PHONY : examples/styles/lv_example_style_18.c.o
+
+examples/styles/lv_example_style_18.i: examples/styles/lv_example_style_18.c.i
+.PHONY : examples/styles/lv_example_style_18.i
+
+# target to preprocess a source file
+examples/styles/lv_example_style_18.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.i
+.PHONY : examples/styles/lv_example_style_18.c.i
+
+examples/styles/lv_example_style_18.s: examples/styles/lv_example_style_18.c.s
+.PHONY : examples/styles/lv_example_style_18.s
+
+# target to generate assembly for a file
+examples/styles/lv_example_style_18.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_18.c.s
+.PHONY : examples/styles/lv_example_style_18.c.s
+
+examples/styles/lv_example_style_19.o: examples/styles/lv_example_style_19.c.o
+.PHONY : examples/styles/lv_example_style_19.o
+
+# target to build an object file
+examples/styles/lv_example_style_19.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.o
+.PHONY : examples/styles/lv_example_style_19.c.o
+
+examples/styles/lv_example_style_19.i: examples/styles/lv_example_style_19.c.i
+.PHONY : examples/styles/lv_example_style_19.i
+
+# target to preprocess a source file
+examples/styles/lv_example_style_19.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.i
+.PHONY : examples/styles/lv_example_style_19.c.i
+
+examples/styles/lv_example_style_19.s: examples/styles/lv_example_style_19.c.s
+.PHONY : examples/styles/lv_example_style_19.s
+
+# target to generate assembly for a file
+examples/styles/lv_example_style_19.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_19.c.s
+.PHONY : examples/styles/lv_example_style_19.c.s
+
 examples/styles/lv_example_style_2.o: examples/styles/lv_example_style_2.c.o
 .PHONY : examples/styles/lv_example_style_2.o
 
@@ -5400,6 +5496,54 @@ examples/styles/lv_example_style_2.s: examples/styles/lv_example_style_2.c.s
 examples/styles/lv_example_style_2.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_2.c.s
 .PHONY : examples/styles/lv_example_style_2.c.s
+
+examples/styles/lv_example_style_20.o: examples/styles/lv_example_style_20.c.o
+.PHONY : examples/styles/lv_example_style_20.o
+
+# target to build an object file
+examples/styles/lv_example_style_20.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.o
+.PHONY : examples/styles/lv_example_style_20.c.o
+
+examples/styles/lv_example_style_20.i: examples/styles/lv_example_style_20.c.i
+.PHONY : examples/styles/lv_example_style_20.i
+
+# target to preprocess a source file
+examples/styles/lv_example_style_20.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.i
+.PHONY : examples/styles/lv_example_style_20.c.i
+
+examples/styles/lv_example_style_20.s: examples/styles/lv_example_style_20.c.s
+.PHONY : examples/styles/lv_example_style_20.s
+
+# target to generate assembly for a file
+examples/styles/lv_example_style_20.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_20.c.s
+.PHONY : examples/styles/lv_example_style_20.c.s
+
+examples/styles/lv_example_style_21.o: examples/styles/lv_example_style_21.c.o
+.PHONY : examples/styles/lv_example_style_21.o
+
+# target to build an object file
+examples/styles/lv_example_style_21.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.o
+.PHONY : examples/styles/lv_example_style_21.c.o
+
+examples/styles/lv_example_style_21.i: examples/styles/lv_example_style_21.c.i
+.PHONY : examples/styles/lv_example_style_21.i
+
+# target to preprocess a source file
+examples/styles/lv_example_style_21.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.i
+.PHONY : examples/styles/lv_example_style_21.c.i
+
+examples/styles/lv_example_style_21.s: examples/styles/lv_example_style_21.c.s
+.PHONY : examples/styles/lv_example_style_21.s
+
+# target to generate assembly for a file
+examples/styles/lv_example_style_21.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/styles/lv_example_style_21.c.s
+.PHONY : examples/styles/lv_example_style_21.c.s
 
 examples/styles/lv_example_style_3.o: examples/styles/lv_example_style_3.c.o
 .PHONY : examples/styles/lv_example_style_3.o
@@ -5640,6 +5784,54 @@ examples/widgets/arc/lv_example_arc_2.s: examples/widgets/arc/lv_example_arc_2.c
 examples/widgets/arc/lv_example_arc_2.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_2.c.s
 .PHONY : examples/widgets/arc/lv_example_arc_2.c.s
+
+examples/widgets/arc/lv_example_arc_3.o: examples/widgets/arc/lv_example_arc_3.c.o
+.PHONY : examples/widgets/arc/lv_example_arc_3.o
+
+# target to build an object file
+examples/widgets/arc/lv_example_arc_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.o
+.PHONY : examples/widgets/arc/lv_example_arc_3.c.o
+
+examples/widgets/arc/lv_example_arc_3.i: examples/widgets/arc/lv_example_arc_3.c.i
+.PHONY : examples/widgets/arc/lv_example_arc_3.i
+
+# target to preprocess a source file
+examples/widgets/arc/lv_example_arc_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.i
+.PHONY : examples/widgets/arc/lv_example_arc_3.c.i
+
+examples/widgets/arc/lv_example_arc_3.s: examples/widgets/arc/lv_example_arc_3.c.s
+.PHONY : examples/widgets/arc/lv_example_arc_3.s
+
+# target to generate assembly for a file
+examples/widgets/arc/lv_example_arc_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arc/lv_example_arc_3.c.s
+.PHONY : examples/widgets/arc/lv_example_arc_3.c.s
+
+examples/widgets/arclabel/lv_example_arclabel_1.o: examples/widgets/arclabel/lv_example_arclabel_1.c.o
+.PHONY : examples/widgets/arclabel/lv_example_arclabel_1.o
+
+# target to build an object file
+examples/widgets/arclabel/lv_example_arclabel_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.o
+.PHONY : examples/widgets/arclabel/lv_example_arclabel_1.c.o
+
+examples/widgets/arclabel/lv_example_arclabel_1.i: examples/widgets/arclabel/lv_example_arclabel_1.c.i
+.PHONY : examples/widgets/arclabel/lv_example_arclabel_1.i
+
+# target to preprocess a source file
+examples/widgets/arclabel/lv_example_arclabel_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.i
+.PHONY : examples/widgets/arclabel/lv_example_arclabel_1.c.i
+
+examples/widgets/arclabel/lv_example_arclabel_1.s: examples/widgets/arclabel/lv_example_arclabel_1.c.s
+.PHONY : examples/widgets/arclabel/lv_example_arclabel_1.s
+
+# target to generate assembly for a file
+examples/widgets/arclabel/lv_example_arclabel_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/arclabel/lv_example_arclabel_1.c.s
+.PHONY : examples/widgets/arclabel/lv_example_arclabel_1.c.s
 
 examples/widgets/bar/lv_example_bar_1.o: examples/widgets/bar/lv_example_bar_1.c.o
 .PHONY : examples/widgets/bar/lv_example_bar_1.o
@@ -5977,6 +6169,30 @@ examples/widgets/calendar/lv_example_calendar_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_1.c.s
 .PHONY : examples/widgets/calendar/lv_example_calendar_1.c.s
 
+examples/widgets/calendar/lv_example_calendar_2.o: examples/widgets/calendar/lv_example_calendar_2.c.o
+.PHONY : examples/widgets/calendar/lv_example_calendar_2.o
+
+# target to build an object file
+examples/widgets/calendar/lv_example_calendar_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.o
+.PHONY : examples/widgets/calendar/lv_example_calendar_2.c.o
+
+examples/widgets/calendar/lv_example_calendar_2.i: examples/widgets/calendar/lv_example_calendar_2.c.i
+.PHONY : examples/widgets/calendar/lv_example_calendar_2.i
+
+# target to preprocess a source file
+examples/widgets/calendar/lv_example_calendar_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.i
+.PHONY : examples/widgets/calendar/lv_example_calendar_2.c.i
+
+examples/widgets/calendar/lv_example_calendar_2.s: examples/widgets/calendar/lv_example_calendar_2.c.s
+.PHONY : examples/widgets/calendar/lv_example_calendar_2.s
+
+# target to generate assembly for a file
+examples/widgets/calendar/lv_example_calendar_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/calendar/lv_example_calendar_2.c.s
+.PHONY : examples/widgets/calendar/lv_example_calendar_2.c.s
+
 examples/widgets/canvas/lv_example_canvas_1.o: examples/widgets/canvas/lv_example_canvas_1.c.o
 .PHONY : examples/widgets/canvas/lv_example_canvas_1.o
 
@@ -6000,6 +6216,78 @@ examples/widgets/canvas/lv_example_canvas_1.s: examples/widgets/canvas/lv_exampl
 examples/widgets/canvas/lv_example_canvas_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_1.c.s
 .PHONY : examples/widgets/canvas/lv_example_canvas_1.c.s
+
+examples/widgets/canvas/lv_example_canvas_10.o: examples/widgets/canvas/lv_example_canvas_10.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_10.o
+
+# target to build an object file
+examples/widgets/canvas/lv_example_canvas_10.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_10.c.o
+
+examples/widgets/canvas/lv_example_canvas_10.i: examples/widgets/canvas/lv_example_canvas_10.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_10.i
+
+# target to preprocess a source file
+examples/widgets/canvas/lv_example_canvas_10.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_10.c.i
+
+examples/widgets/canvas/lv_example_canvas_10.s: examples/widgets/canvas/lv_example_canvas_10.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_10.s
+
+# target to generate assembly for a file
+examples/widgets/canvas/lv_example_canvas_10.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_10.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_10.c.s
+
+examples/widgets/canvas/lv_example_canvas_11.o: examples/widgets/canvas/lv_example_canvas_11.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_11.o
+
+# target to build an object file
+examples/widgets/canvas/lv_example_canvas_11.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_11.c.o
+
+examples/widgets/canvas/lv_example_canvas_11.i: examples/widgets/canvas/lv_example_canvas_11.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_11.i
+
+# target to preprocess a source file
+examples/widgets/canvas/lv_example_canvas_11.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_11.c.i
+
+examples/widgets/canvas/lv_example_canvas_11.s: examples/widgets/canvas/lv_example_canvas_11.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_11.s
+
+# target to generate assembly for a file
+examples/widgets/canvas/lv_example_canvas_11.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_11.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_11.c.s
+
+examples/widgets/canvas/lv_example_canvas_12.o: examples/widgets/canvas/lv_example_canvas_12.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_12.o
+
+# target to build an object file
+examples/widgets/canvas/lv_example_canvas_12.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_12.c.o
+
+examples/widgets/canvas/lv_example_canvas_12.i: examples/widgets/canvas/lv_example_canvas_12.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_12.i
+
+# target to preprocess a source file
+examples/widgets/canvas/lv_example_canvas_12.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_12.c.i
+
+examples/widgets/canvas/lv_example_canvas_12.s: examples/widgets/canvas/lv_example_canvas_12.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_12.s
+
+# target to generate assembly for a file
+examples/widgets/canvas/lv_example_canvas_12.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_12.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_12.c.s
 
 examples/widgets/canvas/lv_example_canvas_2.o: examples/widgets/canvas/lv_example_canvas_2.c.o
 .PHONY : examples/widgets/canvas/lv_example_canvas_2.o
@@ -6168,6 +6456,30 @@ examples/widgets/canvas/lv_example_canvas_8.s: examples/widgets/canvas/lv_exampl
 examples/widgets/canvas/lv_example_canvas_8.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_8.c.s
 .PHONY : examples/widgets/canvas/lv_example_canvas_8.c.s
+
+examples/widgets/canvas/lv_example_canvas_9.o: examples/widgets/canvas/lv_example_canvas_9.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_9.o
+
+# target to build an object file
+examples/widgets/canvas/lv_example_canvas_9.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.o
+.PHONY : examples/widgets/canvas/lv_example_canvas_9.c.o
+
+examples/widgets/canvas/lv_example_canvas_9.i: examples/widgets/canvas/lv_example_canvas_9.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_9.i
+
+# target to preprocess a source file
+examples/widgets/canvas/lv_example_canvas_9.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.i
+.PHONY : examples/widgets/canvas/lv_example_canvas_9.c.i
+
+examples/widgets/canvas/lv_example_canvas_9.s: examples/widgets/canvas/lv_example_canvas_9.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_9.s
+
+# target to generate assembly for a file
+examples/widgets/canvas/lv_example_canvas_9.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/canvas/lv_example_canvas_9.c.s
+.PHONY : examples/widgets/canvas/lv_example_canvas_9.c.s
 
 examples/widgets/chart/lv_example_chart_1.o: examples/widgets/chart/lv_example_chart_1.c.o
 .PHONY : examples/widgets/chart/lv_example_chart_1.o
@@ -6577,6 +6889,30 @@ examples/widgets/image/lv_example_image_4.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_4.c.s
 .PHONY : examples/widgets/image/lv_example_image_4.c.s
 
+examples/widgets/image/lv_example_image_5.o: examples/widgets/image/lv_example_image_5.c.o
+.PHONY : examples/widgets/image/lv_example_image_5.o
+
+# target to build an object file
+examples/widgets/image/lv_example_image_5.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.o
+.PHONY : examples/widgets/image/lv_example_image_5.c.o
+
+examples/widgets/image/lv_example_image_5.i: examples/widgets/image/lv_example_image_5.c.i
+.PHONY : examples/widgets/image/lv_example_image_5.i
+
+# target to preprocess a source file
+examples/widgets/image/lv_example_image_5.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.i
+.PHONY : examples/widgets/image/lv_example_image_5.c.i
+
+examples/widgets/image/lv_example_image_5.s: examples/widgets/image/lv_example_image_5.c.s
+.PHONY : examples/widgets/image/lv_example_image_5.s
+
+# target to generate assembly for a file
+examples/widgets/image/lv_example_image_5.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/image/lv_example_image_5.c.s
+.PHONY : examples/widgets/image/lv_example_image_5.c.s
+
 examples/widgets/imagebutton/lv_example_imagebutton_1.o: examples/widgets/imagebutton/lv_example_imagebutton_1.c.o
 .PHONY : examples/widgets/imagebutton/lv_example_imagebutton_1.o
 
@@ -6648,6 +6984,30 @@ examples/widgets/keyboard/lv_example_keyboard_2.s: examples/widgets/keyboard/lv_
 examples/widgets/keyboard/lv_example_keyboard_2.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_2.c.s
 .PHONY : examples/widgets/keyboard/lv_example_keyboard_2.c.s
+
+examples/widgets/keyboard/lv_example_keyboard_3.o: examples/widgets/keyboard/lv_example_keyboard_3.c.o
+.PHONY : examples/widgets/keyboard/lv_example_keyboard_3.o
+
+# target to build an object file
+examples/widgets/keyboard/lv_example_keyboard_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.o
+.PHONY : examples/widgets/keyboard/lv_example_keyboard_3.c.o
+
+examples/widgets/keyboard/lv_example_keyboard_3.i: examples/widgets/keyboard/lv_example_keyboard_3.c.i
+.PHONY : examples/widgets/keyboard/lv_example_keyboard_3.i
+
+# target to preprocess a source file
+examples/widgets/keyboard/lv_example_keyboard_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.i
+.PHONY : examples/widgets/keyboard/lv_example_keyboard_3.c.i
+
+examples/widgets/keyboard/lv_example_keyboard_3.s: examples/widgets/keyboard/lv_example_keyboard_3.c.s
+.PHONY : examples/widgets/keyboard/lv_example_keyboard_3.s
+
+# target to generate assembly for a file
+examples/widgets/keyboard/lv_example_keyboard_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/keyboard/lv_example_keyboard_3.c.s
+.PHONY : examples/widgets/keyboard/lv_example_keyboard_3.c.s
 
 examples/widgets/label/lv_example_label_1.o: examples/widgets/label/lv_example_label_1.c.o
 .PHONY : examples/widgets/label/lv_example_label_1.o
@@ -6769,6 +7129,54 @@ examples/widgets/label/lv_example_label_5.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_5.c.s
 .PHONY : examples/widgets/label/lv_example_label_5.c.s
 
+examples/widgets/label/lv_example_label_6.o: examples/widgets/label/lv_example_label_6.c.o
+.PHONY : examples/widgets/label/lv_example_label_6.o
+
+# target to build an object file
+examples/widgets/label/lv_example_label_6.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.o
+.PHONY : examples/widgets/label/lv_example_label_6.c.o
+
+examples/widgets/label/lv_example_label_6.i: examples/widgets/label/lv_example_label_6.c.i
+.PHONY : examples/widgets/label/lv_example_label_6.i
+
+# target to preprocess a source file
+examples/widgets/label/lv_example_label_6.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.i
+.PHONY : examples/widgets/label/lv_example_label_6.c.i
+
+examples/widgets/label/lv_example_label_6.s: examples/widgets/label/lv_example_label_6.c.s
+.PHONY : examples/widgets/label/lv_example_label_6.s
+
+# target to generate assembly for a file
+examples/widgets/label/lv_example_label_6.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_6.c.s
+.PHONY : examples/widgets/label/lv_example_label_6.c.s
+
+examples/widgets/label/lv_example_label_7.o: examples/widgets/label/lv_example_label_7.c.o
+.PHONY : examples/widgets/label/lv_example_label_7.o
+
+# target to build an object file
+examples/widgets/label/lv_example_label_7.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.o
+.PHONY : examples/widgets/label/lv_example_label_7.c.o
+
+examples/widgets/label/lv_example_label_7.i: examples/widgets/label/lv_example_label_7.c.i
+.PHONY : examples/widgets/label/lv_example_label_7.i
+
+# target to preprocess a source file
+examples/widgets/label/lv_example_label_7.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.i
+.PHONY : examples/widgets/label/lv_example_label_7.c.i
+
+examples/widgets/label/lv_example_label_7.s: examples/widgets/label/lv_example_label_7.c.s
+.PHONY : examples/widgets/label/lv_example_label_7.s
+
+# target to generate assembly for a file
+examples/widgets/label/lv_example_label_7.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/label/lv_example_label_7.c.s
+.PHONY : examples/widgets/label/lv_example_label_7.c.s
+
 examples/widgets/led/lv_example_led_1.o: examples/widgets/led/lv_example_led_1.c.o
 .PHONY : examples/widgets/led/lv_example_led_1.o
 
@@ -6864,6 +7272,78 @@ examples/widgets/list/lv_example_list_2.s: examples/widgets/list/lv_example_list
 examples/widgets/list/lv_example_list_2.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/list/lv_example_list_2.c.s
 .PHONY : examples/widgets/list/lv_example_list_2.c.s
+
+examples/widgets/lottie/lv_example_lottie_1.o: examples/widgets/lottie/lv_example_lottie_1.c.o
+.PHONY : examples/widgets/lottie/lv_example_lottie_1.o
+
+# target to build an object file
+examples/widgets/lottie/lv_example_lottie_1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.o
+.PHONY : examples/widgets/lottie/lv_example_lottie_1.c.o
+
+examples/widgets/lottie/lv_example_lottie_1.i: examples/widgets/lottie/lv_example_lottie_1.c.i
+.PHONY : examples/widgets/lottie/lv_example_lottie_1.i
+
+# target to preprocess a source file
+examples/widgets/lottie/lv_example_lottie_1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.i
+.PHONY : examples/widgets/lottie/lv_example_lottie_1.c.i
+
+examples/widgets/lottie/lv_example_lottie_1.s: examples/widgets/lottie/lv_example_lottie_1.c.s
+.PHONY : examples/widgets/lottie/lv_example_lottie_1.s
+
+# target to generate assembly for a file
+examples/widgets/lottie/lv_example_lottie_1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_1.c.s
+.PHONY : examples/widgets/lottie/lv_example_lottie_1.c.s
+
+examples/widgets/lottie/lv_example_lottie_2.o: examples/widgets/lottie/lv_example_lottie_2.c.o
+.PHONY : examples/widgets/lottie/lv_example_lottie_2.o
+
+# target to build an object file
+examples/widgets/lottie/lv_example_lottie_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.o
+.PHONY : examples/widgets/lottie/lv_example_lottie_2.c.o
+
+examples/widgets/lottie/lv_example_lottie_2.i: examples/widgets/lottie/lv_example_lottie_2.c.i
+.PHONY : examples/widgets/lottie/lv_example_lottie_2.i
+
+# target to preprocess a source file
+examples/widgets/lottie/lv_example_lottie_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.i
+.PHONY : examples/widgets/lottie/lv_example_lottie_2.c.i
+
+examples/widgets/lottie/lv_example_lottie_2.s: examples/widgets/lottie/lv_example_lottie_2.c.s
+.PHONY : examples/widgets/lottie/lv_example_lottie_2.s
+
+# target to generate assembly for a file
+examples/widgets/lottie/lv_example_lottie_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_2.c.s
+.PHONY : examples/widgets/lottie/lv_example_lottie_2.c.s
+
+examples/widgets/lottie/lv_example_lottie_approve.o: examples/widgets/lottie/lv_example_lottie_approve.c.o
+.PHONY : examples/widgets/lottie/lv_example_lottie_approve.o
+
+# target to build an object file
+examples/widgets/lottie/lv_example_lottie_approve.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.o
+.PHONY : examples/widgets/lottie/lv_example_lottie_approve.c.o
+
+examples/widgets/lottie/lv_example_lottie_approve.i: examples/widgets/lottie/lv_example_lottie_approve.c.i
+.PHONY : examples/widgets/lottie/lv_example_lottie_approve.i
+
+# target to preprocess a source file
+examples/widgets/lottie/lv_example_lottie_approve.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.i
+.PHONY : examples/widgets/lottie/lv_example_lottie_approve.c.i
+
+examples/widgets/lottie/lv_example_lottie_approve.s: examples/widgets/lottie/lv_example_lottie_approve.c.s
+.PHONY : examples/widgets/lottie/lv_example_lottie_approve.s
+
+# target to generate assembly for a file
+examples/widgets/lottie/lv_example_lottie_approve.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/lottie/lv_example_lottie_approve.c.s
+.PHONY : examples/widgets/lottie/lv_example_lottie_approve.c.s
 
 examples/widgets/menu/lv_example_menu_1.o: examples/widgets/menu/lv_example_menu_1.c.o
 .PHONY : examples/widgets/menu/lv_example_menu_1.o
@@ -7009,6 +7489,54 @@ examples/widgets/msgbox/lv_example_msgbox_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.s
 .PHONY : examples/widgets/msgbox/lv_example_msgbox_1.c.s
 
+examples/widgets/msgbox/lv_example_msgbox_2.o: examples/widgets/msgbox/lv_example_msgbox_2.c.o
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_2.o
+
+# target to build an object file
+examples/widgets/msgbox/lv_example_msgbox_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.o
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_2.c.o
+
+examples/widgets/msgbox/lv_example_msgbox_2.i: examples/widgets/msgbox/lv_example_msgbox_2.c.i
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_2.i
+
+# target to preprocess a source file
+examples/widgets/msgbox/lv_example_msgbox_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.i
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_2.c.i
+
+examples/widgets/msgbox/lv_example_msgbox_2.s: examples/widgets/msgbox/lv_example_msgbox_2.c.s
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_2.s
+
+# target to generate assembly for a file
+examples/widgets/msgbox/lv_example_msgbox_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_2.c.s
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_2.c.s
+
+examples/widgets/msgbox/lv_example_msgbox_3.o: examples/widgets/msgbox/lv_example_msgbox_3.c.o
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_3.o
+
+# target to build an object file
+examples/widgets/msgbox/lv_example_msgbox_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.o
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_3.c.o
+
+examples/widgets/msgbox/lv_example_msgbox_3.i: examples/widgets/msgbox/lv_example_msgbox_3.c.i
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_3.i
+
+# target to preprocess a source file
+examples/widgets/msgbox/lv_example_msgbox_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.i
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_3.c.i
+
+examples/widgets/msgbox/lv_example_msgbox_3.s: examples/widgets/msgbox/lv_example_msgbox_3.c.s
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_3.s
+
+# target to generate assembly for a file
+examples/widgets/msgbox/lv_example_msgbox_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/msgbox/lv_example_msgbox_3.c.s
+.PHONY : examples/widgets/msgbox/lv_example_msgbox_3.c.s
+
 examples/widgets/obj/lv_example_obj_1.o: examples/widgets/obj/lv_example_obj_1.c.o
 .PHONY : examples/widgets/obj/lv_example_obj_1.o
 
@@ -7056,6 +7584,30 @@ examples/widgets/obj/lv_example_obj_2.s: examples/widgets/obj/lv_example_obj_2.c
 examples/widgets/obj/lv_example_obj_2.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_2.c.s
 .PHONY : examples/widgets/obj/lv_example_obj_2.c.s
+
+examples/widgets/obj/lv_example_obj_3.o: examples/widgets/obj/lv_example_obj_3.c.o
+.PHONY : examples/widgets/obj/lv_example_obj_3.o
+
+# target to build an object file
+examples/widgets/obj/lv_example_obj_3.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.o
+.PHONY : examples/widgets/obj/lv_example_obj_3.c.o
+
+examples/widgets/obj/lv_example_obj_3.i: examples/widgets/obj/lv_example_obj_3.c.i
+.PHONY : examples/widgets/obj/lv_example_obj_3.i
+
+# target to preprocess a source file
+examples/widgets/obj/lv_example_obj_3.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.i
+.PHONY : examples/widgets/obj/lv_example_obj_3.c.i
+
+examples/widgets/obj/lv_example_obj_3.s: examples/widgets/obj/lv_example_obj_3.c.s
+.PHONY : examples/widgets/obj/lv_example_obj_3.s
+
+# target to generate assembly for a file
+examples/widgets/obj/lv_example_obj_3.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/obj/lv_example_obj_3.c.s
+.PHONY : examples/widgets/obj/lv_example_obj_3.c.s
 
 examples/widgets/roller/lv_example_roller_1.o: examples/widgets/roller/lv_example_roller_1.c.o
 .PHONY : examples/widgets/roller/lv_example_roller_1.o
@@ -7153,6 +7705,78 @@ examples/widgets/scale/lv_example_scale_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_1.c.s
 .PHONY : examples/widgets/scale/lv_example_scale_1.c.s
 
+examples/widgets/scale/lv_example_scale_10.o: examples/widgets/scale/lv_example_scale_10.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_10.o
+
+# target to build an object file
+examples/widgets/scale/lv_example_scale_10.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_10.c.o
+
+examples/widgets/scale/lv_example_scale_10.i: examples/widgets/scale/lv_example_scale_10.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_10.i
+
+# target to preprocess a source file
+examples/widgets/scale/lv_example_scale_10.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_10.c.i
+
+examples/widgets/scale/lv_example_scale_10.s: examples/widgets/scale/lv_example_scale_10.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_10.s
+
+# target to generate assembly for a file
+examples/widgets/scale/lv_example_scale_10.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_10.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_10.c.s
+
+examples/widgets/scale/lv_example_scale_11.o: examples/widgets/scale/lv_example_scale_11.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_11.o
+
+# target to build an object file
+examples/widgets/scale/lv_example_scale_11.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_11.c.o
+
+examples/widgets/scale/lv_example_scale_11.i: examples/widgets/scale/lv_example_scale_11.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_11.i
+
+# target to preprocess a source file
+examples/widgets/scale/lv_example_scale_11.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_11.c.i
+
+examples/widgets/scale/lv_example_scale_11.s: examples/widgets/scale/lv_example_scale_11.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_11.s
+
+# target to generate assembly for a file
+examples/widgets/scale/lv_example_scale_11.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_11.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_11.c.s
+
+examples/widgets/scale/lv_example_scale_12.o: examples/widgets/scale/lv_example_scale_12.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_12.o
+
+# target to build an object file
+examples/widgets/scale/lv_example_scale_12.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_12.c.o
+
+examples/widgets/scale/lv_example_scale_12.i: examples/widgets/scale/lv_example_scale_12.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_12.i
+
+# target to preprocess a source file
+examples/widgets/scale/lv_example_scale_12.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_12.c.i
+
+examples/widgets/scale/lv_example_scale_12.s: examples/widgets/scale/lv_example_scale_12.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_12.s
+
+# target to generate assembly for a file
+examples/widgets/scale/lv_example_scale_12.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_12.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_12.c.s
+
 examples/widgets/scale/lv_example_scale_2.o: examples/widgets/scale/lv_example_scale_2.c.o
 .PHONY : examples/widgets/scale/lv_example_scale_2.o
 
@@ -7248,6 +7872,102 @@ examples/widgets/scale/lv_example_scale_5.s: examples/widgets/scale/lv_example_s
 examples/widgets/scale/lv_example_scale_5.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_5.c.s
 .PHONY : examples/widgets/scale/lv_example_scale_5.c.s
+
+examples/widgets/scale/lv_example_scale_6.o: examples/widgets/scale/lv_example_scale_6.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_6.o
+
+# target to build an object file
+examples/widgets/scale/lv_example_scale_6.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_6.c.o
+
+examples/widgets/scale/lv_example_scale_6.i: examples/widgets/scale/lv_example_scale_6.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_6.i
+
+# target to preprocess a source file
+examples/widgets/scale/lv_example_scale_6.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_6.c.i
+
+examples/widgets/scale/lv_example_scale_6.s: examples/widgets/scale/lv_example_scale_6.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_6.s
+
+# target to generate assembly for a file
+examples/widgets/scale/lv_example_scale_6.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_6.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_6.c.s
+
+examples/widgets/scale/lv_example_scale_7.o: examples/widgets/scale/lv_example_scale_7.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_7.o
+
+# target to build an object file
+examples/widgets/scale/lv_example_scale_7.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_7.c.o
+
+examples/widgets/scale/lv_example_scale_7.i: examples/widgets/scale/lv_example_scale_7.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_7.i
+
+# target to preprocess a source file
+examples/widgets/scale/lv_example_scale_7.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_7.c.i
+
+examples/widgets/scale/lv_example_scale_7.s: examples/widgets/scale/lv_example_scale_7.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_7.s
+
+# target to generate assembly for a file
+examples/widgets/scale/lv_example_scale_7.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_7.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_7.c.s
+
+examples/widgets/scale/lv_example_scale_8.o: examples/widgets/scale/lv_example_scale_8.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_8.o
+
+# target to build an object file
+examples/widgets/scale/lv_example_scale_8.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_8.c.o
+
+examples/widgets/scale/lv_example_scale_8.i: examples/widgets/scale/lv_example_scale_8.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_8.i
+
+# target to preprocess a source file
+examples/widgets/scale/lv_example_scale_8.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_8.c.i
+
+examples/widgets/scale/lv_example_scale_8.s: examples/widgets/scale/lv_example_scale_8.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_8.s
+
+# target to generate assembly for a file
+examples/widgets/scale/lv_example_scale_8.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_8.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_8.c.s
+
+examples/widgets/scale/lv_example_scale_9.o: examples/widgets/scale/lv_example_scale_9.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_9.o
+
+# target to build an object file
+examples/widgets/scale/lv_example_scale_9.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.o
+.PHONY : examples/widgets/scale/lv_example_scale_9.c.o
+
+examples/widgets/scale/lv_example_scale_9.i: examples/widgets/scale/lv_example_scale_9.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_9.i
+
+# target to preprocess a source file
+examples/widgets/scale/lv_example_scale_9.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.i
+.PHONY : examples/widgets/scale/lv_example_scale_9.c.i
+
+examples/widgets/scale/lv_example_scale_9.s: examples/widgets/scale/lv_example_scale_9.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_9.s
+
+# target to generate assembly for a file
+examples/widgets/scale/lv_example_scale_9.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/scale/lv_example_scale_9.c.s
+.PHONY : examples/widgets/scale/lv_example_scale_9.c.s
 
 examples/widgets/slider/lv_example_slider_1.o: examples/widgets/slider/lv_example_slider_1.c.o
 .PHONY : examples/widgets/slider/lv_example_slider_1.o
@@ -7441,6 +8161,30 @@ examples/widgets/switch/lv_example_switch_1.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_1.c.s
 .PHONY : examples/widgets/switch/lv_example_switch_1.c.s
 
+examples/widgets/switch/lv_example_switch_2.o: examples/widgets/switch/lv_example_switch_2.c.o
+.PHONY : examples/widgets/switch/lv_example_switch_2.o
+
+# target to build an object file
+examples/widgets/switch/lv_example_switch_2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.o
+.PHONY : examples/widgets/switch/lv_example_switch_2.c.o
+
+examples/widgets/switch/lv_example_switch_2.i: examples/widgets/switch/lv_example_switch_2.c.i
+.PHONY : examples/widgets/switch/lv_example_switch_2.i
+
+# target to preprocess a source file
+examples/widgets/switch/lv_example_switch_2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.i
+.PHONY : examples/widgets/switch/lv_example_switch_2.c.i
+
+examples/widgets/switch/lv_example_switch_2.s: examples/widgets/switch/lv_example_switch_2.c.s
+.PHONY : examples/widgets/switch/lv_example_switch_2.s
+
+# target to generate assembly for a file
+examples/widgets/switch/lv_example_switch_2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/switch/lv_example_switch_2.c.s
+.PHONY : examples/widgets/switch/lv_example_switch_2.c.s
+
 examples/widgets/table/lv_example_table_1.o: examples/widgets/table/lv_example_table_1.c.o
 .PHONY : examples/widgets/table/lv_example_table_1.o
 
@@ -7608,6 +8352,30 @@ examples/widgets/textarea/lv_example_textarea_3.s: examples/widgets/textarea/lv_
 examples/widgets/textarea/lv_example_textarea_3.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_3.c.s
 .PHONY : examples/widgets/textarea/lv_example_textarea_3.c.s
+
+examples/widgets/textarea/lv_example_textarea_4.o: examples/widgets/textarea/lv_example_textarea_4.c.o
+.PHONY : examples/widgets/textarea/lv_example_textarea_4.o
+
+# target to build an object file
+examples/widgets/textarea/lv_example_textarea_4.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.o
+.PHONY : examples/widgets/textarea/lv_example_textarea_4.c.o
+
+examples/widgets/textarea/lv_example_textarea_4.i: examples/widgets/textarea/lv_example_textarea_4.c.i
+.PHONY : examples/widgets/textarea/lv_example_textarea_4.i
+
+# target to preprocess a source file
+examples/widgets/textarea/lv_example_textarea_4.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.i
+.PHONY : examples/widgets/textarea/lv_example_textarea_4.c.i
+
+examples/widgets/textarea/lv_example_textarea_4.s: examples/widgets/textarea/lv_example_textarea_4.c.s
+.PHONY : examples/widgets/textarea/lv_example_textarea_4.s
+
+# target to generate assembly for a file
+examples/widgets/textarea/lv_example_textarea_4.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/examples/widgets/textarea/lv_example_textarea_4.c.s
+.PHONY : examples/widgets/textarea/lv_example_textarea_4.c.s
 
 examples/widgets/tileview/lv_example_tileview_1.o: examples/widgets/tileview/lv_example_tileview_1.c.o
 .PHONY : examples/widgets/tileview/lv_example_tileview_1.o
@@ -7945,6 +8713,30 @@ src/core/lv_obj_tree.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.s
 .PHONY : src/core/lv_obj_tree.c.s
 
+src/core/lv_observer.o: src/core/lv_observer.c.o
+.PHONY : src/core/lv_observer.o
+
+# target to build an object file
+src/core/lv_observer.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/core/lv_observer.c.o
+.PHONY : src/core/lv_observer.c.o
+
+src/core/lv_observer.i: src/core/lv_observer.c.i
+.PHONY : src/core/lv_observer.i
+
+# target to preprocess a source file
+src/core/lv_observer.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/core/lv_observer.c.i
+.PHONY : src/core/lv_observer.c.i
+
+src/core/lv_observer.s: src/core/lv_observer.c.s
+.PHONY : src/core/lv_observer.s
+
+# target to generate assembly for a file
+src/core/lv_observer.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/core/lv_observer.c.s
+.PHONY : src/core/lv_observer.c.s
+
 src/core/lv_refr.o: src/core/lv_refr.c.o
 .PHONY : src/core/lv_refr.o
 
@@ -7968,6 +8760,246 @@ src/core/lv_refr.s: src/core/lv_refr.c.s
 src/core/lv_refr.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.s
 .PHONY : src/core/lv_refr.c.s
+
+src/debugging/monkey/lv_monkey.o: src/debugging/monkey/lv_monkey.c.o
+.PHONY : src/debugging/monkey/lv_monkey.o
+
+# target to build an object file
+src/debugging/monkey/lv_monkey.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/monkey/lv_monkey.c.o
+.PHONY : src/debugging/monkey/lv_monkey.c.o
+
+src/debugging/monkey/lv_monkey.i: src/debugging/monkey/lv_monkey.c.i
+.PHONY : src/debugging/monkey/lv_monkey.i
+
+# target to preprocess a source file
+src/debugging/monkey/lv_monkey.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/monkey/lv_monkey.c.i
+.PHONY : src/debugging/monkey/lv_monkey.c.i
+
+src/debugging/monkey/lv_monkey.s: src/debugging/monkey/lv_monkey.c.s
+.PHONY : src/debugging/monkey/lv_monkey.s
+
+# target to generate assembly for a file
+src/debugging/monkey/lv_monkey.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/monkey/lv_monkey.c.s
+.PHONY : src/debugging/monkey/lv_monkey.c.s
+
+src/debugging/sysmon/lv_sysmon.o: src/debugging/sysmon/lv_sysmon.c.o
+.PHONY : src/debugging/sysmon/lv_sysmon.o
+
+# target to build an object file
+src/debugging/sysmon/lv_sysmon.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/sysmon/lv_sysmon.c.o
+.PHONY : src/debugging/sysmon/lv_sysmon.c.o
+
+src/debugging/sysmon/lv_sysmon.i: src/debugging/sysmon/lv_sysmon.c.i
+.PHONY : src/debugging/sysmon/lv_sysmon.i
+
+# target to preprocess a source file
+src/debugging/sysmon/lv_sysmon.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/sysmon/lv_sysmon.c.i
+.PHONY : src/debugging/sysmon/lv_sysmon.c.i
+
+src/debugging/sysmon/lv_sysmon.s: src/debugging/sysmon/lv_sysmon.c.s
+.PHONY : src/debugging/sysmon/lv_sysmon.s
+
+# target to generate assembly for a file
+src/debugging/sysmon/lv_sysmon.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/sysmon/lv_sysmon.c.s
+.PHONY : src/debugging/sysmon/lv_sysmon.c.s
+
+src/debugging/test/lv_test_display.o: src/debugging/test/lv_test_display.c.o
+.PHONY : src/debugging/test/lv_test_display.o
+
+# target to build an object file
+src/debugging/test/lv_test_display.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_display.c.o
+.PHONY : src/debugging/test/lv_test_display.c.o
+
+src/debugging/test/lv_test_display.i: src/debugging/test/lv_test_display.c.i
+.PHONY : src/debugging/test/lv_test_display.i
+
+# target to preprocess a source file
+src/debugging/test/lv_test_display.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_display.c.i
+.PHONY : src/debugging/test/lv_test_display.c.i
+
+src/debugging/test/lv_test_display.s: src/debugging/test/lv_test_display.c.s
+.PHONY : src/debugging/test/lv_test_display.s
+
+# target to generate assembly for a file
+src/debugging/test/lv_test_display.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_display.c.s
+.PHONY : src/debugging/test/lv_test_display.c.s
+
+src/debugging/test/lv_test_fs.o: src/debugging/test/lv_test_fs.c.o
+.PHONY : src/debugging/test/lv_test_fs.o
+
+# target to build an object file
+src/debugging/test/lv_test_fs.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_fs.c.o
+.PHONY : src/debugging/test/lv_test_fs.c.o
+
+src/debugging/test/lv_test_fs.i: src/debugging/test/lv_test_fs.c.i
+.PHONY : src/debugging/test/lv_test_fs.i
+
+# target to preprocess a source file
+src/debugging/test/lv_test_fs.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_fs.c.i
+.PHONY : src/debugging/test/lv_test_fs.c.i
+
+src/debugging/test/lv_test_fs.s: src/debugging/test/lv_test_fs.c.s
+.PHONY : src/debugging/test/lv_test_fs.s
+
+# target to generate assembly for a file
+src/debugging/test/lv_test_fs.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_fs.c.s
+.PHONY : src/debugging/test/lv_test_fs.c.s
+
+src/debugging/test/lv_test_helpers.o: src/debugging/test/lv_test_helpers.c.o
+.PHONY : src/debugging/test/lv_test_helpers.o
+
+# target to build an object file
+src/debugging/test/lv_test_helpers.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_helpers.c.o
+.PHONY : src/debugging/test/lv_test_helpers.c.o
+
+src/debugging/test/lv_test_helpers.i: src/debugging/test/lv_test_helpers.c.i
+.PHONY : src/debugging/test/lv_test_helpers.i
+
+# target to preprocess a source file
+src/debugging/test/lv_test_helpers.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_helpers.c.i
+.PHONY : src/debugging/test/lv_test_helpers.c.i
+
+src/debugging/test/lv_test_helpers.s: src/debugging/test/lv_test_helpers.c.s
+.PHONY : src/debugging/test/lv_test_helpers.s
+
+# target to generate assembly for a file
+src/debugging/test/lv_test_helpers.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_helpers.c.s
+.PHONY : src/debugging/test/lv_test_helpers.c.s
+
+src/debugging/test/lv_test_indev.o: src/debugging/test/lv_test_indev.c.o
+.PHONY : src/debugging/test/lv_test_indev.o
+
+# target to build an object file
+src/debugging/test/lv_test_indev.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_indev.c.o
+.PHONY : src/debugging/test/lv_test_indev.c.o
+
+src/debugging/test/lv_test_indev.i: src/debugging/test/lv_test_indev.c.i
+.PHONY : src/debugging/test/lv_test_indev.i
+
+# target to preprocess a source file
+src/debugging/test/lv_test_indev.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_indev.c.i
+.PHONY : src/debugging/test/lv_test_indev.c.i
+
+src/debugging/test/lv_test_indev.s: src/debugging/test/lv_test_indev.c.s
+.PHONY : src/debugging/test/lv_test_indev.s
+
+# target to generate assembly for a file
+src/debugging/test/lv_test_indev.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_indev.c.s
+.PHONY : src/debugging/test/lv_test_indev.c.s
+
+src/debugging/test/lv_test_indev_gesture.o: src/debugging/test/lv_test_indev_gesture.c.o
+.PHONY : src/debugging/test/lv_test_indev_gesture.o
+
+# target to build an object file
+src/debugging/test/lv_test_indev_gesture.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_indev_gesture.c.o
+.PHONY : src/debugging/test/lv_test_indev_gesture.c.o
+
+src/debugging/test/lv_test_indev_gesture.i: src/debugging/test/lv_test_indev_gesture.c.i
+.PHONY : src/debugging/test/lv_test_indev_gesture.i
+
+# target to preprocess a source file
+src/debugging/test/lv_test_indev_gesture.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_indev_gesture.c.i
+.PHONY : src/debugging/test/lv_test_indev_gesture.c.i
+
+src/debugging/test/lv_test_indev_gesture.s: src/debugging/test/lv_test_indev_gesture.c.s
+.PHONY : src/debugging/test/lv_test_indev_gesture.s
+
+# target to generate assembly for a file
+src/debugging/test/lv_test_indev_gesture.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_indev_gesture.c.s
+.PHONY : src/debugging/test/lv_test_indev_gesture.c.s
+
+src/debugging/test/lv_test_screenshot_compare.o: src/debugging/test/lv_test_screenshot_compare.c.o
+.PHONY : src/debugging/test/lv_test_screenshot_compare.o
+
+# target to build an object file
+src/debugging/test/lv_test_screenshot_compare.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_screenshot_compare.c.o
+.PHONY : src/debugging/test/lv_test_screenshot_compare.c.o
+
+src/debugging/test/lv_test_screenshot_compare.i: src/debugging/test/lv_test_screenshot_compare.c.i
+.PHONY : src/debugging/test/lv_test_screenshot_compare.i
+
+# target to preprocess a source file
+src/debugging/test/lv_test_screenshot_compare.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_screenshot_compare.c.i
+.PHONY : src/debugging/test/lv_test_screenshot_compare.c.i
+
+src/debugging/test/lv_test_screenshot_compare.s: src/debugging/test/lv_test_screenshot_compare.c.s
+.PHONY : src/debugging/test/lv_test_screenshot_compare.s
+
+# target to generate assembly for a file
+src/debugging/test/lv_test_screenshot_compare.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/test/lv_test_screenshot_compare.c.s
+.PHONY : src/debugging/test/lv_test_screenshot_compare.c.s
+
+src/debugging/vg_lite_tvg/vg_lite_matrix.o: src/debugging/vg_lite_tvg/vg_lite_matrix.c.o
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_matrix.o
+
+# target to build an object file
+src/debugging/vg_lite_tvg/vg_lite_matrix.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/vg_lite_tvg/vg_lite_matrix.c.o
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_matrix.c.o
+
+src/debugging/vg_lite_tvg/vg_lite_matrix.i: src/debugging/vg_lite_tvg/vg_lite_matrix.c.i
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_matrix.i
+
+# target to preprocess a source file
+src/debugging/vg_lite_tvg/vg_lite_matrix.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/vg_lite_tvg/vg_lite_matrix.c.i
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_matrix.c.i
+
+src/debugging/vg_lite_tvg/vg_lite_matrix.s: src/debugging/vg_lite_tvg/vg_lite_matrix.c.s
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_matrix.s
+
+# target to generate assembly for a file
+src/debugging/vg_lite_tvg/vg_lite_matrix.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/vg_lite_tvg/vg_lite_matrix.c.s
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_matrix.c.s
+
+src/debugging/vg_lite_tvg/vg_lite_tvg.o: src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.o
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_tvg.o
+
+# target to build an object file
+src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.o
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.o
+
+src/debugging/vg_lite_tvg/vg_lite_tvg.i: src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.i
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_tvg.i
+
+# target to preprocess a source file
+src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.i
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.i
+
+src/debugging/vg_lite_tvg/vg_lite_tvg.s: src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.s
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_tvg.s
+
+# target to generate assembly for a file
+src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.s
+.PHONY : src/debugging/vg_lite_tvg/vg_lite_tvg.cpp.s
 
 src/display/lv_display.o: src/display/lv_display.c.o
 .PHONY : src/display/lv_display.o
@@ -7993,6 +9025,462 @@ src/display/lv_display.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/display/lv_display.c.s
 .PHONY : src/display/lv_display.c.s
 
+src/draw/convert/helium/lv_draw_buf_convert_helium.o: src/draw/convert/helium/lv_draw_buf_convert_helium.c.o
+.PHONY : src/draw/convert/helium/lv_draw_buf_convert_helium.o
+
+# target to build an object file
+src/draw/convert/helium/lv_draw_buf_convert_helium.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/helium/lv_draw_buf_convert_helium.c.o
+.PHONY : src/draw/convert/helium/lv_draw_buf_convert_helium.c.o
+
+src/draw/convert/helium/lv_draw_buf_convert_helium.i: src/draw/convert/helium/lv_draw_buf_convert_helium.c.i
+.PHONY : src/draw/convert/helium/lv_draw_buf_convert_helium.i
+
+# target to preprocess a source file
+src/draw/convert/helium/lv_draw_buf_convert_helium.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/helium/lv_draw_buf_convert_helium.c.i
+.PHONY : src/draw/convert/helium/lv_draw_buf_convert_helium.c.i
+
+src/draw/convert/helium/lv_draw_buf_convert_helium.s: src/draw/convert/helium/lv_draw_buf_convert_helium.c.s
+.PHONY : src/draw/convert/helium/lv_draw_buf_convert_helium.s
+
+# target to generate assembly for a file
+src/draw/convert/helium/lv_draw_buf_convert_helium.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/helium/lv_draw_buf_convert_helium.c.s
+.PHONY : src/draw/convert/helium/lv_draw_buf_convert_helium.c.s
+
+src/draw/convert/lv_draw_buf_convert.o: src/draw/convert/lv_draw_buf_convert.c.o
+.PHONY : src/draw/convert/lv_draw_buf_convert.o
+
+# target to build an object file
+src/draw/convert/lv_draw_buf_convert.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/lv_draw_buf_convert.c.o
+.PHONY : src/draw/convert/lv_draw_buf_convert.c.o
+
+src/draw/convert/lv_draw_buf_convert.i: src/draw/convert/lv_draw_buf_convert.c.i
+.PHONY : src/draw/convert/lv_draw_buf_convert.i
+
+# target to preprocess a source file
+src/draw/convert/lv_draw_buf_convert.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/lv_draw_buf_convert.c.i
+.PHONY : src/draw/convert/lv_draw_buf_convert.c.i
+
+src/draw/convert/lv_draw_buf_convert.s: src/draw/convert/lv_draw_buf_convert.c.s
+.PHONY : src/draw/convert/lv_draw_buf_convert.s
+
+# target to generate assembly for a file
+src/draw/convert/lv_draw_buf_convert.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/lv_draw_buf_convert.c.s
+.PHONY : src/draw/convert/lv_draw_buf_convert.c.s
+
+src/draw/convert/neon/lv_draw_buf_convert_neon.o: src/draw/convert/neon/lv_draw_buf_convert_neon.c.o
+.PHONY : src/draw/convert/neon/lv_draw_buf_convert_neon.o
+
+# target to build an object file
+src/draw/convert/neon/lv_draw_buf_convert_neon.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/neon/lv_draw_buf_convert_neon.c.o
+.PHONY : src/draw/convert/neon/lv_draw_buf_convert_neon.c.o
+
+src/draw/convert/neon/lv_draw_buf_convert_neon.i: src/draw/convert/neon/lv_draw_buf_convert_neon.c.i
+.PHONY : src/draw/convert/neon/lv_draw_buf_convert_neon.i
+
+# target to preprocess a source file
+src/draw/convert/neon/lv_draw_buf_convert_neon.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/neon/lv_draw_buf_convert_neon.c.i
+.PHONY : src/draw/convert/neon/lv_draw_buf_convert_neon.c.i
+
+src/draw/convert/neon/lv_draw_buf_convert_neon.s: src/draw/convert/neon/lv_draw_buf_convert_neon.c.s
+.PHONY : src/draw/convert/neon/lv_draw_buf_convert_neon.s
+
+# target to generate assembly for a file
+src/draw/convert/neon/lv_draw_buf_convert_neon.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/convert/neon/lv_draw_buf_convert_neon.c.s
+.PHONY : src/draw/convert/neon/lv_draw_buf_convert_neon.c.s
+
+src/draw/dma2d/lv_draw_dma2d.o: src/draw/dma2d/lv_draw_dma2d.c.o
+.PHONY : src/draw/dma2d/lv_draw_dma2d.o
+
+# target to build an object file
+src/draw/dma2d/lv_draw_dma2d.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d.c.o
+.PHONY : src/draw/dma2d/lv_draw_dma2d.c.o
+
+src/draw/dma2d/lv_draw_dma2d.i: src/draw/dma2d/lv_draw_dma2d.c.i
+.PHONY : src/draw/dma2d/lv_draw_dma2d.i
+
+# target to preprocess a source file
+src/draw/dma2d/lv_draw_dma2d.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d.c.i
+.PHONY : src/draw/dma2d/lv_draw_dma2d.c.i
+
+src/draw/dma2d/lv_draw_dma2d.s: src/draw/dma2d/lv_draw_dma2d.c.s
+.PHONY : src/draw/dma2d/lv_draw_dma2d.s
+
+# target to generate assembly for a file
+src/draw/dma2d/lv_draw_dma2d.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d.c.s
+.PHONY : src/draw/dma2d/lv_draw_dma2d.c.s
+
+src/draw/dma2d/lv_draw_dma2d_fill.o: src/draw/dma2d/lv_draw_dma2d_fill.c.o
+.PHONY : src/draw/dma2d/lv_draw_dma2d_fill.o
+
+# target to build an object file
+src/draw/dma2d/lv_draw_dma2d_fill.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d_fill.c.o
+.PHONY : src/draw/dma2d/lv_draw_dma2d_fill.c.o
+
+src/draw/dma2d/lv_draw_dma2d_fill.i: src/draw/dma2d/lv_draw_dma2d_fill.c.i
+.PHONY : src/draw/dma2d/lv_draw_dma2d_fill.i
+
+# target to preprocess a source file
+src/draw/dma2d/lv_draw_dma2d_fill.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d_fill.c.i
+.PHONY : src/draw/dma2d/lv_draw_dma2d_fill.c.i
+
+src/draw/dma2d/lv_draw_dma2d_fill.s: src/draw/dma2d/lv_draw_dma2d_fill.c.s
+.PHONY : src/draw/dma2d/lv_draw_dma2d_fill.s
+
+# target to generate assembly for a file
+src/draw/dma2d/lv_draw_dma2d_fill.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d_fill.c.s
+.PHONY : src/draw/dma2d/lv_draw_dma2d_fill.c.s
+
+src/draw/dma2d/lv_draw_dma2d_img.o: src/draw/dma2d/lv_draw_dma2d_img.c.o
+.PHONY : src/draw/dma2d/lv_draw_dma2d_img.o
+
+# target to build an object file
+src/draw/dma2d/lv_draw_dma2d_img.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d_img.c.o
+.PHONY : src/draw/dma2d/lv_draw_dma2d_img.c.o
+
+src/draw/dma2d/lv_draw_dma2d_img.i: src/draw/dma2d/lv_draw_dma2d_img.c.i
+.PHONY : src/draw/dma2d/lv_draw_dma2d_img.i
+
+# target to preprocess a source file
+src/draw/dma2d/lv_draw_dma2d_img.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d_img.c.i
+.PHONY : src/draw/dma2d/lv_draw_dma2d_img.c.i
+
+src/draw/dma2d/lv_draw_dma2d_img.s: src/draw/dma2d/lv_draw_dma2d_img.c.s
+.PHONY : src/draw/dma2d/lv_draw_dma2d_img.s
+
+# target to generate assembly for a file
+src/draw/dma2d/lv_draw_dma2d_img.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/dma2d/lv_draw_dma2d_img.c.s
+.PHONY : src/draw/dma2d/lv_draw_dma2d_img.c.s
+
+src/draw/espressif/ppa/lv_draw_ppa.o: src/draw/espressif/ppa/lv_draw_ppa.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa.o
+
+# target to build an object file
+src/draw/espressif/ppa/lv_draw_ppa.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa.c.o
+
+src/draw/espressif/ppa/lv_draw_ppa.i: src/draw/espressif/ppa/lv_draw_ppa.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa.i
+
+# target to preprocess a source file
+src/draw/espressif/ppa/lv_draw_ppa.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa.c.i
+
+src/draw/espressif/ppa/lv_draw_ppa.s: src/draw/espressif/ppa/lv_draw_ppa.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa.s
+
+# target to generate assembly for a file
+src/draw/espressif/ppa/lv_draw_ppa.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa.c.s
+
+src/draw/espressif/ppa/lv_draw_ppa_buf.o: src/draw/espressif/ppa/lv_draw_ppa_buf.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_buf.o
+
+# target to build an object file
+src/draw/espressif/ppa/lv_draw_ppa_buf.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_buf.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_buf.c.o
+
+src/draw/espressif/ppa/lv_draw_ppa_buf.i: src/draw/espressif/ppa/lv_draw_ppa_buf.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_buf.i
+
+# target to preprocess a source file
+src/draw/espressif/ppa/lv_draw_ppa_buf.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_buf.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_buf.c.i
+
+src/draw/espressif/ppa/lv_draw_ppa_buf.s: src/draw/espressif/ppa/lv_draw_ppa_buf.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_buf.s
+
+# target to generate assembly for a file
+src/draw/espressif/ppa/lv_draw_ppa_buf.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_buf.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_buf.c.s
+
+src/draw/espressif/ppa/lv_draw_ppa_fill.o: src/draw/espressif/ppa/lv_draw_ppa_fill.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_fill.o
+
+# target to build an object file
+src/draw/espressif/ppa/lv_draw_ppa_fill.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_fill.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_fill.c.o
+
+src/draw/espressif/ppa/lv_draw_ppa_fill.i: src/draw/espressif/ppa/lv_draw_ppa_fill.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_fill.i
+
+# target to preprocess a source file
+src/draw/espressif/ppa/lv_draw_ppa_fill.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_fill.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_fill.c.i
+
+src/draw/espressif/ppa/lv_draw_ppa_fill.s: src/draw/espressif/ppa/lv_draw_ppa_fill.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_fill.s
+
+# target to generate assembly for a file
+src/draw/espressif/ppa/lv_draw_ppa_fill.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_fill.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_fill.c.s
+
+src/draw/espressif/ppa/lv_draw_ppa_img.o: src/draw/espressif/ppa/lv_draw_ppa_img.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_img.o
+
+# target to build an object file
+src/draw/espressif/ppa/lv_draw_ppa_img.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_img.c.o
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_img.c.o
+
+src/draw/espressif/ppa/lv_draw_ppa_img.i: src/draw/espressif/ppa/lv_draw_ppa_img.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_img.i
+
+# target to preprocess a source file
+src/draw/espressif/ppa/lv_draw_ppa_img.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_img.c.i
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_img.c.i
+
+src/draw/espressif/ppa/lv_draw_ppa_img.s: src/draw/espressif/ppa/lv_draw_ppa_img.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_img.s
+
+# target to generate assembly for a file
+src/draw/espressif/ppa/lv_draw_ppa_img.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/espressif/ppa/lv_draw_ppa_img.c.s
+.PHONY : src/draw/espressif/ppa/lv_draw_ppa_img.c.s
+
+src/draw/eve/lv_draw_eve.o: src/draw/eve/lv_draw_eve.c.o
+.PHONY : src/draw/eve/lv_draw_eve.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve.c.o
+.PHONY : src/draw/eve/lv_draw_eve.c.o
+
+src/draw/eve/lv_draw_eve.i: src/draw/eve/lv_draw_eve.c.i
+.PHONY : src/draw/eve/lv_draw_eve.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve.c.i
+.PHONY : src/draw/eve/lv_draw_eve.c.i
+
+src/draw/eve/lv_draw_eve.s: src/draw/eve/lv_draw_eve.c.s
+.PHONY : src/draw/eve/lv_draw_eve.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve.c.s
+.PHONY : src/draw/eve/lv_draw_eve.c.s
+
+src/draw/eve/lv_draw_eve_arc.o: src/draw/eve/lv_draw_eve_arc.c.o
+.PHONY : src/draw/eve/lv_draw_eve_arc.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve_arc.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_arc.c.o
+.PHONY : src/draw/eve/lv_draw_eve_arc.c.o
+
+src/draw/eve/lv_draw_eve_arc.i: src/draw/eve/lv_draw_eve_arc.c.i
+.PHONY : src/draw/eve/lv_draw_eve_arc.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve_arc.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_arc.c.i
+.PHONY : src/draw/eve/lv_draw_eve_arc.c.i
+
+src/draw/eve/lv_draw_eve_arc.s: src/draw/eve/lv_draw_eve_arc.c.s
+.PHONY : src/draw/eve/lv_draw_eve_arc.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve_arc.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_arc.c.s
+.PHONY : src/draw/eve/lv_draw_eve_arc.c.s
+
+src/draw/eve/lv_draw_eve_fill.o: src/draw/eve/lv_draw_eve_fill.c.o
+.PHONY : src/draw/eve/lv_draw_eve_fill.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve_fill.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_fill.c.o
+.PHONY : src/draw/eve/lv_draw_eve_fill.c.o
+
+src/draw/eve/lv_draw_eve_fill.i: src/draw/eve/lv_draw_eve_fill.c.i
+.PHONY : src/draw/eve/lv_draw_eve_fill.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve_fill.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_fill.c.i
+.PHONY : src/draw/eve/lv_draw_eve_fill.c.i
+
+src/draw/eve/lv_draw_eve_fill.s: src/draw/eve/lv_draw_eve_fill.c.s
+.PHONY : src/draw/eve/lv_draw_eve_fill.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve_fill.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_fill.c.s
+.PHONY : src/draw/eve/lv_draw_eve_fill.c.s
+
+src/draw/eve/lv_draw_eve_image.o: src/draw/eve/lv_draw_eve_image.c.o
+.PHONY : src/draw/eve/lv_draw_eve_image.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve_image.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_image.c.o
+.PHONY : src/draw/eve/lv_draw_eve_image.c.o
+
+src/draw/eve/lv_draw_eve_image.i: src/draw/eve/lv_draw_eve_image.c.i
+.PHONY : src/draw/eve/lv_draw_eve_image.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve_image.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_image.c.i
+.PHONY : src/draw/eve/lv_draw_eve_image.c.i
+
+src/draw/eve/lv_draw_eve_image.s: src/draw/eve/lv_draw_eve_image.c.s
+.PHONY : src/draw/eve/lv_draw_eve_image.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve_image.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_image.c.s
+.PHONY : src/draw/eve/lv_draw_eve_image.c.s
+
+src/draw/eve/lv_draw_eve_letter.o: src/draw/eve/lv_draw_eve_letter.c.o
+.PHONY : src/draw/eve/lv_draw_eve_letter.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve_letter.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_letter.c.o
+.PHONY : src/draw/eve/lv_draw_eve_letter.c.o
+
+src/draw/eve/lv_draw_eve_letter.i: src/draw/eve/lv_draw_eve_letter.c.i
+.PHONY : src/draw/eve/lv_draw_eve_letter.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve_letter.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_letter.c.i
+.PHONY : src/draw/eve/lv_draw_eve_letter.c.i
+
+src/draw/eve/lv_draw_eve_letter.s: src/draw/eve/lv_draw_eve_letter.c.s
+.PHONY : src/draw/eve/lv_draw_eve_letter.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve_letter.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_letter.c.s
+.PHONY : src/draw/eve/lv_draw_eve_letter.c.s
+
+src/draw/eve/lv_draw_eve_line.o: src/draw/eve/lv_draw_eve_line.c.o
+.PHONY : src/draw/eve/lv_draw_eve_line.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve_line.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_line.c.o
+.PHONY : src/draw/eve/lv_draw_eve_line.c.o
+
+src/draw/eve/lv_draw_eve_line.i: src/draw/eve/lv_draw_eve_line.c.i
+.PHONY : src/draw/eve/lv_draw_eve_line.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve_line.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_line.c.i
+.PHONY : src/draw/eve/lv_draw_eve_line.c.i
+
+src/draw/eve/lv_draw_eve_line.s: src/draw/eve/lv_draw_eve_line.c.s
+.PHONY : src/draw/eve/lv_draw_eve_line.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve_line.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_line.c.s
+.PHONY : src/draw/eve/lv_draw_eve_line.c.s
+
+src/draw/eve/lv_draw_eve_ram_g.o: src/draw/eve/lv_draw_eve_ram_g.c.o
+.PHONY : src/draw/eve/lv_draw_eve_ram_g.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve_ram_g.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_ram_g.c.o
+.PHONY : src/draw/eve/lv_draw_eve_ram_g.c.o
+
+src/draw/eve/lv_draw_eve_ram_g.i: src/draw/eve/lv_draw_eve_ram_g.c.i
+.PHONY : src/draw/eve/lv_draw_eve_ram_g.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve_ram_g.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_ram_g.c.i
+.PHONY : src/draw/eve/lv_draw_eve_ram_g.c.i
+
+src/draw/eve/lv_draw_eve_ram_g.s: src/draw/eve/lv_draw_eve_ram_g.c.s
+.PHONY : src/draw/eve/lv_draw_eve_ram_g.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve_ram_g.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_ram_g.c.s
+.PHONY : src/draw/eve/lv_draw_eve_ram_g.c.s
+
+src/draw/eve/lv_draw_eve_triangle.o: src/draw/eve/lv_draw_eve_triangle.c.o
+.PHONY : src/draw/eve/lv_draw_eve_triangle.o
+
+# target to build an object file
+src/draw/eve/lv_draw_eve_triangle.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_triangle.c.o
+.PHONY : src/draw/eve/lv_draw_eve_triangle.c.o
+
+src/draw/eve/lv_draw_eve_triangle.i: src/draw/eve/lv_draw_eve_triangle.c.i
+.PHONY : src/draw/eve/lv_draw_eve_triangle.i
+
+# target to preprocess a source file
+src/draw/eve/lv_draw_eve_triangle.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_triangle.c.i
+.PHONY : src/draw/eve/lv_draw_eve_triangle.c.i
+
+src/draw/eve/lv_draw_eve_triangle.s: src/draw/eve/lv_draw_eve_triangle.c.s
+.PHONY : src/draw/eve/lv_draw_eve_triangle.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_draw_eve_triangle.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_draw_eve_triangle.c.s
+.PHONY : src/draw/eve/lv_draw_eve_triangle.c.s
+
+src/draw/eve/lv_eve.o: src/draw/eve/lv_eve.c.o
+.PHONY : src/draw/eve/lv_eve.o
+
+# target to build an object file
+src/draw/eve/lv_eve.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_eve.c.o
+.PHONY : src/draw/eve/lv_eve.c.o
+
+src/draw/eve/lv_eve.i: src/draw/eve/lv_eve.c.i
+.PHONY : src/draw/eve/lv_eve.i
+
+# target to preprocess a source file
+src/draw/eve/lv_eve.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_eve.c.i
+.PHONY : src/draw/eve/lv_eve.c.i
+
+src/draw/eve/lv_eve.s: src/draw/eve/lv_eve.c.s
+.PHONY : src/draw/eve/lv_eve.s
+
+# target to generate assembly for a file
+src/draw/eve/lv_eve.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/eve/lv_eve.c.s
+.PHONY : src/draw/eve/lv_eve.c.s
+
 src/draw/lv_draw.o: src/draw/lv_draw.c.o
 .PHONY : src/draw/lv_draw.o
 
@@ -8017,6 +9505,30 @@ src/draw/lv_draw.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.s
 .PHONY : src/draw/lv_draw.c.s
 
+src/draw/lv_draw_3d.o: src/draw/lv_draw_3d.c.o
+.PHONY : src/draw/lv_draw_3d.o
+
+# target to build an object file
+src/draw/lv_draw_3d.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_3d.c.o
+.PHONY : src/draw/lv_draw_3d.c.o
+
+src/draw/lv_draw_3d.i: src/draw/lv_draw_3d.c.i
+.PHONY : src/draw/lv_draw_3d.i
+
+# target to preprocess a source file
+src/draw/lv_draw_3d.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_3d.c.i
+.PHONY : src/draw/lv_draw_3d.c.i
+
+src/draw/lv_draw_3d.s: src/draw/lv_draw_3d.c.s
+.PHONY : src/draw/lv_draw_3d.s
+
+# target to generate assembly for a file
+src/draw/lv_draw_3d.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_3d.c.s
+.PHONY : src/draw/lv_draw_3d.c.s
+
 src/draw/lv_draw_arc.o: src/draw/lv_draw_arc.c.o
 .PHONY : src/draw/lv_draw_arc.o
 
@@ -8040,6 +9552,30 @@ src/draw/lv_draw_arc.s: src/draw/lv_draw_arc.c.s
 src/draw/lv_draw_arc.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.s
 .PHONY : src/draw/lv_draw_arc.c.s
+
+src/draw/lv_draw_blur.o: src/draw/lv_draw_blur.c.o
+.PHONY : src/draw/lv_draw_blur.o
+
+# target to build an object file
+src/draw/lv_draw_blur.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_blur.c.o
+.PHONY : src/draw/lv_draw_blur.c.o
+
+src/draw/lv_draw_blur.i: src/draw/lv_draw_blur.c.i
+.PHONY : src/draw/lv_draw_blur.i
+
+# target to preprocess a source file
+src/draw/lv_draw_blur.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_blur.c.i
+.PHONY : src/draw/lv_draw_blur.c.i
+
+src/draw/lv_draw_blur.s: src/draw/lv_draw_blur.c.s
+.PHONY : src/draw/lv_draw_blur.s
+
+# target to generate assembly for a file
+src/draw/lv_draw_blur.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_blur.c.s
+.PHONY : src/draw/lv_draw_blur.c.s
 
 src/draw/lv_draw_buf.o: src/draw/lv_draw_buf.c.o
 .PHONY : src/draw/lv_draw_buf.o
@@ -8257,6 +9793,870 @@ src/draw/lv_image_decoder.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/lv_image_decoder.c.s
 .PHONY : src/draw/lv_image_decoder.c.s
 
+src/draw/nanovg/lv_draw_nanovg.o: src/draw/nanovg/lv_draw_nanovg.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg.c.o
+
+src/draw/nanovg/lv_draw_nanovg.i: src/draw/nanovg/lv_draw_nanovg.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg.c.i
+
+src/draw/nanovg/lv_draw_nanovg.s: src/draw/nanovg/lv_draw_nanovg.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg.c.s
+
+src/draw/nanovg/lv_draw_nanovg_3d.o: src/draw/nanovg/lv_draw_nanovg_3d.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_3d.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_3d.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_3d.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_3d.c.o
+
+src/draw/nanovg/lv_draw_nanovg_3d.i: src/draw/nanovg/lv_draw_nanovg_3d.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_3d.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_3d.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_3d.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_3d.c.i
+
+src/draw/nanovg/lv_draw_nanovg_3d.s: src/draw/nanovg/lv_draw_nanovg_3d.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_3d.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_3d.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_3d.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_3d.c.s
+
+src/draw/nanovg/lv_draw_nanovg_arc.o: src/draw/nanovg/lv_draw_nanovg_arc.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_arc.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_arc.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_arc.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_arc.c.o
+
+src/draw/nanovg/lv_draw_nanovg_arc.i: src/draw/nanovg/lv_draw_nanovg_arc.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_arc.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_arc.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_arc.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_arc.c.i
+
+src/draw/nanovg/lv_draw_nanovg_arc.s: src/draw/nanovg/lv_draw_nanovg_arc.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_arc.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_arc.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_arc.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_arc.c.s
+
+src/draw/nanovg/lv_draw_nanovg_border.o: src/draw/nanovg/lv_draw_nanovg_border.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_border.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_border.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_border.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_border.c.o
+
+src/draw/nanovg/lv_draw_nanovg_border.i: src/draw/nanovg/lv_draw_nanovg_border.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_border.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_border.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_border.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_border.c.i
+
+src/draw/nanovg/lv_draw_nanovg_border.s: src/draw/nanovg/lv_draw_nanovg_border.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_border.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_border.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_border.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_border.c.s
+
+src/draw/nanovg/lv_draw_nanovg_box_shadow.o: src/draw/nanovg/lv_draw_nanovg_box_shadow.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_box_shadow.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_box_shadow.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_box_shadow.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_box_shadow.c.o
+
+src/draw/nanovg/lv_draw_nanovg_box_shadow.i: src/draw/nanovg/lv_draw_nanovg_box_shadow.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_box_shadow.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_box_shadow.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_box_shadow.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_box_shadow.c.i
+
+src/draw/nanovg/lv_draw_nanovg_box_shadow.s: src/draw/nanovg/lv_draw_nanovg_box_shadow.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_box_shadow.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_box_shadow.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_box_shadow.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_box_shadow.c.s
+
+src/draw/nanovg/lv_draw_nanovg_fill.o: src/draw/nanovg/lv_draw_nanovg_fill.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_fill.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_fill.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_fill.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_fill.c.o
+
+src/draw/nanovg/lv_draw_nanovg_fill.i: src/draw/nanovg/lv_draw_nanovg_fill.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_fill.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_fill.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_fill.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_fill.c.i
+
+src/draw/nanovg/lv_draw_nanovg_fill.s: src/draw/nanovg/lv_draw_nanovg_fill.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_fill.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_fill.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_fill.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_fill.c.s
+
+src/draw/nanovg/lv_draw_nanovg_grad.o: src/draw/nanovg/lv_draw_nanovg_grad.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_grad.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_grad.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_grad.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_grad.c.o
+
+src/draw/nanovg/lv_draw_nanovg_grad.i: src/draw/nanovg/lv_draw_nanovg_grad.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_grad.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_grad.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_grad.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_grad.c.i
+
+src/draw/nanovg/lv_draw_nanovg_grad.s: src/draw/nanovg/lv_draw_nanovg_grad.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_grad.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_grad.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_grad.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_grad.c.s
+
+src/draw/nanovg/lv_draw_nanovg_image.o: src/draw/nanovg/lv_draw_nanovg_image.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_image.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_image.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_image.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_image.c.o
+
+src/draw/nanovg/lv_draw_nanovg_image.i: src/draw/nanovg/lv_draw_nanovg_image.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_image.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_image.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_image.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_image.c.i
+
+src/draw/nanovg/lv_draw_nanovg_image.s: src/draw/nanovg/lv_draw_nanovg_image.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_image.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_image.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_image.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_image.c.s
+
+src/draw/nanovg/lv_draw_nanovg_label.o: src/draw/nanovg/lv_draw_nanovg_label.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_label.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_label.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_label.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_label.c.o
+
+src/draw/nanovg/lv_draw_nanovg_label.i: src/draw/nanovg/lv_draw_nanovg_label.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_label.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_label.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_label.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_label.c.i
+
+src/draw/nanovg/lv_draw_nanovg_label.s: src/draw/nanovg/lv_draw_nanovg_label.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_label.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_label.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_label.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_label.c.s
+
+src/draw/nanovg/lv_draw_nanovg_layer.o: src/draw/nanovg/lv_draw_nanovg_layer.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_layer.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_layer.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_layer.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_layer.c.o
+
+src/draw/nanovg/lv_draw_nanovg_layer.i: src/draw/nanovg/lv_draw_nanovg_layer.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_layer.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_layer.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_layer.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_layer.c.i
+
+src/draw/nanovg/lv_draw_nanovg_layer.s: src/draw/nanovg/lv_draw_nanovg_layer.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_layer.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_layer.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_layer.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_layer.c.s
+
+src/draw/nanovg/lv_draw_nanovg_line.o: src/draw/nanovg/lv_draw_nanovg_line.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_line.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_line.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_line.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_line.c.o
+
+src/draw/nanovg/lv_draw_nanovg_line.i: src/draw/nanovg/lv_draw_nanovg_line.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_line.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_line.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_line.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_line.c.i
+
+src/draw/nanovg/lv_draw_nanovg_line.s: src/draw/nanovg/lv_draw_nanovg_line.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_line.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_line.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_line.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_line.c.s
+
+src/draw/nanovg/lv_draw_nanovg_mask_rect.o: src/draw/nanovg/lv_draw_nanovg_mask_rect.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_mask_rect.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_mask_rect.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_mask_rect.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_mask_rect.c.o
+
+src/draw/nanovg/lv_draw_nanovg_mask_rect.i: src/draw/nanovg/lv_draw_nanovg_mask_rect.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_mask_rect.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_mask_rect.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_mask_rect.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_mask_rect.c.i
+
+src/draw/nanovg/lv_draw_nanovg_mask_rect.s: src/draw/nanovg/lv_draw_nanovg_mask_rect.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_mask_rect.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_mask_rect.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_mask_rect.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_mask_rect.c.s
+
+src/draw/nanovg/lv_draw_nanovg_triangle.o: src/draw/nanovg/lv_draw_nanovg_triangle.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_triangle.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_triangle.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_triangle.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_triangle.c.o
+
+src/draw/nanovg/lv_draw_nanovg_triangle.i: src/draw/nanovg/lv_draw_nanovg_triangle.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_triangle.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_triangle.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_triangle.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_triangle.c.i
+
+src/draw/nanovg/lv_draw_nanovg_triangle.s: src/draw/nanovg/lv_draw_nanovg_triangle.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_triangle.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_triangle.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_triangle.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_triangle.c.s
+
+src/draw/nanovg/lv_draw_nanovg_vector.o: src/draw/nanovg/lv_draw_nanovg_vector.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_vector.o
+
+# target to build an object file
+src/draw/nanovg/lv_draw_nanovg_vector.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_vector.c.o
+.PHONY : src/draw/nanovg/lv_draw_nanovg_vector.c.o
+
+src/draw/nanovg/lv_draw_nanovg_vector.i: src/draw/nanovg/lv_draw_nanovg_vector.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_vector.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_draw_nanovg_vector.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_vector.c.i
+.PHONY : src/draw/nanovg/lv_draw_nanovg_vector.c.i
+
+src/draw/nanovg/lv_draw_nanovg_vector.s: src/draw/nanovg/lv_draw_nanovg_vector.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_vector.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_draw_nanovg_vector.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_draw_nanovg_vector.c.s
+.PHONY : src/draw/nanovg/lv_draw_nanovg_vector.c.s
+
+src/draw/nanovg/lv_nanovg_fbo_cache.o: src/draw/nanovg/lv_nanovg_fbo_cache.c.o
+.PHONY : src/draw/nanovg/lv_nanovg_fbo_cache.o
+
+# target to build an object file
+src/draw/nanovg/lv_nanovg_fbo_cache.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_fbo_cache.c.o
+.PHONY : src/draw/nanovg/lv_nanovg_fbo_cache.c.o
+
+src/draw/nanovg/lv_nanovg_fbo_cache.i: src/draw/nanovg/lv_nanovg_fbo_cache.c.i
+.PHONY : src/draw/nanovg/lv_nanovg_fbo_cache.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_nanovg_fbo_cache.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_fbo_cache.c.i
+.PHONY : src/draw/nanovg/lv_nanovg_fbo_cache.c.i
+
+src/draw/nanovg/lv_nanovg_fbo_cache.s: src/draw/nanovg/lv_nanovg_fbo_cache.c.s
+.PHONY : src/draw/nanovg/lv_nanovg_fbo_cache.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_nanovg_fbo_cache.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_fbo_cache.c.s
+.PHONY : src/draw/nanovg/lv_nanovg_fbo_cache.c.s
+
+src/draw/nanovg/lv_nanovg_image_cache.o: src/draw/nanovg/lv_nanovg_image_cache.c.o
+.PHONY : src/draw/nanovg/lv_nanovg_image_cache.o
+
+# target to build an object file
+src/draw/nanovg/lv_nanovg_image_cache.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_image_cache.c.o
+.PHONY : src/draw/nanovg/lv_nanovg_image_cache.c.o
+
+src/draw/nanovg/lv_nanovg_image_cache.i: src/draw/nanovg/lv_nanovg_image_cache.c.i
+.PHONY : src/draw/nanovg/lv_nanovg_image_cache.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_nanovg_image_cache.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_image_cache.c.i
+.PHONY : src/draw/nanovg/lv_nanovg_image_cache.c.i
+
+src/draw/nanovg/lv_nanovg_image_cache.s: src/draw/nanovg/lv_nanovg_image_cache.c.s
+.PHONY : src/draw/nanovg/lv_nanovg_image_cache.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_nanovg_image_cache.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_image_cache.c.s
+.PHONY : src/draw/nanovg/lv_nanovg_image_cache.c.s
+
+src/draw/nanovg/lv_nanovg_utils.o: src/draw/nanovg/lv_nanovg_utils.c.o
+.PHONY : src/draw/nanovg/lv_nanovg_utils.o
+
+# target to build an object file
+src/draw/nanovg/lv_nanovg_utils.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_utils.c.o
+.PHONY : src/draw/nanovg/lv_nanovg_utils.c.o
+
+src/draw/nanovg/lv_nanovg_utils.i: src/draw/nanovg/lv_nanovg_utils.c.i
+.PHONY : src/draw/nanovg/lv_nanovg_utils.i
+
+# target to preprocess a source file
+src/draw/nanovg/lv_nanovg_utils.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_utils.c.i
+.PHONY : src/draw/nanovg/lv_nanovg_utils.c.i
+
+src/draw/nanovg/lv_nanovg_utils.s: src/draw/nanovg/lv_nanovg_utils.c.s
+.PHONY : src/draw/nanovg/lv_nanovg_utils.s
+
+# target to generate assembly for a file
+src/draw/nanovg/lv_nanovg_utils.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nanovg/lv_nanovg_utils.c.s
+.PHONY : src/draw/nanovg/lv_nanovg_utils.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx.o: src/draw/nema_gfx/lv_draw_nema_gfx.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx.i: src/draw/nema_gfx/lv_draw_nema_gfx.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx.s: src/draw/nema_gfx/lv_draw_nema_gfx.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_arc.o: src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_arc.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_arc.i: src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_arc.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_arc.s: src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_arc.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_arc.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_border.o: src/draw/nema_gfx/lv_draw_nema_gfx_border.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_border.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_border.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_border.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_border.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_border.i: src/draw/nema_gfx/lv_draw_nema_gfx_border.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_border.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_border.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_border.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_border.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_border.s: src/draw/nema_gfx/lv_draw_nema_gfx_border.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_border.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_border.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_border.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_border.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_fill.o: src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_fill.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_fill.i: src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_fill.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_fill.s: src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_fill.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_fill.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_img.o: src/draw/nema_gfx/lv_draw_nema_gfx_img.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_img.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_img.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_img.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_img.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_img.i: src/draw/nema_gfx/lv_draw_nema_gfx_img.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_img.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_img.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_img.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_img.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_img.s: src/draw/nema_gfx/lv_draw_nema_gfx_img.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_img.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_img.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_img.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_img.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_label.o: src/draw/nema_gfx/lv_draw_nema_gfx_label.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_label.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_label.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_label.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_label.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_label.i: src/draw/nema_gfx/lv_draw_nema_gfx_label.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_label.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_label.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_label.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_label.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_label.s: src/draw/nema_gfx/lv_draw_nema_gfx_label.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_label.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_label.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_label.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_label.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_layer.o: src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_layer.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_layer.i: src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_layer.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_layer.s: src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_layer.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_layer.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_line.o: src/draw/nema_gfx/lv_draw_nema_gfx_line.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_line.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_line.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_line.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_line.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_line.i: src/draw/nema_gfx/lv_draw_nema_gfx_line.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_line.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_line.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_line.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_line.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_line.s: src/draw/nema_gfx/lv_draw_nema_gfx_line.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_line.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_line.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_line.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_line.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.o: src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.i: src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.s: src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_triangle.o: src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_triangle.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_triangle.i: src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_triangle.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_triangle.s: src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_triangle.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_triangle.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_utils.o: src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_utils.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_utils.i: src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_utils.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_utils.s: src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_utils.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_utils.c.s
+
+src/draw/nema_gfx/lv_draw_nema_gfx_vector.o: src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_vector.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.o
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.o
+
+src/draw/nema_gfx/lv_draw_nema_gfx_vector.i: src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_vector.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.i
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.i
+
+src/draw/nema_gfx/lv_draw_nema_gfx_vector.s: src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_vector.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.s
+.PHONY : src/draw/nema_gfx/lv_draw_nema_gfx_vector.c.s
+
+src/draw/nema_gfx/lv_nema_gfx_path.o: src/draw/nema_gfx/lv_nema_gfx_path.c.o
+.PHONY : src/draw/nema_gfx/lv_nema_gfx_path.o
+
+# target to build an object file
+src/draw/nema_gfx/lv_nema_gfx_path.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_nema_gfx_path.c.o
+.PHONY : src/draw/nema_gfx/lv_nema_gfx_path.c.o
+
+src/draw/nema_gfx/lv_nema_gfx_path.i: src/draw/nema_gfx/lv_nema_gfx_path.c.i
+.PHONY : src/draw/nema_gfx/lv_nema_gfx_path.i
+
+# target to preprocess a source file
+src/draw/nema_gfx/lv_nema_gfx_path.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_nema_gfx_path.c.i
+.PHONY : src/draw/nema_gfx/lv_nema_gfx_path.c.i
+
+src/draw/nema_gfx/lv_nema_gfx_path.s: src/draw/nema_gfx/lv_nema_gfx_path.c.s
+.PHONY : src/draw/nema_gfx/lv_nema_gfx_path.s
+
+# target to generate assembly for a file
+src/draw/nema_gfx/lv_nema_gfx_path.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nema_gfx/lv_nema_gfx_path.c.s
+.PHONY : src/draw/nema_gfx/lv_nema_gfx_path.c.s
+
+src/draw/nxp/g2d/lv_draw_buf_g2d.o: src/draw/nxp/g2d/lv_draw_buf_g2d.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_buf_g2d.o
+
+# target to build an object file
+src/draw/nxp/g2d/lv_draw_buf_g2d.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_buf_g2d.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_buf_g2d.c.o
+
+src/draw/nxp/g2d/lv_draw_buf_g2d.i: src/draw/nxp/g2d/lv_draw_buf_g2d.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_buf_g2d.i
+
+# target to preprocess a source file
+src/draw/nxp/g2d/lv_draw_buf_g2d.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_buf_g2d.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_buf_g2d.c.i
+
+src/draw/nxp/g2d/lv_draw_buf_g2d.s: src/draw/nxp/g2d/lv_draw_buf_g2d.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_buf_g2d.s
+
+# target to generate assembly for a file
+src/draw/nxp/g2d/lv_draw_buf_g2d.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_buf_g2d.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_buf_g2d.c.s
+
+src/draw/nxp/g2d/lv_draw_g2d.o: src/draw/nxp/g2d/lv_draw_g2d.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d.o
+
+# target to build an object file
+src/draw/nxp/g2d/lv_draw_g2d.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d.c.o
+
+src/draw/nxp/g2d/lv_draw_g2d.i: src/draw/nxp/g2d/lv_draw_g2d.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d.i
+
+# target to preprocess a source file
+src/draw/nxp/g2d/lv_draw_g2d.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d.c.i
+
+src/draw/nxp/g2d/lv_draw_g2d.s: src/draw/nxp/g2d/lv_draw_g2d.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d.s
+
+# target to generate assembly for a file
+src/draw/nxp/g2d/lv_draw_g2d.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d.c.s
+
+src/draw/nxp/g2d/lv_draw_g2d_fill.o: src/draw/nxp/g2d/lv_draw_g2d_fill.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_fill.o
+
+# target to build an object file
+src/draw/nxp/g2d/lv_draw_g2d_fill.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d_fill.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_fill.c.o
+
+src/draw/nxp/g2d/lv_draw_g2d_fill.i: src/draw/nxp/g2d/lv_draw_g2d_fill.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_fill.i
+
+# target to preprocess a source file
+src/draw/nxp/g2d/lv_draw_g2d_fill.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d_fill.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_fill.c.i
+
+src/draw/nxp/g2d/lv_draw_g2d_fill.s: src/draw/nxp/g2d/lv_draw_g2d_fill.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_fill.s
+
+# target to generate assembly for a file
+src/draw/nxp/g2d/lv_draw_g2d_fill.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d_fill.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_fill.c.s
+
+src/draw/nxp/g2d/lv_draw_g2d_img.o: src/draw/nxp/g2d/lv_draw_g2d_img.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_img.o
+
+# target to build an object file
+src/draw/nxp/g2d/lv_draw_g2d_img.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d_img.c.o
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_img.c.o
+
+src/draw/nxp/g2d/lv_draw_g2d_img.i: src/draw/nxp/g2d/lv_draw_g2d_img.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_img.i
+
+# target to preprocess a source file
+src/draw/nxp/g2d/lv_draw_g2d_img.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d_img.c.i
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_img.c.i
+
+src/draw/nxp/g2d/lv_draw_g2d_img.s: src/draw/nxp/g2d/lv_draw_g2d_img.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_img.s
+
+# target to generate assembly for a file
+src/draw/nxp/g2d/lv_draw_g2d_img.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_draw_g2d_img.c.s
+.PHONY : src/draw/nxp/g2d/lv_draw_g2d_img.c.s
+
+src/draw/nxp/g2d/lv_g2d_buf_map.o: src/draw/nxp/g2d/lv_g2d_buf_map.c.o
+.PHONY : src/draw/nxp/g2d/lv_g2d_buf_map.o
+
+# target to build an object file
+src/draw/nxp/g2d/lv_g2d_buf_map.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_g2d_buf_map.c.o
+.PHONY : src/draw/nxp/g2d/lv_g2d_buf_map.c.o
+
+src/draw/nxp/g2d/lv_g2d_buf_map.i: src/draw/nxp/g2d/lv_g2d_buf_map.c.i
+.PHONY : src/draw/nxp/g2d/lv_g2d_buf_map.i
+
+# target to preprocess a source file
+src/draw/nxp/g2d/lv_g2d_buf_map.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_g2d_buf_map.c.i
+.PHONY : src/draw/nxp/g2d/lv_g2d_buf_map.c.i
+
+src/draw/nxp/g2d/lv_g2d_buf_map.s: src/draw/nxp/g2d/lv_g2d_buf_map.c.s
+.PHONY : src/draw/nxp/g2d/lv_g2d_buf_map.s
+
+# target to generate assembly for a file
+src/draw/nxp/g2d/lv_g2d_buf_map.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_g2d_buf_map.c.s
+.PHONY : src/draw/nxp/g2d/lv_g2d_buf_map.c.s
+
+src/draw/nxp/g2d/lv_g2d_utils.o: src/draw/nxp/g2d/lv_g2d_utils.c.o
+.PHONY : src/draw/nxp/g2d/lv_g2d_utils.o
+
+# target to build an object file
+src/draw/nxp/g2d/lv_g2d_utils.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_g2d_utils.c.o
+.PHONY : src/draw/nxp/g2d/lv_g2d_utils.c.o
+
+src/draw/nxp/g2d/lv_g2d_utils.i: src/draw/nxp/g2d/lv_g2d_utils.c.i
+.PHONY : src/draw/nxp/g2d/lv_g2d_utils.i
+
+# target to preprocess a source file
+src/draw/nxp/g2d/lv_g2d_utils.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_g2d_utils.c.i
+.PHONY : src/draw/nxp/g2d/lv_g2d_utils.c.i
+
+src/draw/nxp/g2d/lv_g2d_utils.s: src/draw/nxp/g2d/lv_g2d_utils.c.s
+.PHONY : src/draw/nxp/g2d/lv_g2d_utils.s
+
+# target to generate assembly for a file
+src/draw/nxp/g2d/lv_g2d_utils.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/g2d/lv_g2d_utils.c.s
+.PHONY : src/draw/nxp/g2d/lv_g2d_utils.c.s
+
 src/draw/nxp/pxp/lv_draw_buf_pxp.o: src/draw/nxp/pxp/lv_draw_buf_pxp.c.o
 .PHONY : src/draw/nxp/pxp/lv_draw_buf_pxp.o
 
@@ -8449,341 +10849,29 @@ src/draw/nxp/pxp/lv_pxp_utils.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/pxp/lv_pxp_utils.c.s
 .PHONY : src/draw/nxp/pxp/lv_pxp_utils.c.s
 
-src/draw/nxp/vglite/lv_draw_buf_vglite.o: src/draw/nxp/vglite/lv_draw_buf_vglite.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_buf_vglite.o
+src/draw/opengles/lv_draw_opengles.o: src/draw/opengles/lv_draw_opengles.c.o
+.PHONY : src/draw/opengles/lv_draw_opengles.o
 
 # target to build an object file
-src/draw/nxp/vglite/lv_draw_buf_vglite.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_buf_vglite.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_buf_vglite.c.o
+src/draw/opengles/lv_draw_opengles.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/opengles/lv_draw_opengles.c.o
+.PHONY : src/draw/opengles/lv_draw_opengles.c.o
 
-src/draw/nxp/vglite/lv_draw_buf_vglite.i: src/draw/nxp/vglite/lv_draw_buf_vglite.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_buf_vglite.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_buf_vglite.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_buf_vglite.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_buf_vglite.c.i
-
-src/draw/nxp/vglite/lv_draw_buf_vglite.s: src/draw/nxp/vglite/lv_draw_buf_vglite.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_buf_vglite.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_buf_vglite.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_buf_vglite.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_buf_vglite.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite.o: src/draw/nxp/vglite/lv_draw_vglite.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite.i: src/draw/nxp/vglite/lv_draw_vglite.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite.i
+src/draw/opengles/lv_draw_opengles.i: src/draw/opengles/lv_draw_opengles.c.i
+.PHONY : src/draw/opengles/lv_draw_opengles.i
 
 # target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite.c.i
+src/draw/opengles/lv_draw_opengles.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/opengles/lv_draw_opengles.c.i
+.PHONY : src/draw/opengles/lv_draw_opengles.c.i
 
-src/draw/nxp/vglite/lv_draw_vglite.s: src/draw/nxp/vglite/lv_draw_vglite.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_arc.o: src/draw/nxp/vglite/lv_draw_vglite_arc.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_arc.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_arc.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_arc.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_arc.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_arc.i: src/draw/nxp/vglite/lv_draw_vglite_arc.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_arc.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_arc.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_arc.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_arc.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_arc.s: src/draw/nxp/vglite/lv_draw_vglite_arc.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_arc.s
+src/draw/opengles/lv_draw_opengles.s: src/draw/opengles/lv_draw_opengles.c.s
+.PHONY : src/draw/opengles/lv_draw_opengles.s
 
 # target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_arc.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_arc.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_arc.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_border.o: src/draw/nxp/vglite/lv_draw_vglite_border.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_border.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_border.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_border.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_border.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_border.i: src/draw/nxp/vglite/lv_draw_vglite_border.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_border.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_border.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_border.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_border.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_border.s: src/draw/nxp/vglite/lv_draw_vglite_border.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_border.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_border.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_border.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_border.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_fill.o: src/draw/nxp/vglite/lv_draw_vglite_fill.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_fill.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_fill.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_fill.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_fill.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_fill.i: src/draw/nxp/vglite/lv_draw_vglite_fill.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_fill.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_fill.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_fill.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_fill.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_fill.s: src/draw/nxp/vglite/lv_draw_vglite_fill.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_fill.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_fill.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_fill.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_fill.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_img.o: src/draw/nxp/vglite/lv_draw_vglite_img.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_img.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_img.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_img.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_img.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_img.i: src/draw/nxp/vglite/lv_draw_vglite_img.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_img.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_img.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_img.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_img.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_img.s: src/draw/nxp/vglite/lv_draw_vglite_img.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_img.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_img.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_img.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_img.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_label.o: src/draw/nxp/vglite/lv_draw_vglite_label.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_label.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_label.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_label.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_label.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_label.i: src/draw/nxp/vglite/lv_draw_vglite_label.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_label.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_label.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_label.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_label.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_label.s: src/draw/nxp/vglite/lv_draw_vglite_label.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_label.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_label.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_label.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_label.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_layer.o: src/draw/nxp/vglite/lv_draw_vglite_layer.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_layer.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_layer.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_layer.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_layer.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_layer.i: src/draw/nxp/vglite/lv_draw_vglite_layer.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_layer.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_layer.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_layer.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_layer.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_layer.s: src/draw/nxp/vglite/lv_draw_vglite_layer.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_layer.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_layer.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_layer.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_layer.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_line.o: src/draw/nxp/vglite/lv_draw_vglite_line.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_line.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_line.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_line.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_line.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_line.i: src/draw/nxp/vglite/lv_draw_vglite_line.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_line.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_line.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_line.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_line.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_line.s: src/draw/nxp/vglite/lv_draw_vglite_line.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_line.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_line.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_line.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_line.c.s
-
-src/draw/nxp/vglite/lv_draw_vglite_triangle.o: src/draw/nxp/vglite/lv_draw_vglite_triangle.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_triangle.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_draw_vglite_triangle.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_triangle.c.o
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_triangle.c.o
-
-src/draw/nxp/vglite/lv_draw_vglite_triangle.i: src/draw/nxp/vglite/lv_draw_vglite_triangle.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_triangle.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_draw_vglite_triangle.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_triangle.c.i
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_triangle.c.i
-
-src/draw/nxp/vglite/lv_draw_vglite_triangle.s: src/draw/nxp/vglite/lv_draw_vglite_triangle.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_triangle.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_draw_vglite_triangle.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_triangle.c.s
-.PHONY : src/draw/nxp/vglite/lv_draw_vglite_triangle.c.s
-
-src/draw/nxp/vglite/lv_vglite_buf.o: src/draw/nxp/vglite/lv_vglite_buf.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_buf.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_vglite_buf.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_buf.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_buf.c.o
-
-src/draw/nxp/vglite/lv_vglite_buf.i: src/draw/nxp/vglite/lv_vglite_buf.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_buf.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_vglite_buf.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_buf.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_buf.c.i
-
-src/draw/nxp/vglite/lv_vglite_buf.s: src/draw/nxp/vglite/lv_vglite_buf.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_buf.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_vglite_buf.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_buf.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_buf.c.s
-
-src/draw/nxp/vglite/lv_vglite_matrix.o: src/draw/nxp/vglite/lv_vglite_matrix.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_matrix.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_vglite_matrix.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_matrix.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_matrix.c.o
-
-src/draw/nxp/vglite/lv_vglite_matrix.i: src/draw/nxp/vglite/lv_vglite_matrix.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_matrix.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_vglite_matrix.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_matrix.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_matrix.c.i
-
-src/draw/nxp/vglite/lv_vglite_matrix.s: src/draw/nxp/vglite/lv_vglite_matrix.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_matrix.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_vglite_matrix.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_matrix.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_matrix.c.s
-
-src/draw/nxp/vglite/lv_vglite_path.o: src/draw/nxp/vglite/lv_vglite_path.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_path.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_vglite_path.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_path.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_path.c.o
-
-src/draw/nxp/vglite/lv_vglite_path.i: src/draw/nxp/vglite/lv_vglite_path.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_path.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_vglite_path.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_path.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_path.c.i
-
-src/draw/nxp/vglite/lv_vglite_path.s: src/draw/nxp/vglite/lv_vglite_path.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_path.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_vglite_path.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_path.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_path.c.s
-
-src/draw/nxp/vglite/lv_vglite_utils.o: src/draw/nxp/vglite/lv_vglite_utils.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_utils.o
-
-# target to build an object file
-src/draw/nxp/vglite/lv_vglite_utils.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_utils.c.o
-.PHONY : src/draw/nxp/vglite/lv_vglite_utils.c.o
-
-src/draw/nxp/vglite/lv_vglite_utils.i: src/draw/nxp/vglite/lv_vglite_utils.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_utils.i
-
-# target to preprocess a source file
-src/draw/nxp/vglite/lv_vglite_utils.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_utils.c.i
-.PHONY : src/draw/nxp/vglite/lv_vglite_utils.c.i
-
-src/draw/nxp/vglite/lv_vglite_utils.s: src/draw/nxp/vglite/lv_vglite_utils.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_utils.s
-
-# target to generate assembly for a file
-src/draw/nxp/vglite/lv_vglite_utils.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/vglite/lv_vglite_utils.c.s
-.PHONY : src/draw/nxp/vglite/lv_vglite_utils.c.s
+src/draw/opengles/lv_draw_opengles.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/opengles/lv_draw_opengles.c.s
+.PHONY : src/draw/opengles/lv_draw_opengles.c.s
 
 src/draw/renesas/dave2d/lv_draw_dave2d.o: src/draw/renesas/dave2d/lv_draw_dave2d.c.o
 .PHONY : src/draw/renesas/dave2d/lv_draw_dave2d.o
@@ -9049,6 +11137,30 @@ src/draw/sdl/lv_draw_sdl.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.s
 .PHONY : src/draw/sdl/lv_draw_sdl.c.s
 
+src/draw/snapshot/lv_snapshot.o: src/draw/snapshot/lv_snapshot.c.o
+.PHONY : src/draw/snapshot/lv_snapshot.o
+
+# target to build an object file
+src/draw/snapshot/lv_snapshot.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/snapshot/lv_snapshot.c.o
+.PHONY : src/draw/snapshot/lv_snapshot.c.o
+
+src/draw/snapshot/lv_snapshot.i: src/draw/snapshot/lv_snapshot.c.i
+.PHONY : src/draw/snapshot/lv_snapshot.i
+
+# target to preprocess a source file
+src/draw/snapshot/lv_snapshot.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/snapshot/lv_snapshot.c.i
+.PHONY : src/draw/snapshot/lv_snapshot.c.i
+
+src/draw/snapshot/lv_snapshot.s: src/draw/snapshot/lv_snapshot.c.s
+.PHONY : src/draw/snapshot/lv_snapshot.s
+
+# target to generate assembly for a file
+src/draw/snapshot/lv_snapshot.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/snapshot/lv_snapshot.c.s
+.PHONY : src/draw/snapshot/lv_snapshot.c.s
+
 src/draw/sw/blend/helium/lv_blend_helium.o: src/draw/sw/blend/helium/lv_blend_helium.S.o
 .PHONY : src/draw/sw/blend/helium/lv_blend_helium.o
 
@@ -9081,6 +11193,54 @@ src/draw/sw/blend/lv_draw_sw_blend.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend.c.s
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend.c.s
 
+src/draw/sw/blend/lv_draw_sw_blend_to_a8.o: src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_a8.o
+
+# target to build an object file
+src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.o
+
+src/draw/sw/blend/lv_draw_sw_blend_to_a8.i: src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_a8.i
+
+# target to preprocess a source file
+src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.i
+
+src/draw/sw/blend/lv_draw_sw_blend_to_a8.s: src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_a8.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_a8.c.s
+
+src/draw/sw/blend/lv_draw_sw_blend_to_al88.o: src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_al88.o
+
+# target to build an object file
+src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.o
+
+src/draw/sw/blend/lv_draw_sw_blend_to_al88.i: src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_al88.i
+
+# target to preprocess a source file
+src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.i
+
+src/draw/sw/blend/lv_draw_sw_blend_to_al88.s: src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_al88.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_al88.c.s
+
 src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.o: src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.c.o
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.o
 
@@ -9104,6 +11264,78 @@ src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.s: src/draw/sw/blend/lv_draw_sw_b
 src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.c.s
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.c.s
+
+src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.o: src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.o
+
+# target to build an object file
+src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.o
+
+src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.i: src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.i
+
+# target to preprocess a source file
+src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.i
+
+src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.s: src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.c.s
+
+src/draw/sw/blend/lv_draw_sw_blend_to_i1.o: src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_i1.o
+
+# target to build an object file
+src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.o
+
+src/draw/sw/blend/lv_draw_sw_blend_to_i1.i: src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_i1.i
+
+# target to preprocess a source file
+src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.i
+
+src/draw/sw/blend/lv_draw_sw_blend_to_i1.s: src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_i1.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_i1.c.s
+
+src/draw/sw/blend/lv_draw_sw_blend_to_l8.o: src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_l8.o
+
+# target to build an object file
+src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.o
+
+src/draw/sw/blend/lv_draw_sw_blend_to_l8.i: src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_l8.i
+
+# target to preprocess a source file
+src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.i
+
+src/draw/sw/blend/lv_draw_sw_blend_to_l8.s: src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_l8.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_l8.c.s
 
 src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.o: src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.c.o
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.o
@@ -9129,6 +11361,30 @@ src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.c.s
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.c.s
 
+src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.o: src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.o
+
+# target to build an object file
+src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.o
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.o
+
+src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.i: src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.i
+
+# target to preprocess a source file
+src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.i
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.i
+
+src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.s: src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.s
+.PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.c.s
+
 src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.o: src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.c.o
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.o
 
@@ -9153,13 +11409,77 @@ src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.c.s
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.c.s
 
-src/draw/sw/blend/neon/lv_blend_neon.o: src/draw/sw/blend/neon/lv_blend_neon.S.o
-.PHONY : src/draw/sw/blend/neon/lv_blend_neon.o
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.o: src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.o
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.o
 
 # target to build an object file
-src/draw/sw/blend/neon/lv_blend_neon.S.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/neon/lv_blend_neon.S.o
-.PHONY : src/draw/sw/blend/neon/lv_blend_neon.S.o
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.o
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.o
+
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.i: src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.i
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.i
+
+# target to preprocess a source file
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.i
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.i
+
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.s: src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.s
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.s
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.c.s
+
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.o: src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.o
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.o
+
+# target to build an object file
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.o
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.o
+
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.i: src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.i
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.i
+
+# target to preprocess a source file
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.i
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.i
+
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.s: src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.s
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.s
+.PHONY : src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.c.s
+
+src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.o: src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.o
+.PHONY : src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.o
+
+# target to build an object file
+src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.o
+.PHONY : src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.o
+
+src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.i: src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.i
+.PHONY : src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.i
+
+# target to preprocess a source file
+src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.i
+.PHONY : src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.i
+
+src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.s: src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.s
+.PHONY : src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.s
+
+# target to generate assembly for a file
+src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.s
+.PHONY : src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.c.s
 
 src/draw/sw/lv_draw_sw.o: src/draw/sw/lv_draw_sw.c.o
 .PHONY : src/draw/sw/lv_draw_sw.o
@@ -9208,6 +11528,30 @@ src/draw/sw/lv_draw_sw_arc.s: src/draw/sw/lv_draw_sw_arc.c.s
 src/draw/sw/lv_draw_sw_arc.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.s
 .PHONY : src/draw/sw/lv_draw_sw_arc.c.s
+
+src/draw/sw/lv_draw_sw_blur.o: src/draw/sw/lv_draw_sw_blur.c.o
+.PHONY : src/draw/sw/lv_draw_sw_blur.o
+
+# target to build an object file
+src/draw/sw/lv_draw_sw_blur.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blur.c.o
+.PHONY : src/draw/sw/lv_draw_sw_blur.c.o
+
+src/draw/sw/lv_draw_sw_blur.i: src/draw/sw/lv_draw_sw_blur.c.i
+.PHONY : src/draw/sw/lv_draw_sw_blur.i
+
+# target to preprocess a source file
+src/draw/sw/lv_draw_sw_blur.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blur.c.i
+.PHONY : src/draw/sw/lv_draw_sw_blur.c.i
+
+src/draw/sw/lv_draw_sw_blur.s: src/draw/sw/lv_draw_sw_blur.c.s
+.PHONY : src/draw/sw/lv_draw_sw_blur.s
+
+# target to generate assembly for a file
+src/draw/sw/lv_draw_sw_blur.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blur.c.s
+.PHONY : src/draw/sw/lv_draw_sw_blur.c.s
 
 src/draw/sw/lv_draw_sw_border.o: src/draw/sw/lv_draw_sw_border.c.o
 .PHONY : src/draw/sw/lv_draw_sw_border.o
@@ -9281,29 +11625,29 @@ src/draw/sw/lv_draw_sw_fill.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_fill.c.s
 .PHONY : src/draw/sw/lv_draw_sw_fill.c.s
 
-src/draw/sw/lv_draw_sw_gradient.o: src/draw/sw/lv_draw_sw_gradient.c.o
-.PHONY : src/draw/sw/lv_draw_sw_gradient.o
+src/draw/sw/lv_draw_sw_grad.o: src/draw/sw/lv_draw_sw_grad.c.o
+.PHONY : src/draw/sw/lv_draw_sw_grad.o
 
 # target to build an object file
-src/draw/sw/lv_draw_sw_gradient.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o
-.PHONY : src/draw/sw/lv_draw_sw_gradient.c.o
+src/draw/sw/lv_draw_sw_grad.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_grad.c.o
+.PHONY : src/draw/sw/lv_draw_sw_grad.c.o
 
-src/draw/sw/lv_draw_sw_gradient.i: src/draw/sw/lv_draw_sw_gradient.c.i
-.PHONY : src/draw/sw/lv_draw_sw_gradient.i
+src/draw/sw/lv_draw_sw_grad.i: src/draw/sw/lv_draw_sw_grad.c.i
+.PHONY : src/draw/sw/lv_draw_sw_grad.i
 
 # target to preprocess a source file
-src/draw/sw/lv_draw_sw_gradient.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.i
-.PHONY : src/draw/sw/lv_draw_sw_gradient.c.i
+src/draw/sw/lv_draw_sw_grad.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_grad.c.i
+.PHONY : src/draw/sw/lv_draw_sw_grad.c.i
 
-src/draw/sw/lv_draw_sw_gradient.s: src/draw/sw/lv_draw_sw_gradient.c.s
-.PHONY : src/draw/sw/lv_draw_sw_gradient.s
+src/draw/sw/lv_draw_sw_grad.s: src/draw/sw/lv_draw_sw_grad.c.s
+.PHONY : src/draw/sw/lv_draw_sw_grad.s
 
 # target to generate assembly for a file
-src/draw/sw/lv_draw_sw_gradient.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.s
-.PHONY : src/draw/sw/lv_draw_sw_gradient.c.s
+src/draw/sw/lv_draw_sw_grad.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_grad.c.s
+.PHONY : src/draw/sw/lv_draw_sw_grad.c.s
 
 src/draw/sw/lv_draw_sw_img.o: src/draw/sw/lv_draw_sw_img.c.o
 .PHONY : src/draw/sw/lv_draw_sw_img.o
@@ -9472,6 +11816,30 @@ src/draw/sw/lv_draw_sw_triangle.s: src/draw/sw/lv_draw_sw_triangle.c.s
 src/draw/sw/lv_draw_sw_triangle.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_triangle.c.s
 .PHONY : src/draw/sw/lv_draw_sw_triangle.c.s
+
+src/draw/sw/lv_draw_sw_utils.o: src/draw/sw/lv_draw_sw_utils.c.o
+.PHONY : src/draw/sw/lv_draw_sw_utils.o
+
+# target to build an object file
+src/draw/sw/lv_draw_sw_utils.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_utils.c.o
+.PHONY : src/draw/sw/lv_draw_sw_utils.c.o
+
+src/draw/sw/lv_draw_sw_utils.i: src/draw/sw/lv_draw_sw_utils.c.i
+.PHONY : src/draw/sw/lv_draw_sw_utils.i
+
+# target to preprocess a source file
+src/draw/sw/lv_draw_sw_utils.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_utils.c.i
+.PHONY : src/draw/sw/lv_draw_sw_utils.c.i
+
+src/draw/sw/lv_draw_sw_utils.s: src/draw/sw/lv_draw_sw_utils.c.s
+.PHONY : src/draw/sw/lv_draw_sw_utils.s
+
+# target to generate assembly for a file
+src/draw/sw/lv_draw_sw_utils.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_utils.c.s
+.PHONY : src/draw/sw/lv_draw_sw_utils.c.s
 
 src/draw/sw/lv_draw_sw_vector.o: src/draw/sw/lv_draw_sw_vector.c.o
 .PHONY : src/draw/sw/lv_draw_sw_vector.o
@@ -9809,6 +12177,30 @@ src/draw/vg_lite/lv_draw_vg_lite_vector.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_draw_vg_lite_vector.c.s
 .PHONY : src/draw/vg_lite/lv_draw_vg_lite_vector.c.s
 
+src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.o: src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.o
+.PHONY : src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.o
+
+# target to build an object file
+src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.o
+.PHONY : src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.o
+
+src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.i: src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.i
+.PHONY : src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.i
+
+# target to preprocess a source file
+src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.i
+.PHONY : src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.i
+
+src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.s: src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.s
+.PHONY : src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.s
+
+# target to generate assembly for a file
+src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.s
+.PHONY : src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.c.s
+
 src/draw/vg_lite/lv_vg_lite_decoder.o: src/draw/vg_lite/lv_vg_lite_decoder.c.o
 .PHONY : src/draw/vg_lite/lv_vg_lite_decoder.o
 
@@ -9929,6 +12321,30 @@ src/draw/vg_lite/lv_vg_lite_pending.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_pending.c.s
 .PHONY : src/draw/vg_lite/lv_vg_lite_pending.c.s
 
+src/draw/vg_lite/lv_vg_lite_stroke.o: src/draw/vg_lite/lv_vg_lite_stroke.c.o
+.PHONY : src/draw/vg_lite/lv_vg_lite_stroke.o
+
+# target to build an object file
+src/draw/vg_lite/lv_vg_lite_stroke.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_stroke.c.o
+.PHONY : src/draw/vg_lite/lv_vg_lite_stroke.c.o
+
+src/draw/vg_lite/lv_vg_lite_stroke.i: src/draw/vg_lite/lv_vg_lite_stroke.c.i
+.PHONY : src/draw/vg_lite/lv_vg_lite_stroke.i
+
+# target to preprocess a source file
+src/draw/vg_lite/lv_vg_lite_stroke.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_stroke.c.i
+.PHONY : src/draw/vg_lite/lv_vg_lite_stroke.c.i
+
+src/draw/vg_lite/lv_vg_lite_stroke.s: src/draw/vg_lite/lv_vg_lite_stroke.c.s
+.PHONY : src/draw/vg_lite/lv_vg_lite_stroke.s
+
+# target to generate assembly for a file
+src/draw/vg_lite/lv_vg_lite_stroke.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_stroke.c.s
+.PHONY : src/draw/vg_lite/lv_vg_lite_stroke.c.s
+
 src/draw/vg_lite/lv_vg_lite_utils.o: src/draw/vg_lite/lv_vg_lite_utils.c.o
 .PHONY : src/draw/vg_lite/lv_vg_lite_utils.o
 
@@ -9977,6 +12393,54 @@ src/drivers/display/drm/lv_linux_drm.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/drm/lv_linux_drm.c.s
 .PHONY : src/drivers/display/drm/lv_linux_drm.c.s
 
+src/drivers/display/drm/lv_linux_drm_common.o: src/drivers/display/drm/lv_linux_drm_common.c.o
+.PHONY : src/drivers/display/drm/lv_linux_drm_common.o
+
+# target to build an object file
+src/drivers/display/drm/lv_linux_drm_common.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/drm/lv_linux_drm_common.c.o
+.PHONY : src/drivers/display/drm/lv_linux_drm_common.c.o
+
+src/drivers/display/drm/lv_linux_drm_common.i: src/drivers/display/drm/lv_linux_drm_common.c.i
+.PHONY : src/drivers/display/drm/lv_linux_drm_common.i
+
+# target to preprocess a source file
+src/drivers/display/drm/lv_linux_drm_common.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/drm/lv_linux_drm_common.c.i
+.PHONY : src/drivers/display/drm/lv_linux_drm_common.c.i
+
+src/drivers/display/drm/lv_linux_drm_common.s: src/drivers/display/drm/lv_linux_drm_common.c.s
+.PHONY : src/drivers/display/drm/lv_linux_drm_common.s
+
+# target to generate assembly for a file
+src/drivers/display/drm/lv_linux_drm_common.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/drm/lv_linux_drm_common.c.s
+.PHONY : src/drivers/display/drm/lv_linux_drm_common.c.s
+
+src/drivers/display/drm/lv_linux_drm_egl.o: src/drivers/display/drm/lv_linux_drm_egl.c.o
+.PHONY : src/drivers/display/drm/lv_linux_drm_egl.o
+
+# target to build an object file
+src/drivers/display/drm/lv_linux_drm_egl.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/drm/lv_linux_drm_egl.c.o
+.PHONY : src/drivers/display/drm/lv_linux_drm_egl.c.o
+
+src/drivers/display/drm/lv_linux_drm_egl.i: src/drivers/display/drm/lv_linux_drm_egl.c.i
+.PHONY : src/drivers/display/drm/lv_linux_drm_egl.i
+
+# target to preprocess a source file
+src/drivers/display/drm/lv_linux_drm_egl.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/drm/lv_linux_drm_egl.c.i
+.PHONY : src/drivers/display/drm/lv_linux_drm_egl.c.i
+
+src/drivers/display/drm/lv_linux_drm_egl.s: src/drivers/display/drm/lv_linux_drm_egl.c.s
+.PHONY : src/drivers/display/drm/lv_linux_drm_egl.s
+
+# target to generate assembly for a file
+src/drivers/display/drm/lv_linux_drm_egl.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/drm/lv_linux_drm_egl.c.s
+.PHONY : src/drivers/display/drm/lv_linux_drm_egl.c.s
+
 src/drivers/display/fb/lv_linux_fbdev.o: src/drivers/display/fb/lv_linux_fbdev.c.o
 .PHONY : src/drivers/display/fb/lv_linux_fbdev.o
 
@@ -10000,6 +12464,30 @@ src/drivers/display/fb/lv_linux_fbdev.s: src/drivers/display/fb/lv_linux_fbdev.c
 src/drivers/display/fb/lv_linux_fbdev.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/fb/lv_linux_fbdev.c.s
 .PHONY : src/drivers/display/fb/lv_linux_fbdev.c.s
+
+src/drivers/display/ft81x/lv_ft81x.o: src/drivers/display/ft81x/lv_ft81x.c.o
+.PHONY : src/drivers/display/ft81x/lv_ft81x.o
+
+# target to build an object file
+src/drivers/display/ft81x/lv_ft81x.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/ft81x/lv_ft81x.c.o
+.PHONY : src/drivers/display/ft81x/lv_ft81x.c.o
+
+src/drivers/display/ft81x/lv_ft81x.i: src/drivers/display/ft81x/lv_ft81x.c.i
+.PHONY : src/drivers/display/ft81x/lv_ft81x.i
+
+# target to preprocess a source file
+src/drivers/display/ft81x/lv_ft81x.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/ft81x/lv_ft81x.c.i
+.PHONY : src/drivers/display/ft81x/lv_ft81x.c.i
+
+src/drivers/display/ft81x/lv_ft81x.s: src/drivers/display/ft81x/lv_ft81x.c.s
+.PHONY : src/drivers/display/ft81x/lv_ft81x.s
+
+# target to generate assembly for a file
+src/drivers/display/ft81x/lv_ft81x.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/ft81x/lv_ft81x.c.s
+.PHONY : src/drivers/display/ft81x/lv_ft81x.c.s
 
 src/drivers/display/ili9341/lv_ili9341.o: src/drivers/display/ili9341/lv_ili9341.c.o
 .PHONY : src/drivers/display/ili9341/lv_ili9341.o
@@ -10048,6 +12536,102 @@ src/drivers/display/lcd/lv_lcd_generic_mipi.s: src/drivers/display/lcd/lv_lcd_ge
 src/drivers/display/lcd/lv_lcd_generic_mipi.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/lcd/lv_lcd_generic_mipi.c.s
 .PHONY : src/drivers/display/lcd/lv_lcd_generic_mipi.c.s
+
+src/drivers/display/lovyan_gfx/lv_lovyan_gfx.o: src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.o
+.PHONY : src/drivers/display/lovyan_gfx/lv_lovyan_gfx.o
+
+# target to build an object file
+src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.o
+.PHONY : src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.o
+
+src/drivers/display/lovyan_gfx/lv_lovyan_gfx.i: src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.i
+.PHONY : src/drivers/display/lovyan_gfx/lv_lovyan_gfx.i
+
+# target to preprocess a source file
+src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.i
+.PHONY : src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.i
+
+src/drivers/display/lovyan_gfx/lv_lovyan_gfx.s: src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.s
+.PHONY : src/drivers/display/lovyan_gfx/lv_lovyan_gfx.s
+
+# target to generate assembly for a file
+src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.s
+.PHONY : src/drivers/display/lovyan_gfx/lv_lovyan_gfx.cpp.s
+
+src/drivers/display/nv3007/lv_nv3007.o: src/drivers/display/nv3007/lv_nv3007.c.o
+.PHONY : src/drivers/display/nv3007/lv_nv3007.o
+
+# target to build an object file
+src/drivers/display/nv3007/lv_nv3007.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/nv3007/lv_nv3007.c.o
+.PHONY : src/drivers/display/nv3007/lv_nv3007.c.o
+
+src/drivers/display/nv3007/lv_nv3007.i: src/drivers/display/nv3007/lv_nv3007.c.i
+.PHONY : src/drivers/display/nv3007/lv_nv3007.i
+
+# target to preprocess a source file
+src/drivers/display/nv3007/lv_nv3007.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/nv3007/lv_nv3007.c.i
+.PHONY : src/drivers/display/nv3007/lv_nv3007.c.i
+
+src/drivers/display/nv3007/lv_nv3007.s: src/drivers/display/nv3007/lv_nv3007.c.s
+.PHONY : src/drivers/display/nv3007/lv_nv3007.s
+
+# target to generate assembly for a file
+src/drivers/display/nv3007/lv_nv3007.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/nv3007/lv_nv3007.c.s
+.PHONY : src/drivers/display/nv3007/lv_nv3007.c.s
+
+src/drivers/display/nxp_elcdif/lv_nxp_elcdif.o: src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.o
+.PHONY : src/drivers/display/nxp_elcdif/lv_nxp_elcdif.o
+
+# target to build an object file
+src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.o
+.PHONY : src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.o
+
+src/drivers/display/nxp_elcdif/lv_nxp_elcdif.i: src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.i
+.PHONY : src/drivers/display/nxp_elcdif/lv_nxp_elcdif.i
+
+# target to preprocess a source file
+src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.i
+.PHONY : src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.i
+
+src/drivers/display/nxp_elcdif/lv_nxp_elcdif.s: src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.s
+.PHONY : src/drivers/display/nxp_elcdif/lv_nxp_elcdif.s
+
+# target to generate assembly for a file
+src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.s
+.PHONY : src/drivers/display/nxp_elcdif/lv_nxp_elcdif.c.s
+
+src/drivers/display/renesas_glcdc/lv_renesas_glcdc.o: src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.o
+.PHONY : src/drivers/display/renesas_glcdc/lv_renesas_glcdc.o
+
+# target to build an object file
+src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.o
+.PHONY : src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.o
+
+src/drivers/display/renesas_glcdc/lv_renesas_glcdc.i: src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.i
+.PHONY : src/drivers/display/renesas_glcdc/lv_renesas_glcdc.i
+
+# target to preprocess a source file
+src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.i
+.PHONY : src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.i
+
+src/drivers/display/renesas_glcdc/lv_renesas_glcdc.s: src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.s
+.PHONY : src/drivers/display/renesas_glcdc/lv_renesas_glcdc.s
+
+# target to generate assembly for a file
+src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.s
+.PHONY : src/drivers/display/renesas_glcdc/lv_renesas_glcdc.c.s
 
 src/drivers/display/st7735/lv_st7735.o: src/drivers/display/st7735/lv_st7735.c.o
 .PHONY : src/drivers/display/st7735/lv_st7735.o
@@ -10120,6 +12704,78 @@ src/drivers/display/st7796/lv_st7796.s: src/drivers/display/st7796/lv_st7796.c.s
 src/drivers/display/st7796/lv_st7796.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/st7796/lv_st7796.c.s
 .PHONY : src/drivers/display/st7796/lv_st7796.c.s
+
+src/drivers/display/st_ltdc/lv_st_ltdc.o: src/drivers/display/st_ltdc/lv_st_ltdc.c.o
+.PHONY : src/drivers/display/st_ltdc/lv_st_ltdc.o
+
+# target to build an object file
+src/drivers/display/st_ltdc/lv_st_ltdc.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/st_ltdc/lv_st_ltdc.c.o
+.PHONY : src/drivers/display/st_ltdc/lv_st_ltdc.c.o
+
+src/drivers/display/st_ltdc/lv_st_ltdc.i: src/drivers/display/st_ltdc/lv_st_ltdc.c.i
+.PHONY : src/drivers/display/st_ltdc/lv_st_ltdc.i
+
+# target to preprocess a source file
+src/drivers/display/st_ltdc/lv_st_ltdc.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/st_ltdc/lv_st_ltdc.c.i
+.PHONY : src/drivers/display/st_ltdc/lv_st_ltdc.c.i
+
+src/drivers/display/st_ltdc/lv_st_ltdc.s: src/drivers/display/st_ltdc/lv_st_ltdc.c.s
+.PHONY : src/drivers/display/st_ltdc/lv_st_ltdc.s
+
+# target to generate assembly for a file
+src/drivers/display/st_ltdc/lv_st_ltdc.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/st_ltdc/lv_st_ltdc.c.s
+.PHONY : src/drivers/display/st_ltdc/lv_st_ltdc.c.s
+
+src/drivers/display/tft_espi/lv_tft_espi.o: src/drivers/display/tft_espi/lv_tft_espi.cpp.o
+.PHONY : src/drivers/display/tft_espi/lv_tft_espi.o
+
+# target to build an object file
+src/drivers/display/tft_espi/lv_tft_espi.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/tft_espi/lv_tft_espi.cpp.o
+.PHONY : src/drivers/display/tft_espi/lv_tft_espi.cpp.o
+
+src/drivers/display/tft_espi/lv_tft_espi.i: src/drivers/display/tft_espi/lv_tft_espi.cpp.i
+.PHONY : src/drivers/display/tft_espi/lv_tft_espi.i
+
+# target to preprocess a source file
+src/drivers/display/tft_espi/lv_tft_espi.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/tft_espi/lv_tft_espi.cpp.i
+.PHONY : src/drivers/display/tft_espi/lv_tft_espi.cpp.i
+
+src/drivers/display/tft_espi/lv_tft_espi.s: src/drivers/display/tft_espi/lv_tft_espi.cpp.s
+.PHONY : src/drivers/display/tft_espi/lv_tft_espi.s
+
+# target to generate assembly for a file
+src/drivers/display/tft_espi/lv_tft_espi.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/display/tft_espi/lv_tft_espi.cpp.s
+.PHONY : src/drivers/display/tft_espi/lv_tft_espi.cpp.s
+
+src/drivers/draw/eve/lv_draw_eve_display.o: src/drivers/draw/eve/lv_draw_eve_display.c.o
+.PHONY : src/drivers/draw/eve/lv_draw_eve_display.o
+
+# target to build an object file
+src/drivers/draw/eve/lv_draw_eve_display.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/draw/eve/lv_draw_eve_display.c.o
+.PHONY : src/drivers/draw/eve/lv_draw_eve_display.c.o
+
+src/drivers/draw/eve/lv_draw_eve_display.i: src/drivers/draw/eve/lv_draw_eve_display.c.i
+.PHONY : src/drivers/draw/eve/lv_draw_eve_display.i
+
+# target to preprocess a source file
+src/drivers/draw/eve/lv_draw_eve_display.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/draw/eve/lv_draw_eve_display.c.i
+.PHONY : src/drivers/draw/eve/lv_draw_eve_display.c.i
+
+src/drivers/draw/eve/lv_draw_eve_display.s: src/drivers/draw/eve/lv_draw_eve_display.c.s
+.PHONY : src/drivers/draw/eve/lv_draw_eve_display.s
+
+# target to generate assembly for a file
+src/drivers/draw/eve/lv_draw_eve_display.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/draw/eve/lv_draw_eve_display.c.s
+.PHONY : src/drivers/draw/eve/lv_draw_eve_display.c.s
 
 src/drivers/evdev/lv_evdev.o: src/drivers/evdev/lv_evdev.c.o
 .PHONY : src/drivers/evdev/lv_evdev.o
@@ -10337,6 +12993,30 @@ src/drivers/nuttx/lv_nuttx_libuv.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_libuv.c.s
 .PHONY : src/drivers/nuttx/lv_nuttx_libuv.c.s
 
+src/drivers/nuttx/lv_nuttx_mouse.o: src/drivers/nuttx/lv_nuttx_mouse.c.o
+.PHONY : src/drivers/nuttx/lv_nuttx_mouse.o
+
+# target to build an object file
+src/drivers/nuttx/lv_nuttx_mouse.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_mouse.c.o
+.PHONY : src/drivers/nuttx/lv_nuttx_mouse.c.o
+
+src/drivers/nuttx/lv_nuttx_mouse.i: src/drivers/nuttx/lv_nuttx_mouse.c.i
+.PHONY : src/drivers/nuttx/lv_nuttx_mouse.i
+
+# target to preprocess a source file
+src/drivers/nuttx/lv_nuttx_mouse.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_mouse.c.i
+.PHONY : src/drivers/nuttx/lv_nuttx_mouse.c.i
+
+src/drivers/nuttx/lv_nuttx_mouse.s: src/drivers/nuttx/lv_nuttx_mouse.c.s
+.PHONY : src/drivers/nuttx/lv_nuttx_mouse.s
+
+# target to generate assembly for a file
+src/drivers/nuttx/lv_nuttx_mouse.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_mouse.c.s
+.PHONY : src/drivers/nuttx/lv_nuttx_mouse.c.s
+
 src/drivers/nuttx/lv_nuttx_profiler.o: src/drivers/nuttx/lv_nuttx_profiler.c.o
 .PHONY : src/drivers/nuttx/lv_nuttx_profiler.o
 
@@ -10384,6 +13064,318 @@ src/drivers/nuttx/lv_nuttx_touchscreen.s: src/drivers/nuttx/lv_nuttx_touchscreen
 src/drivers/nuttx/lv_nuttx_touchscreen.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_touchscreen.c.s
 .PHONY : src/drivers/nuttx/lv_nuttx_touchscreen.c.s
+
+src/drivers/opengles/assets/lv_opengles_shader.o: src/drivers/opengles/assets/lv_opengles_shader.c.o
+.PHONY : src/drivers/opengles/assets/lv_opengles_shader.o
+
+# target to build an object file
+src/drivers/opengles/assets/lv_opengles_shader.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/assets/lv_opengles_shader.c.o
+.PHONY : src/drivers/opengles/assets/lv_opengles_shader.c.o
+
+src/drivers/opengles/assets/lv_opengles_shader.i: src/drivers/opengles/assets/lv_opengles_shader.c.i
+.PHONY : src/drivers/opengles/assets/lv_opengles_shader.i
+
+# target to preprocess a source file
+src/drivers/opengles/assets/lv_opengles_shader.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/assets/lv_opengles_shader.c.i
+.PHONY : src/drivers/opengles/assets/lv_opengles_shader.c.i
+
+src/drivers/opengles/assets/lv_opengles_shader.s: src/drivers/opengles/assets/lv_opengles_shader.c.s
+.PHONY : src/drivers/opengles/assets/lv_opengles_shader.s
+
+# target to generate assembly for a file
+src/drivers/opengles/assets/lv_opengles_shader.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/assets/lv_opengles_shader.c.s
+.PHONY : src/drivers/opengles/assets/lv_opengles_shader.c.s
+
+src/drivers/opengles/glad/src/egl.o: src/drivers/opengles/glad/src/egl.c.o
+.PHONY : src/drivers/opengles/glad/src/egl.o
+
+# target to build an object file
+src/drivers/opengles/glad/src/egl.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/egl.c.o
+.PHONY : src/drivers/opengles/glad/src/egl.c.o
+
+src/drivers/opengles/glad/src/egl.i: src/drivers/opengles/glad/src/egl.c.i
+.PHONY : src/drivers/opengles/glad/src/egl.i
+
+# target to preprocess a source file
+src/drivers/opengles/glad/src/egl.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/egl.c.i
+.PHONY : src/drivers/opengles/glad/src/egl.c.i
+
+src/drivers/opengles/glad/src/egl.s: src/drivers/opengles/glad/src/egl.c.s
+.PHONY : src/drivers/opengles/glad/src/egl.s
+
+# target to generate assembly for a file
+src/drivers/opengles/glad/src/egl.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/egl.c.s
+.PHONY : src/drivers/opengles/glad/src/egl.c.s
+
+src/drivers/opengles/glad/src/gl.o: src/drivers/opengles/glad/src/gl.c.o
+.PHONY : src/drivers/opengles/glad/src/gl.o
+
+# target to build an object file
+src/drivers/opengles/glad/src/gl.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/gl.c.o
+.PHONY : src/drivers/opengles/glad/src/gl.c.o
+
+src/drivers/opengles/glad/src/gl.i: src/drivers/opengles/glad/src/gl.c.i
+.PHONY : src/drivers/opengles/glad/src/gl.i
+
+# target to preprocess a source file
+src/drivers/opengles/glad/src/gl.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/gl.c.i
+.PHONY : src/drivers/opengles/glad/src/gl.c.i
+
+src/drivers/opengles/glad/src/gl.s: src/drivers/opengles/glad/src/gl.c.s
+.PHONY : src/drivers/opengles/glad/src/gl.s
+
+# target to generate assembly for a file
+src/drivers/opengles/glad/src/gl.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/gl.c.s
+.PHONY : src/drivers/opengles/glad/src/gl.c.s
+
+src/drivers/opengles/glad/src/gles2.o: src/drivers/opengles/glad/src/gles2.c.o
+.PHONY : src/drivers/opengles/glad/src/gles2.o
+
+# target to build an object file
+src/drivers/opengles/glad/src/gles2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/gles2.c.o
+.PHONY : src/drivers/opengles/glad/src/gles2.c.o
+
+src/drivers/opengles/glad/src/gles2.i: src/drivers/opengles/glad/src/gles2.c.i
+.PHONY : src/drivers/opengles/glad/src/gles2.i
+
+# target to preprocess a source file
+src/drivers/opengles/glad/src/gles2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/gles2.c.i
+.PHONY : src/drivers/opengles/glad/src/gles2.c.i
+
+src/drivers/opengles/glad/src/gles2.s: src/drivers/opengles/glad/src/gles2.c.s
+.PHONY : src/drivers/opengles/glad/src/gles2.s
+
+# target to generate assembly for a file
+src/drivers/opengles/glad/src/gles2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/glad/src/gles2.c.s
+.PHONY : src/drivers/opengles/glad/src/gles2.c.s
+
+src/drivers/opengles/lv_opengles_debug.o: src/drivers/opengles/lv_opengles_debug.c.o
+.PHONY : src/drivers/opengles/lv_opengles_debug.o
+
+# target to build an object file
+src/drivers/opengles/lv_opengles_debug.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_debug.c.o
+.PHONY : src/drivers/opengles/lv_opengles_debug.c.o
+
+src/drivers/opengles/lv_opengles_debug.i: src/drivers/opengles/lv_opengles_debug.c.i
+.PHONY : src/drivers/opengles/lv_opengles_debug.i
+
+# target to preprocess a source file
+src/drivers/opengles/lv_opengles_debug.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_debug.c.i
+.PHONY : src/drivers/opengles/lv_opengles_debug.c.i
+
+src/drivers/opengles/lv_opengles_debug.s: src/drivers/opengles/lv_opengles_debug.c.s
+.PHONY : src/drivers/opengles/lv_opengles_debug.s
+
+# target to generate assembly for a file
+src/drivers/opengles/lv_opengles_debug.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_debug.c.s
+.PHONY : src/drivers/opengles/lv_opengles_debug.c.s
+
+src/drivers/opengles/lv_opengles_driver.o: src/drivers/opengles/lv_opengles_driver.c.o
+.PHONY : src/drivers/opengles/lv_opengles_driver.o
+
+# target to build an object file
+src/drivers/opengles/lv_opengles_driver.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_driver.c.o
+.PHONY : src/drivers/opengles/lv_opengles_driver.c.o
+
+src/drivers/opengles/lv_opengles_driver.i: src/drivers/opengles/lv_opengles_driver.c.i
+.PHONY : src/drivers/opengles/lv_opengles_driver.i
+
+# target to preprocess a source file
+src/drivers/opengles/lv_opengles_driver.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_driver.c.i
+.PHONY : src/drivers/opengles/lv_opengles_driver.c.i
+
+src/drivers/opengles/lv_opengles_driver.s: src/drivers/opengles/lv_opengles_driver.c.s
+.PHONY : src/drivers/opengles/lv_opengles_driver.s
+
+# target to generate assembly for a file
+src/drivers/opengles/lv_opengles_driver.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_driver.c.s
+.PHONY : src/drivers/opengles/lv_opengles_driver.c.s
+
+src/drivers/opengles/lv_opengles_egl.o: src/drivers/opengles/lv_opengles_egl.c.o
+.PHONY : src/drivers/opengles/lv_opengles_egl.o
+
+# target to build an object file
+src/drivers/opengles/lv_opengles_egl.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_egl.c.o
+.PHONY : src/drivers/opengles/lv_opengles_egl.c.o
+
+src/drivers/opengles/lv_opengles_egl.i: src/drivers/opengles/lv_opengles_egl.c.i
+.PHONY : src/drivers/opengles/lv_opengles_egl.i
+
+# target to preprocess a source file
+src/drivers/opengles/lv_opengles_egl.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_egl.c.i
+.PHONY : src/drivers/opengles/lv_opengles_egl.c.i
+
+src/drivers/opengles/lv_opengles_egl.s: src/drivers/opengles/lv_opengles_egl.c.s
+.PHONY : src/drivers/opengles/lv_opengles_egl.s
+
+# target to generate assembly for a file
+src/drivers/opengles/lv_opengles_egl.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_egl.c.s
+.PHONY : src/drivers/opengles/lv_opengles_egl.c.s
+
+src/drivers/opengles/lv_opengles_glfw.o: src/drivers/opengles/lv_opengles_glfw.c.o
+.PHONY : src/drivers/opengles/lv_opengles_glfw.o
+
+# target to build an object file
+src/drivers/opengles/lv_opengles_glfw.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_glfw.c.o
+.PHONY : src/drivers/opengles/lv_opengles_glfw.c.o
+
+src/drivers/opengles/lv_opengles_glfw.i: src/drivers/opengles/lv_opengles_glfw.c.i
+.PHONY : src/drivers/opengles/lv_opengles_glfw.i
+
+# target to preprocess a source file
+src/drivers/opengles/lv_opengles_glfw.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_glfw.c.i
+.PHONY : src/drivers/opengles/lv_opengles_glfw.c.i
+
+src/drivers/opengles/lv_opengles_glfw.s: src/drivers/opengles/lv_opengles_glfw.c.s
+.PHONY : src/drivers/opengles/lv_opengles_glfw.s
+
+# target to generate assembly for a file
+src/drivers/opengles/lv_opengles_glfw.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_glfw.c.s
+.PHONY : src/drivers/opengles/lv_opengles_glfw.c.s
+
+src/drivers/opengles/lv_opengles_texture.o: src/drivers/opengles/lv_opengles_texture.c.o
+.PHONY : src/drivers/opengles/lv_opengles_texture.o
+
+# target to build an object file
+src/drivers/opengles/lv_opengles_texture.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_texture.c.o
+.PHONY : src/drivers/opengles/lv_opengles_texture.c.o
+
+src/drivers/opengles/lv_opengles_texture.i: src/drivers/opengles/lv_opengles_texture.c.i
+.PHONY : src/drivers/opengles/lv_opengles_texture.i
+
+# target to preprocess a source file
+src/drivers/opengles/lv_opengles_texture.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_texture.c.i
+.PHONY : src/drivers/opengles/lv_opengles_texture.c.i
+
+src/drivers/opengles/lv_opengles_texture.s: src/drivers/opengles/lv_opengles_texture.c.s
+.PHONY : src/drivers/opengles/lv_opengles_texture.s
+
+# target to generate assembly for a file
+src/drivers/opengles/lv_opengles_texture.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/lv_opengles_texture.c.s
+.PHONY : src/drivers/opengles/lv_opengles_texture.c.s
+
+src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.o: src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.o
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.o
+
+# target to build an object file
+src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.o
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.o
+
+src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.i: src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.i
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.i
+
+# target to preprocess a source file
+src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.i
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.i
+
+src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.s: src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.s
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.s
+
+# target to generate assembly for a file
+src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.s
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.c.s
+
+src/drivers/opengles/opengl_shader/lv_opengl_shader_program.o: src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.o
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_program.o
+
+# target to build an object file
+src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.o
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.o
+
+src/drivers/opengles/opengl_shader/lv_opengl_shader_program.i: src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.i
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_program.i
+
+# target to preprocess a source file
+src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.i
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.i
+
+src/drivers/opengles/opengl_shader/lv_opengl_shader_program.s: src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.s
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_program.s
+
+# target to generate assembly for a file
+src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.s
+.PHONY : src/drivers/opengles/opengl_shader/lv_opengl_shader_program.c.s
+
+src/drivers/qnx/lv_qnx.o: src/drivers/qnx/lv_qnx.c.o
+.PHONY : src/drivers/qnx/lv_qnx.o
+
+# target to build an object file
+src/drivers/qnx/lv_qnx.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/qnx/lv_qnx.c.o
+.PHONY : src/drivers/qnx/lv_qnx.c.o
+
+src/drivers/qnx/lv_qnx.i: src/drivers/qnx/lv_qnx.c.i
+.PHONY : src/drivers/qnx/lv_qnx.i
+
+# target to preprocess a source file
+src/drivers/qnx/lv_qnx.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/qnx/lv_qnx.c.i
+.PHONY : src/drivers/qnx/lv_qnx.c.i
+
+src/drivers/qnx/lv_qnx.s: src/drivers/qnx/lv_qnx.c.s
+.PHONY : src/drivers/qnx/lv_qnx.s
+
+# target to generate assembly for a file
+src/drivers/qnx/lv_qnx.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/qnx/lv_qnx.c.s
+.PHONY : src/drivers/qnx/lv_qnx.c.s
+
+src/drivers/sdl/lv_sdl_egl.o: src/drivers/sdl/lv_sdl_egl.c.o
+.PHONY : src/drivers/sdl/lv_sdl_egl.o
+
+# target to build an object file
+src/drivers/sdl/lv_sdl_egl.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_egl.c.o
+.PHONY : src/drivers/sdl/lv_sdl_egl.c.o
+
+src/drivers/sdl/lv_sdl_egl.i: src/drivers/sdl/lv_sdl_egl.c.i
+.PHONY : src/drivers/sdl/lv_sdl_egl.i
+
+# target to preprocess a source file
+src/drivers/sdl/lv_sdl_egl.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_egl.c.i
+.PHONY : src/drivers/sdl/lv_sdl_egl.c.i
+
+src/drivers/sdl/lv_sdl_egl.s: src/drivers/sdl/lv_sdl_egl.c.s
+.PHONY : src/drivers/sdl/lv_sdl_egl.s
+
+# target to generate assembly for a file
+src/drivers/sdl/lv_sdl_egl.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_egl.c.s
+.PHONY : src/drivers/sdl/lv_sdl_egl.c.s
 
 src/drivers/sdl/lv_sdl_keyboard.o: src/drivers/sdl/lv_sdl_keyboard.c.o
 .PHONY : src/drivers/sdl/lv_sdl_keyboard.o
@@ -10457,6 +13449,54 @@ src/drivers/sdl/lv_sdl_mousewheel.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_mousewheel.c.s
 .PHONY : src/drivers/sdl/lv_sdl_mousewheel.c.s
 
+src/drivers/sdl/lv_sdl_sw.o: src/drivers/sdl/lv_sdl_sw.c.o
+.PHONY : src/drivers/sdl/lv_sdl_sw.o
+
+# target to build an object file
+src/drivers/sdl/lv_sdl_sw.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_sw.c.o
+.PHONY : src/drivers/sdl/lv_sdl_sw.c.o
+
+src/drivers/sdl/lv_sdl_sw.i: src/drivers/sdl/lv_sdl_sw.c.i
+.PHONY : src/drivers/sdl/lv_sdl_sw.i
+
+# target to preprocess a source file
+src/drivers/sdl/lv_sdl_sw.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_sw.c.i
+.PHONY : src/drivers/sdl/lv_sdl_sw.c.i
+
+src/drivers/sdl/lv_sdl_sw.s: src/drivers/sdl/lv_sdl_sw.c.s
+.PHONY : src/drivers/sdl/lv_sdl_sw.s
+
+# target to generate assembly for a file
+src/drivers/sdl/lv_sdl_sw.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_sw.c.s
+.PHONY : src/drivers/sdl/lv_sdl_sw.c.s
+
+src/drivers/sdl/lv_sdl_texture.o: src/drivers/sdl/lv_sdl_texture.c.o
+.PHONY : src/drivers/sdl/lv_sdl_texture.o
+
+# target to build an object file
+src/drivers/sdl/lv_sdl_texture.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_texture.c.o
+.PHONY : src/drivers/sdl/lv_sdl_texture.c.o
+
+src/drivers/sdl/lv_sdl_texture.i: src/drivers/sdl/lv_sdl_texture.c.i
+.PHONY : src/drivers/sdl/lv_sdl_texture.i
+
+# target to preprocess a source file
+src/drivers/sdl/lv_sdl_texture.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_texture.c.i
+.PHONY : src/drivers/sdl/lv_sdl_texture.c.i
+
+src/drivers/sdl/lv_sdl_texture.s: src/drivers/sdl/lv_sdl_texture.c.s
+.PHONY : src/drivers/sdl/lv_sdl_texture.s
+
+# target to generate assembly for a file
+src/drivers/sdl/lv_sdl_texture.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_texture.c.s
+.PHONY : src/drivers/sdl/lv_sdl_texture.c.s
+
 src/drivers/sdl/lv_sdl_window.o: src/drivers/sdl/lv_sdl_window.c.o
 .PHONY : src/drivers/sdl/lv_sdl_window.o
 
@@ -10480,6 +13520,390 @@ src/drivers/sdl/lv_sdl_window.s: src/drivers/sdl/lv_sdl_window.c.s
 src/drivers/sdl/lv_sdl_window.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/sdl/lv_sdl_window.c.s
 .PHONY : src/drivers/sdl/lv_sdl_window.c.s
+
+src/drivers/uefi/lv_uefi_context.o: src/drivers/uefi/lv_uefi_context.c.o
+.PHONY : src/drivers/uefi/lv_uefi_context.o
+
+# target to build an object file
+src/drivers/uefi/lv_uefi_context.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_context.c.o
+.PHONY : src/drivers/uefi/lv_uefi_context.c.o
+
+src/drivers/uefi/lv_uefi_context.i: src/drivers/uefi/lv_uefi_context.c.i
+.PHONY : src/drivers/uefi/lv_uefi_context.i
+
+# target to preprocess a source file
+src/drivers/uefi/lv_uefi_context.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_context.c.i
+.PHONY : src/drivers/uefi/lv_uefi_context.c.i
+
+src/drivers/uefi/lv_uefi_context.s: src/drivers/uefi/lv_uefi_context.c.s
+.PHONY : src/drivers/uefi/lv_uefi_context.s
+
+# target to generate assembly for a file
+src/drivers/uefi/lv_uefi_context.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_context.c.s
+.PHONY : src/drivers/uefi/lv_uefi_context.c.s
+
+src/drivers/uefi/lv_uefi_display.o: src/drivers/uefi/lv_uefi_display.c.o
+.PHONY : src/drivers/uefi/lv_uefi_display.o
+
+# target to build an object file
+src/drivers/uefi/lv_uefi_display.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_display.c.o
+.PHONY : src/drivers/uefi/lv_uefi_display.c.o
+
+src/drivers/uefi/lv_uefi_display.i: src/drivers/uefi/lv_uefi_display.c.i
+.PHONY : src/drivers/uefi/lv_uefi_display.i
+
+# target to preprocess a source file
+src/drivers/uefi/lv_uefi_display.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_display.c.i
+.PHONY : src/drivers/uefi/lv_uefi_display.c.i
+
+src/drivers/uefi/lv_uefi_display.s: src/drivers/uefi/lv_uefi_display.c.s
+.PHONY : src/drivers/uefi/lv_uefi_display.s
+
+# target to generate assembly for a file
+src/drivers/uefi/lv_uefi_display.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_display.c.s
+.PHONY : src/drivers/uefi/lv_uefi_display.c.s
+
+src/drivers/uefi/lv_uefi_indev_keyboard.o: src/drivers/uefi/lv_uefi_indev_keyboard.c.o
+.PHONY : src/drivers/uefi/lv_uefi_indev_keyboard.o
+
+# target to build an object file
+src/drivers/uefi/lv_uefi_indev_keyboard.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_keyboard.c.o
+.PHONY : src/drivers/uefi/lv_uefi_indev_keyboard.c.o
+
+src/drivers/uefi/lv_uefi_indev_keyboard.i: src/drivers/uefi/lv_uefi_indev_keyboard.c.i
+.PHONY : src/drivers/uefi/lv_uefi_indev_keyboard.i
+
+# target to preprocess a source file
+src/drivers/uefi/lv_uefi_indev_keyboard.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_keyboard.c.i
+.PHONY : src/drivers/uefi/lv_uefi_indev_keyboard.c.i
+
+src/drivers/uefi/lv_uefi_indev_keyboard.s: src/drivers/uefi/lv_uefi_indev_keyboard.c.s
+.PHONY : src/drivers/uefi/lv_uefi_indev_keyboard.s
+
+# target to generate assembly for a file
+src/drivers/uefi/lv_uefi_indev_keyboard.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_keyboard.c.s
+.PHONY : src/drivers/uefi/lv_uefi_indev_keyboard.c.s
+
+src/drivers/uefi/lv_uefi_indev_pointer.o: src/drivers/uefi/lv_uefi_indev_pointer.c.o
+.PHONY : src/drivers/uefi/lv_uefi_indev_pointer.o
+
+# target to build an object file
+src/drivers/uefi/lv_uefi_indev_pointer.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_pointer.c.o
+.PHONY : src/drivers/uefi/lv_uefi_indev_pointer.c.o
+
+src/drivers/uefi/lv_uefi_indev_pointer.i: src/drivers/uefi/lv_uefi_indev_pointer.c.i
+.PHONY : src/drivers/uefi/lv_uefi_indev_pointer.i
+
+# target to preprocess a source file
+src/drivers/uefi/lv_uefi_indev_pointer.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_pointer.c.i
+.PHONY : src/drivers/uefi/lv_uefi_indev_pointer.c.i
+
+src/drivers/uefi/lv_uefi_indev_pointer.s: src/drivers/uefi/lv_uefi_indev_pointer.c.s
+.PHONY : src/drivers/uefi/lv_uefi_indev_pointer.s
+
+# target to generate assembly for a file
+src/drivers/uefi/lv_uefi_indev_pointer.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_pointer.c.s
+.PHONY : src/drivers/uefi/lv_uefi_indev_pointer.c.s
+
+src/drivers/uefi/lv_uefi_indev_touch.o: src/drivers/uefi/lv_uefi_indev_touch.c.o
+.PHONY : src/drivers/uefi/lv_uefi_indev_touch.o
+
+# target to build an object file
+src/drivers/uefi/lv_uefi_indev_touch.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_touch.c.o
+.PHONY : src/drivers/uefi/lv_uefi_indev_touch.c.o
+
+src/drivers/uefi/lv_uefi_indev_touch.i: src/drivers/uefi/lv_uefi_indev_touch.c.i
+.PHONY : src/drivers/uefi/lv_uefi_indev_touch.i
+
+# target to preprocess a source file
+src/drivers/uefi/lv_uefi_indev_touch.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_touch.c.i
+.PHONY : src/drivers/uefi/lv_uefi_indev_touch.c.i
+
+src/drivers/uefi/lv_uefi_indev_touch.s: src/drivers/uefi/lv_uefi_indev_touch.c.s
+.PHONY : src/drivers/uefi/lv_uefi_indev_touch.s
+
+# target to generate assembly for a file
+src/drivers/uefi/lv_uefi_indev_touch.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_indev_touch.c.s
+.PHONY : src/drivers/uefi/lv_uefi_indev_touch.c.s
+
+src/drivers/uefi/lv_uefi_private.o: src/drivers/uefi/lv_uefi_private.c.o
+.PHONY : src/drivers/uefi/lv_uefi_private.o
+
+# target to build an object file
+src/drivers/uefi/lv_uefi_private.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_private.c.o
+.PHONY : src/drivers/uefi/lv_uefi_private.c.o
+
+src/drivers/uefi/lv_uefi_private.i: src/drivers/uefi/lv_uefi_private.c.i
+.PHONY : src/drivers/uefi/lv_uefi_private.i
+
+# target to preprocess a source file
+src/drivers/uefi/lv_uefi_private.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_private.c.i
+.PHONY : src/drivers/uefi/lv_uefi_private.c.i
+
+src/drivers/uefi/lv_uefi_private.s: src/drivers/uefi/lv_uefi_private.c.s
+.PHONY : src/drivers/uefi/lv_uefi_private.s
+
+# target to generate assembly for a file
+src/drivers/uefi/lv_uefi_private.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/uefi/lv_uefi_private.c.s
+.PHONY : src/drivers/uefi/lv_uefi_private.c.s
+
+src/drivers/wayland/lv_wayland.o: src/drivers/wayland/lv_wayland.c.o
+.PHONY : src/drivers/wayland/lv_wayland.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland.c.o
+.PHONY : src/drivers/wayland/lv_wayland.c.o
+
+src/drivers/wayland/lv_wayland.i: src/drivers/wayland/lv_wayland.c.i
+.PHONY : src/drivers/wayland/lv_wayland.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland.c.i
+.PHONY : src/drivers/wayland/lv_wayland.c.i
+
+src/drivers/wayland/lv_wayland.s: src/drivers/wayland/lv_wayland.c.s
+.PHONY : src/drivers/wayland/lv_wayland.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland.c.s
+.PHONY : src/drivers/wayland/lv_wayland.c.s
+
+src/drivers/wayland/lv_wayland_backend_egl.o: src/drivers/wayland/lv_wayland_backend_egl.c.o
+.PHONY : src/drivers/wayland/lv_wayland_backend_egl.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_backend_egl.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_egl.c.o
+.PHONY : src/drivers/wayland/lv_wayland_backend_egl.c.o
+
+src/drivers/wayland/lv_wayland_backend_egl.i: src/drivers/wayland/lv_wayland_backend_egl.c.i
+.PHONY : src/drivers/wayland/lv_wayland_backend_egl.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_backend_egl.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_egl.c.i
+.PHONY : src/drivers/wayland/lv_wayland_backend_egl.c.i
+
+src/drivers/wayland/lv_wayland_backend_egl.s: src/drivers/wayland/lv_wayland_backend_egl.c.s
+.PHONY : src/drivers/wayland/lv_wayland_backend_egl.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_backend_egl.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_egl.c.s
+.PHONY : src/drivers/wayland/lv_wayland_backend_egl.c.s
+
+src/drivers/wayland/lv_wayland_backend_g2d.o: src/drivers/wayland/lv_wayland_backend_g2d.c.o
+.PHONY : src/drivers/wayland/lv_wayland_backend_g2d.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_backend_g2d.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_g2d.c.o
+.PHONY : src/drivers/wayland/lv_wayland_backend_g2d.c.o
+
+src/drivers/wayland/lv_wayland_backend_g2d.i: src/drivers/wayland/lv_wayland_backend_g2d.c.i
+.PHONY : src/drivers/wayland/lv_wayland_backend_g2d.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_backend_g2d.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_g2d.c.i
+.PHONY : src/drivers/wayland/lv_wayland_backend_g2d.c.i
+
+src/drivers/wayland/lv_wayland_backend_g2d.s: src/drivers/wayland/lv_wayland_backend_g2d.c.s
+.PHONY : src/drivers/wayland/lv_wayland_backend_g2d.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_backend_g2d.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_g2d.c.s
+.PHONY : src/drivers/wayland/lv_wayland_backend_g2d.c.s
+
+src/drivers/wayland/lv_wayland_backend_shm.o: src/drivers/wayland/lv_wayland_backend_shm.c.o
+.PHONY : src/drivers/wayland/lv_wayland_backend_shm.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_backend_shm.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_shm.c.o
+.PHONY : src/drivers/wayland/lv_wayland_backend_shm.c.o
+
+src/drivers/wayland/lv_wayland_backend_shm.i: src/drivers/wayland/lv_wayland_backend_shm.c.i
+.PHONY : src/drivers/wayland/lv_wayland_backend_shm.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_backend_shm.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_shm.c.i
+.PHONY : src/drivers/wayland/lv_wayland_backend_shm.c.i
+
+src/drivers/wayland/lv_wayland_backend_shm.s: src/drivers/wayland/lv_wayland_backend_shm.c.s
+.PHONY : src/drivers/wayland/lv_wayland_backend_shm.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_backend_shm.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_backend_shm.c.s
+.PHONY : src/drivers/wayland/lv_wayland_backend_shm.c.s
+
+src/drivers/wayland/lv_wayland_keyboard.o: src/drivers/wayland/lv_wayland_keyboard.c.o
+.PHONY : src/drivers/wayland/lv_wayland_keyboard.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_keyboard.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_keyboard.c.o
+.PHONY : src/drivers/wayland/lv_wayland_keyboard.c.o
+
+src/drivers/wayland/lv_wayland_keyboard.i: src/drivers/wayland/lv_wayland_keyboard.c.i
+.PHONY : src/drivers/wayland/lv_wayland_keyboard.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_keyboard.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_keyboard.c.i
+.PHONY : src/drivers/wayland/lv_wayland_keyboard.c.i
+
+src/drivers/wayland/lv_wayland_keyboard.s: src/drivers/wayland/lv_wayland_keyboard.c.s
+.PHONY : src/drivers/wayland/lv_wayland_keyboard.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_keyboard.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_keyboard.c.s
+.PHONY : src/drivers/wayland/lv_wayland_keyboard.c.s
+
+src/drivers/wayland/lv_wayland_pointer.o: src/drivers/wayland/lv_wayland_pointer.c.o
+.PHONY : src/drivers/wayland/lv_wayland_pointer.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_pointer.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_pointer.c.o
+.PHONY : src/drivers/wayland/lv_wayland_pointer.c.o
+
+src/drivers/wayland/lv_wayland_pointer.i: src/drivers/wayland/lv_wayland_pointer.c.i
+.PHONY : src/drivers/wayland/lv_wayland_pointer.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_pointer.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_pointer.c.i
+.PHONY : src/drivers/wayland/lv_wayland_pointer.c.i
+
+src/drivers/wayland/lv_wayland_pointer.s: src/drivers/wayland/lv_wayland_pointer.c.s
+.PHONY : src/drivers/wayland/lv_wayland_pointer.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_pointer.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_pointer.c.s
+.PHONY : src/drivers/wayland/lv_wayland_pointer.c.s
+
+src/drivers/wayland/lv_wayland_seat.o: src/drivers/wayland/lv_wayland_seat.c.o
+.PHONY : src/drivers/wayland/lv_wayland_seat.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_seat.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_seat.c.o
+.PHONY : src/drivers/wayland/lv_wayland_seat.c.o
+
+src/drivers/wayland/lv_wayland_seat.i: src/drivers/wayland/lv_wayland_seat.c.i
+.PHONY : src/drivers/wayland/lv_wayland_seat.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_seat.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_seat.c.i
+.PHONY : src/drivers/wayland/lv_wayland_seat.c.i
+
+src/drivers/wayland/lv_wayland_seat.s: src/drivers/wayland/lv_wayland_seat.c.s
+.PHONY : src/drivers/wayland/lv_wayland_seat.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_seat.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_seat.c.s
+.PHONY : src/drivers/wayland/lv_wayland_seat.c.s
+
+src/drivers/wayland/lv_wayland_touch.o: src/drivers/wayland/lv_wayland_touch.c.o
+.PHONY : src/drivers/wayland/lv_wayland_touch.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_touch.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_touch.c.o
+.PHONY : src/drivers/wayland/lv_wayland_touch.c.o
+
+src/drivers/wayland/lv_wayland_touch.i: src/drivers/wayland/lv_wayland_touch.c.i
+.PHONY : src/drivers/wayland/lv_wayland_touch.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_touch.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_touch.c.i
+.PHONY : src/drivers/wayland/lv_wayland_touch.c.i
+
+src/drivers/wayland/lv_wayland_touch.s: src/drivers/wayland/lv_wayland_touch.c.s
+.PHONY : src/drivers/wayland/lv_wayland_touch.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_touch.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_touch.c.s
+.PHONY : src/drivers/wayland/lv_wayland_touch.c.s
+
+src/drivers/wayland/lv_wayland_window.o: src/drivers/wayland/lv_wayland_window.c.o
+.PHONY : src/drivers/wayland/lv_wayland_window.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_window.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_window.c.o
+.PHONY : src/drivers/wayland/lv_wayland_window.c.o
+
+src/drivers/wayland/lv_wayland_window.i: src/drivers/wayland/lv_wayland_window.c.i
+.PHONY : src/drivers/wayland/lv_wayland_window.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_window.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_window.c.i
+.PHONY : src/drivers/wayland/lv_wayland_window.c.i
+
+src/drivers/wayland/lv_wayland_window.s: src/drivers/wayland/lv_wayland_window.c.s
+.PHONY : src/drivers/wayland/lv_wayland_window.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_window.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_window.c.s
+.PHONY : src/drivers/wayland/lv_wayland_window.c.s
+
+src/drivers/wayland/lv_wayland_xdg_shell.o: src/drivers/wayland/lv_wayland_xdg_shell.c.o
+.PHONY : src/drivers/wayland/lv_wayland_xdg_shell.o
+
+# target to build an object file
+src/drivers/wayland/lv_wayland_xdg_shell.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_xdg_shell.c.o
+.PHONY : src/drivers/wayland/lv_wayland_xdg_shell.c.o
+
+src/drivers/wayland/lv_wayland_xdg_shell.i: src/drivers/wayland/lv_wayland_xdg_shell.c.i
+.PHONY : src/drivers/wayland/lv_wayland_xdg_shell.i
+
+# target to preprocess a source file
+src/drivers/wayland/lv_wayland_xdg_shell.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_xdg_shell.c.i
+.PHONY : src/drivers/wayland/lv_wayland_xdg_shell.c.i
+
+src/drivers/wayland/lv_wayland_xdg_shell.s: src/drivers/wayland/lv_wayland_xdg_shell.c.s
+.PHONY : src/drivers/wayland/lv_wayland_xdg_shell.s
+
+# target to generate assembly for a file
+src/drivers/wayland/lv_wayland_xdg_shell.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/wayland/lv_wayland_xdg_shell.c.s
+.PHONY : src/drivers/wayland/lv_wayland_xdg_shell.c.s
 
 src/drivers/windows/lv_windows_context.o: src/drivers/windows/lv_windows_context.c.o
 .PHONY : src/drivers/windows/lv_windows_context.o
@@ -10601,29 +14025,125 @@ src/drivers/x11/lv_x11_input.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/drivers/x11/lv_x11_input.c.s
 .PHONY : src/drivers/x11/lv_x11_input.c.s
 
-src/font/lv_binfont_loader.o: src/font/lv_binfont_loader.c.o
-.PHONY : src/font/lv_binfont_loader.o
+src/font/binfont_loader/lv_binfont_loader.o: src/font/binfont_loader/lv_binfont_loader.c.o
+.PHONY : src/font/binfont_loader/lv_binfont_loader.o
 
 # target to build an object file
-src/font/lv_binfont_loader.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_binfont_loader.c.o
-.PHONY : src/font/lv_binfont_loader.c.o
+src/font/binfont_loader/lv_binfont_loader.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/binfont_loader/lv_binfont_loader.c.o
+.PHONY : src/font/binfont_loader/lv_binfont_loader.c.o
 
-src/font/lv_binfont_loader.i: src/font/lv_binfont_loader.c.i
-.PHONY : src/font/lv_binfont_loader.i
+src/font/binfont_loader/lv_binfont_loader.i: src/font/binfont_loader/lv_binfont_loader.c.i
+.PHONY : src/font/binfont_loader/lv_binfont_loader.i
 
 # target to preprocess a source file
-src/font/lv_binfont_loader.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_binfont_loader.c.i
-.PHONY : src/font/lv_binfont_loader.c.i
+src/font/binfont_loader/lv_binfont_loader.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/binfont_loader/lv_binfont_loader.c.i
+.PHONY : src/font/binfont_loader/lv_binfont_loader.c.i
 
-src/font/lv_binfont_loader.s: src/font/lv_binfont_loader.c.s
-.PHONY : src/font/lv_binfont_loader.s
+src/font/binfont_loader/lv_binfont_loader.s: src/font/binfont_loader/lv_binfont_loader.c.s
+.PHONY : src/font/binfont_loader/lv_binfont_loader.s
 
 # target to generate assembly for a file
-src/font/lv_binfont_loader.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_binfont_loader.c.s
-.PHONY : src/font/lv_binfont_loader.c.s
+src/font/binfont_loader/lv_binfont_loader.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/binfont_loader/lv_binfont_loader.c.s
+.PHONY : src/font/binfont_loader/lv_binfont_loader.c.s
+
+src/font/fmt_txt/lv_font_fmt_txt.o: src/font/fmt_txt/lv_font_fmt_txt.c.o
+.PHONY : src/font/fmt_txt/lv_font_fmt_txt.o
+
+# target to build an object file
+src/font/fmt_txt/lv_font_fmt_txt.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/fmt_txt/lv_font_fmt_txt.c.o
+.PHONY : src/font/fmt_txt/lv_font_fmt_txt.c.o
+
+src/font/fmt_txt/lv_font_fmt_txt.i: src/font/fmt_txt/lv_font_fmt_txt.c.i
+.PHONY : src/font/fmt_txt/lv_font_fmt_txt.i
+
+# target to preprocess a source file
+src/font/fmt_txt/lv_font_fmt_txt.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/fmt_txt/lv_font_fmt_txt.c.i
+.PHONY : src/font/fmt_txt/lv_font_fmt_txt.c.i
+
+src/font/fmt_txt/lv_font_fmt_txt.s: src/font/fmt_txt/lv_font_fmt_txt.c.s
+.PHONY : src/font/fmt_txt/lv_font_fmt_txt.s
+
+# target to generate assembly for a file
+src/font/fmt_txt/lv_font_fmt_txt.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/fmt_txt/lv_font_fmt_txt.c.s
+.PHONY : src/font/fmt_txt/lv_font_fmt_txt.c.s
+
+src/font/font_manager/lv_font_manager.o: src/font/font_manager/lv_font_manager.c.o
+.PHONY : src/font/font_manager/lv_font_manager.o
+
+# target to build an object file
+src/font/font_manager/lv_font_manager.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/font_manager/lv_font_manager.c.o
+.PHONY : src/font/font_manager/lv_font_manager.c.o
+
+src/font/font_manager/lv_font_manager.i: src/font/font_manager/lv_font_manager.c.i
+.PHONY : src/font/font_manager/lv_font_manager.i
+
+# target to preprocess a source file
+src/font/font_manager/lv_font_manager.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/font_manager/lv_font_manager.c.i
+.PHONY : src/font/font_manager/lv_font_manager.c.i
+
+src/font/font_manager/lv_font_manager.s: src/font/font_manager/lv_font_manager.c.s
+.PHONY : src/font/font_manager/lv_font_manager.s
+
+# target to generate assembly for a file
+src/font/font_manager/lv_font_manager.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/font_manager/lv_font_manager.c.s
+.PHONY : src/font/font_manager/lv_font_manager.c.s
+
+src/font/font_manager/lv_font_manager_recycle.o: src/font/font_manager/lv_font_manager_recycle.c.o
+.PHONY : src/font/font_manager/lv_font_manager_recycle.o
+
+# target to build an object file
+src/font/font_manager/lv_font_manager_recycle.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/font_manager/lv_font_manager_recycle.c.o
+.PHONY : src/font/font_manager/lv_font_manager_recycle.c.o
+
+src/font/font_manager/lv_font_manager_recycle.i: src/font/font_manager/lv_font_manager_recycle.c.i
+.PHONY : src/font/font_manager/lv_font_manager_recycle.i
+
+# target to preprocess a source file
+src/font/font_manager/lv_font_manager_recycle.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/font_manager/lv_font_manager_recycle.c.i
+.PHONY : src/font/font_manager/lv_font_manager_recycle.c.i
+
+src/font/font_manager/lv_font_manager_recycle.s: src/font/font_manager/lv_font_manager_recycle.c.s
+.PHONY : src/font/font_manager/lv_font_manager_recycle.s
+
+# target to generate assembly for a file
+src/font/font_manager/lv_font_manager_recycle.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/font_manager/lv_font_manager_recycle.c.s
+.PHONY : src/font/font_manager/lv_font_manager_recycle.c.s
+
+src/font/imgfont/lv_imgfont.o: src/font/imgfont/lv_imgfont.c.o
+.PHONY : src/font/imgfont/lv_imgfont.o
+
+# target to build an object file
+src/font/imgfont/lv_imgfont.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/imgfont/lv_imgfont.c.o
+.PHONY : src/font/imgfont/lv_imgfont.c.o
+
+src/font/imgfont/lv_imgfont.i: src/font/imgfont/lv_imgfont.c.i
+.PHONY : src/font/imgfont/lv_imgfont.i
+
+# target to preprocess a source file
+src/font/imgfont/lv_imgfont.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/imgfont/lv_imgfont.c.i
+.PHONY : src/font/imgfont/lv_imgfont.c.i
+
+src/font/imgfont/lv_imgfont.s: src/font/imgfont/lv_imgfont.c.s
+.PHONY : src/font/imgfont/lv_imgfont.s
+
+# target to generate assembly for a file
+src/font/imgfont/lv_imgfont.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/imgfont/lv_imgfont.c.s
+.PHONY : src/font/imgfont/lv_imgfont.c.s
 
 src/font/lv_font.o: src/font/lv_font.c.o
 .PHONY : src/font/lv_font.o
@@ -10673,30 +14193,6 @@ src/font/lv_font_dejavu_16_persian_hebrew.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.s
 .PHONY : src/font/lv_font_dejavu_16_persian_hebrew.c.s
 
-src/font/lv_font_fmt_txt.o: src/font/lv_font_fmt_txt.c.o
-.PHONY : src/font/lv_font_fmt_txt.o
-
-# target to build an object file
-src/font/lv_font_fmt_txt.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o
-.PHONY : src/font/lv_font_fmt_txt.c.o
-
-src/font/lv_font_fmt_txt.i: src/font/lv_font_fmt_txt.c.i
-.PHONY : src/font/lv_font_fmt_txt.i
-
-# target to preprocess a source file
-src/font/lv_font_fmt_txt.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.i
-.PHONY : src/font/lv_font_fmt_txt.c.i
-
-src/font/lv_font_fmt_txt.s: src/font/lv_font_fmt_txt.c.s
-.PHONY : src/font/lv_font_fmt_txt.s
-
-# target to generate assembly for a file
-src/font/lv_font_fmt_txt.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.s
-.PHONY : src/font/lv_font_fmt_txt.c.s
-
 src/font/lv_font_montserrat_10.o: src/font/lv_font_montserrat_10.c.o
 .PHONY : src/font/lv_font_montserrat_10.o
 
@@ -10745,6 +14241,30 @@ src/font/lv_font_montserrat_12.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.s
 .PHONY : src/font/lv_font_montserrat_12.c.s
 
+src/font/lv_font_montserrat_12_subpx.o: src/font/lv_font_montserrat_12_subpx.c.o
+.PHONY : src/font/lv_font_montserrat_12_subpx.o
+
+# target to build an object file
+src/font/lv_font_montserrat_12_subpx.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o
+.PHONY : src/font/lv_font_montserrat_12_subpx.c.o
+
+src/font/lv_font_montserrat_12_subpx.i: src/font/lv_font_montserrat_12_subpx.c.i
+.PHONY : src/font/lv_font_montserrat_12_subpx.i
+
+# target to preprocess a source file
+src/font/lv_font_montserrat_12_subpx.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.i
+.PHONY : src/font/lv_font_montserrat_12_subpx.c.i
+
+src/font/lv_font_montserrat_12_subpx.s: src/font/lv_font_montserrat_12_subpx.c.s
+.PHONY : src/font/lv_font_montserrat_12_subpx.s
+
+# target to generate assembly for a file
+src/font/lv_font_montserrat_12_subpx.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.s
+.PHONY : src/font/lv_font_montserrat_12_subpx.c.s
+
 src/font/lv_font_montserrat_14.o: src/font/lv_font_montserrat_14.c.o
 .PHONY : src/font/lv_font_montserrat_14.o
 
@@ -10768,6 +14288,30 @@ src/font/lv_font_montserrat_14.s: src/font/lv_font_montserrat_14.c.s
 src/font/lv_font_montserrat_14.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.s
 .PHONY : src/font/lv_font_montserrat_14.c.s
+
+src/font/lv_font_montserrat_14_aligned.o: src/font/lv_font_montserrat_14_aligned.c.o
+.PHONY : src/font/lv_font_montserrat_14_aligned.o
+
+# target to build an object file
+src/font/lv_font_montserrat_14_aligned.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14_aligned.c.o
+.PHONY : src/font/lv_font_montserrat_14_aligned.c.o
+
+src/font/lv_font_montserrat_14_aligned.i: src/font/lv_font_montserrat_14_aligned.c.i
+.PHONY : src/font/lv_font_montserrat_14_aligned.i
+
+# target to preprocess a source file
+src/font/lv_font_montserrat_14_aligned.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14_aligned.c.i
+.PHONY : src/font/lv_font_montserrat_14_aligned.c.i
+
+src/font/lv_font_montserrat_14_aligned.s: src/font/lv_font_montserrat_14_aligned.c.s
+.PHONY : src/font/lv_font_montserrat_14_aligned.s
+
+# target to generate assembly for a file
+src/font/lv_font_montserrat_14_aligned.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14_aligned.c.s
+.PHONY : src/font/lv_font_montserrat_14_aligned.c.s
 
 src/font/lv_font_montserrat_16.o: src/font/lv_font_montserrat_16.c.o
 .PHONY : src/font/lv_font_montserrat_16.o
@@ -11225,29 +14769,53 @@ src/font/lv_font_montserrat_8.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.s
 .PHONY : src/font/lv_font_montserrat_8.c.s
 
-src/font/lv_font_simsun_16_cjk.o: src/font/lv_font_simsun_16_cjk.c.o
-.PHONY : src/font/lv_font_simsun_16_cjk.o
+src/font/lv_font_source_han_sans_sc_14_cjk.o: src/font/lv_font_source_han_sans_sc_14_cjk.c.o
+.PHONY : src/font/lv_font_source_han_sans_sc_14_cjk.o
 
 # target to build an object file
-src/font/lv_font_simsun_16_cjk.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o
-.PHONY : src/font/lv_font_simsun_16_cjk.c.o
+src/font/lv_font_source_han_sans_sc_14_cjk.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_source_han_sans_sc_14_cjk.c.o
+.PHONY : src/font/lv_font_source_han_sans_sc_14_cjk.c.o
 
-src/font/lv_font_simsun_16_cjk.i: src/font/lv_font_simsun_16_cjk.c.i
-.PHONY : src/font/lv_font_simsun_16_cjk.i
+src/font/lv_font_source_han_sans_sc_14_cjk.i: src/font/lv_font_source_han_sans_sc_14_cjk.c.i
+.PHONY : src/font/lv_font_source_han_sans_sc_14_cjk.i
 
 # target to preprocess a source file
-src/font/lv_font_simsun_16_cjk.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.i
-.PHONY : src/font/lv_font_simsun_16_cjk.c.i
+src/font/lv_font_source_han_sans_sc_14_cjk.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_source_han_sans_sc_14_cjk.c.i
+.PHONY : src/font/lv_font_source_han_sans_sc_14_cjk.c.i
 
-src/font/lv_font_simsun_16_cjk.s: src/font/lv_font_simsun_16_cjk.c.s
-.PHONY : src/font/lv_font_simsun_16_cjk.s
+src/font/lv_font_source_han_sans_sc_14_cjk.s: src/font/lv_font_source_han_sans_sc_14_cjk.c.s
+.PHONY : src/font/lv_font_source_han_sans_sc_14_cjk.s
 
 # target to generate assembly for a file
-src/font/lv_font_simsun_16_cjk.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.s
-.PHONY : src/font/lv_font_simsun_16_cjk.c.s
+src/font/lv_font_source_han_sans_sc_14_cjk.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_source_han_sans_sc_14_cjk.c.s
+.PHONY : src/font/lv_font_source_han_sans_sc_14_cjk.c.s
+
+src/font/lv_font_source_han_sans_sc_16_cjk.o: src/font/lv_font_source_han_sans_sc_16_cjk.c.o
+.PHONY : src/font/lv_font_source_han_sans_sc_16_cjk.o
+
+# target to build an object file
+src/font/lv_font_source_han_sans_sc_16_cjk.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_source_han_sans_sc_16_cjk.c.o
+.PHONY : src/font/lv_font_source_han_sans_sc_16_cjk.c.o
+
+src/font/lv_font_source_han_sans_sc_16_cjk.i: src/font/lv_font_source_han_sans_sc_16_cjk.c.i
+.PHONY : src/font/lv_font_source_han_sans_sc_16_cjk.i
+
+# target to preprocess a source file
+src/font/lv_font_source_han_sans_sc_16_cjk.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_source_han_sans_sc_16_cjk.c.i
+.PHONY : src/font/lv_font_source_han_sans_sc_16_cjk.c.i
+
+src/font/lv_font_source_han_sans_sc_16_cjk.s: src/font/lv_font_source_han_sans_sc_16_cjk.c.s
+.PHONY : src/font/lv_font_source_han_sans_sc_16_cjk.s
+
+# target to generate assembly for a file
+src/font/lv_font_source_han_sans_sc_16_cjk.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_source_han_sans_sc_16_cjk.c.s
+.PHONY : src/font/lv_font_source_han_sans_sc_16_cjk.c.s
 
 src/font/lv_font_unscii_16.o: src/font/lv_font_unscii_16.c.o
 .PHONY : src/font/lv_font_unscii_16.o
@@ -11297,6 +14865,30 @@ src/font/lv_font_unscii_8.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.s
 .PHONY : src/font/lv_font_unscii_8.c.s
 
+src/indev/lv_gridnav.o: src/indev/lv_gridnav.c.o
+.PHONY : src/indev/lv_gridnav.o
+
+# target to build an object file
+src/indev/lv_gridnav.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/indev/lv_gridnav.c.o
+.PHONY : src/indev/lv_gridnav.c.o
+
+src/indev/lv_gridnav.i: src/indev/lv_gridnav.c.i
+.PHONY : src/indev/lv_gridnav.i
+
+# target to preprocess a source file
+src/indev/lv_gridnav.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/indev/lv_gridnav.c.i
+.PHONY : src/indev/lv_gridnav.c.i
+
+src/indev/lv_gridnav.s: src/indev/lv_gridnav.c.s
+.PHONY : src/indev/lv_gridnav.s
+
+# target to generate assembly for a file
+src/indev/lv_gridnav.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/indev/lv_gridnav.c.s
+.PHONY : src/indev/lv_gridnav.c.s
+
 src/indev/lv_indev.o: src/indev/lv_indev.c.o
 .PHONY : src/indev/lv_indev.o
 
@@ -11320,6 +14912,30 @@ src/indev/lv_indev.s: src/indev/lv_indev.c.s
 src/indev/lv_indev.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/indev/lv_indev.c.s
 .PHONY : src/indev/lv_indev.c.s
+
+src/indev/lv_indev_gesture.o: src/indev/lv_indev_gesture.c.o
+.PHONY : src/indev/lv_indev_gesture.o
+
+# target to build an object file
+src/indev/lv_indev_gesture.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/indev/lv_indev_gesture.c.o
+.PHONY : src/indev/lv_indev_gesture.c.o
+
+src/indev/lv_indev_gesture.i: src/indev/lv_indev_gesture.c.i
+.PHONY : src/indev/lv_indev_gesture.i
+
+# target to preprocess a source file
+src/indev/lv_indev_gesture.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/indev/lv_indev_gesture.c.i
+.PHONY : src/indev/lv_indev_gesture.c.i
+
+src/indev/lv_indev_gesture.s: src/indev/lv_indev_gesture.c.s
+.PHONY : src/indev/lv_indev_gesture.s
+
+# target to generate assembly for a file
+src/indev/lv_indev_gesture.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/indev/lv_indev_gesture.c.s
+.PHONY : src/indev/lv_indev_gesture.c.s
 
 src/indev/lv_indev_scroll.o: src/indev/lv_indev_scroll.c.o
 .PHONY : src/indev/lv_indev_scroll.o
@@ -11416,6 +15032,54 @@ src/layouts/lv_layout.s: src/layouts/lv_layout.c.s
 src/layouts/lv_layout.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/layouts/lv_layout.c.s
 .PHONY : src/layouts/lv_layout.c.s
+
+src/libs/FT800-FT813/EVE_commands.o: src/libs/FT800-FT813/EVE_commands.c.o
+.PHONY : src/libs/FT800-FT813/EVE_commands.o
+
+# target to build an object file
+src/libs/FT800-FT813/EVE_commands.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/FT800-FT813/EVE_commands.c.o
+.PHONY : src/libs/FT800-FT813/EVE_commands.c.o
+
+src/libs/FT800-FT813/EVE_commands.i: src/libs/FT800-FT813/EVE_commands.c.i
+.PHONY : src/libs/FT800-FT813/EVE_commands.i
+
+# target to preprocess a source file
+src/libs/FT800-FT813/EVE_commands.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/FT800-FT813/EVE_commands.c.i
+.PHONY : src/libs/FT800-FT813/EVE_commands.c.i
+
+src/libs/FT800-FT813/EVE_commands.s: src/libs/FT800-FT813/EVE_commands.c.s
+.PHONY : src/libs/FT800-FT813/EVE_commands.s
+
+# target to generate assembly for a file
+src/libs/FT800-FT813/EVE_commands.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/FT800-FT813/EVE_commands.c.s
+.PHONY : src/libs/FT800-FT813/EVE_commands.c.s
+
+src/libs/FT800-FT813/EVE_supplemental.o: src/libs/FT800-FT813/EVE_supplemental.c.o
+.PHONY : src/libs/FT800-FT813/EVE_supplemental.o
+
+# target to build an object file
+src/libs/FT800-FT813/EVE_supplemental.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/FT800-FT813/EVE_supplemental.c.o
+.PHONY : src/libs/FT800-FT813/EVE_supplemental.c.o
+
+src/libs/FT800-FT813/EVE_supplemental.i: src/libs/FT800-FT813/EVE_supplemental.c.i
+.PHONY : src/libs/FT800-FT813/EVE_supplemental.i
+
+# target to preprocess a source file
+src/libs/FT800-FT813/EVE_supplemental.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/FT800-FT813/EVE_supplemental.c.i
+.PHONY : src/libs/FT800-FT813/EVE_supplemental.c.i
+
+src/libs/FT800-FT813/EVE_supplemental.s: src/libs/FT800-FT813/EVE_supplemental.c.s
+.PHONY : src/libs/FT800-FT813/EVE_supplemental.s
+
+# target to generate assembly for a file
+src/libs/FT800-FT813/EVE_supplemental.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/FT800-FT813/EVE_supplemental.c.s
+.PHONY : src/libs/FT800-FT813/EVE_supplemental.c.s
 
 src/libs/barcode/code128.o: src/libs/barcode/code128.c.o
 .PHONY : src/libs/barcode/code128.o
@@ -11657,6 +15321,102 @@ src/libs/freetype/lv_ftsystem.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/freetype/lv_ftsystem.c.s
 .PHONY : src/libs/freetype/lv_ftsystem.c.s
 
+src/libs/frogfs/src/decomp_raw.o: src/libs/frogfs/src/decomp_raw.c.o
+.PHONY : src/libs/frogfs/src/decomp_raw.o
+
+# target to build an object file
+src/libs/frogfs/src/decomp_raw.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/decomp_raw.c.o
+.PHONY : src/libs/frogfs/src/decomp_raw.c.o
+
+src/libs/frogfs/src/decomp_raw.i: src/libs/frogfs/src/decomp_raw.c.i
+.PHONY : src/libs/frogfs/src/decomp_raw.i
+
+# target to preprocess a source file
+src/libs/frogfs/src/decomp_raw.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/decomp_raw.c.i
+.PHONY : src/libs/frogfs/src/decomp_raw.c.i
+
+src/libs/frogfs/src/decomp_raw.s: src/libs/frogfs/src/decomp_raw.c.s
+.PHONY : src/libs/frogfs/src/decomp_raw.s
+
+# target to generate assembly for a file
+src/libs/frogfs/src/decomp_raw.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/decomp_raw.c.s
+.PHONY : src/libs/frogfs/src/decomp_raw.c.s
+
+src/libs/frogfs/src/frogfs.o: src/libs/frogfs/src/frogfs.c.o
+.PHONY : src/libs/frogfs/src/frogfs.o
+
+# target to build an object file
+src/libs/frogfs/src/frogfs.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/frogfs.c.o
+.PHONY : src/libs/frogfs/src/frogfs.c.o
+
+src/libs/frogfs/src/frogfs.i: src/libs/frogfs/src/frogfs.c.i
+.PHONY : src/libs/frogfs/src/frogfs.i
+
+# target to preprocess a source file
+src/libs/frogfs/src/frogfs.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/frogfs.c.i
+.PHONY : src/libs/frogfs/src/frogfs.c.i
+
+src/libs/frogfs/src/frogfs.s: src/libs/frogfs/src/frogfs.c.s
+.PHONY : src/libs/frogfs/src/frogfs.s
+
+# target to generate assembly for a file
+src/libs/frogfs/src/frogfs.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/frogfs.c.s
+.PHONY : src/libs/frogfs/src/frogfs.c.s
+
+src/libs/fsdrv/lv_fs_arduino_esp_littlefs.o: src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.o
+.PHONY : src/libs/fsdrv/lv_fs_arduino_esp_littlefs.o
+
+# target to build an object file
+src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.o
+.PHONY : src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.o
+
+src/libs/fsdrv/lv_fs_arduino_esp_littlefs.i: src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.i
+.PHONY : src/libs/fsdrv/lv_fs_arduino_esp_littlefs.i
+
+# target to preprocess a source file
+src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.i
+.PHONY : src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.i
+
+src/libs/fsdrv/lv_fs_arduino_esp_littlefs.s: src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.s
+.PHONY : src/libs/fsdrv/lv_fs_arduino_esp_littlefs.s
+
+# target to generate assembly for a file
+src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.s
+.PHONY : src/libs/fsdrv/lv_fs_arduino_esp_littlefs.cpp.s
+
+src/libs/fsdrv/lv_fs_arduino_sd.o: src/libs/fsdrv/lv_fs_arduino_sd.cpp.o
+.PHONY : src/libs/fsdrv/lv_fs_arduino_sd.o
+
+# target to build an object file
+src/libs/fsdrv/lv_fs_arduino_sd.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_arduino_sd.cpp.o
+.PHONY : src/libs/fsdrv/lv_fs_arduino_sd.cpp.o
+
+src/libs/fsdrv/lv_fs_arduino_sd.i: src/libs/fsdrv/lv_fs_arduino_sd.cpp.i
+.PHONY : src/libs/fsdrv/lv_fs_arduino_sd.i
+
+# target to preprocess a source file
+src/libs/fsdrv/lv_fs_arduino_sd.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_arduino_sd.cpp.i
+.PHONY : src/libs/fsdrv/lv_fs_arduino_sd.cpp.i
+
+src/libs/fsdrv/lv_fs_arduino_sd.s: src/libs/fsdrv/lv_fs_arduino_sd.cpp.s
+.PHONY : src/libs/fsdrv/lv_fs_arduino_sd.s
+
+# target to generate assembly for a file
+src/libs/fsdrv/lv_fs_arduino_sd.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_arduino_sd.cpp.s
+.PHONY : src/libs/fsdrv/lv_fs_arduino_sd.cpp.s
+
 src/libs/fsdrv/lv_fs_cbfs.o: src/libs/fsdrv/lv_fs_cbfs.c.o
 .PHONY : src/libs/fsdrv/lv_fs_cbfs.o
 
@@ -11704,6 +15464,30 @@ src/libs/fsdrv/lv_fs_fatfs.s: src/libs/fsdrv/lv_fs_fatfs.c.s
 src/libs/fsdrv/lv_fs_fatfs.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_fatfs.c.s
 .PHONY : src/libs/fsdrv/lv_fs_fatfs.c.s
+
+src/libs/fsdrv/lv_fs_frogfs.o: src/libs/fsdrv/lv_fs_frogfs.c.o
+.PHONY : src/libs/fsdrv/lv_fs_frogfs.o
+
+# target to build an object file
+src/libs/fsdrv/lv_fs_frogfs.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_frogfs.c.o
+.PHONY : src/libs/fsdrv/lv_fs_frogfs.c.o
+
+src/libs/fsdrv/lv_fs_frogfs.i: src/libs/fsdrv/lv_fs_frogfs.c.i
+.PHONY : src/libs/fsdrv/lv_fs_frogfs.i
+
+# target to preprocess a source file
+src/libs/fsdrv/lv_fs_frogfs.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_frogfs.c.i
+.PHONY : src/libs/fsdrv/lv_fs_frogfs.c.i
+
+src/libs/fsdrv/lv_fs_frogfs.s: src/libs/fsdrv/lv_fs_frogfs.c.s
+.PHONY : src/libs/fsdrv/lv_fs_frogfs.s
+
+# target to generate assembly for a file
+src/libs/fsdrv/lv_fs_frogfs.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_frogfs.c.s
+.PHONY : src/libs/fsdrv/lv_fs_frogfs.c.s
 
 src/libs/fsdrv/lv_fs_littlefs.o: src/libs/fsdrv/lv_fs_littlefs.c.o
 .PHONY : src/libs/fsdrv/lv_fs_littlefs.o
@@ -11801,6 +15585,30 @@ src/libs/fsdrv/lv_fs_stdio.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_stdio.c.s
 .PHONY : src/libs/fsdrv/lv_fs_stdio.c.s
 
+src/libs/fsdrv/lv_fs_uefi.o: src/libs/fsdrv/lv_fs_uefi.c.o
+.PHONY : src/libs/fsdrv/lv_fs_uefi.o
+
+# target to build an object file
+src/libs/fsdrv/lv_fs_uefi.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_uefi.c.o
+.PHONY : src/libs/fsdrv/lv_fs_uefi.c.o
+
+src/libs/fsdrv/lv_fs_uefi.i: src/libs/fsdrv/lv_fs_uefi.c.i
+.PHONY : src/libs/fsdrv/lv_fs_uefi.i
+
+# target to preprocess a source file
+src/libs/fsdrv/lv_fs_uefi.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_uefi.c.i
+.PHONY : src/libs/fsdrv/lv_fs_uefi.c.i
+
+src/libs/fsdrv/lv_fs_uefi.s: src/libs/fsdrv/lv_fs_uefi.c.s
+.PHONY : src/libs/fsdrv/lv_fs_uefi.s
+
+# target to generate assembly for a file
+src/libs/fsdrv/lv_fs_uefi.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_uefi.c.s
+.PHONY : src/libs/fsdrv/lv_fs_uefi.c.s
+
 src/libs/fsdrv/lv_fs_win32.o: src/libs/fsdrv/lv_fs_win32.c.o
 .PHONY : src/libs/fsdrv/lv_fs_win32.o
 
@@ -11825,53 +15633,533 @@ src/libs/fsdrv/lv_fs_win32.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_win32.c.s
 .PHONY : src/libs/fsdrv/lv_fs_win32.c.s
 
-src/libs/gif/gifdec.o: src/libs/gif/gifdec.c.o
-.PHONY : src/libs/gif/gifdec.o
+src/libs/gif/gif.o: src/libs/gif/gif.c.o
+.PHONY : src/libs/gif/gif.o
 
 # target to build an object file
-src/libs/gif/gifdec.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/gifdec.c.o
-.PHONY : src/libs/gif/gifdec.c.o
+src/libs/gif/gif.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/gif.c.o
+.PHONY : src/libs/gif/gif.c.o
 
-src/libs/gif/gifdec.i: src/libs/gif/gifdec.c.i
-.PHONY : src/libs/gif/gifdec.i
+src/libs/gif/gif.i: src/libs/gif/gif.c.i
+.PHONY : src/libs/gif/gif.i
 
 # target to preprocess a source file
-src/libs/gif/gifdec.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/gifdec.c.i
-.PHONY : src/libs/gif/gifdec.c.i
+src/libs/gif/gif.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/gif.c.i
+.PHONY : src/libs/gif/gif.c.i
 
-src/libs/gif/gifdec.s: src/libs/gif/gifdec.c.s
-.PHONY : src/libs/gif/gifdec.s
+src/libs/gif/gif.s: src/libs/gif/gif.c.s
+.PHONY : src/libs/gif/gif.s
 
 # target to generate assembly for a file
-src/libs/gif/gifdec.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/gifdec.c.s
-.PHONY : src/libs/gif/gifdec.c.s
+src/libs/gif/gif.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/gif.c.s
+.PHONY : src/libs/gif/gif.c.s
 
-src/libs/gif/lv_gif.o: src/libs/gif/lv_gif.c.o
-.PHONY : src/libs/gif/lv_gif.o
+src/libs/gltf/gltf_data/lv_gltf_data.o: src/libs/gltf/gltf_data/lv_gltf_data.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data.o
 
 # target to build an object file
-src/libs/gif/lv_gif.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/lv_gif.c.o
-.PHONY : src/libs/gif/lv_gif.c.o
+src/libs/gltf/gltf_data/lv_gltf_data.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data.cpp.o
 
-src/libs/gif/lv_gif.i: src/libs/gif/lv_gif.c.i
-.PHONY : src/libs/gif/lv_gif.i
+src/libs/gltf/gltf_data/lv_gltf_data.i: src/libs/gltf/gltf_data/lv_gltf_data.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data.i
 
 # target to preprocess a source file
-src/libs/gif/lv_gif.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/lv_gif.c.i
-.PHONY : src/libs/gif/lv_gif.c.i
+src/libs/gltf/gltf_data/lv_gltf_data.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data.cpp.i
 
-src/libs/gif/lv_gif.s: src/libs/gif/lv_gif.c.s
-.PHONY : src/libs/gif/lv_gif.s
+src/libs/gltf/gltf_data/lv_gltf_data.s: src/libs/gltf/gltf_data/lv_gltf_data.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data.s
 
 # target to generate assembly for a file
-src/libs/gif/lv_gif.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gif/lv_gif.c.s
-.PHONY : src/libs/gif/lv_gif.c.s
+src/libs/gltf/gltf_data/lv_gltf_data.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_animations.o: src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_animations.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_animations.i: src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_animations.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_animations.s: src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_animations.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_animations.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_cache.o: src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_cache.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_cache.i: src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_cache.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_cache.s: src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_cache.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_cache.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_injest.o: src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_injest.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_injest.i: src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_injest.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_injest.s: src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_injest.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_injest.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_mesh.o: src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_mesh.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_mesh.i: src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_mesh.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_mesh.s: src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_mesh.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_mesh.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_primitive.o: src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_primitive.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_primitive.i: src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_primitive.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_primitive.s: src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_primitive.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_primitive.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_shader.o: src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_shader.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_shader.i: src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_shader.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_shader.s: src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_shader.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_shader.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_skin.o: src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_skin.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_skin.i: src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_skin.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_skin.s: src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_skin.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_skin.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_data_texture.o: src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_texture.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_data_texture.i: src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_texture.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_data_texture.s: src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_texture.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_data_texture.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_model_loader.o: src/libs/gltf/gltf_data/lv_gltf_model_loader.c.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_loader.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_model_loader.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_model_loader.c.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_loader.c.o
+
+src/libs/gltf/gltf_data/lv_gltf_model_loader.i: src/libs/gltf/gltf_data/lv_gltf_model_loader.c.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_loader.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_model_loader.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_model_loader.c.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_loader.c.i
+
+src/libs/gltf/gltf_data/lv_gltf_model_loader.s: src/libs/gltf/gltf_data/lv_gltf_model_loader.c.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_loader.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_model_loader.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_model_loader.c.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_loader.c.s
+
+src/libs/gltf/gltf_data/lv_gltf_model_node.o: src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_node.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_model_node.i: src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_node.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_model_node.s: src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_node.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_model_node.cpp.s
+
+src/libs/gltf/gltf_data/lv_gltf_uniform_locations.o: src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_uniform_locations.o
+
+# target to build an object file
+src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.o
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.o
+
+src/libs/gltf/gltf_data/lv_gltf_uniform_locations.i: src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_uniform_locations.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.i
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.i
+
+src/libs/gltf/gltf_data/lv_gltf_uniform_locations.s: src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_uniform_locations.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.s
+.PHONY : src/libs/gltf/gltf_data/lv_gltf_uniform_locations.cpp.s
+
+src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.o: src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.o
+.PHONY : src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.o
+
+# target to build an object file
+src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.o
+.PHONY : src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.o
+
+src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.i: src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.i
+.PHONY : src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.i
+.PHONY : src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.i
+
+src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.s: src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.s
+.PHONY : src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.s
+.PHONY : src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.c.s
+
+src/libs/gltf/gltf_view/assets/chromatic.o: src/libs/gltf/gltf_view/assets/chromatic.c.o
+.PHONY : src/libs/gltf/gltf_view/assets/chromatic.o
+
+# target to build an object file
+src/libs/gltf/gltf_view/assets/chromatic.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/assets/chromatic.c.o
+.PHONY : src/libs/gltf/gltf_view/assets/chromatic.c.o
+
+src/libs/gltf/gltf_view/assets/chromatic.i: src/libs/gltf/gltf_view/assets/chromatic.c.i
+.PHONY : src/libs/gltf/gltf_view/assets/chromatic.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_view/assets/chromatic.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/assets/chromatic.c.i
+.PHONY : src/libs/gltf/gltf_view/assets/chromatic.c.i
+
+src/libs/gltf/gltf_view/assets/chromatic.s: src/libs/gltf/gltf_view/assets/chromatic.c.s
+.PHONY : src/libs/gltf/gltf_view/assets/chromatic.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_view/assets/chromatic.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/assets/chromatic.c.s
+.PHONY : src/libs/gltf/gltf_view/assets/chromatic.c.s
+
+src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.o: src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.o
+.PHONY : src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.o
+
+# target to build an object file
+src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.o
+.PHONY : src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.o
+
+src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.i: src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.i
+.PHONY : src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.i
+.PHONY : src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.i
+
+src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.s: src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.s
+.PHONY : src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.s
+.PHONY : src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.c.s
+
+src/libs/gltf/gltf_view/lv_gltf_view.o: src/libs/gltf/gltf_view/lv_gltf_view.cpp.o
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view.o
+
+# target to build an object file
+src/libs/gltf/gltf_view/lv_gltf_view.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view.cpp.o
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view.cpp.o
+
+src/libs/gltf/gltf_view/lv_gltf_view.i: src/libs/gltf/gltf_view/lv_gltf_view.cpp.i
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_view/lv_gltf_view.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view.cpp.i
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view.cpp.i
+
+src/libs/gltf/gltf_view/lv_gltf_view.s: src/libs/gltf/gltf_view/lv_gltf_view.cpp.s
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_view/lv_gltf_view.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view.cpp.s
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view.cpp.s
+
+src/libs/gltf/gltf_view/lv_gltf_view_render.o: src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.o
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_render.o
+
+# target to build an object file
+src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.o
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.o
+
+src/libs/gltf/gltf_view/lv_gltf_view_render.i: src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.i
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_render.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.i
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.i
+
+src/libs/gltf/gltf_view/lv_gltf_view_render.s: src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.s
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_render.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.s
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_render.cpp.s
+
+src/libs/gltf/gltf_view/lv_gltf_view_shader.o: src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.o
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_shader.o
+
+# target to build an object file
+src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.o
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.o
+
+src/libs/gltf/gltf_view/lv_gltf_view_shader.i: src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.i
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_shader.i
+
+# target to preprocess a source file
+src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.i
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.i
+
+src/libs/gltf/gltf_view/lv_gltf_view_shader.s: src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.s
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_shader.s
+
+# target to generate assembly for a file
+src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.s
+.PHONY : src/libs/gltf/gltf_view/lv_gltf_view_shader.cpp.s
+
+src/libs/gltf/math/lv_3dmath.o: src/libs/gltf/math/lv_3dmath.c.o
+.PHONY : src/libs/gltf/math/lv_3dmath.o
+
+# target to build an object file
+src/libs/gltf/math/lv_3dmath.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/math/lv_3dmath.c.o
+.PHONY : src/libs/gltf/math/lv_3dmath.c.o
+
+src/libs/gltf/math/lv_3dmath.i: src/libs/gltf/math/lv_3dmath.c.i
+.PHONY : src/libs/gltf/math/lv_3dmath.i
+
+# target to preprocess a source file
+src/libs/gltf/math/lv_3dmath.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/math/lv_3dmath.c.i
+.PHONY : src/libs/gltf/math/lv_3dmath.c.i
+
+src/libs/gltf/math/lv_3dmath.s: src/libs/gltf/math/lv_3dmath.c.s
+.PHONY : src/libs/gltf/math/lv_3dmath.s
+
+# target to generate assembly for a file
+src/libs/gltf/math/lv_3dmath.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/math/lv_3dmath.c.s
+.PHONY : src/libs/gltf/math/lv_3dmath.c.s
+
+src/libs/gltf/math/lv_gltf_math.o: src/libs/gltf/math/lv_gltf_math.cpp.o
+.PHONY : src/libs/gltf/math/lv_gltf_math.o
+
+# target to build an object file
+src/libs/gltf/math/lv_gltf_math.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/math/lv_gltf_math.cpp.o
+.PHONY : src/libs/gltf/math/lv_gltf_math.cpp.o
+
+src/libs/gltf/math/lv_gltf_math.i: src/libs/gltf/math/lv_gltf_math.cpp.i
+.PHONY : src/libs/gltf/math/lv_gltf_math.i
+
+# target to preprocess a source file
+src/libs/gltf/math/lv_gltf_math.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/math/lv_gltf_math.cpp.i
+.PHONY : src/libs/gltf/math/lv_gltf_math.cpp.i
+
+src/libs/gltf/math/lv_gltf_math.s: src/libs/gltf/math/lv_gltf_math.cpp.s
+.PHONY : src/libs/gltf/math/lv_gltf_math.s
+
+# target to generate assembly for a file
+src/libs/gltf/math/lv_gltf_math.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gltf/math/lv_gltf_math.cpp.s
+.PHONY : src/libs/gltf/math/lv_gltf_math.cpp.s
+
+src/libs/gstreamer/lv_gstreamer.o: src/libs/gstreamer/lv_gstreamer.c.o
+.PHONY : src/libs/gstreamer/lv_gstreamer.o
+
+# target to build an object file
+src/libs/gstreamer/lv_gstreamer.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gstreamer/lv_gstreamer.c.o
+.PHONY : src/libs/gstreamer/lv_gstreamer.c.o
+
+src/libs/gstreamer/lv_gstreamer.i: src/libs/gstreamer/lv_gstreamer.c.i
+.PHONY : src/libs/gstreamer/lv_gstreamer.i
+
+# target to preprocess a source file
+src/libs/gstreamer/lv_gstreamer.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gstreamer/lv_gstreamer.c.i
+.PHONY : src/libs/gstreamer/lv_gstreamer.c.i
+
+src/libs/gstreamer/lv_gstreamer.s: src/libs/gstreamer/lv_gstreamer.c.s
+.PHONY : src/libs/gstreamer/lv_gstreamer.s
+
+# target to generate assembly for a file
+src/libs/gstreamer/lv_gstreamer.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/gstreamer/lv_gstreamer.c.s
+.PHONY : src/libs/gstreamer/lv_gstreamer.c.s
 
 src/libs/libjpeg_turbo/lv_libjpeg_turbo.o: src/libs/libjpeg_turbo/lv_libjpeg_turbo.c.o
 .PHONY : src/libs/libjpeg_turbo/lv_libjpeg_turbo.o
@@ -11920,6 +16208,30 @@ src/libs/libpng/lv_libpng.s: src/libs/libpng/lv_libpng.c.s
 src/libs/libpng/lv_libpng.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/libpng/lv_libpng.c.s
 .PHONY : src/libs/libpng/lv_libpng.c.s
+
+src/libs/libwebp/lv_libwebp.o: src/libs/libwebp/lv_libwebp.c.o
+.PHONY : src/libs/libwebp/lv_libwebp.o
+
+# target to build an object file
+src/libs/libwebp/lv_libwebp.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/libwebp/lv_libwebp.c.o
+.PHONY : src/libs/libwebp/lv_libwebp.c.o
+
+src/libs/libwebp/lv_libwebp.i: src/libs/libwebp/lv_libwebp.c.i
+.PHONY : src/libs/libwebp/lv_libwebp.i
+
+# target to preprocess a source file
+src/libs/libwebp/lv_libwebp.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/libwebp/lv_libwebp.c.i
+.PHONY : src/libs/libwebp/lv_libwebp.c.i
+
+src/libs/libwebp/lv_libwebp.s: src/libs/libwebp/lv_libwebp.c.s
+.PHONY : src/libs/libwebp/lv_libwebp.s
+
+# target to generate assembly for a file
+src/libs/libwebp/lv_libwebp.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/libwebp/lv_libwebp.c.s
+.PHONY : src/libs/libwebp/lv_libwebp.c.s
 
 src/libs/lodepng/lodepng.o: src/libs/lodepng/lodepng.c.o
 .PHONY : src/libs/lodepng/lodepng.o
@@ -11992,6 +16304,30 @@ src/libs/lz4/lz4.s: src/libs/lz4/lz4.c.s
 src/libs/lz4/lz4.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/lz4/lz4.c.s
 .PHONY : src/libs/lz4/lz4.c.s
+
+src/libs/nanovg/nanovg.o: src/libs/nanovg/nanovg.c.o
+.PHONY : src/libs/nanovg/nanovg.o
+
+# target to build an object file
+src/libs/nanovg/nanovg.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/nanovg/nanovg.c.o
+.PHONY : src/libs/nanovg/nanovg.c.o
+
+src/libs/nanovg/nanovg.i: src/libs/nanovg/nanovg.c.i
+.PHONY : src/libs/nanovg/nanovg.i
+
+# target to preprocess a source file
+src/libs/nanovg/nanovg.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/nanovg/nanovg.c.i
+.PHONY : src/libs/nanovg/nanovg.c.i
+
+src/libs/nanovg/nanovg.s: src/libs/nanovg/nanovg.c.s
+.PHONY : src/libs/nanovg/nanovg.s
+
+# target to generate assembly for a file
+src/libs/nanovg/nanovg.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/nanovg/nanovg.c.s
+.PHONY : src/libs/nanovg/nanovg.c.s
 
 src/libs/qrcode/lv_qrcode.o: src/libs/qrcode/lv_qrcode.c.o
 .PHONY : src/libs/qrcode/lv_qrcode.o
@@ -12089,6 +16425,150 @@ src/libs/rlottie/lv_rlottie.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/rlottie/lv_rlottie.c.s
 .PHONY : src/libs/rlottie/lv_rlottie.c.s
 
+src/libs/svg/lv_svg.o: src/libs/svg/lv_svg.c.o
+.PHONY : src/libs/svg/lv_svg.o
+
+# target to build an object file
+src/libs/svg/lv_svg.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg.c.o
+.PHONY : src/libs/svg/lv_svg.c.o
+
+src/libs/svg/lv_svg.i: src/libs/svg/lv_svg.c.i
+.PHONY : src/libs/svg/lv_svg.i
+
+# target to preprocess a source file
+src/libs/svg/lv_svg.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg.c.i
+.PHONY : src/libs/svg/lv_svg.c.i
+
+src/libs/svg/lv_svg.s: src/libs/svg/lv_svg.c.s
+.PHONY : src/libs/svg/lv_svg.s
+
+# target to generate assembly for a file
+src/libs/svg/lv_svg.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg.c.s
+.PHONY : src/libs/svg/lv_svg.c.s
+
+src/libs/svg/lv_svg_decoder.o: src/libs/svg/lv_svg_decoder.c.o
+.PHONY : src/libs/svg/lv_svg_decoder.o
+
+# target to build an object file
+src/libs/svg/lv_svg_decoder.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_decoder.c.o
+.PHONY : src/libs/svg/lv_svg_decoder.c.o
+
+src/libs/svg/lv_svg_decoder.i: src/libs/svg/lv_svg_decoder.c.i
+.PHONY : src/libs/svg/lv_svg_decoder.i
+
+# target to preprocess a source file
+src/libs/svg/lv_svg_decoder.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_decoder.c.i
+.PHONY : src/libs/svg/lv_svg_decoder.c.i
+
+src/libs/svg/lv_svg_decoder.s: src/libs/svg/lv_svg_decoder.c.s
+.PHONY : src/libs/svg/lv_svg_decoder.s
+
+# target to generate assembly for a file
+src/libs/svg/lv_svg_decoder.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_decoder.c.s
+.PHONY : src/libs/svg/lv_svg_decoder.c.s
+
+src/libs/svg/lv_svg_parser.o: src/libs/svg/lv_svg_parser.c.o
+.PHONY : src/libs/svg/lv_svg_parser.o
+
+# target to build an object file
+src/libs/svg/lv_svg_parser.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_parser.c.o
+.PHONY : src/libs/svg/lv_svg_parser.c.o
+
+src/libs/svg/lv_svg_parser.i: src/libs/svg/lv_svg_parser.c.i
+.PHONY : src/libs/svg/lv_svg_parser.i
+
+# target to preprocess a source file
+src/libs/svg/lv_svg_parser.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_parser.c.i
+.PHONY : src/libs/svg/lv_svg_parser.c.i
+
+src/libs/svg/lv_svg_parser.s: src/libs/svg/lv_svg_parser.c.s
+.PHONY : src/libs/svg/lv_svg_parser.s
+
+# target to generate assembly for a file
+src/libs/svg/lv_svg_parser.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_parser.c.s
+.PHONY : src/libs/svg/lv_svg_parser.c.s
+
+src/libs/svg/lv_svg_render.o: src/libs/svg/lv_svg_render.c.o
+.PHONY : src/libs/svg/lv_svg_render.o
+
+# target to build an object file
+src/libs/svg/lv_svg_render.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_render.c.o
+.PHONY : src/libs/svg/lv_svg_render.c.o
+
+src/libs/svg/lv_svg_render.i: src/libs/svg/lv_svg_render.c.i
+.PHONY : src/libs/svg/lv_svg_render.i
+
+# target to preprocess a source file
+src/libs/svg/lv_svg_render.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_render.c.i
+.PHONY : src/libs/svg/lv_svg_render.c.i
+
+src/libs/svg/lv_svg_render.s: src/libs/svg/lv_svg_render.c.s
+.PHONY : src/libs/svg/lv_svg_render.s
+
+# target to generate assembly for a file
+src/libs/svg/lv_svg_render.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_render.c.s
+.PHONY : src/libs/svg/lv_svg_render.c.s
+
+src/libs/svg/lv_svg_token.o: src/libs/svg/lv_svg_token.c.o
+.PHONY : src/libs/svg/lv_svg_token.o
+
+# target to build an object file
+src/libs/svg/lv_svg_token.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_token.c.o
+.PHONY : src/libs/svg/lv_svg_token.c.o
+
+src/libs/svg/lv_svg_token.i: src/libs/svg/lv_svg_token.c.i
+.PHONY : src/libs/svg/lv_svg_token.i
+
+# target to preprocess a source file
+src/libs/svg/lv_svg_token.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_token.c.i
+.PHONY : src/libs/svg/lv_svg_token.c.i
+
+src/libs/svg/lv_svg_token.s: src/libs/svg/lv_svg_token.c.s
+.PHONY : src/libs/svg/lv_svg_token.s
+
+# target to generate assembly for a file
+src/libs/svg/lv_svg_token.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/svg/lv_svg_token.c.s
+.PHONY : src/libs/svg/lv_svg_token.c.s
+
+src/libs/thorvg/tvgAccessor.o: src/libs/thorvg/tvgAccessor.cpp.o
+.PHONY : src/libs/thorvg/tvgAccessor.o
+
+# target to build an object file
+src/libs/thorvg/tvgAccessor.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAccessor.cpp.o
+.PHONY : src/libs/thorvg/tvgAccessor.cpp.o
+
+src/libs/thorvg/tvgAccessor.i: src/libs/thorvg/tvgAccessor.cpp.i
+.PHONY : src/libs/thorvg/tvgAccessor.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgAccessor.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAccessor.cpp.i
+.PHONY : src/libs/thorvg/tvgAccessor.cpp.i
+
+src/libs/thorvg/tvgAccessor.s: src/libs/thorvg/tvgAccessor.cpp.s
+.PHONY : src/libs/thorvg/tvgAccessor.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgAccessor.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAccessor.cpp.s
+.PHONY : src/libs/thorvg/tvgAccessor.cpp.s
+
 src/libs/thorvg/tvgAnimation.o: src/libs/thorvg/tvgAnimation.cpp.o
 .PHONY : src/libs/thorvg/tvgAnimation.o
 
@@ -12112,30 +16592,6 @@ src/libs/thorvg/tvgAnimation.s: src/libs/thorvg/tvgAnimation.cpp.s
 src/libs/thorvg/tvgAnimation.cpp.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAnimation.cpp.s
 .PHONY : src/libs/thorvg/tvgAnimation.cpp.s
-
-src/libs/thorvg/tvgBezier.o: src/libs/thorvg/tvgBezier.cpp.o
-.PHONY : src/libs/thorvg/tvgBezier.o
-
-# target to build an object file
-src/libs/thorvg/tvgBezier.cpp.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgBezier.cpp.o
-.PHONY : src/libs/thorvg/tvgBezier.cpp.o
-
-src/libs/thorvg/tvgBezier.i: src/libs/thorvg/tvgBezier.cpp.i
-.PHONY : src/libs/thorvg/tvgBezier.i
-
-# target to preprocess a source file
-src/libs/thorvg/tvgBezier.cpp.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgBezier.cpp.i
-.PHONY : src/libs/thorvg/tvgBezier.cpp.i
-
-src/libs/thorvg/tvgBezier.s: src/libs/thorvg/tvgBezier.cpp.s
-.PHONY : src/libs/thorvg/tvgBezier.s
-
-# target to generate assembly for a file
-src/libs/thorvg/tvgBezier.cpp.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgBezier.cpp.s
-.PHONY : src/libs/thorvg/tvgBezier.cpp.s
 
 src/libs/thorvg/tvgCanvas.o: src/libs/thorvg/tvgCanvas.cpp.o
 .PHONY : src/libs/thorvg/tvgCanvas.o
@@ -12233,6 +16689,30 @@ src/libs/thorvg/tvgFill.cpp.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgFill.cpp.s
 .PHONY : src/libs/thorvg/tvgFill.cpp.s
 
+src/libs/thorvg/tvgGlCanvas.o: src/libs/thorvg/tvgGlCanvas.cpp.o
+.PHONY : src/libs/thorvg/tvgGlCanvas.o
+
+# target to build an object file
+src/libs/thorvg/tvgGlCanvas.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgGlCanvas.cpp.o
+.PHONY : src/libs/thorvg/tvgGlCanvas.cpp.o
+
+src/libs/thorvg/tvgGlCanvas.i: src/libs/thorvg/tvgGlCanvas.cpp.i
+.PHONY : src/libs/thorvg/tvgGlCanvas.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgGlCanvas.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgGlCanvas.cpp.i
+.PHONY : src/libs/thorvg/tvgGlCanvas.cpp.i
+
+src/libs/thorvg/tvgGlCanvas.s: src/libs/thorvg/tvgGlCanvas.cpp.s
+.PHONY : src/libs/thorvg/tvgGlCanvas.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgGlCanvas.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgGlCanvas.cpp.s
+.PHONY : src/libs/thorvg/tvgGlCanvas.cpp.s
+
 src/libs/thorvg/tvgInitializer.o: src/libs/thorvg/tvgInitializer.cpp.o
 .PHONY : src/libs/thorvg/tvgInitializer.o
 
@@ -12280,6 +16760,222 @@ src/libs/thorvg/tvgLoader.s: src/libs/thorvg/tvgLoader.cpp.s
 src/libs/thorvg/tvgLoader.cpp.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLoader.cpp.s
 .PHONY : src/libs/thorvg/tvgLoader.cpp.s
+
+src/libs/thorvg/tvgLottieAnimation.o: src/libs/thorvg/tvgLottieAnimation.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieAnimation.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieAnimation.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieAnimation.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieAnimation.cpp.o
+
+src/libs/thorvg/tvgLottieAnimation.i: src/libs/thorvg/tvgLottieAnimation.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieAnimation.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieAnimation.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieAnimation.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieAnimation.cpp.i
+
+src/libs/thorvg/tvgLottieAnimation.s: src/libs/thorvg/tvgLottieAnimation.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieAnimation.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieAnimation.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieAnimation.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieAnimation.cpp.s
+
+src/libs/thorvg/tvgLottieBuilder.o: src/libs/thorvg/tvgLottieBuilder.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieBuilder.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieBuilder.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieBuilder.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieBuilder.cpp.o
+
+src/libs/thorvg/tvgLottieBuilder.i: src/libs/thorvg/tvgLottieBuilder.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieBuilder.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieBuilder.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieBuilder.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieBuilder.cpp.i
+
+src/libs/thorvg/tvgLottieBuilder.s: src/libs/thorvg/tvgLottieBuilder.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieBuilder.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieBuilder.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieBuilder.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieBuilder.cpp.s
+
+src/libs/thorvg/tvgLottieExpressions.o: src/libs/thorvg/tvgLottieExpressions.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieExpressions.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieExpressions.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieExpressions.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieExpressions.cpp.o
+
+src/libs/thorvg/tvgLottieExpressions.i: src/libs/thorvg/tvgLottieExpressions.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieExpressions.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieExpressions.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieExpressions.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieExpressions.cpp.i
+
+src/libs/thorvg/tvgLottieExpressions.s: src/libs/thorvg/tvgLottieExpressions.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieExpressions.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieExpressions.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieExpressions.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieExpressions.cpp.s
+
+src/libs/thorvg/tvgLottieInterpolator.o: src/libs/thorvg/tvgLottieInterpolator.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieInterpolator.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieInterpolator.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieInterpolator.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieInterpolator.cpp.o
+
+src/libs/thorvg/tvgLottieInterpolator.i: src/libs/thorvg/tvgLottieInterpolator.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieInterpolator.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieInterpolator.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieInterpolator.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieInterpolator.cpp.i
+
+src/libs/thorvg/tvgLottieInterpolator.s: src/libs/thorvg/tvgLottieInterpolator.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieInterpolator.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieInterpolator.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieInterpolator.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieInterpolator.cpp.s
+
+src/libs/thorvg/tvgLottieLoader.o: src/libs/thorvg/tvgLottieLoader.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieLoader.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieLoader.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieLoader.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieLoader.cpp.o
+
+src/libs/thorvg/tvgLottieLoader.i: src/libs/thorvg/tvgLottieLoader.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieLoader.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieLoader.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieLoader.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieLoader.cpp.i
+
+src/libs/thorvg/tvgLottieLoader.s: src/libs/thorvg/tvgLottieLoader.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieLoader.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieLoader.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieLoader.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieLoader.cpp.s
+
+src/libs/thorvg/tvgLottieModel.o: src/libs/thorvg/tvgLottieModel.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieModel.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieModel.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieModel.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieModel.cpp.o
+
+src/libs/thorvg/tvgLottieModel.i: src/libs/thorvg/tvgLottieModel.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieModel.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieModel.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieModel.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieModel.cpp.i
+
+src/libs/thorvg/tvgLottieModel.s: src/libs/thorvg/tvgLottieModel.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieModel.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieModel.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieModel.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieModel.cpp.s
+
+src/libs/thorvg/tvgLottieModifier.o: src/libs/thorvg/tvgLottieModifier.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieModifier.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieModifier.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieModifier.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieModifier.cpp.o
+
+src/libs/thorvg/tvgLottieModifier.i: src/libs/thorvg/tvgLottieModifier.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieModifier.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieModifier.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieModifier.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieModifier.cpp.i
+
+src/libs/thorvg/tvgLottieModifier.s: src/libs/thorvg/tvgLottieModifier.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieModifier.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieModifier.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieModifier.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieModifier.cpp.s
+
+src/libs/thorvg/tvgLottieParser.o: src/libs/thorvg/tvgLottieParser.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieParser.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieParser.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieParser.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieParser.cpp.o
+
+src/libs/thorvg/tvgLottieParser.i: src/libs/thorvg/tvgLottieParser.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieParser.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieParser.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieParser.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieParser.cpp.i
+
+src/libs/thorvg/tvgLottieParser.s: src/libs/thorvg/tvgLottieParser.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieParser.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieParser.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieParser.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieParser.cpp.s
+
+src/libs/thorvg/tvgLottieParserHandler.o: src/libs/thorvg/tvgLottieParserHandler.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieParserHandler.o
+
+# target to build an object file
+src/libs/thorvg/tvgLottieParserHandler.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieParserHandler.cpp.o
+.PHONY : src/libs/thorvg/tvgLottieParserHandler.cpp.o
+
+src/libs/thorvg/tvgLottieParserHandler.i: src/libs/thorvg/tvgLottieParserHandler.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieParserHandler.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgLottieParserHandler.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieParserHandler.cpp.i
+.PHONY : src/libs/thorvg/tvgLottieParserHandler.cpp.i
+
+src/libs/thorvg/tvgLottieParserHandler.s: src/libs/thorvg/tvgLottieParserHandler.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieParserHandler.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgLottieParserHandler.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLottieParserHandler.cpp.s
+.PHONY : src/libs/thorvg/tvgLottieParserHandler.cpp.s
 
 src/libs/thorvg/tvgMath.o: src/libs/thorvg/tvgMath.cpp.o
 .PHONY : src/libs/thorvg/tvgMath.o
@@ -12737,6 +17433,30 @@ src/libs/thorvg/tvgSwMemPool.cpp.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwMemPool.cpp.s
 .PHONY : src/libs/thorvg/tvgSwMemPool.cpp.s
 
+src/libs/thorvg/tvgSwPostEffect.o: src/libs/thorvg/tvgSwPostEffect.cpp.o
+.PHONY : src/libs/thorvg/tvgSwPostEffect.o
+
+# target to build an object file
+src/libs/thorvg/tvgSwPostEffect.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwPostEffect.cpp.o
+.PHONY : src/libs/thorvg/tvgSwPostEffect.cpp.o
+
+src/libs/thorvg/tvgSwPostEffect.i: src/libs/thorvg/tvgSwPostEffect.cpp.i
+.PHONY : src/libs/thorvg/tvgSwPostEffect.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgSwPostEffect.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwPostEffect.cpp.i
+.PHONY : src/libs/thorvg/tvgSwPostEffect.cpp.i
+
+src/libs/thorvg/tvgSwPostEffect.s: src/libs/thorvg/tvgSwPostEffect.cpp.s
+.PHONY : src/libs/thorvg/tvgSwPostEffect.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgSwPostEffect.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwPostEffect.cpp.s
+.PHONY : src/libs/thorvg/tvgSwPostEffect.cpp.s
+
 src/libs/thorvg/tvgSwRaster.o: src/libs/thorvg/tvgSwRaster.cpp.o
 .PHONY : src/libs/thorvg/tvgSwRaster.o
 
@@ -12881,6 +17601,54 @@ src/libs/thorvg/tvgTaskScheduler.cpp.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgTaskScheduler.cpp.s
 .PHONY : src/libs/thorvg/tvgTaskScheduler.cpp.s
 
+src/libs/thorvg/tvgText.o: src/libs/thorvg/tvgText.cpp.o
+.PHONY : src/libs/thorvg/tvgText.o
+
+# target to build an object file
+src/libs/thorvg/tvgText.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgText.cpp.o
+.PHONY : src/libs/thorvg/tvgText.cpp.o
+
+src/libs/thorvg/tvgText.i: src/libs/thorvg/tvgText.cpp.i
+.PHONY : src/libs/thorvg/tvgText.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgText.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgText.cpp.i
+.PHONY : src/libs/thorvg/tvgText.cpp.i
+
+src/libs/thorvg/tvgText.s: src/libs/thorvg/tvgText.cpp.s
+.PHONY : src/libs/thorvg/tvgText.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgText.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgText.cpp.s
+.PHONY : src/libs/thorvg/tvgText.cpp.s
+
+src/libs/thorvg/tvgWgCanvas.o: src/libs/thorvg/tvgWgCanvas.cpp.o
+.PHONY : src/libs/thorvg/tvgWgCanvas.o
+
+# target to build an object file
+src/libs/thorvg/tvgWgCanvas.cpp.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgWgCanvas.cpp.o
+.PHONY : src/libs/thorvg/tvgWgCanvas.cpp.o
+
+src/libs/thorvg/tvgWgCanvas.i: src/libs/thorvg/tvgWgCanvas.cpp.i
+.PHONY : src/libs/thorvg/tvgWgCanvas.i
+
+# target to preprocess a source file
+src/libs/thorvg/tvgWgCanvas.cpp.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgWgCanvas.cpp.i
+.PHONY : src/libs/thorvg/tvgWgCanvas.cpp.i
+
+src/libs/thorvg/tvgWgCanvas.s: src/libs/thorvg/tvgWgCanvas.cpp.s
+.PHONY : src/libs/thorvg/tvgWgCanvas.s
+
+# target to generate assembly for a file
+src/libs/thorvg/tvgWgCanvas.cpp.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgWgCanvas.cpp.s
+.PHONY : src/libs/thorvg/tvgWgCanvas.cpp.s
+
 src/libs/thorvg/tvgXmlParser.o: src/libs/thorvg/tvgXmlParser.cpp.o
 .PHONY : src/libs/thorvg/tvgXmlParser.o
 
@@ -12977,6 +17745,198 @@ src/libs/tjpgd/tjpgd.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/tjpgd/tjpgd.c.s
 .PHONY : src/libs/tjpgd/tjpgd.c.s
 
+src/libs/vg_lite_driver/VGLite/vg_lite.o: src/libs/vg_lite_driver/VGLite/vg_lite.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite.o
+
+# target to build an object file
+src/libs/vg_lite_driver/VGLite/vg_lite.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite.c.o
+
+src/libs/vg_lite_driver/VGLite/vg_lite.i: src/libs/vg_lite_driver/VGLite/vg_lite.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/VGLite/vg_lite.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite.c.i
+
+src/libs/vg_lite_driver/VGLite/vg_lite.s: src/libs/vg_lite_driver/VGLite/vg_lite.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/VGLite/vg_lite.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite.c.s
+
+src/libs/vg_lite_driver/VGLite/vg_lite_image.o: src/libs/vg_lite_driver/VGLite/vg_lite_image.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_image.o
+
+# target to build an object file
+src/libs/vg_lite_driver/VGLite/vg_lite_image.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_image.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_image.c.o
+
+src/libs/vg_lite_driver/VGLite/vg_lite_image.i: src/libs/vg_lite_driver/VGLite/vg_lite_image.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_image.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/VGLite/vg_lite_image.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_image.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_image.c.i
+
+src/libs/vg_lite_driver/VGLite/vg_lite_image.s: src/libs/vg_lite_driver/VGLite/vg_lite_image.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_image.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/VGLite/vg_lite_image.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_image.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_image.c.s
+
+src/libs/vg_lite_driver/VGLite/vg_lite_matrix.o: src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_matrix.o
+
+# target to build an object file
+src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.o
+
+src/libs/vg_lite_driver/VGLite/vg_lite_matrix.i: src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_matrix.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.i
+
+src/libs/vg_lite_driver/VGLite/vg_lite_matrix.s: src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_matrix.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_matrix.c.s
+
+src/libs/vg_lite_driver/VGLite/vg_lite_path.o: src/libs/vg_lite_driver/VGLite/vg_lite_path.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_path.o
+
+# target to build an object file
+src/libs/vg_lite_driver/VGLite/vg_lite_path.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_path.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_path.c.o
+
+src/libs/vg_lite_driver/VGLite/vg_lite_path.i: src/libs/vg_lite_driver/VGLite/vg_lite_path.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_path.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/VGLite/vg_lite_path.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_path.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_path.c.i
+
+src/libs/vg_lite_driver/VGLite/vg_lite_path.s: src/libs/vg_lite_driver/VGLite/vg_lite_path.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_path.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/VGLite/vg_lite_path.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_path.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_path.c.s
+
+src/libs/vg_lite_driver/VGLite/vg_lite_stroke.o: src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_stroke.o
+
+# target to build an object file
+src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.o
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.o
+
+src/libs/vg_lite_driver/VGLite/vg_lite_stroke.i: src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_stroke.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.i
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.i
+
+src/libs/vg_lite_driver/VGLite/vg_lite_stroke.s: src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_stroke.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.s
+.PHONY : src/libs/vg_lite_driver/VGLite/vg_lite_stroke.c.s
+
+src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.o: src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.o
+.PHONY : src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.o
+
+# target to build an object file
+src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.o
+.PHONY : src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.o
+
+src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.i: src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.i
+.PHONY : src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.i
+.PHONY : src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.i
+
+src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.s: src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.s
+.PHONY : src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.s
+.PHONY : src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.c.s
+
+src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.o: src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.o
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.o
+
+# target to build an object file
+src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.o
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.o
+
+src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.i: src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.i
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.i
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.i
+
+src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.s: src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.s
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.s
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.c.s
+
+src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.o: src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.o
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.o
+
+# target to build an object file
+src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.o
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.o
+
+src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.i: src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.i
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.i
+
+# target to preprocess a source file
+src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.i
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.i
+
+src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.s: src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.s
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.s
+
+# target to generate assembly for a file
+src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.s
+.PHONY : src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.c.s
+
 src/lv_init.o: src/lv_init.c.o
 .PHONY : src/lv_init.o
 
@@ -13001,29 +17961,125 @@ src/lv_init.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.s
 .PHONY : src/lv_init.c.s
 
-src/misc/cache/_lv_cache_lru_rb.o: src/misc/cache/_lv_cache_lru_rb.c.o
-.PHONY : src/misc/cache/_lv_cache_lru_rb.o
+src/misc/cache/class/lv_cache_lru_ll.o: src/misc/cache/class/lv_cache_lru_ll.c.o
+.PHONY : src/misc/cache/class/lv_cache_lru_ll.o
 
 # target to build an object file
-src/misc/cache/_lv_cache_lru_rb.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/_lv_cache_lru_rb.c.o
-.PHONY : src/misc/cache/_lv_cache_lru_rb.c.o
+src/misc/cache/class/lv_cache_lru_ll.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_ll.c.o
+.PHONY : src/misc/cache/class/lv_cache_lru_ll.c.o
 
-src/misc/cache/_lv_cache_lru_rb.i: src/misc/cache/_lv_cache_lru_rb.c.i
-.PHONY : src/misc/cache/_lv_cache_lru_rb.i
+src/misc/cache/class/lv_cache_lru_ll.i: src/misc/cache/class/lv_cache_lru_ll.c.i
+.PHONY : src/misc/cache/class/lv_cache_lru_ll.i
 
 # target to preprocess a source file
-src/misc/cache/_lv_cache_lru_rb.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/_lv_cache_lru_rb.c.i
-.PHONY : src/misc/cache/_lv_cache_lru_rb.c.i
+src/misc/cache/class/lv_cache_lru_ll.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_ll.c.i
+.PHONY : src/misc/cache/class/lv_cache_lru_ll.c.i
 
-src/misc/cache/_lv_cache_lru_rb.s: src/misc/cache/_lv_cache_lru_rb.c.s
-.PHONY : src/misc/cache/_lv_cache_lru_rb.s
+src/misc/cache/class/lv_cache_lru_ll.s: src/misc/cache/class/lv_cache_lru_ll.c.s
+.PHONY : src/misc/cache/class/lv_cache_lru_ll.s
 
 # target to generate assembly for a file
-src/misc/cache/_lv_cache_lru_rb.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/_lv_cache_lru_rb.c.s
-.PHONY : src/misc/cache/_lv_cache_lru_rb.c.s
+src/misc/cache/class/lv_cache_lru_ll.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_ll.c.s
+.PHONY : src/misc/cache/class/lv_cache_lru_ll.c.s
+
+src/misc/cache/class/lv_cache_lru_rb.o: src/misc/cache/class/lv_cache_lru_rb.c.o
+.PHONY : src/misc/cache/class/lv_cache_lru_rb.o
+
+# target to build an object file
+src/misc/cache/class/lv_cache_lru_rb.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_rb.c.o
+.PHONY : src/misc/cache/class/lv_cache_lru_rb.c.o
+
+src/misc/cache/class/lv_cache_lru_rb.i: src/misc/cache/class/lv_cache_lru_rb.c.i
+.PHONY : src/misc/cache/class/lv_cache_lru_rb.i
+
+# target to preprocess a source file
+src/misc/cache/class/lv_cache_lru_rb.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_rb.c.i
+.PHONY : src/misc/cache/class/lv_cache_lru_rb.c.i
+
+src/misc/cache/class/lv_cache_lru_rb.s: src/misc/cache/class/lv_cache_lru_rb.c.s
+.PHONY : src/misc/cache/class/lv_cache_lru_rb.s
+
+# target to generate assembly for a file
+src/misc/cache/class/lv_cache_lru_rb.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_rb.c.s
+.PHONY : src/misc/cache/class/lv_cache_lru_rb.c.s
+
+src/misc/cache/class/lv_cache_sc_da.o: src/misc/cache/class/lv_cache_sc_da.c.o
+.PHONY : src/misc/cache/class/lv_cache_sc_da.o
+
+# target to build an object file
+src/misc/cache/class/lv_cache_sc_da.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_sc_da.c.o
+.PHONY : src/misc/cache/class/lv_cache_sc_da.c.o
+
+src/misc/cache/class/lv_cache_sc_da.i: src/misc/cache/class/lv_cache_sc_da.c.i
+.PHONY : src/misc/cache/class/lv_cache_sc_da.i
+
+# target to preprocess a source file
+src/misc/cache/class/lv_cache_sc_da.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_sc_da.c.i
+.PHONY : src/misc/cache/class/lv_cache_sc_da.c.i
+
+src/misc/cache/class/lv_cache_sc_da.s: src/misc/cache/class/lv_cache_sc_da.c.s
+.PHONY : src/misc/cache/class/lv_cache_sc_da.s
+
+# target to generate assembly for a file
+src/misc/cache/class/lv_cache_sc_da.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_sc_da.c.s
+.PHONY : src/misc/cache/class/lv_cache_sc_da.c.s
+
+src/misc/cache/instance/lv_image_cache.o: src/misc/cache/instance/lv_image_cache.c.o
+.PHONY : src/misc/cache/instance/lv_image_cache.o
+
+# target to build an object file
+src/misc/cache/instance/lv_image_cache.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/instance/lv_image_cache.c.o
+.PHONY : src/misc/cache/instance/lv_image_cache.c.o
+
+src/misc/cache/instance/lv_image_cache.i: src/misc/cache/instance/lv_image_cache.c.i
+.PHONY : src/misc/cache/instance/lv_image_cache.i
+
+# target to preprocess a source file
+src/misc/cache/instance/lv_image_cache.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/instance/lv_image_cache.c.i
+.PHONY : src/misc/cache/instance/lv_image_cache.c.i
+
+src/misc/cache/instance/lv_image_cache.s: src/misc/cache/instance/lv_image_cache.c.s
+.PHONY : src/misc/cache/instance/lv_image_cache.s
+
+# target to generate assembly for a file
+src/misc/cache/instance/lv_image_cache.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/instance/lv_image_cache.c.s
+.PHONY : src/misc/cache/instance/lv_image_cache.c.s
+
+src/misc/cache/instance/lv_image_header_cache.o: src/misc/cache/instance/lv_image_header_cache.c.o
+.PHONY : src/misc/cache/instance/lv_image_header_cache.o
+
+# target to build an object file
+src/misc/cache/instance/lv_image_header_cache.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/instance/lv_image_header_cache.c.o
+.PHONY : src/misc/cache/instance/lv_image_header_cache.c.o
+
+src/misc/cache/instance/lv_image_header_cache.i: src/misc/cache/instance/lv_image_header_cache.c.i
+.PHONY : src/misc/cache/instance/lv_image_header_cache.i
+
+# target to preprocess a source file
+src/misc/cache/instance/lv_image_header_cache.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/instance/lv_image_header_cache.c.i
+.PHONY : src/misc/cache/instance/lv_image_header_cache.c.i
+
+src/misc/cache/instance/lv_image_header_cache.s: src/misc/cache/instance/lv_image_header_cache.c.s
+.PHONY : src/misc/cache/instance/lv_image_header_cache.s
+
+# target to generate assembly for a file
+src/misc/cache/instance/lv_image_header_cache.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/instance/lv_image_header_cache.c.s
+.PHONY : src/misc/cache/instance/lv_image_header_cache.c.s
 
 src/misc/cache/lv_cache.o: src/misc/cache/lv_cache.c.o
 .PHONY : src/misc/cache/lv_cache.o
@@ -13072,30 +18128,6 @@ src/misc/cache/lv_cache_entry.s: src/misc/cache/lv_cache_entry.c.s
 src/misc/cache/lv_cache_entry.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/lv_cache_entry.c.s
 .PHONY : src/misc/cache/lv_cache_entry.c.s
-
-src/misc/cache/lv_image_cache.o: src/misc/cache/lv_image_cache.c.o
-.PHONY : src/misc/cache/lv_image_cache.o
-
-# target to build an object file
-src/misc/cache/lv_image_cache.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/lv_image_cache.c.o
-.PHONY : src/misc/cache/lv_image_cache.c.o
-
-src/misc/cache/lv_image_cache.i: src/misc/cache/lv_image_cache.c.i
-.PHONY : src/misc/cache/lv_image_cache.i
-
-# target to preprocess a source file
-src/misc/cache/lv_image_cache.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/lv_image_cache.c.i
-.PHONY : src/misc/cache/lv_image_cache.c.i
-
-src/misc/cache/lv_image_cache.s: src/misc/cache/lv_image_cache.c.s
-.PHONY : src/misc/cache/lv_image_cache.s
-
-# target to generate assembly for a file
-src/misc/cache/lv_image_cache.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/cache/lv_image_cache.c.s
-.PHONY : src/misc/cache/lv_image_cache.c.s
 
 src/misc/lv_anim.o: src/misc/lv_anim.c.o
 .PHONY : src/misc/lv_anim.o
@@ -13241,6 +18273,30 @@ src/misc/lv_bidi.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.s
 .PHONY : src/misc/lv_bidi.c.s
 
+src/misc/lv_circle_buf.o: src/misc/lv_circle_buf.c.o
+.PHONY : src/misc/lv_circle_buf.o
+
+# target to build an object file
+src/misc/lv_circle_buf.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_circle_buf.c.o
+.PHONY : src/misc/lv_circle_buf.c.o
+
+src/misc/lv_circle_buf.i: src/misc/lv_circle_buf.c.i
+.PHONY : src/misc/lv_circle_buf.i
+
+# target to preprocess a source file
+src/misc/lv_circle_buf.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_circle_buf.c.i
+.PHONY : src/misc/lv_circle_buf.c.i
+
+src/misc/lv_circle_buf.s: src/misc/lv_circle_buf.c.s
+.PHONY : src/misc/lv_circle_buf.s
+
+# target to generate assembly for a file
+src/misc/lv_circle_buf.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_circle_buf.c.s
+.PHONY : src/misc/lv_circle_buf.c.s
+
 src/misc/lv_color.o: src/misc/lv_color.c.o
 .PHONY : src/misc/lv_color.o
 
@@ -13336,6 +18392,54 @@ src/misc/lv_fs.s: src/misc/lv_fs.c.s
 src/misc/lv_fs.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.s
 .PHONY : src/misc/lv_fs.c.s
+
+src/misc/lv_grad.o: src/misc/lv_grad.c.o
+.PHONY : src/misc/lv_grad.o
+
+# target to build an object file
+src/misc/lv_grad.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_grad.c.o
+.PHONY : src/misc/lv_grad.c.o
+
+src/misc/lv_grad.i: src/misc/lv_grad.c.i
+.PHONY : src/misc/lv_grad.i
+
+# target to preprocess a source file
+src/misc/lv_grad.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_grad.c.i
+.PHONY : src/misc/lv_grad.c.i
+
+src/misc/lv_grad.s: src/misc/lv_grad.c.s
+.PHONY : src/misc/lv_grad.s
+
+# target to generate assembly for a file
+src/misc/lv_grad.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_grad.c.s
+.PHONY : src/misc/lv_grad.c.s
+
+src/misc/lv_iter.o: src/misc/lv_iter.c.o
+.PHONY : src/misc/lv_iter.o
+
+# target to build an object file
+src/misc/lv_iter.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_iter.c.o
+.PHONY : src/misc/lv_iter.c.o
+
+src/misc/lv_iter.i: src/misc/lv_iter.c.i
+.PHONY : src/misc/lv_iter.i
+
+# target to preprocess a source file
+src/misc/lv_iter.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_iter.c.i
+.PHONY : src/misc/lv_iter.c.i
+
+src/misc/lv_iter.s: src/misc/lv_iter.c.s
+.PHONY : src/misc/lv_iter.s
+
+# target to generate assembly for a file
+src/misc/lv_iter.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_iter.c.s
+.PHONY : src/misc/lv_iter.c.s
 
 src/misc/lv_ll.o: src/misc/lv_ll.c.o
 .PHONY : src/misc/lv_ll.o
@@ -13433,6 +18537,30 @@ src/misc/lv_math.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_math.c.s
 .PHONY : src/misc/lv_math.c.s
 
+src/misc/lv_matrix.o: src/misc/lv_matrix.c.o
+.PHONY : src/misc/lv_matrix.o
+
+# target to build an object file
+src/misc/lv_matrix.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_matrix.c.o
+.PHONY : src/misc/lv_matrix.c.o
+
+src/misc/lv_matrix.i: src/misc/lv_matrix.c.i
+.PHONY : src/misc/lv_matrix.i
+
+# target to preprocess a source file
+src/misc/lv_matrix.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_matrix.c.i
+.PHONY : src/misc/lv_matrix.c.i
+
+src/misc/lv_matrix.s: src/misc/lv_matrix.c.s
+.PHONY : src/misc/lv_matrix.s
+
+# target to generate assembly for a file
+src/misc/lv_matrix.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_matrix.c.s
+.PHONY : src/misc/lv_matrix.c.s
+
 src/misc/lv_palette.o: src/misc/lv_palette.c.o
 .PHONY : src/misc/lv_palette.o
 
@@ -13457,6 +18585,30 @@ src/misc/lv_palette.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_palette.c.s
 .PHONY : src/misc/lv_palette.c.s
 
+src/misc/lv_pending.o: src/misc/lv_pending.c.o
+.PHONY : src/misc/lv_pending.o
+
+# target to build an object file
+src/misc/lv_pending.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_pending.c.o
+.PHONY : src/misc/lv_pending.c.o
+
+src/misc/lv_pending.i: src/misc/lv_pending.c.i
+.PHONY : src/misc/lv_pending.i
+
+# target to preprocess a source file
+src/misc/lv_pending.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_pending.c.i
+.PHONY : src/misc/lv_pending.c.i
+
+src/misc/lv_pending.s: src/misc/lv_pending.c.s
+.PHONY : src/misc/lv_pending.s
+
+# target to generate assembly for a file
+src/misc/lv_pending.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_pending.c.s
+.PHONY : src/misc/lv_pending.c.s
+
 src/misc/lv_profiler_builtin.o: src/misc/lv_profiler_builtin.c.o
 .PHONY : src/misc/lv_profiler_builtin.o
 
@@ -13480,6 +18632,30 @@ src/misc/lv_profiler_builtin.s: src/misc/lv_profiler_builtin.c.s
 src/misc/lv_profiler_builtin.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_profiler_builtin.c.s
 .PHONY : src/misc/lv_profiler_builtin.c.s
+
+src/misc/lv_profiler_builtin_posix.o: src/misc/lv_profiler_builtin_posix.c.o
+.PHONY : src/misc/lv_profiler_builtin_posix.o
+
+# target to build an object file
+src/misc/lv_profiler_builtin_posix.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_profiler_builtin_posix.c.o
+.PHONY : src/misc/lv_profiler_builtin_posix.c.o
+
+src/misc/lv_profiler_builtin_posix.i: src/misc/lv_profiler_builtin_posix.c.i
+.PHONY : src/misc/lv_profiler_builtin_posix.i
+
+# target to preprocess a source file
+src/misc/lv_profiler_builtin_posix.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_profiler_builtin_posix.c.i
+.PHONY : src/misc/lv_profiler_builtin_posix.c.i
+
+src/misc/lv_profiler_builtin_posix.s: src/misc/lv_profiler_builtin_posix.c.s
+.PHONY : src/misc/lv_profiler_builtin_posix.s
+
+# target to generate assembly for a file
+src/misc/lv_profiler_builtin_posix.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_profiler_builtin_posix.c.s
+.PHONY : src/misc/lv_profiler_builtin_posix.c.s
 
 src/misc/lv_rb.o: src/misc/lv_rb.c.o
 .PHONY : src/misc/lv_rb.o
@@ -13649,6 +18825,30 @@ src/misc/lv_timer.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_timer.c.s
 .PHONY : src/misc/lv_timer.c.s
 
+src/misc/lv_tree.o: src/misc/lv_tree.c.o
+.PHONY : src/misc/lv_tree.o
+
+# target to build an object file
+src/misc/lv_tree.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tree.c.o
+.PHONY : src/misc/lv_tree.c.o
+
+src/misc/lv_tree.i: src/misc/lv_tree.c.i
+.PHONY : src/misc/lv_tree.i
+
+# target to preprocess a source file
+src/misc/lv_tree.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tree.c.i
+.PHONY : src/misc/lv_tree.c.i
+
+src/misc/lv_tree.s: src/misc/lv_tree.c.s
+.PHONY : src/misc/lv_tree.s
+
+# target to generate assembly for a file
+src/misc/lv_tree.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tree.c.s
+.PHONY : src/misc/lv_tree.c.s
+
 src/misc/lv_utils.o: src/misc/lv_utils.c.o
 .PHONY : src/misc/lv_utils.o
 
@@ -13721,6 +18921,78 @@ src/osal/lv_freertos.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_freertos.c.s
 .PHONY : src/osal/lv_freertos.c.s
 
+src/osal/lv_linux.o: src/osal/lv_linux.c.o
+.PHONY : src/osal/lv_linux.o
+
+# target to build an object file
+src/osal/lv_linux.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_linux.c.o
+.PHONY : src/osal/lv_linux.c.o
+
+src/osal/lv_linux.i: src/osal/lv_linux.c.i
+.PHONY : src/osal/lv_linux.i
+
+# target to preprocess a source file
+src/osal/lv_linux.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_linux.c.i
+.PHONY : src/osal/lv_linux.c.i
+
+src/osal/lv_linux.s: src/osal/lv_linux.c.s
+.PHONY : src/osal/lv_linux.s
+
+# target to generate assembly for a file
+src/osal/lv_linux.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_linux.c.s
+.PHONY : src/osal/lv_linux.c.s
+
+src/osal/lv_mqx.o: src/osal/lv_mqx.c.o
+.PHONY : src/osal/lv_mqx.o
+
+# target to build an object file
+src/osal/lv_mqx.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_mqx.c.o
+.PHONY : src/osal/lv_mqx.c.o
+
+src/osal/lv_mqx.i: src/osal/lv_mqx.c.i
+.PHONY : src/osal/lv_mqx.i
+
+# target to preprocess a source file
+src/osal/lv_mqx.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_mqx.c.i
+.PHONY : src/osal/lv_mqx.c.i
+
+src/osal/lv_mqx.s: src/osal/lv_mqx.c.s
+.PHONY : src/osal/lv_mqx.s
+
+# target to generate assembly for a file
+src/osal/lv_mqx.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_mqx.c.s
+.PHONY : src/osal/lv_mqx.c.s
+
+src/osal/lv_os.o: src/osal/lv_os.c.o
+.PHONY : src/osal/lv_os.o
+
+# target to build an object file
+src/osal/lv_os.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_os.c.o
+.PHONY : src/osal/lv_os.c.o
+
+src/osal/lv_os.i: src/osal/lv_os.c.i
+.PHONY : src/osal/lv_os.i
+
+# target to preprocess a source file
+src/osal/lv_os.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_os.c.i
+.PHONY : src/osal/lv_os.c.i
+
+src/osal/lv_os.s: src/osal/lv_os.c.s
+.PHONY : src/osal/lv_os.s
+
+# target to generate assembly for a file
+src/osal/lv_os.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_os.c.s
+.PHONY : src/osal/lv_os.c.s
+
 src/osal/lv_os_none.o: src/osal/lv_os_none.c.o
 .PHONY : src/osal/lv_os_none.o
 
@@ -13792,6 +19064,30 @@ src/osal/lv_rtthread.s: src/osal/lv_rtthread.c.s
 src/osal/lv_rtthread.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_rtthread.c.s
 .PHONY : src/osal/lv_rtthread.c.s
+
+src/osal/lv_sdl2.o: src/osal/lv_sdl2.c.o
+.PHONY : src/osal/lv_sdl2.o
+
+# target to build an object file
+src/osal/lv_sdl2.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_sdl2.c.o
+.PHONY : src/osal/lv_sdl2.c.o
+
+src/osal/lv_sdl2.i: src/osal/lv_sdl2.c.i
+.PHONY : src/osal/lv_sdl2.i
+
+# target to preprocess a source file
+src/osal/lv_sdl2.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_sdl2.c.i
+.PHONY : src/osal/lv_sdl2.c.i
+
+src/osal/lv_sdl2.s: src/osal/lv_sdl2.c.s
+.PHONY : src/osal/lv_sdl2.s
+
+# target to generate assembly for a file
+src/osal/lv_sdl2.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/osal/lv_sdl2.c.s
+.PHONY : src/osal/lv_sdl2.c.s
 
 src/osal/lv_windows.o: src/osal/lv_windows.c.o
 .PHONY : src/osal/lv_windows.o
@@ -13889,221 +19185,29 @@ src/others/fragment/lv_fragment_manager.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/fragment/lv_fragment_manager.c.s
 .PHONY : src/others/fragment/lv_fragment_manager.c.s
 
-src/others/gridnav/lv_gridnav.o: src/others/gridnav/lv_gridnav.c.o
-.PHONY : src/others/gridnav/lv_gridnav.o
+src/others/translation/lv_translation.o: src/others/translation/lv_translation.c.o
+.PHONY : src/others/translation/lv_translation.o
 
 # target to build an object file
-src/others/gridnav/lv_gridnav.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/gridnav/lv_gridnav.c.o
-.PHONY : src/others/gridnav/lv_gridnav.c.o
+src/others/translation/lv_translation.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/translation/lv_translation.c.o
+.PHONY : src/others/translation/lv_translation.c.o
 
-src/others/gridnav/lv_gridnav.i: src/others/gridnav/lv_gridnav.c.i
-.PHONY : src/others/gridnav/lv_gridnav.i
-
-# target to preprocess a source file
-src/others/gridnav/lv_gridnav.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/gridnav/lv_gridnav.c.i
-.PHONY : src/others/gridnav/lv_gridnav.c.i
-
-src/others/gridnav/lv_gridnav.s: src/others/gridnav/lv_gridnav.c.s
-.PHONY : src/others/gridnav/lv_gridnav.s
-
-# target to generate assembly for a file
-src/others/gridnav/lv_gridnav.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/gridnav/lv_gridnav.c.s
-.PHONY : src/others/gridnav/lv_gridnav.c.s
-
-src/others/ime/lv_ime_pinyin.o: src/others/ime/lv_ime_pinyin.c.o
-.PHONY : src/others/ime/lv_ime_pinyin.o
-
-# target to build an object file
-src/others/ime/lv_ime_pinyin.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/ime/lv_ime_pinyin.c.o
-.PHONY : src/others/ime/lv_ime_pinyin.c.o
-
-src/others/ime/lv_ime_pinyin.i: src/others/ime/lv_ime_pinyin.c.i
-.PHONY : src/others/ime/lv_ime_pinyin.i
+src/others/translation/lv_translation.i: src/others/translation/lv_translation.c.i
+.PHONY : src/others/translation/lv_translation.i
 
 # target to preprocess a source file
-src/others/ime/lv_ime_pinyin.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/ime/lv_ime_pinyin.c.i
-.PHONY : src/others/ime/lv_ime_pinyin.c.i
+src/others/translation/lv_translation.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/translation/lv_translation.c.i
+.PHONY : src/others/translation/lv_translation.c.i
 
-src/others/ime/lv_ime_pinyin.s: src/others/ime/lv_ime_pinyin.c.s
-.PHONY : src/others/ime/lv_ime_pinyin.s
-
-# target to generate assembly for a file
-src/others/ime/lv_ime_pinyin.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/ime/lv_ime_pinyin.c.s
-.PHONY : src/others/ime/lv_ime_pinyin.c.s
-
-src/others/imgfont/lv_imgfont.o: src/others/imgfont/lv_imgfont.c.o
-.PHONY : src/others/imgfont/lv_imgfont.o
-
-# target to build an object file
-src/others/imgfont/lv_imgfont.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/imgfont/lv_imgfont.c.o
-.PHONY : src/others/imgfont/lv_imgfont.c.o
-
-src/others/imgfont/lv_imgfont.i: src/others/imgfont/lv_imgfont.c.i
-.PHONY : src/others/imgfont/lv_imgfont.i
-
-# target to preprocess a source file
-src/others/imgfont/lv_imgfont.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/imgfont/lv_imgfont.c.i
-.PHONY : src/others/imgfont/lv_imgfont.c.i
-
-src/others/imgfont/lv_imgfont.s: src/others/imgfont/lv_imgfont.c.s
-.PHONY : src/others/imgfont/lv_imgfont.s
+src/others/translation/lv_translation.s: src/others/translation/lv_translation.c.s
+.PHONY : src/others/translation/lv_translation.s
 
 # target to generate assembly for a file
-src/others/imgfont/lv_imgfont.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/imgfont/lv_imgfont.c.s
-.PHONY : src/others/imgfont/lv_imgfont.c.s
-
-src/others/monkey/lv_monkey.o: src/others/monkey/lv_monkey.c.o
-.PHONY : src/others/monkey/lv_monkey.o
-
-# target to build an object file
-src/others/monkey/lv_monkey.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/monkey/lv_monkey.c.o
-.PHONY : src/others/monkey/lv_monkey.c.o
-
-src/others/monkey/lv_monkey.i: src/others/monkey/lv_monkey.c.i
-.PHONY : src/others/monkey/lv_monkey.i
-
-# target to preprocess a source file
-src/others/monkey/lv_monkey.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/monkey/lv_monkey.c.i
-.PHONY : src/others/monkey/lv_monkey.c.i
-
-src/others/monkey/lv_monkey.s: src/others/monkey/lv_monkey.c.s
-.PHONY : src/others/monkey/lv_monkey.s
-
-# target to generate assembly for a file
-src/others/monkey/lv_monkey.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/monkey/lv_monkey.c.s
-.PHONY : src/others/monkey/lv_monkey.c.s
-
-src/others/observer/lv_observer.o: src/others/observer/lv_observer.c.o
-.PHONY : src/others/observer/lv_observer.o
-
-# target to build an object file
-src/others/observer/lv_observer.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/observer/lv_observer.c.o
-.PHONY : src/others/observer/lv_observer.c.o
-
-src/others/observer/lv_observer.i: src/others/observer/lv_observer.c.i
-.PHONY : src/others/observer/lv_observer.i
-
-# target to preprocess a source file
-src/others/observer/lv_observer.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/observer/lv_observer.c.i
-.PHONY : src/others/observer/lv_observer.c.i
-
-src/others/observer/lv_observer.s: src/others/observer/lv_observer.c.s
-.PHONY : src/others/observer/lv_observer.s
-
-# target to generate assembly for a file
-src/others/observer/lv_observer.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/observer/lv_observer.c.s
-.PHONY : src/others/observer/lv_observer.c.s
-
-src/others/snapshot/lv_snapshot.o: src/others/snapshot/lv_snapshot.c.o
-.PHONY : src/others/snapshot/lv_snapshot.o
-
-# target to build an object file
-src/others/snapshot/lv_snapshot.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/snapshot/lv_snapshot.c.o
-.PHONY : src/others/snapshot/lv_snapshot.c.o
-
-src/others/snapshot/lv_snapshot.i: src/others/snapshot/lv_snapshot.c.i
-.PHONY : src/others/snapshot/lv_snapshot.i
-
-# target to preprocess a source file
-src/others/snapshot/lv_snapshot.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/snapshot/lv_snapshot.c.i
-.PHONY : src/others/snapshot/lv_snapshot.c.i
-
-src/others/snapshot/lv_snapshot.s: src/others/snapshot/lv_snapshot.c.s
-.PHONY : src/others/snapshot/lv_snapshot.s
-
-# target to generate assembly for a file
-src/others/snapshot/lv_snapshot.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/snapshot/lv_snapshot.c.s
-.PHONY : src/others/snapshot/lv_snapshot.c.s
-
-src/others/sysmon/lv_sysmon.o: src/others/sysmon/lv_sysmon.c.o
-.PHONY : src/others/sysmon/lv_sysmon.o
-
-# target to build an object file
-src/others/sysmon/lv_sysmon.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/sysmon/lv_sysmon.c.o
-.PHONY : src/others/sysmon/lv_sysmon.c.o
-
-src/others/sysmon/lv_sysmon.i: src/others/sysmon/lv_sysmon.c.i
-.PHONY : src/others/sysmon/lv_sysmon.i
-
-# target to preprocess a source file
-src/others/sysmon/lv_sysmon.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/sysmon/lv_sysmon.c.i
-.PHONY : src/others/sysmon/lv_sysmon.c.i
-
-src/others/sysmon/lv_sysmon.s: src/others/sysmon/lv_sysmon.c.s
-.PHONY : src/others/sysmon/lv_sysmon.s
-
-# target to generate assembly for a file
-src/others/sysmon/lv_sysmon.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/sysmon/lv_sysmon.c.s
-.PHONY : src/others/sysmon/lv_sysmon.c.s
-
-src/others/vg_lite_tvg/vg_lite_matrix.o: src/others/vg_lite_tvg/vg_lite_matrix.c.o
-.PHONY : src/others/vg_lite_tvg/vg_lite_matrix.o
-
-# target to build an object file
-src/others/vg_lite_tvg/vg_lite_matrix.c.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/vg_lite_tvg/vg_lite_matrix.c.o
-.PHONY : src/others/vg_lite_tvg/vg_lite_matrix.c.o
-
-src/others/vg_lite_tvg/vg_lite_matrix.i: src/others/vg_lite_tvg/vg_lite_matrix.c.i
-.PHONY : src/others/vg_lite_tvg/vg_lite_matrix.i
-
-# target to preprocess a source file
-src/others/vg_lite_tvg/vg_lite_matrix.c.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/vg_lite_tvg/vg_lite_matrix.c.i
-.PHONY : src/others/vg_lite_tvg/vg_lite_matrix.c.i
-
-src/others/vg_lite_tvg/vg_lite_matrix.s: src/others/vg_lite_tvg/vg_lite_matrix.c.s
-.PHONY : src/others/vg_lite_tvg/vg_lite_matrix.s
-
-# target to generate assembly for a file
-src/others/vg_lite_tvg/vg_lite_matrix.c.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/vg_lite_tvg/vg_lite_matrix.c.s
-.PHONY : src/others/vg_lite_tvg/vg_lite_matrix.c.s
-
-src/others/vg_lite_tvg/vg_lite_tvg.o: src/others/vg_lite_tvg/vg_lite_tvg.cpp.o
-.PHONY : src/others/vg_lite_tvg/vg_lite_tvg.o
-
-# target to build an object file
-src/others/vg_lite_tvg/vg_lite_tvg.cpp.o:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.o
-.PHONY : src/others/vg_lite_tvg/vg_lite_tvg.cpp.o
-
-src/others/vg_lite_tvg/vg_lite_tvg.i: src/others/vg_lite_tvg/vg_lite_tvg.cpp.i
-.PHONY : src/others/vg_lite_tvg/vg_lite_tvg.i
-
-# target to preprocess a source file
-src/others/vg_lite_tvg/vg_lite_tvg.cpp.i:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.i
-.PHONY : src/others/vg_lite_tvg/vg_lite_tvg.cpp.i
-
-src/others/vg_lite_tvg/vg_lite_tvg.s: src/others/vg_lite_tvg/vg_lite_tvg.cpp.s
-.PHONY : src/others/vg_lite_tvg/vg_lite_tvg.s
-
-# target to generate assembly for a file
-src/others/vg_lite_tvg/vg_lite_tvg.cpp.s:
-	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.s
-.PHONY : src/others/vg_lite_tvg/vg_lite_tvg.cpp.s
+src/others/translation/lv_translation.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/others/translation/lv_translation.c.s
+.PHONY : src/others/translation/lv_translation.c.s
 
 src/stdlib/builtin/lv_mem_core_builtin.o: src/stdlib/builtin/lv_mem_core_builtin.c.o
 .PHONY : src/stdlib/builtin/lv_mem_core_builtin.o
@@ -14393,6 +19497,30 @@ src/stdlib/rtthread/lv_string_rtthread.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/stdlib/rtthread/lv_string_rtthread.c.s
 .PHONY : src/stdlib/rtthread/lv_string_rtthread.c.s
 
+src/stdlib/uefi/lv_mem_core_uefi.o: src/stdlib/uefi/lv_mem_core_uefi.c.o
+.PHONY : src/stdlib/uefi/lv_mem_core_uefi.o
+
+# target to build an object file
+src/stdlib/uefi/lv_mem_core_uefi.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/stdlib/uefi/lv_mem_core_uefi.c.o
+.PHONY : src/stdlib/uefi/lv_mem_core_uefi.c.o
+
+src/stdlib/uefi/lv_mem_core_uefi.i: src/stdlib/uefi/lv_mem_core_uefi.c.i
+.PHONY : src/stdlib/uefi/lv_mem_core_uefi.i
+
+# target to preprocess a source file
+src/stdlib/uefi/lv_mem_core_uefi.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/stdlib/uefi/lv_mem_core_uefi.c.i
+.PHONY : src/stdlib/uefi/lv_mem_core_uefi.c.i
+
+src/stdlib/uefi/lv_mem_core_uefi.s: src/stdlib/uefi/lv_mem_core_uefi.c.s
+.PHONY : src/stdlib/uefi/lv_mem_core_uefi.s
+
+# target to generate assembly for a file
+src/stdlib/uefi/lv_mem_core_uefi.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/stdlib/uefi/lv_mem_core_uefi.c.s
+.PHONY : src/stdlib/uefi/lv_mem_core_uefi.c.s
+
 src/themes/default/lv_theme_default.o: src/themes/default/lv_theme_default.c.o
 .PHONY : src/themes/default/lv_theme_default.o
 
@@ -14513,6 +19641,30 @@ src/tick/lv_tick.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/tick/lv_tick.c.s
 .PHONY : src/tick/lv_tick.c.s
 
+src/widgets/3dtexture/lv_3dtexture.o: src/widgets/3dtexture/lv_3dtexture.c.o
+.PHONY : src/widgets/3dtexture/lv_3dtexture.o
+
+# target to build an object file
+src/widgets/3dtexture/lv_3dtexture.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/3dtexture/lv_3dtexture.c.o
+.PHONY : src/widgets/3dtexture/lv_3dtexture.c.o
+
+src/widgets/3dtexture/lv_3dtexture.i: src/widgets/3dtexture/lv_3dtexture.c.i
+.PHONY : src/widgets/3dtexture/lv_3dtexture.i
+
+# target to preprocess a source file
+src/widgets/3dtexture/lv_3dtexture.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/3dtexture/lv_3dtexture.c.i
+.PHONY : src/widgets/3dtexture/lv_3dtexture.c.i
+
+src/widgets/3dtexture/lv_3dtexture.s: src/widgets/3dtexture/lv_3dtexture.c.s
+.PHONY : src/widgets/3dtexture/lv_3dtexture.s
+
+# target to generate assembly for a file
+src/widgets/3dtexture/lv_3dtexture.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/3dtexture/lv_3dtexture.c.s
+.PHONY : src/widgets/3dtexture/lv_3dtexture.c.s
+
 src/widgets/animimage/lv_animimage.o: src/widgets/animimage/lv_animimage.c.o
 .PHONY : src/widgets/animimage/lv_animimage.o
 
@@ -14560,6 +19712,30 @@ src/widgets/arc/lv_arc.s: src/widgets/arc/lv_arc.c.s
 src/widgets/arc/lv_arc.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/arc/lv_arc.c.s
 .PHONY : src/widgets/arc/lv_arc.c.s
+
+src/widgets/arclabel/lv_arclabel.o: src/widgets/arclabel/lv_arclabel.c.o
+.PHONY : src/widgets/arclabel/lv_arclabel.o
+
+# target to build an object file
+src/widgets/arclabel/lv_arclabel.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/arclabel/lv_arclabel.c.o
+.PHONY : src/widgets/arclabel/lv_arclabel.c.o
+
+src/widgets/arclabel/lv_arclabel.i: src/widgets/arclabel/lv_arclabel.c.i
+.PHONY : src/widgets/arclabel/lv_arclabel.i
+
+# target to preprocess a source file
+src/widgets/arclabel/lv_arclabel.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/arclabel/lv_arclabel.c.i
+.PHONY : src/widgets/arclabel/lv_arclabel.c.i
+
+src/widgets/arclabel/lv_arclabel.s: src/widgets/arclabel/lv_arclabel.c.s
+.PHONY : src/widgets/arclabel/lv_arclabel.s
+
+# target to generate assembly for a file
+src/widgets/arclabel/lv_arclabel.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/arclabel/lv_arclabel.c.s
+.PHONY : src/widgets/arclabel/lv_arclabel.c.s
 
 src/widgets/bar/lv_bar.o: src/widgets/bar/lv_bar.c.o
 .PHONY : src/widgets/bar/lv_bar.o
@@ -14656,6 +19832,30 @@ src/widgets/calendar/lv_calendar.s: src/widgets/calendar/lv_calendar.c.s
 src/widgets/calendar/lv_calendar.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/calendar/lv_calendar.c.s
 .PHONY : src/widgets/calendar/lv_calendar.c.s
+
+src/widgets/calendar/lv_calendar_chinese.o: src/widgets/calendar/lv_calendar_chinese.c.o
+.PHONY : src/widgets/calendar/lv_calendar_chinese.o
+
+# target to build an object file
+src/widgets/calendar/lv_calendar_chinese.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/calendar/lv_calendar_chinese.c.o
+.PHONY : src/widgets/calendar/lv_calendar_chinese.c.o
+
+src/widgets/calendar/lv_calendar_chinese.i: src/widgets/calendar/lv_calendar_chinese.c.i
+.PHONY : src/widgets/calendar/lv_calendar_chinese.i
+
+# target to preprocess a source file
+src/widgets/calendar/lv_calendar_chinese.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/calendar/lv_calendar_chinese.c.i
+.PHONY : src/widgets/calendar/lv_calendar_chinese.c.i
+
+src/widgets/calendar/lv_calendar_chinese.s: src/widgets/calendar/lv_calendar_chinese.c.s
+.PHONY : src/widgets/calendar/lv_calendar_chinese.s
+
+# target to generate assembly for a file
+src/widgets/calendar/lv_calendar_chinese.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/calendar/lv_calendar_chinese.c.s
+.PHONY : src/widgets/calendar/lv_calendar_chinese.c.s
 
 src/widgets/calendar/lv_calendar_header_arrow.o: src/widgets/calendar/lv_calendar_header_arrow.c.o
 .PHONY : src/widgets/calendar/lv_calendar_header_arrow.o
@@ -14801,6 +20001,30 @@ src/widgets/dropdown/lv_dropdown.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/dropdown/lv_dropdown.c.s
 .PHONY : src/widgets/dropdown/lv_dropdown.c.s
 
+src/widgets/gif/lv_gif.o: src/widgets/gif/lv_gif.c.o
+.PHONY : src/widgets/gif/lv_gif.o
+
+# target to build an object file
+src/widgets/gif/lv_gif.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/gif/lv_gif.c.o
+.PHONY : src/widgets/gif/lv_gif.c.o
+
+src/widgets/gif/lv_gif.i: src/widgets/gif/lv_gif.c.i
+.PHONY : src/widgets/gif/lv_gif.i
+
+# target to preprocess a source file
+src/widgets/gif/lv_gif.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/gif/lv_gif.c.i
+.PHONY : src/widgets/gif/lv_gif.c.i
+
+src/widgets/gif/lv_gif.s: src/widgets/gif/lv_gif.c.s
+.PHONY : src/widgets/gif/lv_gif.s
+
+# target to generate assembly for a file
+src/widgets/gif/lv_gif.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/gif/lv_gif.c.s
+.PHONY : src/widgets/gif/lv_gif.c.s
+
 src/widgets/image/lv_image.o: src/widgets/image/lv_image.c.o
 .PHONY : src/widgets/image/lv_image.o
 
@@ -14848,6 +20072,30 @@ src/widgets/imagebutton/lv_imagebutton.s: src/widgets/imagebutton/lv_imagebutton
 src/widgets/imagebutton/lv_imagebutton.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/imagebutton/lv_imagebutton.c.s
 .PHONY : src/widgets/imagebutton/lv_imagebutton.c.s
+
+src/widgets/ime/lv_ime_pinyin.o: src/widgets/ime/lv_ime_pinyin.c.o
+.PHONY : src/widgets/ime/lv_ime_pinyin.o
+
+# target to build an object file
+src/widgets/ime/lv_ime_pinyin.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/ime/lv_ime_pinyin.c.o
+.PHONY : src/widgets/ime/lv_ime_pinyin.c.o
+
+src/widgets/ime/lv_ime_pinyin.i: src/widgets/ime/lv_ime_pinyin.c.i
+.PHONY : src/widgets/ime/lv_ime_pinyin.i
+
+# target to preprocess a source file
+src/widgets/ime/lv_ime_pinyin.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/ime/lv_ime_pinyin.c.i
+.PHONY : src/widgets/ime/lv_ime_pinyin.c.i
+
+src/widgets/ime/lv_ime_pinyin.s: src/widgets/ime/lv_ime_pinyin.c.s
+.PHONY : src/widgets/ime/lv_ime_pinyin.s
+
+# target to generate assembly for a file
+src/widgets/ime/lv_ime_pinyin.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/ime/lv_ime_pinyin.c.s
+.PHONY : src/widgets/ime/lv_ime_pinyin.c.s
 
 src/widgets/keyboard/lv_keyboard.o: src/widgets/keyboard/lv_keyboard.c.o
 .PHONY : src/widgets/keyboard/lv_keyboard.o
@@ -14969,6 +20217,30 @@ src/widgets/list/lv_list.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/list/lv_list.c.s
 .PHONY : src/widgets/list/lv_list.c.s
 
+src/widgets/lottie/lv_lottie.o: src/widgets/lottie/lv_lottie.c.o
+.PHONY : src/widgets/lottie/lv_lottie.o
+
+# target to build an object file
+src/widgets/lottie/lv_lottie.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/lottie/lv_lottie.c.o
+.PHONY : src/widgets/lottie/lv_lottie.c.o
+
+src/widgets/lottie/lv_lottie.i: src/widgets/lottie/lv_lottie.c.i
+.PHONY : src/widgets/lottie/lv_lottie.i
+
+# target to preprocess a source file
+src/widgets/lottie/lv_lottie.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/lottie/lv_lottie.c.i
+.PHONY : src/widgets/lottie/lv_lottie.c.i
+
+src/widgets/lottie/lv_lottie.s: src/widgets/lottie/lv_lottie.c.s
+.PHONY : src/widgets/lottie/lv_lottie.s
+
+# target to generate assembly for a file
+src/widgets/lottie/lv_lottie.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/lottie/lv_lottie.c.s
+.PHONY : src/widgets/lottie/lv_lottie.c.s
+
 src/widgets/menu/lv_menu.o: src/widgets/menu/lv_menu.c.o
 .PHONY : src/widgets/menu/lv_menu.o
 
@@ -15040,6 +20312,606 @@ src/widgets/objx_templ/lv_objx_templ.s: src/widgets/objx_templ/lv_objx_templ.c.s
 src/widgets/objx_templ/lv_objx_templ.c.s:
 	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/objx_templ/lv_objx_templ.c.s
 .PHONY : src/widgets/objx_templ/lv_objx_templ.c.s
+
+src/widgets/property/lv_animimage_properties.o: src/widgets/property/lv_animimage_properties.c.o
+.PHONY : src/widgets/property/lv_animimage_properties.o
+
+# target to build an object file
+src/widgets/property/lv_animimage_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_animimage_properties.c.o
+.PHONY : src/widgets/property/lv_animimage_properties.c.o
+
+src/widgets/property/lv_animimage_properties.i: src/widgets/property/lv_animimage_properties.c.i
+.PHONY : src/widgets/property/lv_animimage_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_animimage_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_animimage_properties.c.i
+.PHONY : src/widgets/property/lv_animimage_properties.c.i
+
+src/widgets/property/lv_animimage_properties.s: src/widgets/property/lv_animimage_properties.c.s
+.PHONY : src/widgets/property/lv_animimage_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_animimage_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_animimage_properties.c.s
+.PHONY : src/widgets/property/lv_animimage_properties.c.s
+
+src/widgets/property/lv_arc_properties.o: src/widgets/property/lv_arc_properties.c.o
+.PHONY : src/widgets/property/lv_arc_properties.o
+
+# target to build an object file
+src/widgets/property/lv_arc_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_arc_properties.c.o
+.PHONY : src/widgets/property/lv_arc_properties.c.o
+
+src/widgets/property/lv_arc_properties.i: src/widgets/property/lv_arc_properties.c.i
+.PHONY : src/widgets/property/lv_arc_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_arc_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_arc_properties.c.i
+.PHONY : src/widgets/property/lv_arc_properties.c.i
+
+src/widgets/property/lv_arc_properties.s: src/widgets/property/lv_arc_properties.c.s
+.PHONY : src/widgets/property/lv_arc_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_arc_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_arc_properties.c.s
+.PHONY : src/widgets/property/lv_arc_properties.c.s
+
+src/widgets/property/lv_bar_properties.o: src/widgets/property/lv_bar_properties.c.o
+.PHONY : src/widgets/property/lv_bar_properties.o
+
+# target to build an object file
+src/widgets/property/lv_bar_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_bar_properties.c.o
+.PHONY : src/widgets/property/lv_bar_properties.c.o
+
+src/widgets/property/lv_bar_properties.i: src/widgets/property/lv_bar_properties.c.i
+.PHONY : src/widgets/property/lv_bar_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_bar_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_bar_properties.c.i
+.PHONY : src/widgets/property/lv_bar_properties.c.i
+
+src/widgets/property/lv_bar_properties.s: src/widgets/property/lv_bar_properties.c.s
+.PHONY : src/widgets/property/lv_bar_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_bar_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_bar_properties.c.s
+.PHONY : src/widgets/property/lv_bar_properties.c.s
+
+src/widgets/property/lv_buttonmatrix_properties.o: src/widgets/property/lv_buttonmatrix_properties.c.o
+.PHONY : src/widgets/property/lv_buttonmatrix_properties.o
+
+# target to build an object file
+src/widgets/property/lv_buttonmatrix_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_buttonmatrix_properties.c.o
+.PHONY : src/widgets/property/lv_buttonmatrix_properties.c.o
+
+src/widgets/property/lv_buttonmatrix_properties.i: src/widgets/property/lv_buttonmatrix_properties.c.i
+.PHONY : src/widgets/property/lv_buttonmatrix_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_buttonmatrix_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_buttonmatrix_properties.c.i
+.PHONY : src/widgets/property/lv_buttonmatrix_properties.c.i
+
+src/widgets/property/lv_buttonmatrix_properties.s: src/widgets/property/lv_buttonmatrix_properties.c.s
+.PHONY : src/widgets/property/lv_buttonmatrix_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_buttonmatrix_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_buttonmatrix_properties.c.s
+.PHONY : src/widgets/property/lv_buttonmatrix_properties.c.s
+
+src/widgets/property/lv_chart_properties.o: src/widgets/property/lv_chart_properties.c.o
+.PHONY : src/widgets/property/lv_chart_properties.o
+
+# target to build an object file
+src/widgets/property/lv_chart_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_chart_properties.c.o
+.PHONY : src/widgets/property/lv_chart_properties.c.o
+
+src/widgets/property/lv_chart_properties.i: src/widgets/property/lv_chart_properties.c.i
+.PHONY : src/widgets/property/lv_chart_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_chart_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_chart_properties.c.i
+.PHONY : src/widgets/property/lv_chart_properties.c.i
+
+src/widgets/property/lv_chart_properties.s: src/widgets/property/lv_chart_properties.c.s
+.PHONY : src/widgets/property/lv_chart_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_chart_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_chart_properties.c.s
+.PHONY : src/widgets/property/lv_chart_properties.c.s
+
+src/widgets/property/lv_checkbox_properties.o: src/widgets/property/lv_checkbox_properties.c.o
+.PHONY : src/widgets/property/lv_checkbox_properties.o
+
+# target to build an object file
+src/widgets/property/lv_checkbox_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_checkbox_properties.c.o
+.PHONY : src/widgets/property/lv_checkbox_properties.c.o
+
+src/widgets/property/lv_checkbox_properties.i: src/widgets/property/lv_checkbox_properties.c.i
+.PHONY : src/widgets/property/lv_checkbox_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_checkbox_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_checkbox_properties.c.i
+.PHONY : src/widgets/property/lv_checkbox_properties.c.i
+
+src/widgets/property/lv_checkbox_properties.s: src/widgets/property/lv_checkbox_properties.c.s
+.PHONY : src/widgets/property/lv_checkbox_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_checkbox_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_checkbox_properties.c.s
+.PHONY : src/widgets/property/lv_checkbox_properties.c.s
+
+src/widgets/property/lv_dropdown_properties.o: src/widgets/property/lv_dropdown_properties.c.o
+.PHONY : src/widgets/property/lv_dropdown_properties.o
+
+# target to build an object file
+src/widgets/property/lv_dropdown_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_dropdown_properties.c.o
+.PHONY : src/widgets/property/lv_dropdown_properties.c.o
+
+src/widgets/property/lv_dropdown_properties.i: src/widgets/property/lv_dropdown_properties.c.i
+.PHONY : src/widgets/property/lv_dropdown_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_dropdown_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_dropdown_properties.c.i
+.PHONY : src/widgets/property/lv_dropdown_properties.c.i
+
+src/widgets/property/lv_dropdown_properties.s: src/widgets/property/lv_dropdown_properties.c.s
+.PHONY : src/widgets/property/lv_dropdown_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_dropdown_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_dropdown_properties.c.s
+.PHONY : src/widgets/property/lv_dropdown_properties.c.s
+
+src/widgets/property/lv_image_properties.o: src/widgets/property/lv_image_properties.c.o
+.PHONY : src/widgets/property/lv_image_properties.o
+
+# target to build an object file
+src/widgets/property/lv_image_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_image_properties.c.o
+.PHONY : src/widgets/property/lv_image_properties.c.o
+
+src/widgets/property/lv_image_properties.i: src/widgets/property/lv_image_properties.c.i
+.PHONY : src/widgets/property/lv_image_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_image_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_image_properties.c.i
+.PHONY : src/widgets/property/lv_image_properties.c.i
+
+src/widgets/property/lv_image_properties.s: src/widgets/property/lv_image_properties.c.s
+.PHONY : src/widgets/property/lv_image_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_image_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_image_properties.c.s
+.PHONY : src/widgets/property/lv_image_properties.c.s
+
+src/widgets/property/lv_keyboard_properties.o: src/widgets/property/lv_keyboard_properties.c.o
+.PHONY : src/widgets/property/lv_keyboard_properties.o
+
+# target to build an object file
+src/widgets/property/lv_keyboard_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_keyboard_properties.c.o
+.PHONY : src/widgets/property/lv_keyboard_properties.c.o
+
+src/widgets/property/lv_keyboard_properties.i: src/widgets/property/lv_keyboard_properties.c.i
+.PHONY : src/widgets/property/lv_keyboard_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_keyboard_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_keyboard_properties.c.i
+.PHONY : src/widgets/property/lv_keyboard_properties.c.i
+
+src/widgets/property/lv_keyboard_properties.s: src/widgets/property/lv_keyboard_properties.c.s
+.PHONY : src/widgets/property/lv_keyboard_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_keyboard_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_keyboard_properties.c.s
+.PHONY : src/widgets/property/lv_keyboard_properties.c.s
+
+src/widgets/property/lv_label_properties.o: src/widgets/property/lv_label_properties.c.o
+.PHONY : src/widgets/property/lv_label_properties.o
+
+# target to build an object file
+src/widgets/property/lv_label_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_label_properties.c.o
+.PHONY : src/widgets/property/lv_label_properties.c.o
+
+src/widgets/property/lv_label_properties.i: src/widgets/property/lv_label_properties.c.i
+.PHONY : src/widgets/property/lv_label_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_label_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_label_properties.c.i
+.PHONY : src/widgets/property/lv_label_properties.c.i
+
+src/widgets/property/lv_label_properties.s: src/widgets/property/lv_label_properties.c.s
+.PHONY : src/widgets/property/lv_label_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_label_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_label_properties.c.s
+.PHONY : src/widgets/property/lv_label_properties.c.s
+
+src/widgets/property/lv_led_properties.o: src/widgets/property/lv_led_properties.c.o
+.PHONY : src/widgets/property/lv_led_properties.o
+
+# target to build an object file
+src/widgets/property/lv_led_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_led_properties.c.o
+.PHONY : src/widgets/property/lv_led_properties.c.o
+
+src/widgets/property/lv_led_properties.i: src/widgets/property/lv_led_properties.c.i
+.PHONY : src/widgets/property/lv_led_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_led_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_led_properties.c.i
+.PHONY : src/widgets/property/lv_led_properties.c.i
+
+src/widgets/property/lv_led_properties.s: src/widgets/property/lv_led_properties.c.s
+.PHONY : src/widgets/property/lv_led_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_led_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_led_properties.c.s
+.PHONY : src/widgets/property/lv_led_properties.c.s
+
+src/widgets/property/lv_line_properties.o: src/widgets/property/lv_line_properties.c.o
+.PHONY : src/widgets/property/lv_line_properties.o
+
+# target to build an object file
+src/widgets/property/lv_line_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_line_properties.c.o
+.PHONY : src/widgets/property/lv_line_properties.c.o
+
+src/widgets/property/lv_line_properties.i: src/widgets/property/lv_line_properties.c.i
+.PHONY : src/widgets/property/lv_line_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_line_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_line_properties.c.i
+.PHONY : src/widgets/property/lv_line_properties.c.i
+
+src/widgets/property/lv_line_properties.s: src/widgets/property/lv_line_properties.c.s
+.PHONY : src/widgets/property/lv_line_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_line_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_line_properties.c.s
+.PHONY : src/widgets/property/lv_line_properties.c.s
+
+src/widgets/property/lv_menu_properties.o: src/widgets/property/lv_menu_properties.c.o
+.PHONY : src/widgets/property/lv_menu_properties.o
+
+# target to build an object file
+src/widgets/property/lv_menu_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_menu_properties.c.o
+.PHONY : src/widgets/property/lv_menu_properties.c.o
+
+src/widgets/property/lv_menu_properties.i: src/widgets/property/lv_menu_properties.c.i
+.PHONY : src/widgets/property/lv_menu_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_menu_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_menu_properties.c.i
+.PHONY : src/widgets/property/lv_menu_properties.c.i
+
+src/widgets/property/lv_menu_properties.s: src/widgets/property/lv_menu_properties.c.s
+.PHONY : src/widgets/property/lv_menu_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_menu_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_menu_properties.c.s
+.PHONY : src/widgets/property/lv_menu_properties.c.s
+
+src/widgets/property/lv_obj_properties.o: src/widgets/property/lv_obj_properties.c.o
+.PHONY : src/widgets/property/lv_obj_properties.o
+
+# target to build an object file
+src/widgets/property/lv_obj_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_obj_properties.c.o
+.PHONY : src/widgets/property/lv_obj_properties.c.o
+
+src/widgets/property/lv_obj_properties.i: src/widgets/property/lv_obj_properties.c.i
+.PHONY : src/widgets/property/lv_obj_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_obj_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_obj_properties.c.i
+.PHONY : src/widgets/property/lv_obj_properties.c.i
+
+src/widgets/property/lv_obj_properties.s: src/widgets/property/lv_obj_properties.c.s
+.PHONY : src/widgets/property/lv_obj_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_obj_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_obj_properties.c.s
+.PHONY : src/widgets/property/lv_obj_properties.c.s
+
+src/widgets/property/lv_roller_properties.o: src/widgets/property/lv_roller_properties.c.o
+.PHONY : src/widgets/property/lv_roller_properties.o
+
+# target to build an object file
+src/widgets/property/lv_roller_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_roller_properties.c.o
+.PHONY : src/widgets/property/lv_roller_properties.c.o
+
+src/widgets/property/lv_roller_properties.i: src/widgets/property/lv_roller_properties.c.i
+.PHONY : src/widgets/property/lv_roller_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_roller_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_roller_properties.c.i
+.PHONY : src/widgets/property/lv_roller_properties.c.i
+
+src/widgets/property/lv_roller_properties.s: src/widgets/property/lv_roller_properties.c.s
+.PHONY : src/widgets/property/lv_roller_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_roller_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_roller_properties.c.s
+.PHONY : src/widgets/property/lv_roller_properties.c.s
+
+src/widgets/property/lv_scale_properties.o: src/widgets/property/lv_scale_properties.c.o
+.PHONY : src/widgets/property/lv_scale_properties.o
+
+# target to build an object file
+src/widgets/property/lv_scale_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_scale_properties.c.o
+.PHONY : src/widgets/property/lv_scale_properties.c.o
+
+src/widgets/property/lv_scale_properties.i: src/widgets/property/lv_scale_properties.c.i
+.PHONY : src/widgets/property/lv_scale_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_scale_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_scale_properties.c.i
+.PHONY : src/widgets/property/lv_scale_properties.c.i
+
+src/widgets/property/lv_scale_properties.s: src/widgets/property/lv_scale_properties.c.s
+.PHONY : src/widgets/property/lv_scale_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_scale_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_scale_properties.c.s
+.PHONY : src/widgets/property/lv_scale_properties.c.s
+
+src/widgets/property/lv_slider_properties.o: src/widgets/property/lv_slider_properties.c.o
+.PHONY : src/widgets/property/lv_slider_properties.o
+
+# target to build an object file
+src/widgets/property/lv_slider_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_slider_properties.c.o
+.PHONY : src/widgets/property/lv_slider_properties.c.o
+
+src/widgets/property/lv_slider_properties.i: src/widgets/property/lv_slider_properties.c.i
+.PHONY : src/widgets/property/lv_slider_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_slider_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_slider_properties.c.i
+.PHONY : src/widgets/property/lv_slider_properties.c.i
+
+src/widgets/property/lv_slider_properties.s: src/widgets/property/lv_slider_properties.c.s
+.PHONY : src/widgets/property/lv_slider_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_slider_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_slider_properties.c.s
+.PHONY : src/widgets/property/lv_slider_properties.c.s
+
+src/widgets/property/lv_span_properties.o: src/widgets/property/lv_span_properties.c.o
+.PHONY : src/widgets/property/lv_span_properties.o
+
+# target to build an object file
+src/widgets/property/lv_span_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_span_properties.c.o
+.PHONY : src/widgets/property/lv_span_properties.c.o
+
+src/widgets/property/lv_span_properties.i: src/widgets/property/lv_span_properties.c.i
+.PHONY : src/widgets/property/lv_span_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_span_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_span_properties.c.i
+.PHONY : src/widgets/property/lv_span_properties.c.i
+
+src/widgets/property/lv_span_properties.s: src/widgets/property/lv_span_properties.c.s
+.PHONY : src/widgets/property/lv_span_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_span_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_span_properties.c.s
+.PHONY : src/widgets/property/lv_span_properties.c.s
+
+src/widgets/property/lv_spinbox_properties.o: src/widgets/property/lv_spinbox_properties.c.o
+.PHONY : src/widgets/property/lv_spinbox_properties.o
+
+# target to build an object file
+src/widgets/property/lv_spinbox_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_spinbox_properties.c.o
+.PHONY : src/widgets/property/lv_spinbox_properties.c.o
+
+src/widgets/property/lv_spinbox_properties.i: src/widgets/property/lv_spinbox_properties.c.i
+.PHONY : src/widgets/property/lv_spinbox_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_spinbox_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_spinbox_properties.c.i
+.PHONY : src/widgets/property/lv_spinbox_properties.c.i
+
+src/widgets/property/lv_spinbox_properties.s: src/widgets/property/lv_spinbox_properties.c.s
+.PHONY : src/widgets/property/lv_spinbox_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_spinbox_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_spinbox_properties.c.s
+.PHONY : src/widgets/property/lv_spinbox_properties.c.s
+
+src/widgets/property/lv_spinner_properties.o: src/widgets/property/lv_spinner_properties.c.o
+.PHONY : src/widgets/property/lv_spinner_properties.o
+
+# target to build an object file
+src/widgets/property/lv_spinner_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_spinner_properties.c.o
+.PHONY : src/widgets/property/lv_spinner_properties.c.o
+
+src/widgets/property/lv_spinner_properties.i: src/widgets/property/lv_spinner_properties.c.i
+.PHONY : src/widgets/property/lv_spinner_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_spinner_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_spinner_properties.c.i
+.PHONY : src/widgets/property/lv_spinner_properties.c.i
+
+src/widgets/property/lv_spinner_properties.s: src/widgets/property/lv_spinner_properties.c.s
+.PHONY : src/widgets/property/lv_spinner_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_spinner_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_spinner_properties.c.s
+.PHONY : src/widgets/property/lv_spinner_properties.c.s
+
+src/widgets/property/lv_style_properties.o: src/widgets/property/lv_style_properties.c.o
+.PHONY : src/widgets/property/lv_style_properties.o
+
+# target to build an object file
+src/widgets/property/lv_style_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_style_properties.c.o
+.PHONY : src/widgets/property/lv_style_properties.c.o
+
+src/widgets/property/lv_style_properties.i: src/widgets/property/lv_style_properties.c.i
+.PHONY : src/widgets/property/lv_style_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_style_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_style_properties.c.i
+.PHONY : src/widgets/property/lv_style_properties.c.i
+
+src/widgets/property/lv_style_properties.s: src/widgets/property/lv_style_properties.c.s
+.PHONY : src/widgets/property/lv_style_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_style_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_style_properties.c.s
+.PHONY : src/widgets/property/lv_style_properties.c.s
+
+src/widgets/property/lv_switch_properties.o: src/widgets/property/lv_switch_properties.c.o
+.PHONY : src/widgets/property/lv_switch_properties.o
+
+# target to build an object file
+src/widgets/property/lv_switch_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_switch_properties.c.o
+.PHONY : src/widgets/property/lv_switch_properties.c.o
+
+src/widgets/property/lv_switch_properties.i: src/widgets/property/lv_switch_properties.c.i
+.PHONY : src/widgets/property/lv_switch_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_switch_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_switch_properties.c.i
+.PHONY : src/widgets/property/lv_switch_properties.c.i
+
+src/widgets/property/lv_switch_properties.s: src/widgets/property/lv_switch_properties.c.s
+.PHONY : src/widgets/property/lv_switch_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_switch_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_switch_properties.c.s
+.PHONY : src/widgets/property/lv_switch_properties.c.s
+
+src/widgets/property/lv_table_properties.o: src/widgets/property/lv_table_properties.c.o
+.PHONY : src/widgets/property/lv_table_properties.o
+
+# target to build an object file
+src/widgets/property/lv_table_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_table_properties.c.o
+.PHONY : src/widgets/property/lv_table_properties.c.o
+
+src/widgets/property/lv_table_properties.i: src/widgets/property/lv_table_properties.c.i
+.PHONY : src/widgets/property/lv_table_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_table_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_table_properties.c.i
+.PHONY : src/widgets/property/lv_table_properties.c.i
+
+src/widgets/property/lv_table_properties.s: src/widgets/property/lv_table_properties.c.s
+.PHONY : src/widgets/property/lv_table_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_table_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_table_properties.c.s
+.PHONY : src/widgets/property/lv_table_properties.c.s
+
+src/widgets/property/lv_tabview_properties.o: src/widgets/property/lv_tabview_properties.c.o
+.PHONY : src/widgets/property/lv_tabview_properties.o
+
+# target to build an object file
+src/widgets/property/lv_tabview_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_tabview_properties.c.o
+.PHONY : src/widgets/property/lv_tabview_properties.c.o
+
+src/widgets/property/lv_tabview_properties.i: src/widgets/property/lv_tabview_properties.c.i
+.PHONY : src/widgets/property/lv_tabview_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_tabview_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_tabview_properties.c.i
+.PHONY : src/widgets/property/lv_tabview_properties.c.i
+
+src/widgets/property/lv_tabview_properties.s: src/widgets/property/lv_tabview_properties.c.s
+.PHONY : src/widgets/property/lv_tabview_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_tabview_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_tabview_properties.c.s
+.PHONY : src/widgets/property/lv_tabview_properties.c.s
+
+src/widgets/property/lv_textarea_properties.o: src/widgets/property/lv_textarea_properties.c.o
+.PHONY : src/widgets/property/lv_textarea_properties.o
+
+# target to build an object file
+src/widgets/property/lv_textarea_properties.c.o:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_textarea_properties.c.o
+.PHONY : src/widgets/property/lv_textarea_properties.c.o
+
+src/widgets/property/lv_textarea_properties.i: src/widgets/property/lv_textarea_properties.c.i
+.PHONY : src/widgets/property/lv_textarea_properties.i
+
+# target to preprocess a source file
+src/widgets/property/lv_textarea_properties.c.i:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_textarea_properties.c.i
+.PHONY : src/widgets/property/lv_textarea_properties.c.i
+
+src/widgets/property/lv_textarea_properties.s: src/widgets/property/lv_textarea_properties.c.s
+.PHONY : src/widgets/property/lv_textarea_properties.s
+
+# target to generate assembly for a file
+src/widgets/property/lv_textarea_properties.c.s:
+	cd /home/dkgkgk183/lvgl_project/build && $(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/src/widgets/property/lv_textarea_properties.c.s
+.PHONY : src/widgets/property/lv_textarea_properties.c.s
 
 src/widgets/roller/lv_roller.o: src/widgets/roller/lv_roller.c.o
 .PHONY : src/widgets/roller/lv_roller.o
@@ -15345,165 +21217,48 @@ help:
 	@echo "... lvgl_demos"
 	@echo "... lvgl_examples"
 	@echo "... lvgl_thorvg"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_alpha256.o"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_alpha256.i"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_alpha256.s"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_argb.o"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_argb.i"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_argb.s"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_indexed16.o"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_indexed16.i"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_indexed16.s"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_rgb.o"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_rgb.i"
-	@echo "... demos/benchmark/assets/img_benchmark_cogwheel_rgb.s"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.o"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.i"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_12_compr_az.c.s"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.o"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.i"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_16_compr_az.c.s"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.o"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.i"
-	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_28_compr_az.c.s"
+	@echo "... demos/benchmark/assets/img_benchmark_avatar.o"
+	@echo "... demos/benchmark/assets/img_benchmark_avatar.i"
+	@echo "... demos/benchmark/assets/img_benchmark_avatar.s"
+	@echo "... demos/benchmark/assets/img_benchmark_lvgl_logo_argb.o"
+	@echo "... demos/benchmark/assets/img_benchmark_lvgl_logo_argb.i"
+	@echo "... demos/benchmark/assets/img_benchmark_lvgl_logo_argb.s"
+	@echo "... demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.o"
+	@echo "... demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.i"
+	@echo "... demos/benchmark/assets/img_benchmark_lvgl_logo_rgb.s"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.o"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.i"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_12_aligned.s"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.o"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.i"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_14_aligned.s"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.o"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.i"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_16_aligned.s"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.o"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.i"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_18_aligned.s"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.o"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.i"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_20_aligned.s"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.o"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.i"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_24_aligned.s"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.o"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.i"
+	@echo "... demos/benchmark/assets/lv_font_benchmark_montserrat_26_aligned.s"
 	@echo "... demos/benchmark/lv_demo_benchmark.o"
 	@echo "... demos/benchmark/lv_demo_benchmark.i"
 	@echo "... demos/benchmark/lv_demo_benchmark.s"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_ctrl_pad.o"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_ctrl_pad.i"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_ctrl_pad.s"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_flex_loader.o"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_flex_loader.i"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_flex_loader.s"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_main.o"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_main.i"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_main.s"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view.o"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view.i"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view.s"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view_child_node.o"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view_child_node.i"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view_child_node.s"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.o"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.i"
-	@echo "... demos/flex_layout/lv_demo_flex_layout_view_ctrl_pad.s"
+	@echo "... demos/gltf/lv_demo_gltf.o"
+	@echo "... demos/gltf/lv_demo_gltf.i"
+	@echo "... demos/gltf/lv_demo_gltf.s"
 	@echo "... demos/keypad_encoder/lv_demo_keypad_encoder.o"
 	@echo "... demos/keypad_encoder/lv_demo_keypad_encoder.i"
 	@echo "... demos/keypad_encoder/lv_demo_keypad_encoder.s"
 	@echo "... demos/lv_demos.o"
 	@echo "... demos/lv_demos.i"
 	@echo "... demos/lv_demos.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_1.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_1.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_1.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_10.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_10.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_10.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_11.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_11.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_11.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_12.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_12.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_12.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_13.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_13.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_13.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_14.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_14.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_14.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_15.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_15.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_15.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_16.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_16.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_16.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_17.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_17.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_17.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_18.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_18.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_18.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_19.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_19.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_19.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_2.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_2.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_2.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_22.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_22.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_22.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_25.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_25.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_25.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_3.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_3.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_3.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_4.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_4.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_4.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_5.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_5.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_5.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_6.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_6.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_6.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_7.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_7.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_7.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_8.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_8.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_8.s"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_9.o"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_9.i"
-	@echo "... demos/multilang/assets/avatars/img_multilang_avatar_9.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_artist_palette.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_artist_palette.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_artist_palette.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_books.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_books.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_books.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_camera_with_flash.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_camera_with_flash.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_camera_with_flash.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_cat_face.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_cat_face.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_cat_face.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_deciduous_tree.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_deciduous_tree.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_deciduous_tree.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_dog_face.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_dog_face.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_dog_face.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_earth_globe_europe_africa.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_flexed_biceps.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_flexed_biceps.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_flexed_biceps.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_movie_camera.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_movie_camera.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_movie_camera.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_red_heart.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_red_heart.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_red_heart.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_rocket.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_rocket.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_rocket.s"
-	@echo "... demos/multilang/assets/emojis/img_emoji_soccer_ball.o"
-	@echo "... demos/multilang/assets/emojis/img_emoji_soccer_ball.i"
-	@echo "... demos/multilang/assets/emojis/img_emoji_soccer_ball.s"
-	@echo "... demos/multilang/assets/fonts/font_multilang_large.o"
-	@echo "... demos/multilang/assets/fonts/font_multilang_large.i"
-	@echo "... demos/multilang/assets/fonts/font_multilang_large.s"
-	@echo "... demos/multilang/assets/fonts/font_multilang_small.o"
-	@echo "... demos/multilang/assets/fonts/font_multilang_small.i"
-	@echo "... demos/multilang/assets/fonts/font_multilang_small.s"
-	@echo "... demos/multilang/assets/img_multilang_like.o"
-	@echo "... demos/multilang/assets/img_multilang_like.i"
-	@echo "... demos/multilang/assets/img_multilang_like.s"
-	@echo "... demos/multilang/lv_demo_multilang.o"
-	@echo "... demos/multilang/lv_demo_multilang.i"
-	@echo "... demos/multilang/lv_demo_multilang.s"
 	@echo "... demos/music/assets/img_lv_demo_music_btn_corner_large.o"
 	@echo "... demos/music/assets/img_lv_demo_music_btn_corner_large.i"
 	@echo "... demos/music/assets/img_lv_demo_music_btn_corner_large.s"
@@ -15651,9 +21406,24 @@ help:
 	@echo "... demos/render/assets/img_render_lvgl_logo_argb8888.o"
 	@echo "... demos/render/assets/img_render_lvgl_logo_argb8888.i"
 	@echo "... demos/render/assets/img_render_lvgl_logo_argb8888.s"
+	@echo "... demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.o"
+	@echo "... demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.i"
+	@echo "... demos/render/assets/img_render_lvgl_logo_argb8888_premultiplied.s"
+	@echo "... demos/render/assets/img_render_lvgl_logo_i1.o"
+	@echo "... demos/render/assets/img_render_lvgl_logo_i1.i"
+	@echo "... demos/render/assets/img_render_lvgl_logo_i1.s"
+	@echo "... demos/render/assets/img_render_lvgl_logo_l8.o"
+	@echo "... demos/render/assets/img_render_lvgl_logo_l8.i"
+	@echo "... demos/render/assets/img_render_lvgl_logo_l8.s"
 	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565.o"
 	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565.i"
 	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565.s"
+	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565_swapped.o"
+	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565_swapped.i"
+	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565_swapped.s"
+	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565a8.o"
+	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565a8.i"
+	@echo "... demos/render/assets/img_render_lvgl_logo_rgb565a8.s"
 	@echo "... demos/render/assets/img_render_lvgl_logo_rgb888.o"
 	@echo "... demos/render/assets/img_render_lvgl_logo_rgb888.i"
 	@echo "... demos/render/assets/img_render_lvgl_logo_rgb888.s"
@@ -15663,18 +21433,9 @@ help:
 	@echo "... demos/render/lv_demo_render.o"
 	@echo "... demos/render/lv_demo_render.i"
 	@echo "... demos/render/lv_demo_render.s"
-	@echo "... demos/scroll/lv_demo_scroll.o"
-	@echo "... demos/scroll/lv_demo_scroll.i"
-	@echo "... demos/scroll/lv_demo_scroll.s"
 	@echo "... demos/stress/lv_demo_stress.o"
 	@echo "... demos/stress/lv_demo_stress.i"
 	@echo "... demos/stress/lv_demo_stress.s"
-	@echo "... demos/transform/assets/img_transform_avatar_15.o"
-	@echo "... demos/transform/assets/img_transform_avatar_15.i"
-	@echo "... demos/transform/assets/img_transform_avatar_15.s"
-	@echo "... demos/transform/lv_demo_transform.o"
-	@echo "... demos/transform/lv_demo_transform.i"
-	@echo "... demos/transform/lv_demo_transform.s"
 	@echo "... demos/vector_graphic/assets/img_demo_vector_avatar.o"
 	@echo "... demos/vector_graphic/assets/img_demo_vector_avatar.i"
 	@echo "... demos/vector_graphic/assets/img_demo_vector_avatar.s"
@@ -15696,6 +21457,18 @@ help:
 	@echo "... demos/widgets/lv_demo_widgets.o"
 	@echo "... demos/widgets/lv_demo_widgets.i"
 	@echo "... demos/widgets/lv_demo_widgets.s"
+	@echo "... demos/widgets/lv_demo_widgets_analytics.o"
+	@echo "... demos/widgets/lv_demo_widgets_analytics.i"
+	@echo "... demos/widgets/lv_demo_widgets_analytics.s"
+	@echo "... demos/widgets/lv_demo_widgets_components.o"
+	@echo "... demos/widgets/lv_demo_widgets_components.i"
+	@echo "... demos/widgets/lv_demo_widgets_components.s"
+	@echo "... demos/widgets/lv_demo_widgets_profile.o"
+	@echo "... demos/widgets/lv_demo_widgets_profile.i"
+	@echo "... demos/widgets/lv_demo_widgets_profile.s"
+	@echo "... demos/widgets/lv_demo_widgets_shop.o"
+	@echo "... demos/widgets/lv_demo_widgets_shop.i"
+	@echo "... demos/widgets/lv_demo_widgets_shop.s"
 	@echo "... examples/anim/lv_example_anim_1.o"
 	@echo "... examples/anim/lv_example_anim_1.i"
 	@echo "... examples/anim/lv_example_anim_1.s"
@@ -15705,6 +21478,9 @@ help:
 	@echo "... examples/anim/lv_example_anim_3.o"
 	@echo "... examples/anim/lv_example_anim_3.i"
 	@echo "... examples/anim/lv_example_anim_3.s"
+	@echo "... examples/anim/lv_example_anim_4.o"
+	@echo "... examples/anim/lv_example_anim_4.i"
+	@echo "... examples/anim/lv_example_anim_4.s"
 	@echo "... examples/anim/lv_example_anim_timeline_1.o"
 	@echo "... examples/anim/lv_example_anim_timeline_1.i"
 	@echo "... examples/anim/lv_example_anim_timeline_1.s"
@@ -15735,12 +21511,21 @@ help:
 	@echo "... examples/assets/img_hand.o"
 	@echo "... examples/assets/img_hand.i"
 	@echo "... examples/assets/img_hand.s"
+	@echo "... examples/assets/img_multilang_like.o"
+	@echo "... examples/assets/img_multilang_like.i"
+	@echo "... examples/assets/img_multilang_like.s"
 	@echo "... examples/assets/img_skew_strip.o"
 	@echo "... examples/assets/img_skew_strip.i"
 	@echo "... examples/assets/img_skew_strip.s"
 	@echo "... examples/assets/img_star.o"
 	@echo "... examples/assets/img_star.i"
 	@echo "... examples/assets/img_star.s"
+	@echo "... examples/assets/img_svg_img.o"
+	@echo "... examples/assets/img_svg_img.i"
+	@echo "... examples/assets/img_svg_img.s"
+	@echo "... examples/assets/img_transform_avatar_15.o"
+	@echo "... examples/assets/img_transform_avatar_15.i"
+	@echo "... examples/assets/img_transform_avatar_15.s"
 	@echo "... examples/assets/imgbtn_left.o"
 	@echo "... examples/assets/imgbtn_left.i"
 	@echo "... examples/assets/imgbtn_left.s"
@@ -15750,18 +21535,24 @@ help:
 	@echo "... examples/assets/imgbtn_right.o"
 	@echo "... examples/assets/imgbtn_right.i"
 	@echo "... examples/assets/imgbtn_right.s"
-	@echo "... examples/event/lv_example_event_1.o"
-	@echo "... examples/event/lv_example_event_1.i"
-	@echo "... examples/event/lv_example_event_1.s"
-	@echo "... examples/event/lv_example_event_2.o"
-	@echo "... examples/event/lv_example_event_2.i"
-	@echo "... examples/event/lv_example_event_2.s"
-	@echo "... examples/event/lv_example_event_3.o"
-	@echo "... examples/event/lv_example_event_3.i"
-	@echo "... examples/event/lv_example_event_3.s"
-	@echo "... examples/event/lv_example_event_4.o"
-	@echo "... examples/event/lv_example_event_4.i"
-	@echo "... examples/event/lv_example_event_4.s"
+	@echo "... examples/event/lv_example_event_bubble.o"
+	@echo "... examples/event/lv_example_event_bubble.i"
+	@echo "... examples/event/lv_example_event_bubble.s"
+	@echo "... examples/event/lv_example_event_button.o"
+	@echo "... examples/event/lv_example_event_button.i"
+	@echo "... examples/event/lv_example_event_button.s"
+	@echo "... examples/event/lv_example_event_click.o"
+	@echo "... examples/event/lv_example_event_click.i"
+	@echo "... examples/event/lv_example_event_click.s"
+	@echo "... examples/event/lv_example_event_draw.o"
+	@echo "... examples/event/lv_example_event_draw.i"
+	@echo "... examples/event/lv_example_event_draw.s"
+	@echo "... examples/event/lv_example_event_streak.o"
+	@echo "... examples/event/lv_example_event_streak.i"
+	@echo "... examples/event/lv_example_event_streak.s"
+	@echo "... examples/event/lv_example_event_trickle.o"
+	@echo "... examples/event/lv_example_event_trickle.i"
+	@echo "... examples/event/lv_example_event_trickle.s"
 	@echo "... examples/get_started/lv_example_get_started_1.o"
 	@echo "... examples/get_started/lv_example_get_started_1.i"
 	@echo "... examples/get_started/lv_example_get_started_1.s"
@@ -15774,6 +21565,18 @@ help:
 	@echo "... examples/get_started/lv_example_get_started_4.o"
 	@echo "... examples/get_started/lv_example_get_started_4.i"
 	@echo "... examples/get_started/lv_example_get_started_4.s"
+	@echo "... examples/grad/lv_example_grad_1.o"
+	@echo "... examples/grad/lv_example_grad_1.i"
+	@echo "... examples/grad/lv_example_grad_1.s"
+	@echo "... examples/grad/lv_example_grad_2.o"
+	@echo "... examples/grad/lv_example_grad_2.i"
+	@echo "... examples/grad/lv_example_grad_2.s"
+	@echo "... examples/grad/lv_example_grad_3.o"
+	@echo "... examples/grad/lv_example_grad_3.i"
+	@echo "... examples/grad/lv_example_grad_3.s"
+	@echo "... examples/grad/lv_example_grad_4.o"
+	@echo "... examples/grad/lv_example_grad_4.i"
+	@echo "... examples/grad/lv_example_grad_4.s"
 	@echo "... examples/layouts/flex/lv_example_flex_1.o"
 	@echo "... examples/layouts/flex/lv_example_flex_1.i"
 	@echo "... examples/layouts/flex/lv_example_flex_1.s"
@@ -15825,18 +21628,45 @@ help:
 	@echo "... examples/libs/freetype/lv_example_freetype_1.o"
 	@echo "... examples/libs/freetype/lv_example_freetype_1.i"
 	@echo "... examples/libs/freetype/lv_example_freetype_1.s"
+	@echo "... examples/libs/freetype/lv_example_freetype_2.o"
+	@echo "... examples/libs/freetype/lv_example_freetype_2.i"
+	@echo "... examples/libs/freetype/lv_example_freetype_2.s"
+	@echo "... examples/libs/freetype/lv_example_freetype_3.o"
+	@echo "... examples/libs/freetype/lv_example_freetype_3.i"
+	@echo "... examples/libs/freetype/lv_example_freetype_3.s"
 	@echo "... examples/libs/gif/img_bulb_gif.o"
 	@echo "... examples/libs/gif/img_bulb_gif.i"
 	@echo "... examples/libs/gif/img_bulb_gif.s"
 	@echo "... examples/libs/gif/lv_example_gif_1.o"
 	@echo "... examples/libs/gif/lv_example_gif_1.i"
 	@echo "... examples/libs/gif/lv_example_gif_1.s"
+	@echo "... examples/libs/gltf/lv_example_gltf_1.o"
+	@echo "... examples/libs/gltf/lv_example_gltf_1.i"
+	@echo "... examples/libs/gltf/lv_example_gltf_1.s"
+	@echo "... examples/libs/gltf/lv_example_gltf_2.o"
+	@echo "... examples/libs/gltf/lv_example_gltf_2.i"
+	@echo "... examples/libs/gltf/lv_example_gltf_2.s"
+	@echo "... examples/libs/gltf/lv_example_gltf_3.o"
+	@echo "... examples/libs/gltf/lv_example_gltf_3.i"
+	@echo "... examples/libs/gltf/lv_example_gltf_3.s"
+	@echo "... examples/libs/gltf/lv_example_gltf_4.o"
+	@echo "... examples/libs/gltf/lv_example_gltf_4.i"
+	@echo "... examples/libs/gltf/lv_example_gltf_4.s"
+	@echo "... examples/libs/gstreamer/lv_example_gstreamer_1.o"
+	@echo "... examples/libs/gstreamer/lv_example_gstreamer_1.i"
+	@echo "... examples/libs/gstreamer/lv_example_gstreamer_1.s"
 	@echo "... examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.o"
 	@echo "... examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.i"
 	@echo "... examples/libs/libjpeg_turbo/lv_example_libjpeg_turbo_1.s"
+	@echo "... examples/libs/libpng/img_png_demo.o"
+	@echo "... examples/libs/libpng/img_png_demo.i"
+	@echo "... examples/libs/libpng/img_png_demo.s"
 	@echo "... examples/libs/libpng/lv_example_libpng_1.o"
 	@echo "... examples/libs/libpng/lv_example_libpng_1.i"
 	@echo "... examples/libs/libpng/lv_example_libpng_1.s"
+	@echo "... examples/libs/libwebp/lv_example_libwebp_1.o"
+	@echo "... examples/libs/libwebp/lv_example_libwebp_1.i"
+	@echo "... examples/libs/libwebp/lv_example_libwebp_1.s"
 	@echo "... examples/libs/lodepng/img_wink_png.o"
 	@echo "... examples/libs/lodepng/img_wink_png.i"
 	@echo "... examples/libs/lodepng/img_wink_png.s"
@@ -15855,6 +21685,15 @@ help:
 	@echo "... examples/libs/rlottie/lv_example_rlottie_approve.o"
 	@echo "... examples/libs/rlottie/lv_example_rlottie_approve.i"
 	@echo "... examples/libs/rlottie/lv_example_rlottie_approve.s"
+	@echo "... examples/libs/svg/lv_example_svg_1.o"
+	@echo "... examples/libs/svg/lv_example_svg_1.i"
+	@echo "... examples/libs/svg/lv_example_svg_1.s"
+	@echo "... examples/libs/svg/lv_example_svg_2.o"
+	@echo "... examples/libs/svg/lv_example_svg_2.i"
+	@echo "... examples/libs/svg/lv_example_svg_2.s"
+	@echo "... examples/libs/svg/lv_example_svg_3.o"
+	@echo "... examples/libs/svg/lv_example_svg_3.i"
+	@echo "... examples/libs/svg/lv_example_svg_3.s"
 	@echo "... examples/libs/tiny_ttf/lv_example_tiny_ttf_1.o"
 	@echo "... examples/libs/tiny_ttf/lv_example_tiny_ttf_1.i"
 	@echo "... examples/libs/tiny_ttf/lv_example_tiny_ttf_1.s"
@@ -15879,12 +21718,24 @@ help:
 	@echo "... examples/others/file_explorer/lv_example_file_explorer_3.o"
 	@echo "... examples/others/file_explorer/lv_example_file_explorer_3.i"
 	@echo "... examples/others/file_explorer/lv_example_file_explorer_3.s"
+	@echo "... examples/others/font_manager/lv_example_font_manager_1.o"
+	@echo "... examples/others/font_manager/lv_example_font_manager_1.i"
+	@echo "... examples/others/font_manager/lv_example_font_manager_1.s"
+	@echo "... examples/others/font_manager/lv_example_font_manager_2.o"
+	@echo "... examples/others/font_manager/lv_example_font_manager_2.i"
+	@echo "... examples/others/font_manager/lv_example_font_manager_2.s"
+	@echo "... examples/others/font_manager/lv_example_font_manager_3.o"
+	@echo "... examples/others/font_manager/lv_example_font_manager_3.i"
+	@echo "... examples/others/font_manager/lv_example_font_manager_3.s"
 	@echo "... examples/others/fragment/lv_example_fragment_1.o"
 	@echo "... examples/others/fragment/lv_example_fragment_1.i"
 	@echo "... examples/others/fragment/lv_example_fragment_1.s"
 	@echo "... examples/others/fragment/lv_example_fragment_2.o"
 	@echo "... examples/others/fragment/lv_example_fragment_2.i"
 	@echo "... examples/others/fragment/lv_example_fragment_2.s"
+	@echo "... examples/others/gestures/lv_example_gestures.o"
+	@echo "... examples/others/gestures/lv_example_gestures.i"
+	@echo "... examples/others/gestures/lv_example_gestures.s"
 	@echo "... examples/others/gridnav/lv_example_gridnav_1.o"
 	@echo "... examples/others/gridnav/lv_example_gridnav_1.i"
 	@echo "... examples/others/gridnav/lv_example_gridnav_1.s"
@@ -15897,6 +21748,9 @@ help:
 	@echo "... examples/others/gridnav/lv_example_gridnav_4.o"
 	@echo "... examples/others/gridnav/lv_example_gridnav_4.i"
 	@echo "... examples/others/gridnav/lv_example_gridnav_4.s"
+	@echo "... examples/others/gridnav/lv_example_gridnav_5.o"
+	@echo "... examples/others/gridnav/lv_example_gridnav_5.i"
+	@echo "... examples/others/gridnav/lv_example_gridnav_5.s"
 	@echo "... examples/others/ime/lv_example_ime_pinyin_1.o"
 	@echo "... examples/others/ime/lv_example_ime_pinyin_1.i"
 	@echo "... examples/others/ime/lv_example_ime_pinyin_1.s"
@@ -15939,6 +21793,12 @@ help:
 	@echo "... examples/others/snapshot/lv_example_snapshot_1.o"
 	@echo "... examples/others/snapshot/lv_example_snapshot_1.i"
 	@echo "... examples/others/snapshot/lv_example_snapshot_1.s"
+	@echo "... examples/others/translation/lv_example_translation_1.o"
+	@echo "... examples/others/translation/lv_example_translation_1.i"
+	@echo "... examples/others/translation/lv_example_translation_1.s"
+	@echo "... examples/others/translation/lv_example_translation_2.o"
+	@echo "... examples/others/translation/lv_example_translation_2.i"
+	@echo "... examples/others/translation/lv_example_translation_2.s"
 	@echo "... examples/porting/lv_port_disp_template.o"
 	@echo "... examples/porting/lv_port_disp_template.i"
 	@echo "... examples/porting/lv_port_disp_template.s"
@@ -15951,6 +21811,9 @@ help:
 	@echo "... examples/porting/lv_port_lcd_stm32_template.o"
 	@echo "... examples/porting/lv_port_lcd_stm32_template.i"
 	@echo "... examples/porting/lv_port_lcd_stm32_template.s"
+	@echo "... examples/porting/osal/lv_example_osal.o"
+	@echo "... examples/porting/osal/lv_example_osal.i"
+	@echo "... examples/porting/osal/lv_example_osal.s"
 	@echo "... examples/scroll/lv_example_scroll_1.o"
 	@echo "... examples/scroll/lv_example_scroll_1.i"
 	@echo "... examples/scroll/lv_example_scroll_1.s"
@@ -15969,6 +21832,15 @@ help:
 	@echo "... examples/scroll/lv_example_scroll_6.o"
 	@echo "... examples/scroll/lv_example_scroll_6.i"
 	@echo "... examples/scroll/lv_example_scroll_6.s"
+	@echo "... examples/scroll/lv_example_scroll_7.o"
+	@echo "... examples/scroll/lv_example_scroll_7.i"
+	@echo "... examples/scroll/lv_example_scroll_7.s"
+	@echo "... examples/scroll/lv_example_scroll_8.o"
+	@echo "... examples/scroll/lv_example_scroll_8.i"
+	@echo "... examples/scroll/lv_example_scroll_8.s"
+	@echo "... examples/scroll/lv_example_scroll_9.o"
+	@echo "... examples/scroll/lv_example_scroll_9.i"
+	@echo "... examples/scroll/lv_example_scroll_9.s"
 	@echo "... examples/styles/lv_example_style_1.o"
 	@echo "... examples/styles/lv_example_style_1.i"
 	@echo "... examples/styles/lv_example_style_1.s"
@@ -15990,9 +21862,27 @@ help:
 	@echo "... examples/styles/lv_example_style_15.o"
 	@echo "... examples/styles/lv_example_style_15.i"
 	@echo "... examples/styles/lv_example_style_15.s"
+	@echo "... examples/styles/lv_example_style_16.o"
+	@echo "... examples/styles/lv_example_style_16.i"
+	@echo "... examples/styles/lv_example_style_16.s"
+	@echo "... examples/styles/lv_example_style_17.o"
+	@echo "... examples/styles/lv_example_style_17.i"
+	@echo "... examples/styles/lv_example_style_17.s"
+	@echo "... examples/styles/lv_example_style_18.o"
+	@echo "... examples/styles/lv_example_style_18.i"
+	@echo "... examples/styles/lv_example_style_18.s"
+	@echo "... examples/styles/lv_example_style_19.o"
+	@echo "... examples/styles/lv_example_style_19.i"
+	@echo "... examples/styles/lv_example_style_19.s"
 	@echo "... examples/styles/lv_example_style_2.o"
 	@echo "... examples/styles/lv_example_style_2.i"
 	@echo "... examples/styles/lv_example_style_2.s"
+	@echo "... examples/styles/lv_example_style_20.o"
+	@echo "... examples/styles/lv_example_style_20.i"
+	@echo "... examples/styles/lv_example_style_20.s"
+	@echo "... examples/styles/lv_example_style_21.o"
+	@echo "... examples/styles/lv_example_style_21.i"
+	@echo "... examples/styles/lv_example_style_21.s"
 	@echo "... examples/styles/lv_example_style_3.o"
 	@echo "... examples/styles/lv_example_style_3.i"
 	@echo "... examples/styles/lv_example_style_3.s"
@@ -16023,6 +21913,12 @@ help:
 	@echo "... examples/widgets/arc/lv_example_arc_2.o"
 	@echo "... examples/widgets/arc/lv_example_arc_2.i"
 	@echo "... examples/widgets/arc/lv_example_arc_2.s"
+	@echo "... examples/widgets/arc/lv_example_arc_3.o"
+	@echo "... examples/widgets/arc/lv_example_arc_3.i"
+	@echo "... examples/widgets/arc/lv_example_arc_3.s"
+	@echo "... examples/widgets/arclabel/lv_example_arclabel_1.o"
+	@echo "... examples/widgets/arclabel/lv_example_arclabel_1.i"
+	@echo "... examples/widgets/arclabel/lv_example_arclabel_1.s"
 	@echo "... examples/widgets/bar/lv_example_bar_1.o"
 	@echo "... examples/widgets/bar/lv_example_bar_1.i"
 	@echo "... examples/widgets/bar/lv_example_bar_1.s"
@@ -16065,9 +21961,21 @@ help:
 	@echo "... examples/widgets/calendar/lv_example_calendar_1.o"
 	@echo "... examples/widgets/calendar/lv_example_calendar_1.i"
 	@echo "... examples/widgets/calendar/lv_example_calendar_1.s"
+	@echo "... examples/widgets/calendar/lv_example_calendar_2.o"
+	@echo "... examples/widgets/calendar/lv_example_calendar_2.i"
+	@echo "... examples/widgets/calendar/lv_example_calendar_2.s"
 	@echo "... examples/widgets/canvas/lv_example_canvas_1.o"
 	@echo "... examples/widgets/canvas/lv_example_canvas_1.i"
 	@echo "... examples/widgets/canvas/lv_example_canvas_1.s"
+	@echo "... examples/widgets/canvas/lv_example_canvas_10.o"
+	@echo "... examples/widgets/canvas/lv_example_canvas_10.i"
+	@echo "... examples/widgets/canvas/lv_example_canvas_10.s"
+	@echo "... examples/widgets/canvas/lv_example_canvas_11.o"
+	@echo "... examples/widgets/canvas/lv_example_canvas_11.i"
+	@echo "... examples/widgets/canvas/lv_example_canvas_11.s"
+	@echo "... examples/widgets/canvas/lv_example_canvas_12.o"
+	@echo "... examples/widgets/canvas/lv_example_canvas_12.i"
+	@echo "... examples/widgets/canvas/lv_example_canvas_12.s"
 	@echo "... examples/widgets/canvas/lv_example_canvas_2.o"
 	@echo "... examples/widgets/canvas/lv_example_canvas_2.i"
 	@echo "... examples/widgets/canvas/lv_example_canvas_2.s"
@@ -16089,6 +21997,9 @@ help:
 	@echo "... examples/widgets/canvas/lv_example_canvas_8.o"
 	@echo "... examples/widgets/canvas/lv_example_canvas_8.i"
 	@echo "... examples/widgets/canvas/lv_example_canvas_8.s"
+	@echo "... examples/widgets/canvas/lv_example_canvas_9.o"
+	@echo "... examples/widgets/canvas/lv_example_canvas_9.i"
+	@echo "... examples/widgets/canvas/lv_example_canvas_9.s"
 	@echo "... examples/widgets/chart/lv_example_chart_1.o"
 	@echo "... examples/widgets/chart/lv_example_chart_1.i"
 	@echo "... examples/widgets/chart/lv_example_chart_1.s"
@@ -16140,6 +22051,9 @@ help:
 	@echo "... examples/widgets/image/lv_example_image_4.o"
 	@echo "... examples/widgets/image/lv_example_image_4.i"
 	@echo "... examples/widgets/image/lv_example_image_4.s"
+	@echo "... examples/widgets/image/lv_example_image_5.o"
+	@echo "... examples/widgets/image/lv_example_image_5.i"
+	@echo "... examples/widgets/image/lv_example_image_5.s"
 	@echo "... examples/widgets/imagebutton/lv_example_imagebutton_1.o"
 	@echo "... examples/widgets/imagebutton/lv_example_imagebutton_1.i"
 	@echo "... examples/widgets/imagebutton/lv_example_imagebutton_1.s"
@@ -16149,6 +22063,9 @@ help:
 	@echo "... examples/widgets/keyboard/lv_example_keyboard_2.o"
 	@echo "... examples/widgets/keyboard/lv_example_keyboard_2.i"
 	@echo "... examples/widgets/keyboard/lv_example_keyboard_2.s"
+	@echo "... examples/widgets/keyboard/lv_example_keyboard_3.o"
+	@echo "... examples/widgets/keyboard/lv_example_keyboard_3.i"
+	@echo "... examples/widgets/keyboard/lv_example_keyboard_3.s"
 	@echo "... examples/widgets/label/lv_example_label_1.o"
 	@echo "... examples/widgets/label/lv_example_label_1.i"
 	@echo "... examples/widgets/label/lv_example_label_1.s"
@@ -16164,6 +22081,12 @@ help:
 	@echo "... examples/widgets/label/lv_example_label_5.o"
 	@echo "... examples/widgets/label/lv_example_label_5.i"
 	@echo "... examples/widgets/label/lv_example_label_5.s"
+	@echo "... examples/widgets/label/lv_example_label_6.o"
+	@echo "... examples/widgets/label/lv_example_label_6.i"
+	@echo "... examples/widgets/label/lv_example_label_6.s"
+	@echo "... examples/widgets/label/lv_example_label_7.o"
+	@echo "... examples/widgets/label/lv_example_label_7.i"
+	@echo "... examples/widgets/label/lv_example_label_7.s"
 	@echo "... examples/widgets/led/lv_example_led_1.o"
 	@echo "... examples/widgets/led/lv_example_led_1.i"
 	@echo "... examples/widgets/led/lv_example_led_1.s"
@@ -16176,6 +22099,15 @@ help:
 	@echo "... examples/widgets/list/lv_example_list_2.o"
 	@echo "... examples/widgets/list/lv_example_list_2.i"
 	@echo "... examples/widgets/list/lv_example_list_2.s"
+	@echo "... examples/widgets/lottie/lv_example_lottie_1.o"
+	@echo "... examples/widgets/lottie/lv_example_lottie_1.i"
+	@echo "... examples/widgets/lottie/lv_example_lottie_1.s"
+	@echo "... examples/widgets/lottie/lv_example_lottie_2.o"
+	@echo "... examples/widgets/lottie/lv_example_lottie_2.i"
+	@echo "... examples/widgets/lottie/lv_example_lottie_2.s"
+	@echo "... examples/widgets/lottie/lv_example_lottie_approve.o"
+	@echo "... examples/widgets/lottie/lv_example_lottie_approve.i"
+	@echo "... examples/widgets/lottie/lv_example_lottie_approve.s"
 	@echo "... examples/widgets/menu/lv_example_menu_1.o"
 	@echo "... examples/widgets/menu/lv_example_menu_1.i"
 	@echo "... examples/widgets/menu/lv_example_menu_1.s"
@@ -16194,12 +22126,21 @@ help:
 	@echo "... examples/widgets/msgbox/lv_example_msgbox_1.o"
 	@echo "... examples/widgets/msgbox/lv_example_msgbox_1.i"
 	@echo "... examples/widgets/msgbox/lv_example_msgbox_1.s"
+	@echo "... examples/widgets/msgbox/lv_example_msgbox_2.o"
+	@echo "... examples/widgets/msgbox/lv_example_msgbox_2.i"
+	@echo "... examples/widgets/msgbox/lv_example_msgbox_2.s"
+	@echo "... examples/widgets/msgbox/lv_example_msgbox_3.o"
+	@echo "... examples/widgets/msgbox/lv_example_msgbox_3.i"
+	@echo "... examples/widgets/msgbox/lv_example_msgbox_3.s"
 	@echo "... examples/widgets/obj/lv_example_obj_1.o"
 	@echo "... examples/widgets/obj/lv_example_obj_1.i"
 	@echo "... examples/widgets/obj/lv_example_obj_1.s"
 	@echo "... examples/widgets/obj/lv_example_obj_2.o"
 	@echo "... examples/widgets/obj/lv_example_obj_2.i"
 	@echo "... examples/widgets/obj/lv_example_obj_2.s"
+	@echo "... examples/widgets/obj/lv_example_obj_3.o"
+	@echo "... examples/widgets/obj/lv_example_obj_3.i"
+	@echo "... examples/widgets/obj/lv_example_obj_3.s"
 	@echo "... examples/widgets/roller/lv_example_roller_1.o"
 	@echo "... examples/widgets/roller/lv_example_roller_1.i"
 	@echo "... examples/widgets/roller/lv_example_roller_1.s"
@@ -16212,6 +22153,15 @@ help:
 	@echo "... examples/widgets/scale/lv_example_scale_1.o"
 	@echo "... examples/widgets/scale/lv_example_scale_1.i"
 	@echo "... examples/widgets/scale/lv_example_scale_1.s"
+	@echo "... examples/widgets/scale/lv_example_scale_10.o"
+	@echo "... examples/widgets/scale/lv_example_scale_10.i"
+	@echo "... examples/widgets/scale/lv_example_scale_10.s"
+	@echo "... examples/widgets/scale/lv_example_scale_11.o"
+	@echo "... examples/widgets/scale/lv_example_scale_11.i"
+	@echo "... examples/widgets/scale/lv_example_scale_11.s"
+	@echo "... examples/widgets/scale/lv_example_scale_12.o"
+	@echo "... examples/widgets/scale/lv_example_scale_12.i"
+	@echo "... examples/widgets/scale/lv_example_scale_12.s"
 	@echo "... examples/widgets/scale/lv_example_scale_2.o"
 	@echo "... examples/widgets/scale/lv_example_scale_2.i"
 	@echo "... examples/widgets/scale/lv_example_scale_2.s"
@@ -16224,6 +22174,18 @@ help:
 	@echo "... examples/widgets/scale/lv_example_scale_5.o"
 	@echo "... examples/widgets/scale/lv_example_scale_5.i"
 	@echo "... examples/widgets/scale/lv_example_scale_5.s"
+	@echo "... examples/widgets/scale/lv_example_scale_6.o"
+	@echo "... examples/widgets/scale/lv_example_scale_6.i"
+	@echo "... examples/widgets/scale/lv_example_scale_6.s"
+	@echo "... examples/widgets/scale/lv_example_scale_7.o"
+	@echo "... examples/widgets/scale/lv_example_scale_7.i"
+	@echo "... examples/widgets/scale/lv_example_scale_7.s"
+	@echo "... examples/widgets/scale/lv_example_scale_8.o"
+	@echo "... examples/widgets/scale/lv_example_scale_8.i"
+	@echo "... examples/widgets/scale/lv_example_scale_8.s"
+	@echo "... examples/widgets/scale/lv_example_scale_9.o"
+	@echo "... examples/widgets/scale/lv_example_scale_9.i"
+	@echo "... examples/widgets/scale/lv_example_scale_9.s"
 	@echo "... examples/widgets/slider/lv_example_slider_1.o"
 	@echo "... examples/widgets/slider/lv_example_slider_1.i"
 	@echo "... examples/widgets/slider/lv_example_slider_1.s"
@@ -16248,6 +22210,9 @@ help:
 	@echo "... examples/widgets/switch/lv_example_switch_1.o"
 	@echo "... examples/widgets/switch/lv_example_switch_1.i"
 	@echo "... examples/widgets/switch/lv_example_switch_1.s"
+	@echo "... examples/widgets/switch/lv_example_switch_2.o"
+	@echo "... examples/widgets/switch/lv_example_switch_2.i"
+	@echo "... examples/widgets/switch/lv_example_switch_2.s"
 	@echo "... examples/widgets/table/lv_example_table_1.o"
 	@echo "... examples/widgets/table/lv_example_table_1.i"
 	@echo "... examples/widgets/table/lv_example_table_1.s"
@@ -16269,6 +22234,9 @@ help:
 	@echo "... examples/widgets/textarea/lv_example_textarea_3.o"
 	@echo "... examples/widgets/textarea/lv_example_textarea_3.i"
 	@echo "... examples/widgets/textarea/lv_example_textarea_3.s"
+	@echo "... examples/widgets/textarea/lv_example_textarea_4.o"
+	@echo "... examples/widgets/textarea/lv_example_textarea_4.i"
+	@echo "... examples/widgets/textarea/lv_example_textarea_4.s"
 	@echo "... examples/widgets/tileview/lv_example_tileview_1.o"
 	@echo "... examples/widgets/tileview/lv_example_tileview_1.i"
 	@echo "... examples/widgets/tileview/lv_example_tileview_1.s"
@@ -16311,18 +22279,114 @@ help:
 	@echo "... src/core/lv_obj_tree.o"
 	@echo "... src/core/lv_obj_tree.i"
 	@echo "... src/core/lv_obj_tree.s"
+	@echo "... src/core/lv_observer.o"
+	@echo "... src/core/lv_observer.i"
+	@echo "... src/core/lv_observer.s"
 	@echo "... src/core/lv_refr.o"
 	@echo "... src/core/lv_refr.i"
 	@echo "... src/core/lv_refr.s"
+	@echo "... src/debugging/monkey/lv_monkey.o"
+	@echo "... src/debugging/monkey/lv_monkey.i"
+	@echo "... src/debugging/monkey/lv_monkey.s"
+	@echo "... src/debugging/sysmon/lv_sysmon.o"
+	@echo "... src/debugging/sysmon/lv_sysmon.i"
+	@echo "... src/debugging/sysmon/lv_sysmon.s"
+	@echo "... src/debugging/test/lv_test_display.o"
+	@echo "... src/debugging/test/lv_test_display.i"
+	@echo "... src/debugging/test/lv_test_display.s"
+	@echo "... src/debugging/test/lv_test_fs.o"
+	@echo "... src/debugging/test/lv_test_fs.i"
+	@echo "... src/debugging/test/lv_test_fs.s"
+	@echo "... src/debugging/test/lv_test_helpers.o"
+	@echo "... src/debugging/test/lv_test_helpers.i"
+	@echo "... src/debugging/test/lv_test_helpers.s"
+	@echo "... src/debugging/test/lv_test_indev.o"
+	@echo "... src/debugging/test/lv_test_indev.i"
+	@echo "... src/debugging/test/lv_test_indev.s"
+	@echo "... src/debugging/test/lv_test_indev_gesture.o"
+	@echo "... src/debugging/test/lv_test_indev_gesture.i"
+	@echo "... src/debugging/test/lv_test_indev_gesture.s"
+	@echo "... src/debugging/test/lv_test_screenshot_compare.o"
+	@echo "... src/debugging/test/lv_test_screenshot_compare.i"
+	@echo "... src/debugging/test/lv_test_screenshot_compare.s"
+	@echo "... src/debugging/vg_lite_tvg/vg_lite_matrix.o"
+	@echo "... src/debugging/vg_lite_tvg/vg_lite_matrix.i"
+	@echo "... src/debugging/vg_lite_tvg/vg_lite_matrix.s"
+	@echo "... src/debugging/vg_lite_tvg/vg_lite_tvg.o"
+	@echo "... src/debugging/vg_lite_tvg/vg_lite_tvg.i"
+	@echo "... src/debugging/vg_lite_tvg/vg_lite_tvg.s"
 	@echo "... src/display/lv_display.o"
 	@echo "... src/display/lv_display.i"
 	@echo "... src/display/lv_display.s"
+	@echo "... src/draw/convert/helium/lv_draw_buf_convert_helium.o"
+	@echo "... src/draw/convert/helium/lv_draw_buf_convert_helium.i"
+	@echo "... src/draw/convert/helium/lv_draw_buf_convert_helium.s"
+	@echo "... src/draw/convert/lv_draw_buf_convert.o"
+	@echo "... src/draw/convert/lv_draw_buf_convert.i"
+	@echo "... src/draw/convert/lv_draw_buf_convert.s"
+	@echo "... src/draw/convert/neon/lv_draw_buf_convert_neon.o"
+	@echo "... src/draw/convert/neon/lv_draw_buf_convert_neon.i"
+	@echo "... src/draw/convert/neon/lv_draw_buf_convert_neon.s"
+	@echo "... src/draw/dma2d/lv_draw_dma2d.o"
+	@echo "... src/draw/dma2d/lv_draw_dma2d.i"
+	@echo "... src/draw/dma2d/lv_draw_dma2d.s"
+	@echo "... src/draw/dma2d/lv_draw_dma2d_fill.o"
+	@echo "... src/draw/dma2d/lv_draw_dma2d_fill.i"
+	@echo "... src/draw/dma2d/lv_draw_dma2d_fill.s"
+	@echo "... src/draw/dma2d/lv_draw_dma2d_img.o"
+	@echo "... src/draw/dma2d/lv_draw_dma2d_img.i"
+	@echo "... src/draw/dma2d/lv_draw_dma2d_img.s"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa.o"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa.i"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa.s"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_buf.o"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_buf.i"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_buf.s"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_fill.o"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_fill.i"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_fill.s"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_img.o"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_img.i"
+	@echo "... src/draw/espressif/ppa/lv_draw_ppa_img.s"
+	@echo "... src/draw/eve/lv_draw_eve.o"
+	@echo "... src/draw/eve/lv_draw_eve.i"
+	@echo "... src/draw/eve/lv_draw_eve.s"
+	@echo "... src/draw/eve/lv_draw_eve_arc.o"
+	@echo "... src/draw/eve/lv_draw_eve_arc.i"
+	@echo "... src/draw/eve/lv_draw_eve_arc.s"
+	@echo "... src/draw/eve/lv_draw_eve_fill.o"
+	@echo "... src/draw/eve/lv_draw_eve_fill.i"
+	@echo "... src/draw/eve/lv_draw_eve_fill.s"
+	@echo "... src/draw/eve/lv_draw_eve_image.o"
+	@echo "... src/draw/eve/lv_draw_eve_image.i"
+	@echo "... src/draw/eve/lv_draw_eve_image.s"
+	@echo "... src/draw/eve/lv_draw_eve_letter.o"
+	@echo "... src/draw/eve/lv_draw_eve_letter.i"
+	@echo "... src/draw/eve/lv_draw_eve_letter.s"
+	@echo "... src/draw/eve/lv_draw_eve_line.o"
+	@echo "... src/draw/eve/lv_draw_eve_line.i"
+	@echo "... src/draw/eve/lv_draw_eve_line.s"
+	@echo "... src/draw/eve/lv_draw_eve_ram_g.o"
+	@echo "... src/draw/eve/lv_draw_eve_ram_g.i"
+	@echo "... src/draw/eve/lv_draw_eve_ram_g.s"
+	@echo "... src/draw/eve/lv_draw_eve_triangle.o"
+	@echo "... src/draw/eve/lv_draw_eve_triangle.i"
+	@echo "... src/draw/eve/lv_draw_eve_triangle.s"
+	@echo "... src/draw/eve/lv_eve.o"
+	@echo "... src/draw/eve/lv_eve.i"
+	@echo "... src/draw/eve/lv_eve.s"
 	@echo "... src/draw/lv_draw.o"
 	@echo "... src/draw/lv_draw.i"
 	@echo "... src/draw/lv_draw.s"
+	@echo "... src/draw/lv_draw_3d.o"
+	@echo "... src/draw/lv_draw_3d.i"
+	@echo "... src/draw/lv_draw_3d.s"
 	@echo "... src/draw/lv_draw_arc.o"
 	@echo "... src/draw/lv_draw_arc.i"
 	@echo "... src/draw/lv_draw_arc.s"
+	@echo "... src/draw/lv_draw_blur.o"
+	@echo "... src/draw/lv_draw_blur.i"
+	@echo "... src/draw/lv_draw_blur.s"
 	@echo "... src/draw/lv_draw_buf.o"
 	@echo "... src/draw/lv_draw_buf.i"
 	@echo "... src/draw/lv_draw_buf.s"
@@ -16350,6 +22414,114 @@ help:
 	@echo "... src/draw/lv_image_decoder.o"
 	@echo "... src/draw/lv_image_decoder.i"
 	@echo "... src/draw/lv_image_decoder.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_3d.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_3d.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_3d.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_arc.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_arc.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_arc.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_border.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_border.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_border.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_box_shadow.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_box_shadow.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_box_shadow.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_fill.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_fill.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_fill.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_grad.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_grad.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_grad.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_image.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_image.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_image.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_label.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_label.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_label.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_layer.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_layer.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_layer.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_line.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_line.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_line.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_mask_rect.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_mask_rect.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_mask_rect.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_triangle.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_triangle.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_triangle.s"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_vector.o"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_vector.i"
+	@echo "... src/draw/nanovg/lv_draw_nanovg_vector.s"
+	@echo "... src/draw/nanovg/lv_nanovg_fbo_cache.o"
+	@echo "... src/draw/nanovg/lv_nanovg_fbo_cache.i"
+	@echo "... src/draw/nanovg/lv_nanovg_fbo_cache.s"
+	@echo "... src/draw/nanovg/lv_nanovg_image_cache.o"
+	@echo "... src/draw/nanovg/lv_nanovg_image_cache.i"
+	@echo "... src/draw/nanovg/lv_nanovg_image_cache.s"
+	@echo "... src/draw/nanovg/lv_nanovg_utils.o"
+	@echo "... src/draw/nanovg/lv_nanovg_utils.i"
+	@echo "... src/draw/nanovg/lv_nanovg_utils.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_arc.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_arc.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_arc.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_border.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_border.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_border.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_fill.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_fill.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_fill.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_img.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_img.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_img.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_label.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_label.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_label.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_layer.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_layer.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_layer.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_line.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_line.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_line.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_stm32_hal.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_triangle.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_triangle.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_triangle.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_utils.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_utils.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_utils.s"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_vector.o"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_vector.i"
+	@echo "... src/draw/nema_gfx/lv_draw_nema_gfx_vector.s"
+	@echo "... src/draw/nema_gfx/lv_nema_gfx_path.o"
+	@echo "... src/draw/nema_gfx/lv_nema_gfx_path.i"
+	@echo "... src/draw/nema_gfx/lv_nema_gfx_path.s"
+	@echo "... src/draw/nxp/g2d/lv_draw_buf_g2d.o"
+	@echo "... src/draw/nxp/g2d/lv_draw_buf_g2d.i"
+	@echo "... src/draw/nxp/g2d/lv_draw_buf_g2d.s"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d.o"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d.i"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d.s"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d_fill.o"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d_fill.i"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d_fill.s"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d_img.o"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d_img.i"
+	@echo "... src/draw/nxp/g2d/lv_draw_g2d_img.s"
+	@echo "... src/draw/nxp/g2d/lv_g2d_buf_map.o"
+	@echo "... src/draw/nxp/g2d/lv_g2d_buf_map.i"
+	@echo "... src/draw/nxp/g2d/lv_g2d_buf_map.s"
+	@echo "... src/draw/nxp/g2d/lv_g2d_utils.o"
+	@echo "... src/draw/nxp/g2d/lv_g2d_utils.i"
+	@echo "... src/draw/nxp/g2d/lv_g2d_utils.s"
 	@echo "... src/draw/nxp/pxp/lv_draw_buf_pxp.o"
 	@echo "... src/draw/nxp/pxp/lv_draw_buf_pxp.i"
 	@echo "... src/draw/nxp/pxp/lv_draw_buf_pxp.s"
@@ -16374,48 +22546,9 @@ help:
 	@echo "... src/draw/nxp/pxp/lv_pxp_utils.o"
 	@echo "... src/draw/nxp/pxp/lv_pxp_utils.i"
 	@echo "... src/draw/nxp/pxp/lv_pxp_utils.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_buf_vglite.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_buf_vglite.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_buf_vglite.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_arc.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_arc.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_arc.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_border.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_border.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_border.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_fill.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_fill.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_fill.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_img.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_img.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_img.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_label.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_label.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_label.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_layer.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_layer.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_layer.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_line.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_line.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_line.s"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_triangle.o"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_triangle.i"
-	@echo "... src/draw/nxp/vglite/lv_draw_vglite_triangle.s"
-	@echo "... src/draw/nxp/vglite/lv_vglite_buf.o"
-	@echo "... src/draw/nxp/vglite/lv_vglite_buf.i"
-	@echo "... src/draw/nxp/vglite/lv_vglite_buf.s"
-	@echo "... src/draw/nxp/vglite/lv_vglite_matrix.o"
-	@echo "... src/draw/nxp/vglite/lv_vglite_matrix.i"
-	@echo "... src/draw/nxp/vglite/lv_vglite_matrix.s"
-	@echo "... src/draw/nxp/vglite/lv_vglite_path.o"
-	@echo "... src/draw/nxp/vglite/lv_vglite_path.i"
-	@echo "... src/draw/nxp/vglite/lv_vglite_path.s"
-	@echo "... src/draw/nxp/vglite/lv_vglite_utils.o"
-	@echo "... src/draw/nxp/vglite/lv_vglite_utils.i"
-	@echo "... src/draw/nxp/vglite/lv_vglite_utils.s"
+	@echo "... src/draw/opengles/lv_draw_opengles.o"
+	@echo "... src/draw/opengles/lv_draw_opengles.i"
+	@echo "... src/draw/opengles/lv_draw_opengles.s"
 	@echo "... src/draw/renesas/dave2d/lv_draw_dave2d.o"
 	@echo "... src/draw/renesas/dave2d/lv_draw_dave2d.i"
 	@echo "... src/draw/renesas/dave2d/lv_draw_dave2d.s"
@@ -16449,26 +22582,58 @@ help:
 	@echo "... src/draw/sdl/lv_draw_sdl.o"
 	@echo "... src/draw/sdl/lv_draw_sdl.i"
 	@echo "... src/draw/sdl/lv_draw_sdl.s"
+	@echo "... src/draw/snapshot/lv_snapshot.o"
+	@echo "... src/draw/snapshot/lv_snapshot.i"
+	@echo "... src/draw/snapshot/lv_snapshot.s"
 	@echo "... src/draw/sw/blend/helium/lv_blend_helium.o"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend.o"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend.i"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend.s"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_a8.o"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_a8.i"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_a8.s"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_al88.o"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_al88.i"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_al88.s"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.o"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.i"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_argb8888.s"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.o"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.i"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_argb8888_premultiplied.s"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_i1.o"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_i1.i"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_i1.s"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_l8.o"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_l8.i"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_l8.s"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.o"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.i"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb565.s"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.o"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.i"
+	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb565_swapped.s"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.o"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.i"
 	@echo "... src/draw/sw/blend/lv_draw_sw_blend_to_rgb888.s"
-	@echo "... src/draw/sw/blend/neon/lv_blend_neon.o"
+	@echo "... src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.o"
+	@echo "... src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.i"
+	@echo "... src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb565.s"
+	@echo "... src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.o"
+	@echo "... src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.i"
+	@echo "... src/draw/sw/blend/neon/lv_draw_sw_blend_neon_to_rgb888.s"
+	@echo "... src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.o"
+	@echo "... src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.i"
+	@echo "... src/draw/sw/blend/riscv_v/lv_draw_sw_blend_riscv_v_to_rgb888.s"
 	@echo "... src/draw/sw/lv_draw_sw.o"
 	@echo "... src/draw/sw/lv_draw_sw.i"
 	@echo "... src/draw/sw/lv_draw_sw.s"
 	@echo "... src/draw/sw/lv_draw_sw_arc.o"
 	@echo "... src/draw/sw/lv_draw_sw_arc.i"
 	@echo "... src/draw/sw/lv_draw_sw_arc.s"
+	@echo "... src/draw/sw/lv_draw_sw_blur.o"
+	@echo "... src/draw/sw/lv_draw_sw_blur.i"
+	@echo "... src/draw/sw/lv_draw_sw_blur.s"
 	@echo "... src/draw/sw/lv_draw_sw_border.o"
 	@echo "... src/draw/sw/lv_draw_sw_border.i"
 	@echo "... src/draw/sw/lv_draw_sw_border.s"
@@ -16478,9 +22643,9 @@ help:
 	@echo "... src/draw/sw/lv_draw_sw_fill.o"
 	@echo "... src/draw/sw/lv_draw_sw_fill.i"
 	@echo "... src/draw/sw/lv_draw_sw_fill.s"
-	@echo "... src/draw/sw/lv_draw_sw_gradient.o"
-	@echo "... src/draw/sw/lv_draw_sw_gradient.i"
-	@echo "... src/draw/sw/lv_draw_sw_gradient.s"
+	@echo "... src/draw/sw/lv_draw_sw_grad.o"
+	@echo "... src/draw/sw/lv_draw_sw_grad.i"
+	@echo "... src/draw/sw/lv_draw_sw_grad.s"
 	@echo "... src/draw/sw/lv_draw_sw_img.o"
 	@echo "... src/draw/sw/lv_draw_sw_img.i"
 	@echo "... src/draw/sw/lv_draw_sw_img.s"
@@ -16502,6 +22667,9 @@ help:
 	@echo "... src/draw/sw/lv_draw_sw_triangle.o"
 	@echo "... src/draw/sw/lv_draw_sw_triangle.i"
 	@echo "... src/draw/sw/lv_draw_sw_triangle.s"
+	@echo "... src/draw/sw/lv_draw_sw_utils.o"
+	@echo "... src/draw/sw/lv_draw_sw_utils.i"
+	@echo "... src/draw/sw/lv_draw_sw_utils.s"
 	@echo "... src/draw/sw/lv_draw_sw_vector.o"
 	@echo "... src/draw/sw/lv_draw_sw_vector.i"
 	@echo "... src/draw/sw/lv_draw_sw_vector.s"
@@ -16544,6 +22712,9 @@ help:
 	@echo "... src/draw/vg_lite/lv_draw_vg_lite_vector.o"
 	@echo "... src/draw/vg_lite/lv_draw_vg_lite_vector.i"
 	@echo "... src/draw/vg_lite/lv_draw_vg_lite_vector.s"
+	@echo "... src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.o"
+	@echo "... src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.i"
+	@echo "... src/draw/vg_lite/lv_vg_lite_bitmap_font_cache.s"
 	@echo "... src/draw/vg_lite/lv_vg_lite_decoder.o"
 	@echo "... src/draw/vg_lite/lv_vg_lite_decoder.i"
 	@echo "... src/draw/vg_lite/lv_vg_lite_decoder.s"
@@ -16559,21 +22730,45 @@ help:
 	@echo "... src/draw/vg_lite/lv_vg_lite_pending.o"
 	@echo "... src/draw/vg_lite/lv_vg_lite_pending.i"
 	@echo "... src/draw/vg_lite/lv_vg_lite_pending.s"
+	@echo "... src/draw/vg_lite/lv_vg_lite_stroke.o"
+	@echo "... src/draw/vg_lite/lv_vg_lite_stroke.i"
+	@echo "... src/draw/vg_lite/lv_vg_lite_stroke.s"
 	@echo "... src/draw/vg_lite/lv_vg_lite_utils.o"
 	@echo "... src/draw/vg_lite/lv_vg_lite_utils.i"
 	@echo "... src/draw/vg_lite/lv_vg_lite_utils.s"
 	@echo "... src/drivers/display/drm/lv_linux_drm.o"
 	@echo "... src/drivers/display/drm/lv_linux_drm.i"
 	@echo "... src/drivers/display/drm/lv_linux_drm.s"
+	@echo "... src/drivers/display/drm/lv_linux_drm_common.o"
+	@echo "... src/drivers/display/drm/lv_linux_drm_common.i"
+	@echo "... src/drivers/display/drm/lv_linux_drm_common.s"
+	@echo "... src/drivers/display/drm/lv_linux_drm_egl.o"
+	@echo "... src/drivers/display/drm/lv_linux_drm_egl.i"
+	@echo "... src/drivers/display/drm/lv_linux_drm_egl.s"
 	@echo "... src/drivers/display/fb/lv_linux_fbdev.o"
 	@echo "... src/drivers/display/fb/lv_linux_fbdev.i"
 	@echo "... src/drivers/display/fb/lv_linux_fbdev.s"
+	@echo "... src/drivers/display/ft81x/lv_ft81x.o"
+	@echo "... src/drivers/display/ft81x/lv_ft81x.i"
+	@echo "... src/drivers/display/ft81x/lv_ft81x.s"
 	@echo "... src/drivers/display/ili9341/lv_ili9341.o"
 	@echo "... src/drivers/display/ili9341/lv_ili9341.i"
 	@echo "... src/drivers/display/ili9341/lv_ili9341.s"
 	@echo "... src/drivers/display/lcd/lv_lcd_generic_mipi.o"
 	@echo "... src/drivers/display/lcd/lv_lcd_generic_mipi.i"
 	@echo "... src/drivers/display/lcd/lv_lcd_generic_mipi.s"
+	@echo "... src/drivers/display/lovyan_gfx/lv_lovyan_gfx.o"
+	@echo "... src/drivers/display/lovyan_gfx/lv_lovyan_gfx.i"
+	@echo "... src/drivers/display/lovyan_gfx/lv_lovyan_gfx.s"
+	@echo "... src/drivers/display/nv3007/lv_nv3007.o"
+	@echo "... src/drivers/display/nv3007/lv_nv3007.i"
+	@echo "... src/drivers/display/nv3007/lv_nv3007.s"
+	@echo "... src/drivers/display/nxp_elcdif/lv_nxp_elcdif.o"
+	@echo "... src/drivers/display/nxp_elcdif/lv_nxp_elcdif.i"
+	@echo "... src/drivers/display/nxp_elcdif/lv_nxp_elcdif.s"
+	@echo "... src/drivers/display/renesas_glcdc/lv_renesas_glcdc.o"
+	@echo "... src/drivers/display/renesas_glcdc/lv_renesas_glcdc.i"
+	@echo "... src/drivers/display/renesas_glcdc/lv_renesas_glcdc.s"
 	@echo "... src/drivers/display/st7735/lv_st7735.o"
 	@echo "... src/drivers/display/st7735/lv_st7735.i"
 	@echo "... src/drivers/display/st7735/lv_st7735.s"
@@ -16583,6 +22778,15 @@ help:
 	@echo "... src/drivers/display/st7796/lv_st7796.o"
 	@echo "... src/drivers/display/st7796/lv_st7796.i"
 	@echo "... src/drivers/display/st7796/lv_st7796.s"
+	@echo "... src/drivers/display/st_ltdc/lv_st_ltdc.o"
+	@echo "... src/drivers/display/st_ltdc/lv_st_ltdc.i"
+	@echo "... src/drivers/display/st_ltdc/lv_st_ltdc.s"
+	@echo "... src/drivers/display/tft_espi/lv_tft_espi.o"
+	@echo "... src/drivers/display/tft_espi/lv_tft_espi.i"
+	@echo "... src/drivers/display/tft_espi/lv_tft_espi.s"
+	@echo "... src/drivers/draw/eve/lv_draw_eve_display.o"
+	@echo "... src/drivers/draw/eve/lv_draw_eve_display.i"
+	@echo "... src/drivers/draw/eve/lv_draw_eve_display.s"
 	@echo "... src/drivers/evdev/lv_evdev.o"
 	@echo "... src/drivers/evdev/lv_evdev.i"
 	@echo "... src/drivers/evdev/lv_evdev.s"
@@ -16610,12 +22814,54 @@ help:
 	@echo "... src/drivers/nuttx/lv_nuttx_libuv.o"
 	@echo "... src/drivers/nuttx/lv_nuttx_libuv.i"
 	@echo "... src/drivers/nuttx/lv_nuttx_libuv.s"
+	@echo "... src/drivers/nuttx/lv_nuttx_mouse.o"
+	@echo "... src/drivers/nuttx/lv_nuttx_mouse.i"
+	@echo "... src/drivers/nuttx/lv_nuttx_mouse.s"
 	@echo "... src/drivers/nuttx/lv_nuttx_profiler.o"
 	@echo "... src/drivers/nuttx/lv_nuttx_profiler.i"
 	@echo "... src/drivers/nuttx/lv_nuttx_profiler.s"
 	@echo "... src/drivers/nuttx/lv_nuttx_touchscreen.o"
 	@echo "... src/drivers/nuttx/lv_nuttx_touchscreen.i"
 	@echo "... src/drivers/nuttx/lv_nuttx_touchscreen.s"
+	@echo "... src/drivers/opengles/assets/lv_opengles_shader.o"
+	@echo "... src/drivers/opengles/assets/lv_opengles_shader.i"
+	@echo "... src/drivers/opengles/assets/lv_opengles_shader.s"
+	@echo "... src/drivers/opengles/glad/src/egl.o"
+	@echo "... src/drivers/opengles/glad/src/egl.i"
+	@echo "... src/drivers/opengles/glad/src/egl.s"
+	@echo "... src/drivers/opengles/glad/src/gl.o"
+	@echo "... src/drivers/opengles/glad/src/gl.i"
+	@echo "... src/drivers/opengles/glad/src/gl.s"
+	@echo "... src/drivers/opengles/glad/src/gles2.o"
+	@echo "... src/drivers/opengles/glad/src/gles2.i"
+	@echo "... src/drivers/opengles/glad/src/gles2.s"
+	@echo "... src/drivers/opengles/lv_opengles_debug.o"
+	@echo "... src/drivers/opengles/lv_opengles_debug.i"
+	@echo "... src/drivers/opengles/lv_opengles_debug.s"
+	@echo "... src/drivers/opengles/lv_opengles_driver.o"
+	@echo "... src/drivers/opengles/lv_opengles_driver.i"
+	@echo "... src/drivers/opengles/lv_opengles_driver.s"
+	@echo "... src/drivers/opengles/lv_opengles_egl.o"
+	@echo "... src/drivers/opengles/lv_opengles_egl.i"
+	@echo "... src/drivers/opengles/lv_opengles_egl.s"
+	@echo "... src/drivers/opengles/lv_opengles_glfw.o"
+	@echo "... src/drivers/opengles/lv_opengles_glfw.i"
+	@echo "... src/drivers/opengles/lv_opengles_glfw.s"
+	@echo "... src/drivers/opengles/lv_opengles_texture.o"
+	@echo "... src/drivers/opengles/lv_opengles_texture.i"
+	@echo "... src/drivers/opengles/lv_opengles_texture.s"
+	@echo "... src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.o"
+	@echo "... src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.i"
+	@echo "... src/drivers/opengles/opengl_shader/lv_opengl_shader_manager.s"
+	@echo "... src/drivers/opengles/opengl_shader/lv_opengl_shader_program.o"
+	@echo "... src/drivers/opengles/opengl_shader/lv_opengl_shader_program.i"
+	@echo "... src/drivers/opengles/opengl_shader/lv_opengl_shader_program.s"
+	@echo "... src/drivers/qnx/lv_qnx.o"
+	@echo "... src/drivers/qnx/lv_qnx.i"
+	@echo "... src/drivers/qnx/lv_qnx.s"
+	@echo "... src/drivers/sdl/lv_sdl_egl.o"
+	@echo "... src/drivers/sdl/lv_sdl_egl.i"
+	@echo "... src/drivers/sdl/lv_sdl_egl.s"
 	@echo "... src/drivers/sdl/lv_sdl_keyboard.o"
 	@echo "... src/drivers/sdl/lv_sdl_keyboard.i"
 	@echo "... src/drivers/sdl/lv_sdl_keyboard.s"
@@ -16625,9 +22871,63 @@ help:
 	@echo "... src/drivers/sdl/lv_sdl_mousewheel.o"
 	@echo "... src/drivers/sdl/lv_sdl_mousewheel.i"
 	@echo "... src/drivers/sdl/lv_sdl_mousewheel.s"
+	@echo "... src/drivers/sdl/lv_sdl_sw.o"
+	@echo "... src/drivers/sdl/lv_sdl_sw.i"
+	@echo "... src/drivers/sdl/lv_sdl_sw.s"
+	@echo "... src/drivers/sdl/lv_sdl_texture.o"
+	@echo "... src/drivers/sdl/lv_sdl_texture.i"
+	@echo "... src/drivers/sdl/lv_sdl_texture.s"
 	@echo "... src/drivers/sdl/lv_sdl_window.o"
 	@echo "... src/drivers/sdl/lv_sdl_window.i"
 	@echo "... src/drivers/sdl/lv_sdl_window.s"
+	@echo "... src/drivers/uefi/lv_uefi_context.o"
+	@echo "... src/drivers/uefi/lv_uefi_context.i"
+	@echo "... src/drivers/uefi/lv_uefi_context.s"
+	@echo "... src/drivers/uefi/lv_uefi_display.o"
+	@echo "... src/drivers/uefi/lv_uefi_display.i"
+	@echo "... src/drivers/uefi/lv_uefi_display.s"
+	@echo "... src/drivers/uefi/lv_uefi_indev_keyboard.o"
+	@echo "... src/drivers/uefi/lv_uefi_indev_keyboard.i"
+	@echo "... src/drivers/uefi/lv_uefi_indev_keyboard.s"
+	@echo "... src/drivers/uefi/lv_uefi_indev_pointer.o"
+	@echo "... src/drivers/uefi/lv_uefi_indev_pointer.i"
+	@echo "... src/drivers/uefi/lv_uefi_indev_pointer.s"
+	@echo "... src/drivers/uefi/lv_uefi_indev_touch.o"
+	@echo "... src/drivers/uefi/lv_uefi_indev_touch.i"
+	@echo "... src/drivers/uefi/lv_uefi_indev_touch.s"
+	@echo "... src/drivers/uefi/lv_uefi_private.o"
+	@echo "... src/drivers/uefi/lv_uefi_private.i"
+	@echo "... src/drivers/uefi/lv_uefi_private.s"
+	@echo "... src/drivers/wayland/lv_wayland.o"
+	@echo "... src/drivers/wayland/lv_wayland.i"
+	@echo "... src/drivers/wayland/lv_wayland.s"
+	@echo "... src/drivers/wayland/lv_wayland_backend_egl.o"
+	@echo "... src/drivers/wayland/lv_wayland_backend_egl.i"
+	@echo "... src/drivers/wayland/lv_wayland_backend_egl.s"
+	@echo "... src/drivers/wayland/lv_wayland_backend_g2d.o"
+	@echo "... src/drivers/wayland/lv_wayland_backend_g2d.i"
+	@echo "... src/drivers/wayland/lv_wayland_backend_g2d.s"
+	@echo "... src/drivers/wayland/lv_wayland_backend_shm.o"
+	@echo "... src/drivers/wayland/lv_wayland_backend_shm.i"
+	@echo "... src/drivers/wayland/lv_wayland_backend_shm.s"
+	@echo "... src/drivers/wayland/lv_wayland_keyboard.o"
+	@echo "... src/drivers/wayland/lv_wayland_keyboard.i"
+	@echo "... src/drivers/wayland/lv_wayland_keyboard.s"
+	@echo "... src/drivers/wayland/lv_wayland_pointer.o"
+	@echo "... src/drivers/wayland/lv_wayland_pointer.i"
+	@echo "... src/drivers/wayland/lv_wayland_pointer.s"
+	@echo "... src/drivers/wayland/lv_wayland_seat.o"
+	@echo "... src/drivers/wayland/lv_wayland_seat.i"
+	@echo "... src/drivers/wayland/lv_wayland_seat.s"
+	@echo "... src/drivers/wayland/lv_wayland_touch.o"
+	@echo "... src/drivers/wayland/lv_wayland_touch.i"
+	@echo "... src/drivers/wayland/lv_wayland_touch.s"
+	@echo "... src/drivers/wayland/lv_wayland_window.o"
+	@echo "... src/drivers/wayland/lv_wayland_window.i"
+	@echo "... src/drivers/wayland/lv_wayland_window.s"
+	@echo "... src/drivers/wayland/lv_wayland_xdg_shell.o"
+	@echo "... src/drivers/wayland/lv_wayland_xdg_shell.i"
+	@echo "... src/drivers/wayland/lv_wayland_xdg_shell.s"
 	@echo "... src/drivers/windows/lv_windows_context.o"
 	@echo "... src/drivers/windows/lv_windows_context.i"
 	@echo "... src/drivers/windows/lv_windows_context.s"
@@ -16643,27 +22943,42 @@ help:
 	@echo "... src/drivers/x11/lv_x11_input.o"
 	@echo "... src/drivers/x11/lv_x11_input.i"
 	@echo "... src/drivers/x11/lv_x11_input.s"
-	@echo "... src/font/lv_binfont_loader.o"
-	@echo "... src/font/lv_binfont_loader.i"
-	@echo "... src/font/lv_binfont_loader.s"
+	@echo "... src/font/binfont_loader/lv_binfont_loader.o"
+	@echo "... src/font/binfont_loader/lv_binfont_loader.i"
+	@echo "... src/font/binfont_loader/lv_binfont_loader.s"
+	@echo "... src/font/fmt_txt/lv_font_fmt_txt.o"
+	@echo "... src/font/fmt_txt/lv_font_fmt_txt.i"
+	@echo "... src/font/fmt_txt/lv_font_fmt_txt.s"
+	@echo "... src/font/font_manager/lv_font_manager.o"
+	@echo "... src/font/font_manager/lv_font_manager.i"
+	@echo "... src/font/font_manager/lv_font_manager.s"
+	@echo "... src/font/font_manager/lv_font_manager_recycle.o"
+	@echo "... src/font/font_manager/lv_font_manager_recycle.i"
+	@echo "... src/font/font_manager/lv_font_manager_recycle.s"
+	@echo "... src/font/imgfont/lv_imgfont.o"
+	@echo "... src/font/imgfont/lv_imgfont.i"
+	@echo "... src/font/imgfont/lv_imgfont.s"
 	@echo "... src/font/lv_font.o"
 	@echo "... src/font/lv_font.i"
 	@echo "... src/font/lv_font.s"
 	@echo "... src/font/lv_font_dejavu_16_persian_hebrew.o"
 	@echo "... src/font/lv_font_dejavu_16_persian_hebrew.i"
 	@echo "... src/font/lv_font_dejavu_16_persian_hebrew.s"
-	@echo "... src/font/lv_font_fmt_txt.o"
-	@echo "... src/font/lv_font_fmt_txt.i"
-	@echo "... src/font/lv_font_fmt_txt.s"
 	@echo "... src/font/lv_font_montserrat_10.o"
 	@echo "... src/font/lv_font_montserrat_10.i"
 	@echo "... src/font/lv_font_montserrat_10.s"
 	@echo "... src/font/lv_font_montserrat_12.o"
 	@echo "... src/font/lv_font_montserrat_12.i"
 	@echo "... src/font/lv_font_montserrat_12.s"
+	@echo "... src/font/lv_font_montserrat_12_subpx.o"
+	@echo "... src/font/lv_font_montserrat_12_subpx.i"
+	@echo "... src/font/lv_font_montserrat_12_subpx.s"
 	@echo "... src/font/lv_font_montserrat_14.o"
 	@echo "... src/font/lv_font_montserrat_14.i"
 	@echo "... src/font/lv_font_montserrat_14.s"
+	@echo "... src/font/lv_font_montserrat_14_aligned.o"
+	@echo "... src/font/lv_font_montserrat_14_aligned.i"
+	@echo "... src/font/lv_font_montserrat_14_aligned.s"
 	@echo "... src/font/lv_font_montserrat_16.o"
 	@echo "... src/font/lv_font_montserrat_16.i"
 	@echo "... src/font/lv_font_montserrat_16.s"
@@ -16721,18 +23036,27 @@ help:
 	@echo "... src/font/lv_font_montserrat_8.o"
 	@echo "... src/font/lv_font_montserrat_8.i"
 	@echo "... src/font/lv_font_montserrat_8.s"
-	@echo "... src/font/lv_font_simsun_16_cjk.o"
-	@echo "... src/font/lv_font_simsun_16_cjk.i"
-	@echo "... src/font/lv_font_simsun_16_cjk.s"
+	@echo "... src/font/lv_font_source_han_sans_sc_14_cjk.o"
+	@echo "... src/font/lv_font_source_han_sans_sc_14_cjk.i"
+	@echo "... src/font/lv_font_source_han_sans_sc_14_cjk.s"
+	@echo "... src/font/lv_font_source_han_sans_sc_16_cjk.o"
+	@echo "... src/font/lv_font_source_han_sans_sc_16_cjk.i"
+	@echo "... src/font/lv_font_source_han_sans_sc_16_cjk.s"
 	@echo "... src/font/lv_font_unscii_16.o"
 	@echo "... src/font/lv_font_unscii_16.i"
 	@echo "... src/font/lv_font_unscii_16.s"
 	@echo "... src/font/lv_font_unscii_8.o"
 	@echo "... src/font/lv_font_unscii_8.i"
 	@echo "... src/font/lv_font_unscii_8.s"
+	@echo "... src/indev/lv_gridnav.o"
+	@echo "... src/indev/lv_gridnav.i"
+	@echo "... src/indev/lv_gridnav.s"
 	@echo "... src/indev/lv_indev.o"
 	@echo "... src/indev/lv_indev.i"
 	@echo "... src/indev/lv_indev.s"
+	@echo "... src/indev/lv_indev_gesture.o"
+	@echo "... src/indev/lv_indev_gesture.i"
+	@echo "... src/indev/lv_indev_gesture.s"
 	@echo "... src/indev/lv_indev_scroll.o"
 	@echo "... src/indev/lv_indev_scroll.i"
 	@echo "... src/indev/lv_indev_scroll.s"
@@ -16745,6 +23069,12 @@ help:
 	@echo "... src/layouts/lv_layout.o"
 	@echo "... src/layouts/lv_layout.i"
 	@echo "... src/layouts/lv_layout.s"
+	@echo "... src/libs/FT800-FT813/EVE_commands.o"
+	@echo "... src/libs/FT800-FT813/EVE_commands.i"
+	@echo "... src/libs/FT800-FT813/EVE_commands.s"
+	@echo "... src/libs/FT800-FT813/EVE_supplemental.o"
+	@echo "... src/libs/FT800-FT813/EVE_supplemental.i"
+	@echo "... src/libs/FT800-FT813/EVE_supplemental.s"
 	@echo "... src/libs/barcode/code128.o"
 	@echo "... src/libs/barcode/code128.i"
 	@echo "... src/libs/barcode/code128.s"
@@ -16775,12 +23105,27 @@ help:
 	@echo "... src/libs/freetype/lv_ftsystem.o"
 	@echo "... src/libs/freetype/lv_ftsystem.i"
 	@echo "... src/libs/freetype/lv_ftsystem.s"
+	@echo "... src/libs/frogfs/src/decomp_raw.o"
+	@echo "... src/libs/frogfs/src/decomp_raw.i"
+	@echo "... src/libs/frogfs/src/decomp_raw.s"
+	@echo "... src/libs/frogfs/src/frogfs.o"
+	@echo "... src/libs/frogfs/src/frogfs.i"
+	@echo "... src/libs/frogfs/src/frogfs.s"
+	@echo "... src/libs/fsdrv/lv_fs_arduino_esp_littlefs.o"
+	@echo "... src/libs/fsdrv/lv_fs_arduino_esp_littlefs.i"
+	@echo "... src/libs/fsdrv/lv_fs_arduino_esp_littlefs.s"
+	@echo "... src/libs/fsdrv/lv_fs_arduino_sd.o"
+	@echo "... src/libs/fsdrv/lv_fs_arduino_sd.i"
+	@echo "... src/libs/fsdrv/lv_fs_arduino_sd.s"
 	@echo "... src/libs/fsdrv/lv_fs_cbfs.o"
 	@echo "... src/libs/fsdrv/lv_fs_cbfs.i"
 	@echo "... src/libs/fsdrv/lv_fs_cbfs.s"
 	@echo "... src/libs/fsdrv/lv_fs_fatfs.o"
 	@echo "... src/libs/fsdrv/lv_fs_fatfs.i"
 	@echo "... src/libs/fsdrv/lv_fs_fatfs.s"
+	@echo "... src/libs/fsdrv/lv_fs_frogfs.o"
+	@echo "... src/libs/fsdrv/lv_fs_frogfs.i"
+	@echo "... src/libs/fsdrv/lv_fs_frogfs.s"
 	@echo "... src/libs/fsdrv/lv_fs_littlefs.o"
 	@echo "... src/libs/fsdrv/lv_fs_littlefs.i"
 	@echo "... src/libs/fsdrv/lv_fs_littlefs.s"
@@ -16793,21 +23138,87 @@ help:
 	@echo "... src/libs/fsdrv/lv_fs_stdio.o"
 	@echo "... src/libs/fsdrv/lv_fs_stdio.i"
 	@echo "... src/libs/fsdrv/lv_fs_stdio.s"
+	@echo "... src/libs/fsdrv/lv_fs_uefi.o"
+	@echo "... src/libs/fsdrv/lv_fs_uefi.i"
+	@echo "... src/libs/fsdrv/lv_fs_uefi.s"
 	@echo "... src/libs/fsdrv/lv_fs_win32.o"
 	@echo "... src/libs/fsdrv/lv_fs_win32.i"
 	@echo "... src/libs/fsdrv/lv_fs_win32.s"
-	@echo "... src/libs/gif/gifdec.o"
-	@echo "... src/libs/gif/gifdec.i"
-	@echo "... src/libs/gif/gifdec.s"
-	@echo "... src/libs/gif/lv_gif.o"
-	@echo "... src/libs/gif/lv_gif.i"
-	@echo "... src/libs/gif/lv_gif.s"
+	@echo "... src/libs/gif/gif.o"
+	@echo "... src/libs/gif/gif.i"
+	@echo "... src/libs/gif/gif.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_animations.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_animations.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_animations.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_cache.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_cache.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_cache.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_injest.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_injest.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_injest.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_mesh.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_mesh.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_mesh.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_primitive.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_primitive.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_primitive.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_shader.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_shader.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_shader.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_skin.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_skin.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_skin.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_texture.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_texture.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_data_texture.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_model_loader.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_model_loader.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_model_loader.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_model_node.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_model_node.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_model_node.s"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_uniform_locations.o"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_uniform_locations.i"
+	@echo "... src/libs/gltf/gltf_data/lv_gltf_uniform_locations.s"
+	@echo "... src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.o"
+	@echo "... src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.i"
+	@echo "... src/libs/gltf/gltf_environment/lv_gltf_ibl_sampler.s"
+	@echo "... src/libs/gltf/gltf_view/assets/chromatic.o"
+	@echo "... src/libs/gltf/gltf_view/assets/chromatic.i"
+	@echo "... src/libs/gltf/gltf_view/assets/chromatic.s"
+	@echo "... src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.o"
+	@echo "... src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.i"
+	@echo "... src/libs/gltf/gltf_view/assets/lv_gltf_view_shader.s"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view.o"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view.i"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view.s"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view_render.o"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view_render.i"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view_render.s"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view_shader.o"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view_shader.i"
+	@echo "... src/libs/gltf/gltf_view/lv_gltf_view_shader.s"
+	@echo "... src/libs/gltf/math/lv_3dmath.o"
+	@echo "... src/libs/gltf/math/lv_3dmath.i"
+	@echo "... src/libs/gltf/math/lv_3dmath.s"
+	@echo "... src/libs/gltf/math/lv_gltf_math.o"
+	@echo "... src/libs/gltf/math/lv_gltf_math.i"
+	@echo "... src/libs/gltf/math/lv_gltf_math.s"
+	@echo "... src/libs/gstreamer/lv_gstreamer.o"
+	@echo "... src/libs/gstreamer/lv_gstreamer.i"
+	@echo "... src/libs/gstreamer/lv_gstreamer.s"
 	@echo "... src/libs/libjpeg_turbo/lv_libjpeg_turbo.o"
 	@echo "... src/libs/libjpeg_turbo/lv_libjpeg_turbo.i"
 	@echo "... src/libs/libjpeg_turbo/lv_libjpeg_turbo.s"
 	@echo "... src/libs/libpng/lv_libpng.o"
 	@echo "... src/libs/libpng/lv_libpng.i"
 	@echo "... src/libs/libpng/lv_libpng.s"
+	@echo "... src/libs/libwebp/lv_libwebp.o"
+	@echo "... src/libs/libwebp/lv_libwebp.i"
+	@echo "... src/libs/libwebp/lv_libwebp.s"
 	@echo "... src/libs/lodepng/lodepng.o"
 	@echo "... src/libs/lodepng/lodepng.i"
 	@echo "... src/libs/lodepng/lodepng.s"
@@ -16817,6 +23228,9 @@ help:
 	@echo "... src/libs/lz4/lz4.o"
 	@echo "... src/libs/lz4/lz4.i"
 	@echo "... src/libs/lz4/lz4.s"
+	@echo "... src/libs/nanovg/nanovg.o"
+	@echo "... src/libs/nanovg/nanovg.i"
+	@echo "... src/libs/nanovg/nanovg.s"
 	@echo "... src/libs/qrcode/lv_qrcode.o"
 	@echo "... src/libs/qrcode/lv_qrcode.i"
 	@echo "... src/libs/qrcode/lv_qrcode.s"
@@ -16829,12 +23243,27 @@ help:
 	@echo "... src/libs/rlottie/lv_rlottie.o"
 	@echo "... src/libs/rlottie/lv_rlottie.i"
 	@echo "... src/libs/rlottie/lv_rlottie.s"
+	@echo "... src/libs/svg/lv_svg.o"
+	@echo "... src/libs/svg/lv_svg.i"
+	@echo "... src/libs/svg/lv_svg.s"
+	@echo "... src/libs/svg/lv_svg_decoder.o"
+	@echo "... src/libs/svg/lv_svg_decoder.i"
+	@echo "... src/libs/svg/lv_svg_decoder.s"
+	@echo "... src/libs/svg/lv_svg_parser.o"
+	@echo "... src/libs/svg/lv_svg_parser.i"
+	@echo "... src/libs/svg/lv_svg_parser.s"
+	@echo "... src/libs/svg/lv_svg_render.o"
+	@echo "... src/libs/svg/lv_svg_render.i"
+	@echo "... src/libs/svg/lv_svg_render.s"
+	@echo "... src/libs/svg/lv_svg_token.o"
+	@echo "... src/libs/svg/lv_svg_token.i"
+	@echo "... src/libs/svg/lv_svg_token.s"
+	@echo "... src/libs/thorvg/tvgAccessor.o"
+	@echo "... src/libs/thorvg/tvgAccessor.i"
+	@echo "... src/libs/thorvg/tvgAccessor.s"
 	@echo "... src/libs/thorvg/tvgAnimation.o"
 	@echo "... src/libs/thorvg/tvgAnimation.i"
 	@echo "... src/libs/thorvg/tvgAnimation.s"
-	@echo "... src/libs/thorvg/tvgBezier.o"
-	@echo "... src/libs/thorvg/tvgBezier.i"
-	@echo "... src/libs/thorvg/tvgBezier.s"
 	@echo "... src/libs/thorvg/tvgCanvas.o"
 	@echo "... src/libs/thorvg/tvgCanvas.i"
 	@echo "... src/libs/thorvg/tvgCanvas.s"
@@ -16847,12 +23276,42 @@ help:
 	@echo "... src/libs/thorvg/tvgFill.o"
 	@echo "... src/libs/thorvg/tvgFill.i"
 	@echo "... src/libs/thorvg/tvgFill.s"
+	@echo "... src/libs/thorvg/tvgGlCanvas.o"
+	@echo "... src/libs/thorvg/tvgGlCanvas.i"
+	@echo "... src/libs/thorvg/tvgGlCanvas.s"
 	@echo "... src/libs/thorvg/tvgInitializer.o"
 	@echo "... src/libs/thorvg/tvgInitializer.i"
 	@echo "... src/libs/thorvg/tvgInitializer.s"
 	@echo "... src/libs/thorvg/tvgLoader.o"
 	@echo "... src/libs/thorvg/tvgLoader.i"
 	@echo "... src/libs/thorvg/tvgLoader.s"
+	@echo "... src/libs/thorvg/tvgLottieAnimation.o"
+	@echo "... src/libs/thorvg/tvgLottieAnimation.i"
+	@echo "... src/libs/thorvg/tvgLottieAnimation.s"
+	@echo "... src/libs/thorvg/tvgLottieBuilder.o"
+	@echo "... src/libs/thorvg/tvgLottieBuilder.i"
+	@echo "... src/libs/thorvg/tvgLottieBuilder.s"
+	@echo "... src/libs/thorvg/tvgLottieExpressions.o"
+	@echo "... src/libs/thorvg/tvgLottieExpressions.i"
+	@echo "... src/libs/thorvg/tvgLottieExpressions.s"
+	@echo "... src/libs/thorvg/tvgLottieInterpolator.o"
+	@echo "... src/libs/thorvg/tvgLottieInterpolator.i"
+	@echo "... src/libs/thorvg/tvgLottieInterpolator.s"
+	@echo "... src/libs/thorvg/tvgLottieLoader.o"
+	@echo "... src/libs/thorvg/tvgLottieLoader.i"
+	@echo "... src/libs/thorvg/tvgLottieLoader.s"
+	@echo "... src/libs/thorvg/tvgLottieModel.o"
+	@echo "... src/libs/thorvg/tvgLottieModel.i"
+	@echo "... src/libs/thorvg/tvgLottieModel.s"
+	@echo "... src/libs/thorvg/tvgLottieModifier.o"
+	@echo "... src/libs/thorvg/tvgLottieModifier.i"
+	@echo "... src/libs/thorvg/tvgLottieModifier.s"
+	@echo "... src/libs/thorvg/tvgLottieParser.o"
+	@echo "... src/libs/thorvg/tvgLottieParser.i"
+	@echo "... src/libs/thorvg/tvgLottieParser.s"
+	@echo "... src/libs/thorvg/tvgLottieParserHandler.o"
+	@echo "... src/libs/thorvg/tvgLottieParserHandler.i"
+	@echo "... src/libs/thorvg/tvgLottieParserHandler.s"
 	@echo "... src/libs/thorvg/tvgMath.o"
 	@echo "... src/libs/thorvg/tvgMath.i"
 	@echo "... src/libs/thorvg/tvgMath.s"
@@ -16910,6 +23369,9 @@ help:
 	@echo "... src/libs/thorvg/tvgSwMemPool.o"
 	@echo "... src/libs/thorvg/tvgSwMemPool.i"
 	@echo "... src/libs/thorvg/tvgSwMemPool.s"
+	@echo "... src/libs/thorvg/tvgSwPostEffect.o"
+	@echo "... src/libs/thorvg/tvgSwPostEffect.i"
+	@echo "... src/libs/thorvg/tvgSwPostEffect.s"
 	@echo "... src/libs/thorvg/tvgSwRaster.o"
 	@echo "... src/libs/thorvg/tvgSwRaster.i"
 	@echo "... src/libs/thorvg/tvgSwRaster.s"
@@ -16928,6 +23390,12 @@ help:
 	@echo "... src/libs/thorvg/tvgTaskScheduler.o"
 	@echo "... src/libs/thorvg/tvgTaskScheduler.i"
 	@echo "... src/libs/thorvg/tvgTaskScheduler.s"
+	@echo "... src/libs/thorvg/tvgText.o"
+	@echo "... src/libs/thorvg/tvgText.i"
+	@echo "... src/libs/thorvg/tvgText.s"
+	@echo "... src/libs/thorvg/tvgWgCanvas.o"
+	@echo "... src/libs/thorvg/tvgWgCanvas.i"
+	@echo "... src/libs/thorvg/tvgWgCanvas.s"
 	@echo "... src/libs/thorvg/tvgXmlParser.o"
 	@echo "... src/libs/thorvg/tvgXmlParser.i"
 	@echo "... src/libs/thorvg/tvgXmlParser.s"
@@ -16940,21 +23408,54 @@ help:
 	@echo "... src/libs/tjpgd/tjpgd.o"
 	@echo "... src/libs/tjpgd/tjpgd.i"
 	@echo "... src/libs/tjpgd/tjpgd.s"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite.o"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite.i"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite.s"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_image.o"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_image.i"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_image.s"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_matrix.o"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_matrix.i"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_matrix.s"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_path.o"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_path.i"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_path.s"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_stroke.o"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_stroke.i"
+	@echo "... src/libs/vg_lite_driver/VGLite/vg_lite_stroke.s"
+	@echo "... src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.o"
+	@echo "... src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.i"
+	@echo "... src/libs/vg_lite_driver/VGLiteKernel/vg_lite_kernel.s"
+	@echo "... src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.o"
+	@echo "... src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.i"
+	@echo "... src/libs/vg_lite_driver/lv_vg_lite_hal/lv_vg_lite_hal.s"
+	@echo "... src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.o"
+	@echo "... src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.i"
+	@echo "... src/libs/vg_lite_driver/lv_vg_lite_hal/vg_lite_os.s"
 	@echo "... src/lv_init.o"
 	@echo "... src/lv_init.i"
 	@echo "... src/lv_init.s"
-	@echo "... src/misc/cache/_lv_cache_lru_rb.o"
-	@echo "... src/misc/cache/_lv_cache_lru_rb.i"
-	@echo "... src/misc/cache/_lv_cache_lru_rb.s"
+	@echo "... src/misc/cache/class/lv_cache_lru_ll.o"
+	@echo "... src/misc/cache/class/lv_cache_lru_ll.i"
+	@echo "... src/misc/cache/class/lv_cache_lru_ll.s"
+	@echo "... src/misc/cache/class/lv_cache_lru_rb.o"
+	@echo "... src/misc/cache/class/lv_cache_lru_rb.i"
+	@echo "... src/misc/cache/class/lv_cache_lru_rb.s"
+	@echo "... src/misc/cache/class/lv_cache_sc_da.o"
+	@echo "... src/misc/cache/class/lv_cache_sc_da.i"
+	@echo "... src/misc/cache/class/lv_cache_sc_da.s"
+	@echo "... src/misc/cache/instance/lv_image_cache.o"
+	@echo "... src/misc/cache/instance/lv_image_cache.i"
+	@echo "... src/misc/cache/instance/lv_image_cache.s"
+	@echo "... src/misc/cache/instance/lv_image_header_cache.o"
+	@echo "... src/misc/cache/instance/lv_image_header_cache.i"
+	@echo "... src/misc/cache/instance/lv_image_header_cache.s"
 	@echo "... src/misc/cache/lv_cache.o"
 	@echo "... src/misc/cache/lv_cache.i"
 	@echo "... src/misc/cache/lv_cache.s"
 	@echo "... src/misc/cache/lv_cache_entry.o"
 	@echo "... src/misc/cache/lv_cache_entry.i"
 	@echo "... src/misc/cache/lv_cache_entry.s"
-	@echo "... src/misc/cache/lv_image_cache.o"
-	@echo "... src/misc/cache/lv_image_cache.i"
-	@echo "... src/misc/cache/lv_image_cache.s"
 	@echo "... src/misc/lv_anim.o"
 	@echo "... src/misc/lv_anim.i"
 	@echo "... src/misc/lv_anim.s"
@@ -16973,6 +23474,9 @@ help:
 	@echo "... src/misc/lv_bidi.o"
 	@echo "... src/misc/lv_bidi.i"
 	@echo "... src/misc/lv_bidi.s"
+	@echo "... src/misc/lv_circle_buf.o"
+	@echo "... src/misc/lv_circle_buf.i"
+	@echo "... src/misc/lv_circle_buf.s"
 	@echo "... src/misc/lv_color.o"
 	@echo "... src/misc/lv_color.i"
 	@echo "... src/misc/lv_color.s"
@@ -16985,6 +23489,12 @@ help:
 	@echo "... src/misc/lv_fs.o"
 	@echo "... src/misc/lv_fs.i"
 	@echo "... src/misc/lv_fs.s"
+	@echo "... src/misc/lv_grad.o"
+	@echo "... src/misc/lv_grad.i"
+	@echo "... src/misc/lv_grad.s"
+	@echo "... src/misc/lv_iter.o"
+	@echo "... src/misc/lv_iter.i"
+	@echo "... src/misc/lv_iter.s"
 	@echo "... src/misc/lv_ll.o"
 	@echo "... src/misc/lv_ll.i"
 	@echo "... src/misc/lv_ll.s"
@@ -16997,12 +23507,21 @@ help:
 	@echo "... src/misc/lv_math.o"
 	@echo "... src/misc/lv_math.i"
 	@echo "... src/misc/lv_math.s"
+	@echo "... src/misc/lv_matrix.o"
+	@echo "... src/misc/lv_matrix.i"
+	@echo "... src/misc/lv_matrix.s"
 	@echo "... src/misc/lv_palette.o"
 	@echo "... src/misc/lv_palette.i"
 	@echo "... src/misc/lv_palette.s"
+	@echo "... src/misc/lv_pending.o"
+	@echo "... src/misc/lv_pending.i"
+	@echo "... src/misc/lv_pending.s"
 	@echo "... src/misc/lv_profiler_builtin.o"
 	@echo "... src/misc/lv_profiler_builtin.i"
 	@echo "... src/misc/lv_profiler_builtin.s"
+	@echo "... src/misc/lv_profiler_builtin_posix.o"
+	@echo "... src/misc/lv_profiler_builtin_posix.i"
+	@echo "... src/misc/lv_profiler_builtin_posix.s"
 	@echo "... src/misc/lv_rb.o"
 	@echo "... src/misc/lv_rb.i"
 	@echo "... src/misc/lv_rb.s"
@@ -17024,6 +23543,9 @@ help:
 	@echo "... src/misc/lv_timer.o"
 	@echo "... src/misc/lv_timer.i"
 	@echo "... src/misc/lv_timer.s"
+	@echo "... src/misc/lv_tree.o"
+	@echo "... src/misc/lv_tree.i"
+	@echo "... src/misc/lv_tree.s"
 	@echo "... src/misc/lv_utils.o"
 	@echo "... src/misc/lv_utils.i"
 	@echo "... src/misc/lv_utils.s"
@@ -17033,6 +23555,15 @@ help:
 	@echo "... src/osal/lv_freertos.o"
 	@echo "... src/osal/lv_freertos.i"
 	@echo "... src/osal/lv_freertos.s"
+	@echo "... src/osal/lv_linux.o"
+	@echo "... src/osal/lv_linux.i"
+	@echo "... src/osal/lv_linux.s"
+	@echo "... src/osal/lv_mqx.o"
+	@echo "... src/osal/lv_mqx.i"
+	@echo "... src/osal/lv_mqx.s"
+	@echo "... src/osal/lv_os.o"
+	@echo "... src/osal/lv_os.i"
+	@echo "... src/osal/lv_os.s"
 	@echo "... src/osal/lv_os_none.o"
 	@echo "... src/osal/lv_os_none.i"
 	@echo "... src/osal/lv_os_none.s"
@@ -17042,6 +23573,9 @@ help:
 	@echo "... src/osal/lv_rtthread.o"
 	@echo "... src/osal/lv_rtthread.i"
 	@echo "... src/osal/lv_rtthread.s"
+	@echo "... src/osal/lv_sdl2.o"
+	@echo "... src/osal/lv_sdl2.i"
+	@echo "... src/osal/lv_sdl2.s"
 	@echo "... src/osal/lv_windows.o"
 	@echo "... src/osal/lv_windows.i"
 	@echo "... src/osal/lv_windows.s"
@@ -17054,33 +23588,9 @@ help:
 	@echo "... src/others/fragment/lv_fragment_manager.o"
 	@echo "... src/others/fragment/lv_fragment_manager.i"
 	@echo "... src/others/fragment/lv_fragment_manager.s"
-	@echo "... src/others/gridnav/lv_gridnav.o"
-	@echo "... src/others/gridnav/lv_gridnav.i"
-	@echo "... src/others/gridnav/lv_gridnav.s"
-	@echo "... src/others/ime/lv_ime_pinyin.o"
-	@echo "... src/others/ime/lv_ime_pinyin.i"
-	@echo "... src/others/ime/lv_ime_pinyin.s"
-	@echo "... src/others/imgfont/lv_imgfont.o"
-	@echo "... src/others/imgfont/lv_imgfont.i"
-	@echo "... src/others/imgfont/lv_imgfont.s"
-	@echo "... src/others/monkey/lv_monkey.o"
-	@echo "... src/others/monkey/lv_monkey.i"
-	@echo "... src/others/monkey/lv_monkey.s"
-	@echo "... src/others/observer/lv_observer.o"
-	@echo "... src/others/observer/lv_observer.i"
-	@echo "... src/others/observer/lv_observer.s"
-	@echo "... src/others/snapshot/lv_snapshot.o"
-	@echo "... src/others/snapshot/lv_snapshot.i"
-	@echo "... src/others/snapshot/lv_snapshot.s"
-	@echo "... src/others/sysmon/lv_sysmon.o"
-	@echo "... src/others/sysmon/lv_sysmon.i"
-	@echo "... src/others/sysmon/lv_sysmon.s"
-	@echo "... src/others/vg_lite_tvg/vg_lite_matrix.o"
-	@echo "... src/others/vg_lite_tvg/vg_lite_matrix.i"
-	@echo "... src/others/vg_lite_tvg/vg_lite_matrix.s"
-	@echo "... src/others/vg_lite_tvg/vg_lite_tvg.o"
-	@echo "... src/others/vg_lite_tvg/vg_lite_tvg.i"
-	@echo "... src/others/vg_lite_tvg/vg_lite_tvg.s"
+	@echo "... src/others/translation/lv_translation.o"
+	@echo "... src/others/translation/lv_translation.i"
+	@echo "... src/others/translation/lv_translation.s"
 	@echo "... src/stdlib/builtin/lv_mem_core_builtin.o"
 	@echo "... src/stdlib/builtin/lv_mem_core_builtin.i"
 	@echo "... src/stdlib/builtin/lv_mem_core_builtin.s"
@@ -17117,6 +23627,9 @@ help:
 	@echo "... src/stdlib/rtthread/lv_string_rtthread.o"
 	@echo "... src/stdlib/rtthread/lv_string_rtthread.i"
 	@echo "... src/stdlib/rtthread/lv_string_rtthread.s"
+	@echo "... src/stdlib/uefi/lv_mem_core_uefi.o"
+	@echo "... src/stdlib/uefi/lv_mem_core_uefi.i"
+	@echo "... src/stdlib/uefi/lv_mem_core_uefi.s"
 	@echo "... src/themes/default/lv_theme_default.o"
 	@echo "... src/themes/default/lv_theme_default.i"
 	@echo "... src/themes/default/lv_theme_default.s"
@@ -17132,12 +23645,18 @@ help:
 	@echo "... src/tick/lv_tick.o"
 	@echo "... src/tick/lv_tick.i"
 	@echo "... src/tick/lv_tick.s"
+	@echo "... src/widgets/3dtexture/lv_3dtexture.o"
+	@echo "... src/widgets/3dtexture/lv_3dtexture.i"
+	@echo "... src/widgets/3dtexture/lv_3dtexture.s"
 	@echo "... src/widgets/animimage/lv_animimage.o"
 	@echo "... src/widgets/animimage/lv_animimage.i"
 	@echo "... src/widgets/animimage/lv_animimage.s"
 	@echo "... src/widgets/arc/lv_arc.o"
 	@echo "... src/widgets/arc/lv_arc.i"
 	@echo "... src/widgets/arc/lv_arc.s"
+	@echo "... src/widgets/arclabel/lv_arclabel.o"
+	@echo "... src/widgets/arclabel/lv_arclabel.i"
+	@echo "... src/widgets/arclabel/lv_arclabel.s"
 	@echo "... src/widgets/bar/lv_bar.o"
 	@echo "... src/widgets/bar/lv_bar.i"
 	@echo "... src/widgets/bar/lv_bar.s"
@@ -17150,6 +23669,9 @@ help:
 	@echo "... src/widgets/calendar/lv_calendar.o"
 	@echo "... src/widgets/calendar/lv_calendar.i"
 	@echo "... src/widgets/calendar/lv_calendar.s"
+	@echo "... src/widgets/calendar/lv_calendar_chinese.o"
+	@echo "... src/widgets/calendar/lv_calendar_chinese.i"
+	@echo "... src/widgets/calendar/lv_calendar_chinese.s"
 	@echo "... src/widgets/calendar/lv_calendar_header_arrow.o"
 	@echo "... src/widgets/calendar/lv_calendar_header_arrow.i"
 	@echo "... src/widgets/calendar/lv_calendar_header_arrow.s"
@@ -17168,12 +23690,18 @@ help:
 	@echo "... src/widgets/dropdown/lv_dropdown.o"
 	@echo "... src/widgets/dropdown/lv_dropdown.i"
 	@echo "... src/widgets/dropdown/lv_dropdown.s"
+	@echo "... src/widgets/gif/lv_gif.o"
+	@echo "... src/widgets/gif/lv_gif.i"
+	@echo "... src/widgets/gif/lv_gif.s"
 	@echo "... src/widgets/image/lv_image.o"
 	@echo "... src/widgets/image/lv_image.i"
 	@echo "... src/widgets/image/lv_image.s"
 	@echo "... src/widgets/imagebutton/lv_imagebutton.o"
 	@echo "... src/widgets/imagebutton/lv_imagebutton.i"
 	@echo "... src/widgets/imagebutton/lv_imagebutton.s"
+	@echo "... src/widgets/ime/lv_ime_pinyin.o"
+	@echo "... src/widgets/ime/lv_ime_pinyin.i"
+	@echo "... src/widgets/ime/lv_ime_pinyin.s"
 	@echo "... src/widgets/keyboard/lv_keyboard.o"
 	@echo "... src/widgets/keyboard/lv_keyboard.i"
 	@echo "... src/widgets/keyboard/lv_keyboard.s"
@@ -17189,6 +23717,9 @@ help:
 	@echo "... src/widgets/list/lv_list.o"
 	@echo "... src/widgets/list/lv_list.i"
 	@echo "... src/widgets/list/lv_list.s"
+	@echo "... src/widgets/lottie/lv_lottie.o"
+	@echo "... src/widgets/lottie/lv_lottie.i"
+	@echo "... src/widgets/lottie/lv_lottie.s"
 	@echo "... src/widgets/menu/lv_menu.o"
 	@echo "... src/widgets/menu/lv_menu.i"
 	@echo "... src/widgets/menu/lv_menu.s"
@@ -17198,6 +23729,81 @@ help:
 	@echo "... src/widgets/objx_templ/lv_objx_templ.o"
 	@echo "... src/widgets/objx_templ/lv_objx_templ.i"
 	@echo "... src/widgets/objx_templ/lv_objx_templ.s"
+	@echo "... src/widgets/property/lv_animimage_properties.o"
+	@echo "... src/widgets/property/lv_animimage_properties.i"
+	@echo "... src/widgets/property/lv_animimage_properties.s"
+	@echo "... src/widgets/property/lv_arc_properties.o"
+	@echo "... src/widgets/property/lv_arc_properties.i"
+	@echo "... src/widgets/property/lv_arc_properties.s"
+	@echo "... src/widgets/property/lv_bar_properties.o"
+	@echo "... src/widgets/property/lv_bar_properties.i"
+	@echo "... src/widgets/property/lv_bar_properties.s"
+	@echo "... src/widgets/property/lv_buttonmatrix_properties.o"
+	@echo "... src/widgets/property/lv_buttonmatrix_properties.i"
+	@echo "... src/widgets/property/lv_buttonmatrix_properties.s"
+	@echo "... src/widgets/property/lv_chart_properties.o"
+	@echo "... src/widgets/property/lv_chart_properties.i"
+	@echo "... src/widgets/property/lv_chart_properties.s"
+	@echo "... src/widgets/property/lv_checkbox_properties.o"
+	@echo "... src/widgets/property/lv_checkbox_properties.i"
+	@echo "... src/widgets/property/lv_checkbox_properties.s"
+	@echo "... src/widgets/property/lv_dropdown_properties.o"
+	@echo "... src/widgets/property/lv_dropdown_properties.i"
+	@echo "... src/widgets/property/lv_dropdown_properties.s"
+	@echo "... src/widgets/property/lv_image_properties.o"
+	@echo "... src/widgets/property/lv_image_properties.i"
+	@echo "... src/widgets/property/lv_image_properties.s"
+	@echo "... src/widgets/property/lv_keyboard_properties.o"
+	@echo "... src/widgets/property/lv_keyboard_properties.i"
+	@echo "... src/widgets/property/lv_keyboard_properties.s"
+	@echo "... src/widgets/property/lv_label_properties.o"
+	@echo "... src/widgets/property/lv_label_properties.i"
+	@echo "... src/widgets/property/lv_label_properties.s"
+	@echo "... src/widgets/property/lv_led_properties.o"
+	@echo "... src/widgets/property/lv_led_properties.i"
+	@echo "... src/widgets/property/lv_led_properties.s"
+	@echo "... src/widgets/property/lv_line_properties.o"
+	@echo "... src/widgets/property/lv_line_properties.i"
+	@echo "... src/widgets/property/lv_line_properties.s"
+	@echo "... src/widgets/property/lv_menu_properties.o"
+	@echo "... src/widgets/property/lv_menu_properties.i"
+	@echo "... src/widgets/property/lv_menu_properties.s"
+	@echo "... src/widgets/property/lv_obj_properties.o"
+	@echo "... src/widgets/property/lv_obj_properties.i"
+	@echo "... src/widgets/property/lv_obj_properties.s"
+	@echo "... src/widgets/property/lv_roller_properties.o"
+	@echo "... src/widgets/property/lv_roller_properties.i"
+	@echo "... src/widgets/property/lv_roller_properties.s"
+	@echo "... src/widgets/property/lv_scale_properties.o"
+	@echo "... src/widgets/property/lv_scale_properties.i"
+	@echo "... src/widgets/property/lv_scale_properties.s"
+	@echo "... src/widgets/property/lv_slider_properties.o"
+	@echo "... src/widgets/property/lv_slider_properties.i"
+	@echo "... src/widgets/property/lv_slider_properties.s"
+	@echo "... src/widgets/property/lv_span_properties.o"
+	@echo "... src/widgets/property/lv_span_properties.i"
+	@echo "... src/widgets/property/lv_span_properties.s"
+	@echo "... src/widgets/property/lv_spinbox_properties.o"
+	@echo "... src/widgets/property/lv_spinbox_properties.i"
+	@echo "... src/widgets/property/lv_spinbox_properties.s"
+	@echo "... src/widgets/property/lv_spinner_properties.o"
+	@echo "... src/widgets/property/lv_spinner_properties.i"
+	@echo "... src/widgets/property/lv_spinner_properties.s"
+	@echo "... src/widgets/property/lv_style_properties.o"
+	@echo "... src/widgets/property/lv_style_properties.i"
+	@echo "... src/widgets/property/lv_style_properties.s"
+	@echo "... src/widgets/property/lv_switch_properties.o"
+	@echo "... src/widgets/property/lv_switch_properties.i"
+	@echo "... src/widgets/property/lv_switch_properties.s"
+	@echo "... src/widgets/property/lv_table_properties.o"
+	@echo "... src/widgets/property/lv_table_properties.i"
+	@echo "... src/widgets/property/lv_table_properties.s"
+	@echo "... src/widgets/property/lv_tabview_properties.o"
+	@echo "... src/widgets/property/lv_tabview_properties.i"
+	@echo "... src/widgets/property/lv_tabview_properties.s"
+	@echo "... src/widgets/property/lv_textarea_properties.o"
+	@echo "... src/widgets/property/lv_textarea_properties.i"
+	@echo "... src/widgets/property/lv_textarea_properties.s"
 	@echo "... src/widgets/roller/lv_roller.o"
 	@echo "... src/widgets/roller/lv_roller.i"
 	@echo "... src/widgets/roller/lv_roller.s"

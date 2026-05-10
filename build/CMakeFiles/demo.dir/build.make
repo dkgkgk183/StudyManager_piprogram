@@ -188,7 +188,14 @@ demo: CMakeFiles/demo.dir/ui/ui_tab_camera.c.o
 demo: CMakeFiles/demo.dir/ui/font_korean_16.c.o
 demo: CMakeFiles/demo.dir/app/app_nfc.c.o
 demo: CMakeFiles/demo.dir/build.make
-demo: lib/liblvgl.a
+demo: lvgl/lib/liblvgl.a
+demo: lvgl/lib/liblvgl_thorvg.a
+demo: lvgl/lib/liblvgl_examples.a
+demo: lvgl/lib/liblvgl_demos.a
+demo: lvgl/lib/liblvgl.a
+demo: lvgl/lib/liblvgl_thorvg.a
+demo: lvgl/lib/liblvgl_examples.a
+demo: lvgl/lib/liblvgl_demos.a
 demo: CMakeFiles/demo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable demo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/demo.dir/link.txt --verbose=$(VERBOSE)
