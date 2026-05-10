@@ -104,7 +104,7 @@ lvgl/clean: lvgl/CMakeFiles/lvgl_demos.dir/clean
 CMakeFiles/demo.dir/all: lvgl/CMakeFiles/lvgl.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num= "Built target demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=1 "Built target demo"
 .PHONY : CMakeFiles/demo.dir/all
 
 # Build rule for subdir invocation for target.
@@ -130,12 +130,12 @@ CMakeFiles/demo.dir/clean:
 lvgl/CMakeFiles/lvgl.dir/all: lvgl/CMakeFiles/lvgl_thorvg.dir/all
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/depend
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55 "Built target lvgl"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55 "Built target lvgl"
 .PHONY : lvgl/CMakeFiles/lvgl.dir/all
 
 # Build rule for subdir invocation for target.
 lvgl/CMakeFiles/lvgl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/dkgkgk183/lvgl_project/build/CMakeFiles 100
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dkgkgk183/lvgl_project/build/CMakeFiles 99
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lvgl/CMakeFiles/lvgl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/dkgkgk183/lvgl_project/build/CMakeFiles 0
 .PHONY : lvgl/CMakeFiles/lvgl.dir/rule

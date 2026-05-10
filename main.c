@@ -8,8 +8,7 @@
 #include "ui/ui_tab_weight.h"
 #include "ui/ui_tab_camera.h"
 #include "app/app_nfc.h"
-
-LV_FONT_DECLARE(font_korean_16);
+#include "app/app_touch.h"   // ← 추가
 
 static uint32_t get_tick_ms(void) {
     struct timespec ts;
@@ -20,8 +19,6 @@ static uint32_t get_tick_ms(void) {
 static void create_ui(void) {
     lv_obj_t *scr = lv_screen_active();
     lv_obj_set_style_bg_color(scr, lv_color_hex(0x0D0D1A), 0);
-    // 전체 화면에 한글 폰트 기본 적용
-    lv_obj_set_style_text_font(lv_screen_active(), &font_korean_16, 0);
 
     lv_obj_t *tv = lv_tabview_create(scr);
     lv_tabview_set_tab_bar_position(tv, LV_DIR_BOTTOM);
@@ -29,7 +26,6 @@ static void create_ui(void) {
     lv_obj_set_size(tv, 240, 320);
     lv_obj_set_style_bg_color(tv, lv_color_hex(0x0D0D1A), 0);
 
-    // 탭바 스타일
     lv_obj_t *tab_bar = lv_tabview_get_tab_bar(tv);
     lv_obj_set_style_bg_color(tab_bar, lv_color_hex(0x1A1A2E), 0);
     lv_obj_set_style_border_width(tab_bar, 0, 0);
@@ -54,7 +50,12 @@ int main(void) {
     lv_display_set_flush_cb(disp, ili9341_flush);
     lv_display_set_buffers(disp, buf, NULL, sizeof(buf), LV_DISPLAY_RENDER_MODE_PARTIAL);
 
-    // NFC 초기화 실패해도 UI는 계속 실행
+    // 터치 입력 장치 등록
+    app_touch_init();
+    lv_indev_t *indev = lv_indev_create();
+    lv_indev_set_type(indev, LV_INDEV_TYPE_POINTER);
+    lv_indev_set_read_cb(indev, app_touch_read);
+
     app_nfc_init();
     app_nfc_start();
 

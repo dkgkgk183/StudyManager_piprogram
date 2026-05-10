@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/demo.dir/app/app_nfc.c.o"
   "CMakeFiles/demo.dir/app/app_nfc.c.o.d"
+  "CMakeFiles/demo.dir/app/app_touch.c.o"
+  "CMakeFiles/demo.dir/app/app_touch.c.o.d"
   "CMakeFiles/demo.dir/ili9341.c.o"
   "CMakeFiles/demo.dir/ili9341.c.o.d"
   "CMakeFiles/demo.dir/main.c.o"

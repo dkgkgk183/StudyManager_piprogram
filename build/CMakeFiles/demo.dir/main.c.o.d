@@ -495,4 +495,7 @@ CMakeFiles/demo.dir/main.c.o: /home/dkgkgk183/lvgl_project/main.c \
  /home/dkgkgk183/lvgl_project/ui/../lvgl/include/lvgl/lvgl.h \
  /home/dkgkgk183/lvgl_project/ui/ui_tab_weight.h \
  /home/dkgkgk183/lvgl_project/ui/ui_tab_camera.h \
- /home/dkgkgk183/lvgl_project/app/app_nfc.h
+ /home/dkgkgk183/lvgl_project/app/app_nfc.h \
+ /home/dkgkgk183/lvgl_project/app/app_touch.h \
+ /home/dkgkgk183/lvgl_project/app/../lvgl/lvgl.h \
+ /home/dkgkgk183/lvgl_project/app/../lvgl/include/lvgl/lvgl.h

@@ -250,6 +250,30 @@ app/app_nfc.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_nfc.c.s
 .PHONY : app/app_nfc.c.s
 
+app/app_touch.o: app/app_touch.c.o
+.PHONY : app/app_touch.o
+
+# target to build an object file
+app/app_touch.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_touch.c.o
+.PHONY : app/app_touch.c.o
+
+app/app_touch.i: app/app_touch.c.i
+.PHONY : app/app_touch.i
+
+# target to preprocess a source file
+app/app_touch.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_touch.c.i
+.PHONY : app/app_touch.c.i
+
+app/app_touch.s: app/app_touch.c.s
+.PHONY : app/app_touch.s
+
+# target to generate assembly for a file
+app/app_touch.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_touch.c.s
+.PHONY : app/app_touch.c.s
+
 ili9341.o: ili9341.c.o
 .PHONY : ili9341.o
 
@@ -414,6 +438,9 @@ help:
 	@echo "... app/app_nfc.o"
 	@echo "... app/app_nfc.i"
 	@echo "... app/app_nfc.s"
+	@echo "... app/app_touch.o"
+	@echo "... app/app_touch.i"
+	@echo "... app/app_touch.s"
 	@echo "... ili9341.o"
 	@echo "... ili9341.i"
 	@echo "... ili9341.s"

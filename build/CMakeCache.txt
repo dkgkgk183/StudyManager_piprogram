@@ -290,16 +290,10 @@ LV_BUILD_SET_CONFIG_OPTS:BOOL=OFF
 //Use Kconfig
 LV_BUILD_USE_KCONFIG:BOOL=OFF
 
-//Use #include "lv_conf.h" instead of #include "../../lv_conf.h"
-LV_CONF_INCLUDE_SIMPLE:BOOL=ON
-
 LV_CONF_PATH:PATH=/home/dkgkgk183/lvgl_project/lv_conf.h
 
 //Fetch dependencies from source if not found on the system
 LV_FETCH_DEPENDENCIES:BOOL=ON
-
-//Use #include "lvgl.h" instead of #include "../../lvgl.h"
-LV_LVGL_H_INCLUDE_SIMPLE:BOOL=ON
 
 //Resolve dependencies via find_package
 LV_USE_FIND_PACKAGE:BOOL=ON
@@ -313,15 +307,6 @@ PKG_CONFIG_ARGN:STRING=
 
 //pkg-config executable
 PKG_CONFIG_EXECUTABLE:FILEPATH=/usr/bin/pkg-config
-
-//Value Computed by CMake
-lvgl_BINARY_DIR:STATIC=/home/dkgkgk183/lvgl_project/build/lvgl
-
-//Value Computed by CMake
-lvgl_IS_TOP_LEVEL:STATIC=OFF
-
-//Value Computed by CMake
-lvgl_SOURCE_DIR:STATIC=/home/dkgkgk183/lvgl_project/lvgl
 
 //Value Computed by CMake
 lvgl_demo_BINARY_DIR:STATIC=/home/dkgkgk183/lvgl_project/build

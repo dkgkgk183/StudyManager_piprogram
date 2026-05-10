@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/dkgkgk183/lvgl_project/app/app_nfc.c" "CMakeFiles/demo.dir/app/app_nfc.c.o" "gcc" "CMakeFiles/demo.dir/app/app_nfc.c.o.d"
+  "/home/dkgkgk183/lvgl_project/app/app_touch.c" "CMakeFiles/demo.dir/app/app_touch.c.o" "gcc" "CMakeFiles/demo.dir/app/app_touch.c.o.d"
   "/home/dkgkgk183/lvgl_project/ili9341.c" "CMakeFiles/demo.dir/ili9341.c.o" "gcc" "CMakeFiles/demo.dir/ili9341.c.o.d"
   "/home/dkgkgk183/lvgl_project/main.c" "CMakeFiles/demo.dir/main.c.o" "gcc" "CMakeFiles/demo.dir/main.c.o.d"
   "/home/dkgkgk183/lvgl_project/ui/font_korean_16.c" "CMakeFiles/demo.dir/ui/font_korean_16.c.o" "gcc" "CMakeFiles/demo.dir/ui/font_korean_16.c.o.d"
