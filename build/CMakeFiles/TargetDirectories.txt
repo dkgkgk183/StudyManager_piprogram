@@ -1,0 +1,17 @@
+/home/dkgkgk183/lvgl_project/build/CMakeFiles/demo.dir
+/home/dkgkgk183/lvgl_project/build/CMakeFiles/edit_cache.dir
+/home/dkgkgk183/lvgl_project/build/CMakeFiles/rebuild_cache.dir
+/home/dkgkgk183/lvgl_project/build/CMakeFiles/list_install_components.dir
+/home/dkgkgk183/lvgl_project/build/CMakeFiles/install.dir
+/home/dkgkgk183/lvgl_project/build/CMakeFiles/install/local.dir
+/home/dkgkgk183/lvgl_project/build/CMakeFiles/install/strip.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl_thorvg.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl_examples.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/lvgl_demos.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/edit_cache.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/rebuild_cache.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/list_install_components.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/install.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/install/local.dir
+/home/dkgkgk183/lvgl_project/build/lvgl/CMakeFiles/install/strip.dir
