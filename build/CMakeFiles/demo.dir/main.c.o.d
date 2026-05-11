@@ -498,4 +498,5 @@ CMakeFiles/demo.dir/main.c.o: /home/dkgkgk183/lvgl_project/main.c \
  /home/dkgkgk183/lvgl_project/app/app_nfc.h \
  /home/dkgkgk183/lvgl_project/app/app_touch.h \
  /home/dkgkgk183/lvgl_project/app/../lvgl/lvgl.h \
- /home/dkgkgk183/lvgl_project/app/../lvgl/include/lvgl/lvgl.h
+ /home/dkgkgk183/lvgl_project/app/../lvgl/include/lvgl/lvgl.h \
+ /home/dkgkgk183/lvgl_project/app/app_hx711.h

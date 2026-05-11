@@ -8,7 +8,10 @@
 #include "ui/ui_tab_weight.h"
 #include "ui/ui_tab_camera.h"
 #include "app/app_nfc.h"
-#include "app/app_touch.h"   // ← 추가
+#include "app/app_touch.h"
+#include "app/app_hx711.h"   // ← HX711 추가
+
+LV_FONT_DECLARE(font_korean_16);
 
 static uint32_t get_tick_ms(void) {
     struct timespec ts;
@@ -18,21 +21,31 @@ static uint32_t get_tick_ms(void) {
 
 static void create_ui(void) {
     lv_obj_t *scr = lv_screen_active();
-    lv_obj_set_style_bg_color(scr, lv_color_hex(0x0D0D1A), 0);
+    lv_obj_set_style_bg_color(scr, lv_color_hex(0xFFFFFF), 0);
 
     lv_obj_t *tv = lv_tabview_create(scr);
     lv_tabview_set_tab_bar_position(tv, LV_DIR_BOTTOM);
     lv_tabview_set_tab_bar_size(tv, 40);
     lv_obj_set_size(tv, 240, 320);
-    lv_obj_set_style_bg_color(tv, lv_color_hex(0x0D0D1A), 0);
+    lv_obj_set_style_bg_color(tv, lv_color_hex(0xFFFFFF), 0);
 
     lv_obj_t *tab_bar = lv_tabview_get_tab_bar(tv);
-    lv_obj_set_style_bg_color(tab_bar, lv_color_hex(0x1A1A2E), 0);
+    lv_obj_set_style_bg_color(tab_bar, lv_color_hex(0xE0E0E0), 0);
     lv_obj_set_style_border_width(tab_bar, 0, 0);
 
     lv_obj_t *tab1 = lv_tabview_add_tab(tv, "NFC");
     lv_obj_t *tab2 = lv_tabview_add_tab(tv, "무게");
     lv_obj_t *tab3 = lv_tabview_add_tab(tv, "카메라");
+
+    // 탭 버튼에 한글 폰트 적용
+    lv_obj_t *btn;
+    lv_obj_t *btn_label;
+    uint32_t i;
+    for (i = 0; i < lv_obj_get_child_count(tab_bar); i++) {
+        btn = lv_obj_get_child(tab_bar, i);
+        btn_label = lv_obj_get_child(btn, 0);
+        lv_obj_set_style_text_font(btn_label, &font_korean_16, 0);
+    }
 
     ui_tab_nfc_create(tab1);
     ui_tab_weight_create(tab2);
@@ -59,6 +72,9 @@ int main(void) {
     app_nfc_init();
     app_nfc_start();
 
+    // HX711 초기화
+    hx711_init();
+
     create_ui();
 
     printf("루프 시작\n");
@@ -68,5 +84,6 @@ int main(void) {
     }
 
     app_nfc_stop();
+    hx711_close();
     return 0;
 }

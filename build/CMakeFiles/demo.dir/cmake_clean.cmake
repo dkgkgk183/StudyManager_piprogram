@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/demo.dir/app/app_hx711.c.o"
+  "CMakeFiles/demo.dir/app/app_hx711.c.o.d"
   "CMakeFiles/demo.dir/app/app_nfc.c.o"
   "CMakeFiles/demo.dir/app/app_nfc.c.o.d"
   "CMakeFiles/demo.dir/app/app_touch.c.o"
@@ -9,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/demo.dir/main.c.o.d"
   "CMakeFiles/demo.dir/ui/font_korean_16.c.o"
   "CMakeFiles/demo.dir/ui/font_korean_16.c.o.d"
+  "CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o"
+  "CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o.d"
   "CMakeFiles/demo.dir/ui/ui_tab_camera.c.o"
   "CMakeFiles/demo.dir/ui/ui_tab_camera.c.o.d"
   "CMakeFiles/demo.dir/ui/ui_tab_nfc.c.o"

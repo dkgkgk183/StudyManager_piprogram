@@ -13,8 +13,10 @@ add_executable(demo
     ui/ui_tab_weight.c
     ui/ui_tab_camera.c
     ui/font_korean_16.c
+    ui/lv_font_montserrat_32.c
     app/app_nfc.c
-    app/app_touch.c    # ← 추가
+    app/app_touch.c
+    app/app_hx711.c
 )
 
 target_link_libraries(demo PRIVATE lvgl gpiod m pthread)

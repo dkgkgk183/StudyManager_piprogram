@@ -226,6 +226,30 @@ lvgl_demos/fast:
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/build
 .PHONY : lvgl_demos/fast
 
+app/app_hx711.o: app/app_hx711.c.o
+.PHONY : app/app_hx711.o
+
+# target to build an object file
+app/app_hx711.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_hx711.c.o
+.PHONY : app/app_hx711.c.o
+
+app/app_hx711.i: app/app_hx711.c.i
+.PHONY : app/app_hx711.i
+
+# target to preprocess a source file
+app/app_hx711.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_hx711.c.i
+.PHONY : app/app_hx711.c.i
+
+app/app_hx711.s: app/app_hx711.c.s
+.PHONY : app/app_hx711.s
+
+# target to generate assembly for a file
+app/app_hx711.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_hx711.c.s
+.PHONY : app/app_hx711.c.s
+
 app/app_nfc.o: app/app_nfc.c.o
 .PHONY : app/app_nfc.o
 
@@ -346,6 +370,30 @@ ui/font_korean_16.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_16.c.s
 .PHONY : ui/font_korean_16.c.s
 
+ui/lv_font_montserrat_32.o: ui/lv_font_montserrat_32.c.o
+.PHONY : ui/lv_font_montserrat_32.o
+
+# target to build an object file
+ui/lv_font_montserrat_32.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o
+.PHONY : ui/lv_font_montserrat_32.c.o
+
+ui/lv_font_montserrat_32.i: ui/lv_font_montserrat_32.c.i
+.PHONY : ui/lv_font_montserrat_32.i
+
+# target to preprocess a source file
+ui/lv_font_montserrat_32.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.i
+.PHONY : ui/lv_font_montserrat_32.c.i
+
+ui/lv_font_montserrat_32.s: ui/lv_font_montserrat_32.c.s
+.PHONY : ui/lv_font_montserrat_32.s
+
+# target to generate assembly for a file
+ui/lv_font_montserrat_32.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.s
+.PHONY : ui/lv_font_montserrat_32.c.s
+
 ui/ui_tab_camera.o: ui/ui_tab_camera.c.o
 .PHONY : ui/ui_tab_camera.o
 
@@ -435,6 +483,9 @@ help:
 	@echo "... lvgl_demos"
 	@echo "... lvgl_examples"
 	@echo "... lvgl_thorvg"
+	@echo "... app/app_hx711.o"
+	@echo "... app/app_hx711.i"
+	@echo "... app/app_hx711.s"
 	@echo "... app/app_nfc.o"
 	@echo "... app/app_nfc.i"
 	@echo "... app/app_nfc.s"
@@ -450,6 +501,9 @@ help:
 	@echo "... ui/font_korean_16.o"
 	@echo "... ui/font_korean_16.i"
 	@echo "... ui/font_korean_16.s"
+	@echo "... ui/lv_font_montserrat_32.o"
+	@echo "... ui/lv_font_montserrat_32.i"
+	@echo "... ui/lv_font_montserrat_32.s"
 	@echo "... ui/ui_tab_camera.o"
 	@echo "... ui/ui_tab_camera.i"
 	@echo "... ui/ui_tab_camera.s"
