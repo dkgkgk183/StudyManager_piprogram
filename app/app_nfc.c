@@ -18,6 +18,8 @@ volatile NfcState g_nfc = {0};
 static int i2c_fd = -1;
 static pthread_t nfc_thread;
 static volatile bool running = false;
+static volatile int miss_count = 0;
+#define MISS_THRESHOLD 2  // 2번 연속 실패 시에만 태그 해제
 
 // ── 프레임 전송 ───────────────────────────────
 static bool pn532_send(uint8_t *data, int len) {
@@ -108,8 +110,13 @@ static void *nfc_thread_fn(void *arg) {
             g_nfc.tag_detected = true;
             g_nfc.uid_len = uid_len;
             strncpy((char *)g_nfc.uid_str, buf, sizeof(g_nfc.uid_str) - 1);
+            miss_count = 0;  // 리셋
         } else {
-            g_nfc.tag_detected = false;
+            miss_count++;
+            if (miss_count >= MISS_THRESHOLD) {
+                g_nfc.tag_detected = false;
+                miss_count = MISS_THRESHOLD;  // 더 이상 증가하지 않도록
+            }
         }
         usleep(200000);
     }
