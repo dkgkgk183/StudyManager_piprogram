@@ -9,10 +9,9 @@ add_subdirectory(lvgl)
 add_executable(demo
     main.c
     ili9341.c
-    ui/ui_tab_nfc.c
-    ui/ui_tab_weight.c
-    ui/ui_tab_camera.c
+    ui/ui_screen_intro.c
     ui/font_korean_16.c
+    ui/font_korean_20.c
     ui/lv_font_montserrat_32.c
     app/app_nfc.c
     app/app_touch.c

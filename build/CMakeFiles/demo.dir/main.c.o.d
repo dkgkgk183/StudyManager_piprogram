@@ -490,11 +490,9 @@ CMakeFiles/demo.dir/main.c.o: /home/dkgkgk183/lvgl_project/main.c \
  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
  /home/dkgkgk183/lvgl_project/ili9341.h \
- /home/dkgkgk183/lvgl_project/ui/ui_tab_nfc.h \
+ /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.h \
  /home/dkgkgk183/lvgl_project/ui/../lvgl/lvgl.h \
  /home/dkgkgk183/lvgl_project/ui/../lvgl/include/lvgl/lvgl.h \
- /home/dkgkgk183/lvgl_project/ui/ui_tab_weight.h \
- /home/dkgkgk183/lvgl_project/ui/ui_tab_camera.h \
  /home/dkgkgk183/lvgl_project/app/app_nfc.h \
  /home/dkgkgk183/lvgl_project/app/app_touch.h \
  /home/dkgkgk183/lvgl_project/app/../lvgl/lvgl.h \

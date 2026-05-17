@@ -370,6 +370,30 @@ ui/font_korean_16.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_16.c.s
 .PHONY : ui/font_korean_16.c.s
 
+ui/font_korean_20.o: ui/font_korean_20.c.o
+.PHONY : ui/font_korean_20.o
+
+# target to build an object file
+ui/font_korean_20.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_20.c.o
+.PHONY : ui/font_korean_20.c.o
+
+ui/font_korean_20.i: ui/font_korean_20.c.i
+.PHONY : ui/font_korean_20.i
+
+# target to preprocess a source file
+ui/font_korean_20.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_20.c.i
+.PHONY : ui/font_korean_20.c.i
+
+ui/font_korean_20.s: ui/font_korean_20.c.s
+.PHONY : ui/font_korean_20.s
+
+# target to generate assembly for a file
+ui/font_korean_20.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_20.c.s
+.PHONY : ui/font_korean_20.c.s
+
 ui/lv_font_montserrat_32.o: ui/lv_font_montserrat_32.c.o
 .PHONY : ui/lv_font_montserrat_32.o
 
@@ -394,77 +418,29 @@ ui/lv_font_montserrat_32.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.s
 .PHONY : ui/lv_font_montserrat_32.c.s
 
-ui/ui_tab_camera.o: ui/ui_tab_camera.c.o
-.PHONY : ui/ui_tab_camera.o
+ui/ui_screen_intro.o: ui/ui_screen_intro.c.o
+.PHONY : ui/ui_screen_intro.o
 
 # target to build an object file
-ui/ui_tab_camera.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_camera.c.o
-.PHONY : ui/ui_tab_camera.c.o
+ui/ui_screen_intro.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_intro.c.o
+.PHONY : ui/ui_screen_intro.c.o
 
-ui/ui_tab_camera.i: ui/ui_tab_camera.c.i
-.PHONY : ui/ui_tab_camera.i
-
-# target to preprocess a source file
-ui/ui_tab_camera.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_camera.c.i
-.PHONY : ui/ui_tab_camera.c.i
-
-ui/ui_tab_camera.s: ui/ui_tab_camera.c.s
-.PHONY : ui/ui_tab_camera.s
-
-# target to generate assembly for a file
-ui/ui_tab_camera.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_camera.c.s
-.PHONY : ui/ui_tab_camera.c.s
-
-ui/ui_tab_nfc.o: ui/ui_tab_nfc.c.o
-.PHONY : ui/ui_tab_nfc.o
-
-# target to build an object file
-ui/ui_tab_nfc.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_nfc.c.o
-.PHONY : ui/ui_tab_nfc.c.o
-
-ui/ui_tab_nfc.i: ui/ui_tab_nfc.c.i
-.PHONY : ui/ui_tab_nfc.i
+ui/ui_screen_intro.i: ui/ui_screen_intro.c.i
+.PHONY : ui/ui_screen_intro.i
 
 # target to preprocess a source file
-ui/ui_tab_nfc.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_nfc.c.i
-.PHONY : ui/ui_tab_nfc.c.i
+ui/ui_screen_intro.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_intro.c.i
+.PHONY : ui/ui_screen_intro.c.i
 
-ui/ui_tab_nfc.s: ui/ui_tab_nfc.c.s
-.PHONY : ui/ui_tab_nfc.s
-
-# target to generate assembly for a file
-ui/ui_tab_nfc.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_nfc.c.s
-.PHONY : ui/ui_tab_nfc.c.s
-
-ui/ui_tab_weight.o: ui/ui_tab_weight.c.o
-.PHONY : ui/ui_tab_weight.o
-
-# target to build an object file
-ui/ui_tab_weight.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_weight.c.o
-.PHONY : ui/ui_tab_weight.c.o
-
-ui/ui_tab_weight.i: ui/ui_tab_weight.c.i
-.PHONY : ui/ui_tab_weight.i
-
-# target to preprocess a source file
-ui/ui_tab_weight.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_weight.c.i
-.PHONY : ui/ui_tab_weight.c.i
-
-ui/ui_tab_weight.s: ui/ui_tab_weight.c.s
-.PHONY : ui/ui_tab_weight.s
+ui/ui_screen_intro.s: ui/ui_screen_intro.c.s
+.PHONY : ui/ui_screen_intro.s
 
 # target to generate assembly for a file
-ui/ui_tab_weight.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_tab_weight.c.s
-.PHONY : ui/ui_tab_weight.c.s
+ui/ui_screen_intro.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_intro.c.s
+.PHONY : ui/ui_screen_intro.c.s
 
 # Help Target
 help:
@@ -501,18 +477,15 @@ help:
 	@echo "... ui/font_korean_16.o"
 	@echo "... ui/font_korean_16.i"
 	@echo "... ui/font_korean_16.s"
+	@echo "... ui/font_korean_20.o"
+	@echo "... ui/font_korean_20.i"
+	@echo "... ui/font_korean_20.s"
 	@echo "... ui/lv_font_montserrat_32.o"
 	@echo "... ui/lv_font_montserrat_32.i"
 	@echo "... ui/lv_font_montserrat_32.s"
-	@echo "... ui/ui_tab_camera.o"
-	@echo "... ui/ui_tab_camera.i"
-	@echo "... ui/ui_tab_camera.s"
-	@echo "... ui/ui_tab_nfc.o"
-	@echo "... ui/ui_tab_nfc.i"
-	@echo "... ui/ui_tab_nfc.s"
-	@echo "... ui/ui_tab_weight.o"
-	@echo "... ui/ui_tab_weight.i"
-	@echo "... ui/ui_tab_weight.s"
+	@echo "... ui/ui_screen_intro.o"
+	@echo "... ui/ui_screen_intro.i"
+	@echo "... ui/ui_screen_intro.s"
 .PHONY : help
 
 

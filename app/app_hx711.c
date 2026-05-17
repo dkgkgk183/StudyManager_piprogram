@@ -11,8 +11,8 @@ static struct gpiod_line *sck_line = NULL;
 static struct gpiod_chip *chip = NULL;
 
 // 보정 값
-int32_t hx711_offset = 180000;
-float hx711_scale = 0.0002727f;  // 210g / 770000 unit
+int32_t hx711_offset = 183300;
+float hx711_scale = 0.0003161f;
 
 // 짧은 딜레이 (microsecond 단위, busy-wait)
 static void delay_us(int us) {
