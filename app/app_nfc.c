@@ -94,10 +94,39 @@ static int pn532_read_target(uint8_t *uid_out) {
     return id_len;
 }
 
+// ── PN532 재연결 시도 ─────────────────────────
+static bool pn532_try_connect(void) {
+    if (i2c_fd >= 0) {
+        close(i2c_fd);
+        i2c_fd = -1;
+    }
+    i2c_fd = open(PN532_I2C_BUS, O_RDWR);
+    if (i2c_fd < 0) return false;
+    if (ioctl(i2c_fd, I2C_SLAVE, PN532_I2C_ADDR) < 0) {
+        close(i2c_fd);
+        i2c_fd = -1;
+        return false;
+    }
+    usleep(100000);
+    if (!pn532_sam_config()) return false;
+    g_nfc.connected = true;
+    printf("PN532 재연결 성공!\n");
+    return true;
+}
+
 // ── 백그라운드 폴링 스레드 ─────────────────────
 static void *nfc_thread_fn(void *arg) {
     (void)arg;
     while (running) {
+        // 연결 안 됐으면 재시도 (3초 간격)
+        if (!g_nfc.connected) {
+            pn532_try_connect();
+            if (!g_nfc.connected) {
+                usleep(3000000);
+                continue;
+            }
+        }
+
         uint8_t uid[7];
         int uid_len = pn532_read_target(uid);
         if (uid_len > 0) {
@@ -110,12 +139,15 @@ static void *nfc_thread_fn(void *arg) {
             g_nfc.tag_detected = true;
             g_nfc.uid_len = uid_len;
             strncpy((char *)g_nfc.uid_str, buf, sizeof(g_nfc.uid_str) - 1);
-            miss_count = 0;  // 리셋
+            miss_count = 0;
+        } else if (uid_len < 0) {
+            // 통신 에러 → 연결 끊김으로 판단
+            g_nfc.connected = false;
         } else {
             miss_count++;
             if (miss_count >= MISS_THRESHOLD) {
                 g_nfc.tag_detected = false;
-                miss_count = MISS_THRESHOLD;  // 더 이상 증가하지 않도록
+                miss_count = MISS_THRESHOLD;
             }
         }
         usleep(200000);
@@ -125,20 +157,12 @@ static void *nfc_thread_fn(void *arg) {
 
 // ── 공개 함수 ─────────────────────────────────
 bool app_nfc_init(void) {
-    i2c_fd = open(PN532_I2C_BUS, O_RDWR);
-    if (i2c_fd < 0 || ioctl(i2c_fd, I2C_SLAVE, PN532_I2C_ADDR) < 0) {
-        g_nfc.connected = false;
-        return false;
+    if (pn532_try_connect()) {
+        return true;
     }
-    usleep(100000);
-    if (!pn532_sam_config()) {
-        g_nfc.connected = false;
-        fprintf(stderr, "PN532 SAM 설정 실패 - I2C 연결 확인\n");
-        return false;
-    }
-    g_nfc.connected = true;
-    printf("PN532 연결 성공!\n");
-    return true;
+    g_nfc.connected = false;
+    fprintf(stderr, "PN532 초기 연결 실패 - 스레드에서 재시도합니다\n");
+    return true;  // 실패해도 true 반환, 스레드가 재시도
 }
 
 void app_nfc_start(void) {
