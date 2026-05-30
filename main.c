@@ -4,12 +4,13 @@
 #include <time.h>
 #include "lvgl/lvgl.h"
 #include "ili9341.h"
-#include "ui/ui_screen_intro.h"
+#include "ui/ui_screen_idle.h"
+#include "ui/ui_screen_beforestudy.h"
+#include "ui/ui_screen_calibrate.h"
 #include "app/app_nfc.h"
 #include "app/app_touch.h"
-#include "app/app_hx711.h"   // ← HX711 추가
-
-LV_FONT_DECLARE(font_korean_16);
+#include "app/app_hx711.h"
+#include "app/app_motor.h"
 
 static uint32_t get_tick_ms(void) {
     struct timespec ts;
@@ -18,7 +19,6 @@ static uint32_t get_tick_ms(void) {
 }
 
 int main(void) {
-    printf("시작\n");
     lv_init();
     lv_tick_set_cb(get_tick_ms);
     ili9341_init();
@@ -28,7 +28,6 @@ int main(void) {
     lv_display_set_flush_cb(disp, ili9341_flush);
     lv_display_set_buffers(disp, buf, NULL, sizeof(buf), LV_DISPLAY_RENDER_MODE_PARTIAL);
 
-    // 터치 입력 장치 등록
     app_touch_init();
     lv_indev_t *indev = lv_indev_create();
     lv_indev_set_type(indev, LV_INDEV_TYPE_POINTER);
@@ -36,18 +35,17 @@ int main(void) {
 
     app_nfc_init();
     app_nfc_start();
-
-    // HX711 초기화
     hx711_init();
+    app_motor_init();
 
-    create_study_manager_ui();
+    ui_screen_beforestudy_create();
 
-    printf("루프 시작\n");
     while (1) {
         lv_timer_handler();
         usleep(5000);
     }
 
+    app_motor_cleanup();
     app_nfc_stop();
     hx711_close();
     return 0;
