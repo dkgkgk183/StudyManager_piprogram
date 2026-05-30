@@ -11,10 +11,10 @@
 #define PIN_IRQ  18
 
 // 캘리브레이션 (화면 안맞으면 조정)
-#define X_MIN  200
-#define X_MAX  3800
-#define Y_MIN  200
-#define Y_MAX  3800
+#define X_MIN  506
+#define X_MAX  3217
+#define Y_MIN  618
+#define Y_MAX  3592
 #define SCREEN_W 240
 #define SCREEN_H 320
 
@@ -50,7 +50,7 @@ static uint16_t xpt2046_transfer(uint8_t cmd) {
     return result >> 3; // 12비트 결과
 }
 
-static bool xpt2046_read_raw(int16_t *rx, int16_t *ry) {
+bool xpt2046_read_raw(int16_t *rx, int16_t *ry) {
     // IRQ 핀 확인 (LOW면 터치됨)
     if (gpiod_line_get_value(irq_line) != 0) return false;
 
@@ -89,7 +89,6 @@ void app_touch_init(void) {
     gpiod_line_request_output(cs_line,  "touch", 1);
     gpiod_line_request_input(irq_line,  "touch");
 
-    printf("터치 드라이버 초기화 완료\n");
 }
 
 void app_touch_read(lv_indev_t *indev, lv_indev_data_t *data) {
@@ -105,7 +104,7 @@ void app_touch_read(lv_indev_t *indev, lv_indev_data_t *data) {
         if (raw_y > Y_MAX) raw_y = Y_MAX;
 
         last_x = (int16_t)((raw_x - X_MIN) * SCREEN_W / (X_MAX - X_MIN));
-        last_y = (int16_t)((raw_y - Y_MIN) * SCREEN_H / (Y_MAX - Y_MIN));
+        last_y = (int16_t)(SCREEN_H - 1 - (raw_y - Y_MIN) * SCREEN_H / (Y_MAX - Y_MIN));
 
         data->state = LV_INDEV_STATE_PRESSED;
     } else {
