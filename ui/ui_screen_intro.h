@@ -2,4 +2,5 @@
 #define UI_SCREEN_INTRO_H
 #include "../lvgl/lvgl.h"
 void create_study_manager_ui(void);
+void ui_screen_intro_resume(void);
 #endif
