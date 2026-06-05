@@ -19,9 +19,17 @@ static int i2c_fd = -1;
 static pthread_t nfc_thread;
 static volatile bool running = false;
 static volatile int miss_count = 0;
-#define MISS_THRESHOLD 2  // 2번 연속 실패 시에만 태그 해제
+#define MISS_THRESHOLD 2
 
-// ── 프레임 전송 ───────────────────────────────
+static bool pn532_wait_ready(int timeout_ms) {
+    uint8_t status = 0;
+    for (int i = 0; i < timeout_ms / 10; i++) {
+        if (read(i2c_fd, &status, 1) == 1 && (status & 0x01)) return true;
+        usleep(10000);
+    }
+    return false;
+}
+
 static bool pn532_send(uint8_t *data, int len) {
     uint8_t frame[len + 8];
     int fi = 0;
@@ -37,35 +45,22 @@ static bool pn532_send(uint8_t *data, int len) {
     return write(i2c_fd, frame, fi) == fi;
 }
 
-// ── 준비 대기 ─────────────────────────────────
-static bool pn532_wait_ready(int timeout_ms) {
-    uint8_t status = 0;
-    for (int i = 0; i < timeout_ms / 10; i++) {
-        if (read(i2c_fd, &status, 1) == 1 && (status & 0x01)) return true;
-        usleep(10000);
-    }
-    return false;
-}
-
-// ── 응답 수신 ─────────────────────────────────
-// STATUS(1) + preamble(3) + LEN + LCS + TFI + CMD + data... + DCS + postamble
-static int pn532_recv(uint8_t *buf, int max_len) {
-    if (!pn532_wait_ready(500)) return -1;
-    uint8_t tmp[64] = {0};
-    if (read(i2c_fd, tmp, sizeof(tmp)) < 8) return -1;
-    int data_len = tmp[4] - 2; // TFI + CMD 제외
-    if (data_len < 0 || data_len > max_len) return -1;
-    memcpy(buf, tmp + 8, data_len);
-    return data_len;
-}
-
 static bool pn532_read_ack(void) {
     if (!pn532_wait_ready(200)) return false;
     uint8_t ack[7];
     return read(i2c_fd, ack, sizeof(ack)) == 7;
 }
 
-// ── SAM Configuration ─────────────────────────
+static int pn532_recv(uint8_t *buf, int max_len) {
+    if (!pn532_wait_ready(500)) return -1;
+    uint8_t tmp[64] = {0};
+    if (read(i2c_fd, tmp, sizeof(tmp)) < 8) return -1;
+    int data_len = tmp[4] - 2;
+    if (data_len < 0 || data_len > max_len) return -1;
+    memcpy(buf, tmp + 8, data_len);
+    return data_len;
+}
+
 static bool pn532_sam_config(void) {
     uint8_t cmd[] = {PN532_HOSTTOPN532, CMD_SAMCONFIGURATION, 0x01, 0x14, 0x01};
     if (!pn532_send(cmd, sizeof(cmd))) return false;
@@ -74,27 +69,20 @@ static bool pn532_sam_config(void) {
     return pn532_recv(resp, sizeof(resp)) >= 0;
 }
 
-// ── 태그 읽기 ─────────────────────────────────
-// 반환값: UID 길이 (>0=태그있음, 0=없음, -1=에러)
 static int pn532_read_target(uint8_t *uid_out) {
     uint8_t cmd[] = {PN532_HOSTTOPN532, CMD_INLISTPASSIVETARGET, 0x01, 0x00};
     if (!pn532_send(cmd, sizeof(cmd))) return -1;
     if (!pn532_read_ack()) return -1;
-
     uint8_t resp[32];
     int len = pn532_recv(resp, sizeof(resp));
-    if (len < 1 || resp[0] == 0) return 0; // 태그 없음
-
-    // resp: [NumTg, Tg, ATQA(2), SAK, IDLen, ID...]
+    if (len < 1 || resp[0] == 0) return 0;
     if (len < 7) return 0;
     uint8_t id_len = resp[5];
     if (id_len > 7 || len < (int)(6 + id_len)) return 0;
-
     memcpy(uid_out, resp + 6, id_len);
     return id_len;
 }
 
-// ── PN532 재연결 시도 ─────────────────────────
 static bool pn532_try_connect(void) {
     if (i2c_fd >= 0) {
         close(i2c_fd);
@@ -110,15 +98,12 @@ static bool pn532_try_connect(void) {
     usleep(100000);
     if (!pn532_sam_config()) return false;
     g_nfc.connected = true;
-    printf("PN532 재연결 성공!\n");
     return true;
 }
 
-// ── 백그라운드 폴링 스레드 ─────────────────────
 static void *nfc_thread_fn(void *arg) {
     (void)arg;
     while (running) {
-        // 연결 안 됐으면 재시도 (3초 간격)
         if (!g_nfc.connected) {
             pn532_try_connect();
             if (!g_nfc.connected) {
@@ -141,7 +126,6 @@ static void *nfc_thread_fn(void *arg) {
             strncpy((char *)g_nfc.uid_str, buf, sizeof(g_nfc.uid_str) - 1);
             miss_count = 0;
         } else if (uid_len < 0) {
-            // 통신 에러 → 연결 끊김으로 판단
             g_nfc.connected = false;
         } else {
             miss_count++;
@@ -155,14 +139,10 @@ static void *nfc_thread_fn(void *arg) {
     return NULL;
 }
 
-// ── 공개 함수 ─────────────────────────────────
 bool app_nfc_init(void) {
-    if (pn532_try_connect()) {
-        return true;
-    }
+    if (pn532_try_connect()) return true;
     g_nfc.connected = false;
-    fprintf(stderr, "PN532 초기 연결 실패 - 스레드에서 재시도합니다\n");
-    return true;  // 실패해도 true 반환, 스레드가 재시도
+    return true;
 }
 
 void app_nfc_start(void) {

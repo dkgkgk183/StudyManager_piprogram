@@ -19,14 +19,20 @@ add_executable(demo
     ui/ui_screen_study_plan.c
     ui/ui_screen_beforestudy.c
     ui/ui_screen_calibrate.c
+    ui/ui_screen_studying.c
+    ui/ui_screen_records.c
+    ui/ui_screen_done.c
+    ui/ui_screen_nfc_test.c
     ui/font_korean_16.c
     ui/font_korean_20.c
+    ui/font_korean_20_bold.c
     ui/lv_font_montserrat_32.c
     app/app_nfc.c
     app/app_touch.c
     app/app_hx711.c
     app/app_supabase.c
     app/app_motor.c
+    app/app_sessions.c
 )
 
 target_include_directories(demo PRIVATE
