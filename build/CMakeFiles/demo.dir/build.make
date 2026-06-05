@@ -111,10 +111,136 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_intro.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.c -o CMakeFiles/demo.dir/ui/ui_screen_intro.c.s
 
+CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.c
+CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.c
+
+CMakeFiles/demo.dir/ui/ui_screen_device_select.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_device_select.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.c > CMakeFiles/demo.dir/ui/ui_screen_device_select.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_device_select.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_device_select.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.c -o CMakeFiles/demo.dir/ui/ui_screen_device_select.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_idle.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_idle.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.c
+CMakeFiles/demo.dir/ui/ui_screen_idle.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/demo.dir/ui/ui_screen_idle.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_idle.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_idle.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_idle.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.c
+
+CMakeFiles/demo.dir/ui/ui_screen_idle.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_idle.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.c > CMakeFiles/demo.dir/ui/ui_screen_idle.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_idle.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_idle.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.c -o CMakeFiles/demo.dir/ui/ui_screen_idle.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.c
+CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.c
+
+CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.c > CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.c -o CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.c
+CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.c
+
+CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.c > CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.c -o CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.c
+CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.c
+
+CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.c > CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.c -o CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_studying.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_studying.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_studying.c
+CMakeFiles/demo.dir/ui/ui_screen_studying.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/demo.dir/ui/ui_screen_studying.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_studying.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_studying.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_studying.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_studying.c
+
+CMakeFiles/demo.dir/ui/ui_screen_studying.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_studying.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_studying.c > CMakeFiles/demo.dir/ui/ui_screen_studying.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_studying.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_studying.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_studying.c -o CMakeFiles/demo.dir/ui/ui_screen_studying.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_records.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_records.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_records.c
+CMakeFiles/demo.dir/ui/ui_screen_records.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/demo.dir/ui/ui_screen_records.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_records.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_records.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_records.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_records.c
+
+CMakeFiles/demo.dir/ui/ui_screen_records.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_records.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_records.c > CMakeFiles/demo.dir/ui/ui_screen_records.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_records.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_records.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_records.c -o CMakeFiles/demo.dir/ui/ui_screen_records.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_done.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_done.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_done.c
+CMakeFiles/demo.dir/ui/ui_screen_done.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/demo.dir/ui/ui_screen_done.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_done.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_done.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_done.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_done.c
+
+CMakeFiles/demo.dir/ui/ui_screen_done.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_done.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_done.c > CMakeFiles/demo.dir/ui/ui_screen_done.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_done.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_done.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_done.c -o CMakeFiles/demo.dir/ui/ui_screen_done.c.s
+
+CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.c
+CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o -MF CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o.d -o CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o -c /home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.c
+
+CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.c > CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.i
+
+CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.c -o CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.s
+
 CMakeFiles/demo.dir/ui/font_korean_16.c.o: CMakeFiles/demo.dir/flags.make
 CMakeFiles/demo.dir/ui/font_korean_16.c.o: /home/dkgkgk183/lvgl_project/ui/font_korean_16.c
 CMakeFiles/demo.dir/ui/font_korean_16.c.o: CMakeFiles/demo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/demo.dir/ui/font_korean_16.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/demo.dir/ui/font_korean_16.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/font_korean_16.c.o -MF CMakeFiles/demo.dir/ui/font_korean_16.c.o.d -o CMakeFiles/demo.dir/ui/font_korean_16.c.o -c /home/dkgkgk183/lvgl_project/ui/font_korean_16.c
 
 CMakeFiles/demo.dir/ui/font_korean_16.c.i: cmake_force
@@ -128,7 +254,7 @@ CMakeFiles/demo.dir/ui/font_korean_16.c.s: cmake_force
 CMakeFiles/demo.dir/ui/font_korean_20.c.o: CMakeFiles/demo.dir/flags.make
 CMakeFiles/demo.dir/ui/font_korean_20.c.o: /home/dkgkgk183/lvgl_project/ui/font_korean_20.c
 CMakeFiles/demo.dir/ui/font_korean_20.c.o: CMakeFiles/demo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/demo.dir/ui/font_korean_20.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/demo.dir/ui/font_korean_20.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/font_korean_20.c.o -MF CMakeFiles/demo.dir/ui/font_korean_20.c.o.d -o CMakeFiles/demo.dir/ui/font_korean_20.c.o -c /home/dkgkgk183/lvgl_project/ui/font_korean_20.c
 
 CMakeFiles/demo.dir/ui/font_korean_20.c.i: cmake_force
@@ -139,10 +265,24 @@ CMakeFiles/demo.dir/ui/font_korean_20.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/font_korean_20.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/font_korean_20.c -o CMakeFiles/demo.dir/ui/font_korean_20.c.s
 
+CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o: /home/dkgkgk183/lvgl_project/ui/font_korean_20_bold.c
+CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o -MF CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o.d -o CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o -c /home/dkgkgk183/lvgl_project/ui/font_korean_20_bold.c
+
+CMakeFiles/demo.dir/ui/font_korean_20_bold.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/ui/font_korean_20_bold.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/ui/font_korean_20_bold.c > CMakeFiles/demo.dir/ui/font_korean_20_bold.c.i
+
+CMakeFiles/demo.dir/ui/font_korean_20_bold.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/ui/font_korean_20_bold.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/ui/font_korean_20_bold.c -o CMakeFiles/demo.dir/ui/font_korean_20_bold.c.s
+
 CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o: CMakeFiles/demo.dir/flags.make
 CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o: /home/dkgkgk183/lvgl_project/ui/lv_font_montserrat_32.c
 CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o: CMakeFiles/demo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o -MF CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o.d -o CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o -c /home/dkgkgk183/lvgl_project/ui/lv_font_montserrat_32.c
 
 CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.i: cmake_force
@@ -156,7 +296,7 @@ CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.s: cmake_force
 CMakeFiles/demo.dir/app/app_nfc.c.o: CMakeFiles/demo.dir/flags.make
 CMakeFiles/demo.dir/app/app_nfc.c.o: /home/dkgkgk183/lvgl_project/app/app_nfc.c
 CMakeFiles/demo.dir/app/app_nfc.c.o: CMakeFiles/demo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/demo.dir/app/app_nfc.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/demo.dir/app/app_nfc.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/app/app_nfc.c.o -MF CMakeFiles/demo.dir/app/app_nfc.c.o.d -o CMakeFiles/demo.dir/app/app_nfc.c.o -c /home/dkgkgk183/lvgl_project/app/app_nfc.c
 
 CMakeFiles/demo.dir/app/app_nfc.c.i: cmake_force
@@ -170,7 +310,7 @@ CMakeFiles/demo.dir/app/app_nfc.c.s: cmake_force
 CMakeFiles/demo.dir/app/app_touch.c.o: CMakeFiles/demo.dir/flags.make
 CMakeFiles/demo.dir/app/app_touch.c.o: /home/dkgkgk183/lvgl_project/app/app_touch.c
 CMakeFiles/demo.dir/app/app_touch.c.o: CMakeFiles/demo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/demo.dir/app/app_touch.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/demo.dir/app/app_touch.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/app/app_touch.c.o -MF CMakeFiles/demo.dir/app/app_touch.c.o.d -o CMakeFiles/demo.dir/app/app_touch.c.o -c /home/dkgkgk183/lvgl_project/app/app_touch.c
 
 CMakeFiles/demo.dir/app/app_touch.c.i: cmake_force
@@ -184,7 +324,7 @@ CMakeFiles/demo.dir/app/app_touch.c.s: cmake_force
 CMakeFiles/demo.dir/app/app_hx711.c.o: CMakeFiles/demo.dir/flags.make
 CMakeFiles/demo.dir/app/app_hx711.c.o: /home/dkgkgk183/lvgl_project/app/app_hx711.c
 CMakeFiles/demo.dir/app/app_hx711.c.o: CMakeFiles/demo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/demo.dir/app/app_hx711.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/demo.dir/app/app_hx711.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/app/app_hx711.c.o -MF CMakeFiles/demo.dir/app/app_hx711.c.o.d -o CMakeFiles/demo.dir/app/app_hx711.c.o -c /home/dkgkgk183/lvgl_project/app/app_hx711.c
 
 CMakeFiles/demo.dir/app/app_hx711.c.i: cmake_force
@@ -195,17 +335,72 @@ CMakeFiles/demo.dir/app/app_hx711.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/app/app_hx711.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/app/app_hx711.c -o CMakeFiles/demo.dir/app/app_hx711.c.s
 
+CMakeFiles/demo.dir/app/app_supabase.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/app/app_supabase.c.o: /home/dkgkgk183/lvgl_project/app/app_supabase.c
+CMakeFiles/demo.dir/app/app_supabase.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/demo.dir/app/app_supabase.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/app/app_supabase.c.o -MF CMakeFiles/demo.dir/app/app_supabase.c.o.d -o CMakeFiles/demo.dir/app/app_supabase.c.o -c /home/dkgkgk183/lvgl_project/app/app_supabase.c
+
+CMakeFiles/demo.dir/app/app_supabase.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/app/app_supabase.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/app/app_supabase.c > CMakeFiles/demo.dir/app/app_supabase.c.i
+
+CMakeFiles/demo.dir/app/app_supabase.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/app/app_supabase.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/app/app_supabase.c -o CMakeFiles/demo.dir/app/app_supabase.c.s
+
+CMakeFiles/demo.dir/app/app_motor.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/app/app_motor.c.o: /home/dkgkgk183/lvgl_project/app/app_motor.c
+CMakeFiles/demo.dir/app/app_motor.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/demo.dir/app/app_motor.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/app/app_motor.c.o -MF CMakeFiles/demo.dir/app/app_motor.c.o.d -o CMakeFiles/demo.dir/app/app_motor.c.o -c /home/dkgkgk183/lvgl_project/app/app_motor.c
+
+CMakeFiles/demo.dir/app/app_motor.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/app/app_motor.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/app/app_motor.c > CMakeFiles/demo.dir/app/app_motor.c.i
+
+CMakeFiles/demo.dir/app/app_motor.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/app/app_motor.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/app/app_motor.c -o CMakeFiles/demo.dir/app/app_motor.c.s
+
+CMakeFiles/demo.dir/app/app_sessions.c.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/app/app_sessions.c.o: /home/dkgkgk183/lvgl_project/app/app_sessions.c
+CMakeFiles/demo.dir/app/app_sessions.c.o: CMakeFiles/demo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/demo.dir/app/app_sessions.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/demo.dir/app/app_sessions.c.o -MF CMakeFiles/demo.dir/app/app_sessions.c.o.d -o CMakeFiles/demo.dir/app/app_sessions.c.o -c /home/dkgkgk183/lvgl_project/app/app_sessions.c
+
+CMakeFiles/demo.dir/app/app_sessions.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/demo.dir/app/app_sessions.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dkgkgk183/lvgl_project/app/app_sessions.c > CMakeFiles/demo.dir/app/app_sessions.c.i
+
+CMakeFiles/demo.dir/app/app_sessions.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/demo.dir/app/app_sessions.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dkgkgk183/lvgl_project/app/app_sessions.c -o CMakeFiles/demo.dir/app/app_sessions.c.s
+
 # Object files for target demo
 demo_OBJECTS = \
 "CMakeFiles/demo.dir/main.c.o" \
 "CMakeFiles/demo.dir/ili9341.c.o" \
 "CMakeFiles/demo.dir/ui/ui_screen_intro.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_idle.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_studying.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_records.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_done.c.o" \
+"CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o" \
 "CMakeFiles/demo.dir/ui/font_korean_16.c.o" \
 "CMakeFiles/demo.dir/ui/font_korean_20.c.o" \
+"CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o" \
 "CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o" \
 "CMakeFiles/demo.dir/app/app_nfc.c.o" \
 "CMakeFiles/demo.dir/app/app_touch.c.o" \
-"CMakeFiles/demo.dir/app/app_hx711.c.o"
+"CMakeFiles/demo.dir/app/app_hx711.c.o" \
+"CMakeFiles/demo.dir/app/app_supabase.c.o" \
+"CMakeFiles/demo.dir/app/app_motor.c.o" \
+"CMakeFiles/demo.dir/app/app_sessions.c.o"
 
 # External object files for target demo
 demo_EXTERNAL_OBJECTS =
@@ -213,12 +408,25 @@ demo_EXTERNAL_OBJECTS =
 demo: CMakeFiles/demo.dir/main.c.o
 demo: CMakeFiles/demo.dir/ili9341.c.o
 demo: CMakeFiles/demo.dir/ui/ui_screen_intro.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_idle.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_studying.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_records.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_done.c.o
+demo: CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o
 demo: CMakeFiles/demo.dir/ui/font_korean_16.c.o
 demo: CMakeFiles/demo.dir/ui/font_korean_20.c.o
+demo: CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o
 demo: CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o
 demo: CMakeFiles/demo.dir/app/app_nfc.c.o
 demo: CMakeFiles/demo.dir/app/app_touch.c.o
 demo: CMakeFiles/demo.dir/app/app_hx711.c.o
+demo: CMakeFiles/demo.dir/app/app_supabase.c.o
+demo: CMakeFiles/demo.dir/app/app_motor.c.o
+demo: CMakeFiles/demo.dir/app/app_sessions.c.o
 demo: CMakeFiles/demo.dir/build.make
 demo: lvgl/lib/liblvgl.a
 demo: lvgl/lib/liblvgl_thorvg.a
@@ -229,7 +437,7 @@ demo: lvgl/lib/liblvgl_thorvg.a
 demo: lvgl/lib/liblvgl_examples.a
 demo: lvgl/lib/liblvgl_demos.a
 demo: CMakeFiles/demo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dkgkgk183/lvgl_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable demo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/demo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

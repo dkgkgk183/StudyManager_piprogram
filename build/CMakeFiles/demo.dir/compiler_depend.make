@@ -56,6 +56,86 @@ CMakeFiles/demo.dir/app/app_hx711.c.o: /home/dkgkgk183/lvgl_project/app/app_hx71
   /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
   /usr/include/string.h
 
+CMakeFiles/demo.dir/app/app_motor.c.o: /home/dkgkgk183/lvgl_project/app/app_motor.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/app/app_motor.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/gpiod.h \
+  /usr/include/stdlib.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
+  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/aarch64-linux-gnu/sys/types.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
+  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/aarch64-linux-gnu/sys/select.h \
+  /usr/include/aarch64-linux-gnu/bits/select.h \
+  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/alloca.h \
+  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/stdio.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/unistd.h \
+  /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
+  /usr/include/aarch64-linux-gnu/bits/environments.h \
+  /usr/include/aarch64-linux-gnu/bits/confname.h \
+  /usr/include/aarch64-linux-gnu/bits/getopt_posix.h \
+  /usr/include/aarch64-linux-gnu/bits/getopt_core.h \
+  /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_sched_param.h \
+  /usr/include/aarch64-linux-gnu/bits/cpu-set.h \
+  /usr/include/aarch64-linux-gnu/bits/setjmp.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h
+
 CMakeFiles/demo.dir/app/app_nfc.c.o: /home/dkgkgk183/lvgl_project/app/app_nfc.c \
   /usr/include/stdc-predef.h \
   /home/dkgkgk183/lvgl_project/app/app_nfc.h \
@@ -152,6 +232,638 @@ CMakeFiles/demo.dir/app/app_nfc.c.o: /home/dkgkgk183/lvgl_project/app/app_nfc.c 
   /usr/include/aarch64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
   /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
   /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h
+
+CMakeFiles/demo.dir/app/app_sessions.c.o: /home/dkgkgk183/lvgl_project/app/app_sessions.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/time.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/timex.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/stdio.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/stdlib.h \
+  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
+  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
+  /usr/include/aarch64-linux-gnu/sys/types.h \
+  /usr/include/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
+  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/aarch64-linux-gnu/sys/select.h \
+  /usr/include/aarch64-linux-gnu/bits/select.h \
+  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/alloca.h \
+  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/xopen_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/uio_lim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /usr/include/cjson/cJSON.h
+
+CMakeFiles/demo.dir/app/app_supabase.c.o: /home/dkgkgk183/lvgl_project/app/app_supabase.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/time.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/timex.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/stdio.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/stdlib.h \
+  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
+  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
+  /usr/include/aarch64-linux-gnu/sys/types.h \
+  /usr/include/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
+  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/aarch64-linux-gnu/sys/select.h \
+  /usr/include/aarch64-linux-gnu/bits/select.h \
+  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/alloca.h \
+  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/aarch64-linux-gnu/curl/curl.h \
+  /usr/include/aarch64-linux-gnu/curl/curlver.h \
+  /usr/include/aarch64-linux-gnu/curl/system.h \
+  /usr/include/aarch64-linux-gnu/sys/socket.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_iovec.h \
+  /usr/include/aarch64-linux-gnu/bits/socket.h \
+  /usr/include/aarch64-linux-gnu/bits/socket_type.h \
+  /usr/include/aarch64-linux-gnu/bits/sockaddr.h \
+  /usr/lib/linux/uapi/arm64/asm/socket.h \
+  /usr/include/asm-generic/socket.h \
+  /usr/include/linux/posix_types.h \
+  /usr/include/linux/stddef.h \
+  /usr/lib/linux/uapi/arm64/asm/posix_types.h \
+  /usr/include/asm-generic/posix_types.h \
+  /usr/lib/linux/uapi/arm64/asm/bitsperlong.h \
+  /usr/include/asm-generic/bitsperlong.h \
+  /usr/lib/linux/uapi/arm64/asm/sockios.h \
+  /usr/include/asm-generic/sockios.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_osockaddr.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/xopen_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/uio_lim.h \
+  /usr/include/aarch64-linux-gnu/sys/time.h \
+  /usr/include/aarch64-linux-gnu/curl/easy.h \
+  /usr/include/aarch64-linux-gnu/curl/multi.h \
+  /usr/include/aarch64-linux-gnu/curl/curl.h \
+  /usr/include/aarch64-linux-gnu/curl/urlapi.h \
+  /usr/include/aarch64-linux-gnu/curl/options.h \
+  /usr/include/aarch64-linux-gnu/curl/header.h \
+  /usr/include/aarch64-linux-gnu/curl/websockets.h \
+  /usr/include/aarch64-linux-gnu/curl/typecheck-gcc.h \
+  /usr/include/cjson/cJSON.h
 
 CMakeFiles/demo.dir/app/app_touch.c.o: /home/dkgkgk183/lvgl_project/app/app_touch.c \
   /usr/include/stdc-predef.h \
@@ -1724,16 +2436,872 @@ CMakeFiles/demo.dir/main.c.o: /home/dkgkgk183/lvgl_project/main.c \
   /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
   /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
   /home/dkgkgk183/lvgl_project/ili9341.h \
-  /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.h \
   /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
   /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.h \
   /home/dkgkgk183/lvgl_project/app/app_nfc.h \
   /home/dkgkgk183/lvgl_project/app/app_touch.h \
   /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
   /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
-  /home/dkgkgk183/lvgl_project/app/app_hx711.h
+  /home/dkgkgk183/lvgl_project/app/app_hx711.h \
+  /home/dkgkgk183/lvgl_project/app/app_motor.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h
 
 CMakeFiles/demo.dir/ui/font_korean_16.c.o: /home/dkgkgk183/lvgl_project/ui/font_korean_16.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h
+
+CMakeFiles/demo.dir/ui/font_korean_20.c.o: /home/dkgkgk183/lvgl_project/ui/font_korean_20.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h
+
+CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o: /home/dkgkgk183/lvgl_project/ui/font_korean_20_bold.c \
   /usr/include/stdc-predef.h \
   /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
   /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
@@ -2585,6 +4153,2519 @@ CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.o: /home/dkgkgk183/lvgl_project/u
   /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
   /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h
 
+CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_studying.h \
+  /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_records.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/stdlib.h \
+  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
+  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
+  /usr/include/aarch64-linux-gnu/sys/types.h \
+  /usr/include/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
+  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/aarch64-linux-gnu/sys/select.h \
+  /usr/include/aarch64-linux-gnu/bits/select.h \
+  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/alloca.h \
+  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_sched_param.h \
+  /usr/include/aarch64-linux-gnu/bits/cpu-set.h \
+  /usr/include/aarch64-linux-gnu/bits/setjmp.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct___jmp_buf_tag.h
+
+CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/string.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/strings.h
+
+CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/string.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/strings.h \
+  /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.h
+
+CMakeFiles/demo.dir/ui/ui_screen_done.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_done.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_done.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.h \
+  /home/dkgkgk183/lvgl_project/app/app_motor.h \
+  /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/string.h \
+  /usr/include/strings.h
+
+CMakeFiles/demo.dir/ui/ui_screen_idle.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_idle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.h \
+  /home/dkgkgk183/lvgl_project/app/app_motor.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h
+
 CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.c \
   /usr/include/stdc-predef.h \
   /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.h \
@@ -3066,36 +7147,2086 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
   /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
   /usr/include/aarch64-linux-gnu/bits/floatn.h \
   /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /home/dkgkgk183/lvgl_project/app/app_hx711.h
+  /usr/include/string.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/strings.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_sched_param.h \
+  /usr/include/aarch64-linux-gnu/bits/cpu-set.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/aarch64-linux-gnu/bits/setjmp.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
+  /home/dkgkgk183/lvgl_project/app/app_hx711.h \
+  /home/dkgkgk183/lvgl_project/app/app_nfc.h \
+  /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /home/dkgkgk183/lvgl_project/app/app_motor.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.h
+
+CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /home/dkgkgk183/lvgl_project/app/app_nfc.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h
+
+CMakeFiles/demo.dir/ui/ui_screen_records.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_records.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_records.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/xopen_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/uio_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_done.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/timex.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/sched.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_sched_param.h \
+  /usr/include/aarch64-linux-gnu/bits/cpu-set.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/aarch64-linux-gnu/bits/setjmp.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct___jmp_buf_tag.h
+
+CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h
+
+CMakeFiles/demo.dir/ui/ui_screen_studying.c.o: /home/dkgkgk183/lvgl_project/ui/ui_screen_studying.c \
+  /usr/include/stdc-predef.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_studying.h \
+  /home/dkgkgk183/lvgl_project/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_version.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_3dmath.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lv_conf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/features.h \
+  /usr/include/features-time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
+  /usr/include/aarch64-linux-gnu/bits/timesize.h \
+  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
+  /usr/include/aarch64-linux-gnu/bits/long-double.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
+  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
+  /usr/include/aarch64-linux-gnu/bits/types.h \
+  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
+  /usr/include/aarch64-linux-gnu/bits/time64.h \
+  /usr/include/aarch64-linux-gnu/bits/wchar.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stddef.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdbool.h \
+  /usr/include/inttypes.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h \
+  /usr/include/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
+  /usr/include/linux/limits.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
+  /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_kconfig.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_anim_timeline.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_group.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_init.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_class.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_event.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_pos.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property_names.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_gen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color_op.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_3d.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_buf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_area.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_rect.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_matrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_grad.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_snapshot.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/sw/lv_draw_sw_utils.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_display_defines.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ili9341.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lcd_generic_mipi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_lovyan_gfx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nv3007.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_nxp_elcdif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_renesas_glcdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7789.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7796.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_tft_espi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/ffmpeg/lv_ffmpeg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_xkb.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_entry.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_lcd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_texture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/qnx/lv_qnx.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_binfont_loader.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_fmt_txt.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font_manager.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_freetype.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_imgfont.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_tiny_ttf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fsdrv.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bin_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libwebp.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_lodepng.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_tjpgd.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_gridnav.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_grid.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_layout.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/logging/lv_log.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/file_explorer/lv_file_explorer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/others/fragment/lv_fragment.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_mem.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/default/lv_theme_default.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/lv_theme.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/mono/lv_theme_mono.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/themes/simple/lv_theme_simple.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/tick/lv_tick.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_3dtexture.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/config/lv_conf_internal.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_animimage.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_font.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_color.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_buttonmatrix.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_canvas.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_chart.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_checkbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_dropdown.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gltf.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gstreamer.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_image.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_imagebutton.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_ime_pinyin.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_led.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_list.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_menu.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_scale.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_slider.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinbox.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_spinner.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_switch.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_table.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h \
+  /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_win.h \
+  /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/include/time.h \
+  /usr/include/aarch64-linux-gnu/bits/time.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/aarch64-linux-gnu/bits/endian.h \
+  /usr/include/aarch64-linux-gnu/bits/endianness.h \
+  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+  /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.h \
+  /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+  /usr/include/stdio.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn.h \
+  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
+  /usr/include/string.h \
+  /usr/include/strings.h
 
 
-/home/dkgkgk183/lvgl_project/ui/font_korean_16.c:
+/home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.c:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_records.c:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_studying.c:
 
 /home/dkgkgk183/lvgl_project/ui/ui_screen_intro.h:
 
+/home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_records.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.c:
+
+/home/dkgkgk183/lvgl_project/ui/font_korean_20.c:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_idle.h:
+
 /home/dkgkgk183/lvgl_project/main.c:
 
-/usr/include/alloca.h:
+/home/dkgkgk183/lvgl_project/app/app_touch.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h:
+/usr/include/aarch64-linux-gnu/curl/header.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/sigset_t.h:
+/usr/include/aarch64-linux-gnu/curl/multi.h:
 
-/usr/include/aarch64-linux-gnu/bits/select.h:
+/usr/include/aarch64-linux-gnu/bits/types/struct_osockaddr.h:
 
-/usr/include/aarch64-linux-gnu/bits/uintn-identity.h:
+/usr/include/asm-generic/sockios.h:
 
-/usr/include/aarch64-linux-gnu/sys/types.h:
+/usr/lib/linux/uapi/arm64/asm/sockios.h:
 
-/usr/include/aarch64-linux-gnu/bits/waitstatus.h:
+/usr/lib/linux/uapi/arm64/asm/socket.h:
 
-/usr/include/aarch64-linux-gnu/bits/waitflags.h:
+/usr/include/aarch64-linux-gnu/bits/sockaddr.h:
+
+/usr/include/aarch64-linux-gnu/bits/socket.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/struct_iovec.h:
+
+/usr/include/aarch64-linux-gnu/curl/curlver.h:
+
+/home/dkgkgk183/lvgl_project/app/app_supabase.c:
+
+/home/dkgkgk183/lvgl_project/ui/font_korean_16.c:
+
+/usr/include/cjson/cJSON.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tileview.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_span.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_lottie.h:
 
@@ -3119,8 +9250,6 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_header_arrow.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h:
-
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_button.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_bar.h:
@@ -3128,6 +9257,8 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arclabel.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_arc.h:
+
+/usr/include/aarch64-linux-gnu/curl/curl.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_roller.h:
 
@@ -3151,6 +9282,10 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/osal/lv_os.h:
 
+/home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.c:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_tree.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_async.h:
@@ -3164,6 +9299,8 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar_chinese.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libpng.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_calibrate.c:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_libjpeg_turbo.h:
 
@@ -3187,85 +9324,57 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/x11/lv_x11.h:
 
-/home/dkgkgk183/lvgl_project/ui/lv_font_montserrat_32.c:
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h:
 
-/usr/include/aarch64-linux-gnu/bits/unistd_ext.h:
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_calendar.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
 /usr/include/linux/limits.h:
 
-/usr/include/endian.h:
-
-/usr/include/stdint.h:
-
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_scroll.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h:
+/usr/include/aarch64-linux-gnu/curl/typecheck-gcc.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_mask.h:
+/usr/include/aarch64-linux-gnu/curl/easy.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/lvgl.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_arc.h:
 
-/usr/include/aarch64-linux-gnu/sys/select.h:
+/home/dkgkgk183/lvgl_project/ili9341.c:
 
-/usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h:
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h:
-
-/usr/include/inttypes.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h:
-
-/usr/include/aarch64-linux-gnu/bits/struct_mutex.h:
-
-/usr/include/aarch64-linux-gnu/bits/setjmp.h:
-
-/usr/include/aarch64-linux-gnu/bits/types.h:
-
-/usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h:
-
-/usr/include/asm-generic/ioctls.h:
-
-/usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h:
-
-/usr/include/strings.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h:
-
-/usr/include/aarch64-linux-gnu/bits/pthreadtypes.h:
-
-/usr/include/aarch64-linux-gnu/bits/cpu-set.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland.h:
-
-/usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h:
-
-/usr/include/aarch64-linux-gnu/bits/struct_rwlock.h:
-
-/usr/include/sched.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/struct_sched_param.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h:
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h:
 
 /usr/include/asm-generic/posix_types.h:
 
@@ -3275,15 +9384,15 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /usr/include/linux/posix_types.h:
 
+/usr/include/aarch64-linux-gnu/curl/websockets.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_bmp.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_0.h:
 
-/usr/include/aarch64-linux-gnu/bits/byteswap.h:
-
-/usr/lib/linux/uapi/arm64/asm/bitsperlong.h:
-
 /usr/include/linux/i2c-dev.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_done.c:
 
 /usr/lib/gcc/aarch64-linux-gnu/12/include/stdarg.h:
 
@@ -3303,31 +9412,9 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /usr/lib/linux/uapi/arm64/asm/ioctl.h:
 
+/usr/include/asm-generic/socket.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st_ltdc.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h:
-
-/usr/lib/linux/uapi/arm64/asm/ioctls.h:
-
-/usr/lib/linux/uapi/arm64/asm/posix_types.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h:
-
-/usr/include/asm-generic/int-ll64.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mousewheel.h:
-
-/usr/include/linux/ioctl.h:
-
-/usr/include/linux/types.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h:
-
-/usr/include/aarch64-linux-gnu/bits/thread-shared-types.h:
-
-/usr/include/aarch64-linux-gnu/sys/ioctl.h:
 
 /usr/include/aarch64-linux-gnu/bits/stat.h:
 
@@ -3341,13 +9428,127 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h:
 
+/usr/include/strings.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v8.h:
+
+/home/dkgkgk183/lvgl_project/ui/font_korean_20_bold.c:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_linux_drm.h:
+
+/home/dkgkgk183/lvgl_project/app/app_nfc.c:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h:
+
+/usr/include/aarch64-linux-gnu/bits/cpu-set.h:
+
+/usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h:
+
+/usr/include/aarch64-linux-gnu/bits/struct_rwlock.h:
+
+/usr/include/sched.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_done.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_barcode.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lv_types.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/struct_sched_param.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_sprintf.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/lvgl.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_evdev.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_fbdev.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_gnu_efi.h:
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.h:
+
+/usr/include/alloca.h:
+
+/usr/include/aarch64-linux-gnu/bits/time64.h:
+
+/usr/include/aarch64-linux-gnu/bits/struct_mutex.h:
+
+/usr/include/aarch64-linux-gnu/bits/setjmp.h:
+
+/usr/include/aarch64-linux-gnu/bits/types.h:
+
+/usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h:
+
+/usr/include/asm-generic/ioctls.h:
+
+/usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_refr.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_svg.h:
+
+/usr/include/aarch64-linux-gnu/sys/ioctl.h:
+
+/usr/include/aarch64-linux-gnu/bits/thread-shared-types.h:
+
+/usr/include/aarch64-linux-gnu/bits/pthreadtypes.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_loader.h:
+
+/usr/lib/linux/uapi/arm64/asm/ioctls.h:
+
+/usr/lib/linux/uapi/arm64/asm/posix_types.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_line.h:
+
+/usr/include/asm-generic/int-ll64.h:
+
+/usr/include/linux/ioctl.h:
+
+/usr/include/linux/types.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h:
+
+/home/dkgkgk183/lvgl_project/app/app_sessions.c:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_gif.h:
+
+/usr/include/inttypes.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_image.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_vector.h:
+
+/home/dkgkgk183/lvgl_project/ui/ui_screen_idle.c:
+
+/usr/include/aarch64-linux-gnu/curl/options.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_st7735.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_touchscreen.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/sigset_t.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h:
+
+/usr/include/aarch64-linux-gnu/bits/select.h:
+
+/usr/include/aarch64-linux-gnu/bits/timesize.h:
+
+/usr/include/stdint.h:
+
+/usr/include/endian.h:
 
 /usr/include/time.h:
 
@@ -3371,8 +9572,6 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/image/lv_image_decoder.h:
 
-/usr/include/limits.h:
-
 /usr/lib/linux/uapi/arm64/asm/types.h:
 
 /usr/include/aarch64-linux-gnu/bits/fcntl.h:
@@ -3383,17 +9582,17 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_blur.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h:
-
 /usr/include/stdio.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h:
 
 /usr/include/aarch64-linux-gnu/bits/stdio_lim.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/layouts/lv_flex.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/locale_t.h:
+
+/usr/include/aarch64-linux-gnu/bits/types/clock_t.h:
 
 /usr/include/aarch64-linux-gnu/bits/getopt_posix.h:
 
@@ -3409,27 +9608,9 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_assert.h:
 
-/usr/include/aarch64-linux-gnu/bits/time64.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_environment.h:
-
-/home/dkgkgk183/lvgl_project/app/app_touch.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_display.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/clock_t.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/locale_t.h:
-
 /home/dkgkgk183/lvgl_project/app/app_hx711.c:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_edk2.h:
-
 /usr/include/aarch64-linux-gnu/bits/typesizes.h:
-
-/usr/include/aarch64-linux-gnu/bits/timesize.h:
 
 /usr/include/aarch64-linux-gnu/bits/sched.h:
 
@@ -3441,35 +9622,41 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /usr/include/string.h:
 
-/usr/include/aarch64-linux-gnu/bits/local_lim.h:
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_rlottie.h:
 
-/usr/include/aarch64-linux-gnu/sys/ttydefaults.h:
-
-/usr/include/aarch64-linux-gnu/bits/endianness.h:
+/usr/include/aarch64-linux-gnu/bits/xopen_lim.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_keyboard.h:
 
 /usr/lib/gcc/aarch64-linux-gnu/12/include/stdint.h:
 
-/usr/include/aarch64-linux-gnu/bits/wchar.h:
+/usr/include/aarch64-linux-gnu/sys/select.h:
+
+/usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_driver.h:
 
 /usr/include/aarch64-linux-gnu/bits/types/__FILE.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h:
+/usr/include/aarch64-linux-gnu/bits/types/__locale_t.h:
 
-/usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h:
+/usr/include/aarch64-linux-gnu/bits/floatn-common.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h:
 
 /usr/include/stdlib.h:
 
-/home/dkgkgk183/lvgl_project/app/app_nfc.c:
+/usr/include/aarch64-linux-gnu/bits/socket_type.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_ext_data.h:
+/usr/include/aarch64-linux-gnu/bits/waitstatus.h:
 
 /usr/include/aarch64-linux-gnu/bits/libc-header-start.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_monkey.h:
+
+/home/dkgkgk183/lvgl_project/app/app_nfc.h:
+
+/usr/include/features-time64.h:
 
 /usr/include/asm-generic/bitsperlong.h:
 
@@ -3483,11 +9670,7 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h:
-
-/usr/include/aarch64-linux-gnu/sys/cdefs.h:
+/usr/include/aarch64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/aarch64-linux-gnu/bits/ioctls.h:
 
@@ -3503,15 +9686,31 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_sysmon.h:
 
+/home/dkgkgk183/lvgl_project/ui/lv_font_montserrat_32.c:
+
+/usr/include/aarch64-linux-gnu/bits/unistd_ext.h:
+
+/usr/lib/linux/uapi/arm64/asm/bitsperlong.h:
+
+/usr/include/aarch64-linux-gnu/bits/byteswap.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_display.h:
+
+/usr/include/aarch64-linux-gnu/sys/cdefs.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_timer.h:
+
+/usr/include/aarch64-linux-gnu/bits/local_lim.h:
+
 /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_window.h:
 
-/usr/include/aarch64-linux-gnu/bits/posix2_lim.h:
-
 /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_screenshot_compare.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_profiler_builtin.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_msgbox.h:
 
@@ -3519,15 +9718,45 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /usr/include/aarch64-linux-gnu/bits/confname.h:
 
-/usr/include/features-time64.h:
+/usr/include/aarch64-linux-gnu/bits/wchar.h:
 
-/home/dkgkgk183/lvgl_project/app/app_nfc.h:
+/usr/include/aarch64-linux-gnu/curl/urlapi.h:
 
-/usr/include/aarch64-linux-gnu/bits/floatn-common.h:
+/usr/include/aarch64-linux-gnu/bits/waitflags.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_draw_triangle.h:
+/usr/include/aarch64-linux-gnu/bits/endianness.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/__locale_t.h:
+/usr/include/aarch64-linux-gnu/sys/ttydefaults.h:
+
+/usr/include/aarch64-linux-gnu/sys/types.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_2.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_qrcode.h:
+
+/usr/lib/gcc/aarch64-linux-gnu/12/include/limits.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h:
+
+/usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_5.h:
+
+/usr/include/aarch64-linux-gnu/sys/time.h:
+
+/home/dkgkgk183/lvgl_project/app/app_motor.c:
+
+/usr/include/limits.h:
+
+/usr/include/aarch64-linux-gnu/bits/posix2_lim.h:
+
+/usr/include/aarch64-linux-gnu/bits/uio_lim.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_image_dsc.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_event.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_array.h:
 
@@ -3540,6 +9769,8 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_math.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/draw/lv_palette.h:
+
+/usr/include/aarch64-linux-gnu/sys/socket.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_tree.h:
 
@@ -3570,12 +9801,6 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_symbol_def.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/stdlib/lv_string.h:
-
-/home/dkgkgk183/lvgl_project/ili9341.c:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_text.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_4.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/font/lv_bidi.h:
 
@@ -3615,7 +9840,11 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/fs/lv_fs.h:
 
+/home/dkgkgk183/lvgl_project/ui/ui_screen_studying.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_obj_property.h:
+
+/home/dkgkgk183/lvgl_project/app/app_sessions.h:
 
 /usr/include/aarch64-linux-gnu/bits/endian.h:
 
@@ -3627,9 +9856,17 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_1.h:
 
+/usr/include/aarch64-linux-gnu/bits/timex.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_test_helpers.h:
 
+/home/dkgkgk183/lvgl_project/ui/ui_screen_nfc_test.c:
+
+/usr/include/aarch64-linux-gnu/curl/system.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/api_map/lv_api_map_v9_3.h:
+
+/home/dkgkgk183/lvgl_project/app/app_supabase.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_translation.h:
 
@@ -3643,17 +9880,9 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_observer.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_textarea.h:
-
-/usr/lib/gcc/aarch64-linux-gnu/12/include/syslimits.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_keyboard.h:
-
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_label.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/misc/lv_ll.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/core/lv_style_properties.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/debugging/lv_check_arg.h:
 
@@ -3687,13 +9916,13 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h:
 
+/home/dkgkgk183/lvgl_project/app/app_motor.h:
+
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_draw_eve_target.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_context.h:
+/usr/include/aarch64-linux-gnu/bits/environments.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/display/lv_display.h:
-
-/usr/include/aarch64-linux-gnu/bits/environments.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/display/lv_ft81x.h:
 
@@ -3725,9 +9954,9 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/nuttx/lv_nuttx_libuv.h:
 
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h:
-
 /usr/include/pthread.h:
+
+/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/3d/lv_gltf_model_node.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/opengles/lv_opengles_glfw.h:
 
@@ -3742,25 +9971,3 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: /home/dkgkgk183/lvgl_project/ui/ui_s
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/indev/lv_libinput.h:
 
 /home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_keyboard.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_input.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/sdl/lv_sdl_mouse.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/uefi/lv_uefi_indev.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/widgets/lv_tabview.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/indev/lv_indev_gesture.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_pointer_axis.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_touch.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/wayland/lv_wayland_window.h:
-
-/home/dkgkgk183/lvgl_project/lvgl/include/lvgl/drivers/windows/lv_windows_display.h:

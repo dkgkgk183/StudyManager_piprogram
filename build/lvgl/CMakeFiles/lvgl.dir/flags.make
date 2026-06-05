@@ -8,17 +8,17 @@ ASM_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_S
 
 ASM_INCLUDES = -I/home/dkgkgk183/lvgl_project/lvgl/include/lvgl -isystem /home/dkgkgk183/lvgl_project -isystem /home/dkgkgk183/lvgl_project/lvgl/include -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project/build/lvgl -isystem /home/dkgkgk183/lvgl_project/lvgl/examples -isystem /home/dkgkgk183/lvgl_project/lvgl/demos
 
-ASM_FLAGS = 
+ASM_FLAGS = -g
 
 C_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE
 
 C_INCLUDES = -I/home/dkgkgk183/lvgl_project/lvgl/include/lvgl -isystem /home/dkgkgk183/lvgl_project -isystem /home/dkgkgk183/lvgl_project/lvgl/include -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project/build/lvgl -isystem /home/dkgkgk183/lvgl_project/lvgl/examples -isystem /home/dkgkgk183/lvgl_project/lvgl/demos
 
-C_FLAGS = -std=gnu99
+C_FLAGS = -g -std=gnu99
 
 CXX_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE
 
 CXX_INCLUDES = -I/home/dkgkgk183/lvgl_project/lvgl/include/lvgl -isystem /home/dkgkgk183/lvgl_project -isystem /home/dkgkgk183/lvgl_project/lvgl/include -isystem /home/dkgkgk183/lvgl_project/lvgl -isystem /home/dkgkgk183/lvgl_project/build/lvgl -isystem /home/dkgkgk183/lvgl_project/lvgl/examples -isystem /home/dkgkgk183/lvgl_project/lvgl/demos
 
-CXX_FLAGS = 
+CXX_FLAGS = -g
 

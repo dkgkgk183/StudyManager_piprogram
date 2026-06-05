@@ -477,4 +477,37 @@ CMakeFiles/demo.dir/ui/ui_screen_intro.c.o: \
  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
  /usr/include/aarch64-linux-gnu/bits/floatn.h \
  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
- /home/dkgkgk183/lvgl_project/app/app_hx711.h
+ /usr/include/string.h \
+ /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
+ /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
+ /usr/include/strings.h /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
+ /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
+ /usr/include/aarch64-linux-gnu/bits/endian.h \
+ /usr/include/aarch64-linux-gnu/bits/endianness.h \
+ /usr/include/aarch64-linux-gnu/bits/sched.h \
+ /usr/include/aarch64-linux-gnu/bits/types/struct_sched_param.h \
+ /usr/include/aarch64-linux-gnu/bits/cpu-set.h /usr/include/time.h \
+ /usr/include/aarch64-linux-gnu/bits/time.h \
+ /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
+ /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
+ /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
+ /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
+ /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
+ /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
+ /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
+ /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
+ /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
+ /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
+ /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
+ /usr/include/aarch64-linux-gnu/bits/setjmp.h \
+ /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
+ /usr/include/aarch64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
+ /home/dkgkgk183/lvgl_project/app/app_hx711.h \
+ /home/dkgkgk183/lvgl_project/app/app_nfc.h \
+ /home/dkgkgk183/lvgl_project/app/app_supabase.h \
+ /home/dkgkgk183/lvgl_project/app/app_sessions.h \
+ /home/dkgkgk183/lvgl_project/app/app_motor.h \
+ /home/dkgkgk183/lvgl_project/ui/ui_screen_device_select.h \
+ /home/dkgkgk183/lvgl_project/ui/ui_screen_study_plan.h \
+ /home/dkgkgk183/lvgl_project/ui/ui_screen_beforestudy.h

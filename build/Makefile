@@ -250,6 +250,30 @@ app/app_hx711.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_hx711.c.s
 .PHONY : app/app_hx711.c.s
 
+app/app_motor.o: app/app_motor.c.o
+.PHONY : app/app_motor.o
+
+# target to build an object file
+app/app_motor.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_motor.c.o
+.PHONY : app/app_motor.c.o
+
+app/app_motor.i: app/app_motor.c.i
+.PHONY : app/app_motor.i
+
+# target to preprocess a source file
+app/app_motor.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_motor.c.i
+.PHONY : app/app_motor.c.i
+
+app/app_motor.s: app/app_motor.c.s
+.PHONY : app/app_motor.s
+
+# target to generate assembly for a file
+app/app_motor.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_motor.c.s
+.PHONY : app/app_motor.c.s
+
 app/app_nfc.o: app/app_nfc.c.o
 .PHONY : app/app_nfc.o
 
@@ -273,6 +297,54 @@ app/app_nfc.s: app/app_nfc.c.s
 app/app_nfc.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_nfc.c.s
 .PHONY : app/app_nfc.c.s
+
+app/app_sessions.o: app/app_sessions.c.o
+.PHONY : app/app_sessions.o
+
+# target to build an object file
+app/app_sessions.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_sessions.c.o
+.PHONY : app/app_sessions.c.o
+
+app/app_sessions.i: app/app_sessions.c.i
+.PHONY : app/app_sessions.i
+
+# target to preprocess a source file
+app/app_sessions.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_sessions.c.i
+.PHONY : app/app_sessions.c.i
+
+app/app_sessions.s: app/app_sessions.c.s
+.PHONY : app/app_sessions.s
+
+# target to generate assembly for a file
+app/app_sessions.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_sessions.c.s
+.PHONY : app/app_sessions.c.s
+
+app/app_supabase.o: app/app_supabase.c.o
+.PHONY : app/app_supabase.o
+
+# target to build an object file
+app/app_supabase.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_supabase.c.o
+.PHONY : app/app_supabase.c.o
+
+app/app_supabase.i: app/app_supabase.c.i
+.PHONY : app/app_supabase.i
+
+# target to preprocess a source file
+app/app_supabase.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_supabase.c.i
+.PHONY : app/app_supabase.c.i
+
+app/app_supabase.s: app/app_supabase.c.s
+.PHONY : app/app_supabase.s
+
+# target to generate assembly for a file
+app/app_supabase.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/app/app_supabase.c.s
+.PHONY : app/app_supabase.c.s
 
 app/app_touch.o: app/app_touch.c.o
 .PHONY : app/app_touch.o
@@ -394,6 +466,30 @@ ui/font_korean_20.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_20.c.s
 .PHONY : ui/font_korean_20.c.s
 
+ui/font_korean_20_bold.o: ui/font_korean_20_bold.c.o
+.PHONY : ui/font_korean_20_bold.o
+
+# target to build an object file
+ui/font_korean_20_bold.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_20_bold.c.o
+.PHONY : ui/font_korean_20_bold.c.o
+
+ui/font_korean_20_bold.i: ui/font_korean_20_bold.c.i
+.PHONY : ui/font_korean_20_bold.i
+
+# target to preprocess a source file
+ui/font_korean_20_bold.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_20_bold.c.i
+.PHONY : ui/font_korean_20_bold.c.i
+
+ui/font_korean_20_bold.s: ui/font_korean_20_bold.c.s
+.PHONY : ui/font_korean_20_bold.s
+
+# target to generate assembly for a file
+ui/font_korean_20_bold.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/font_korean_20_bold.c.s
+.PHONY : ui/font_korean_20_bold.c.s
+
 ui/lv_font_montserrat_32.o: ui/lv_font_montserrat_32.c.o
 .PHONY : ui/lv_font_montserrat_32.o
 
@@ -417,6 +513,126 @@ ui/lv_font_montserrat_32.s: ui/lv_font_montserrat_32.c.s
 ui/lv_font_montserrat_32.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/lv_font_montserrat_32.c.s
 .PHONY : ui/lv_font_montserrat_32.c.s
+
+ui/ui_screen_beforestudy.o: ui/ui_screen_beforestudy.c.o
+.PHONY : ui/ui_screen_beforestudy.o
+
+# target to build an object file
+ui/ui_screen_beforestudy.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.o
+.PHONY : ui/ui_screen_beforestudy.c.o
+
+ui/ui_screen_beforestudy.i: ui/ui_screen_beforestudy.c.i
+.PHONY : ui/ui_screen_beforestudy.i
+
+# target to preprocess a source file
+ui/ui_screen_beforestudy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.i
+.PHONY : ui/ui_screen_beforestudy.c.i
+
+ui/ui_screen_beforestudy.s: ui/ui_screen_beforestudy.c.s
+.PHONY : ui/ui_screen_beforestudy.s
+
+# target to generate assembly for a file
+ui/ui_screen_beforestudy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_beforestudy.c.s
+.PHONY : ui/ui_screen_beforestudy.c.s
+
+ui/ui_screen_calibrate.o: ui/ui_screen_calibrate.c.o
+.PHONY : ui/ui_screen_calibrate.o
+
+# target to build an object file
+ui/ui_screen_calibrate.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.o
+.PHONY : ui/ui_screen_calibrate.c.o
+
+ui/ui_screen_calibrate.i: ui/ui_screen_calibrate.c.i
+.PHONY : ui/ui_screen_calibrate.i
+
+# target to preprocess a source file
+ui/ui_screen_calibrate.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.i
+.PHONY : ui/ui_screen_calibrate.c.i
+
+ui/ui_screen_calibrate.s: ui/ui_screen_calibrate.c.s
+.PHONY : ui/ui_screen_calibrate.s
+
+# target to generate assembly for a file
+ui/ui_screen_calibrate.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_calibrate.c.s
+.PHONY : ui/ui_screen_calibrate.c.s
+
+ui/ui_screen_device_select.o: ui/ui_screen_device_select.c.o
+.PHONY : ui/ui_screen_device_select.o
+
+# target to build an object file
+ui/ui_screen_device_select.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_device_select.c.o
+.PHONY : ui/ui_screen_device_select.c.o
+
+ui/ui_screen_device_select.i: ui/ui_screen_device_select.c.i
+.PHONY : ui/ui_screen_device_select.i
+
+# target to preprocess a source file
+ui/ui_screen_device_select.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_device_select.c.i
+.PHONY : ui/ui_screen_device_select.c.i
+
+ui/ui_screen_device_select.s: ui/ui_screen_device_select.c.s
+.PHONY : ui/ui_screen_device_select.s
+
+# target to generate assembly for a file
+ui/ui_screen_device_select.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_device_select.c.s
+.PHONY : ui/ui_screen_device_select.c.s
+
+ui/ui_screen_done.o: ui/ui_screen_done.c.o
+.PHONY : ui/ui_screen_done.o
+
+# target to build an object file
+ui/ui_screen_done.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_done.c.o
+.PHONY : ui/ui_screen_done.c.o
+
+ui/ui_screen_done.i: ui/ui_screen_done.c.i
+.PHONY : ui/ui_screen_done.i
+
+# target to preprocess a source file
+ui/ui_screen_done.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_done.c.i
+.PHONY : ui/ui_screen_done.c.i
+
+ui/ui_screen_done.s: ui/ui_screen_done.c.s
+.PHONY : ui/ui_screen_done.s
+
+# target to generate assembly for a file
+ui/ui_screen_done.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_done.c.s
+.PHONY : ui/ui_screen_done.c.s
+
+ui/ui_screen_idle.o: ui/ui_screen_idle.c.o
+.PHONY : ui/ui_screen_idle.o
+
+# target to build an object file
+ui/ui_screen_idle.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_idle.c.o
+.PHONY : ui/ui_screen_idle.c.o
+
+ui/ui_screen_idle.i: ui/ui_screen_idle.c.i
+.PHONY : ui/ui_screen_idle.i
+
+# target to preprocess a source file
+ui/ui_screen_idle.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_idle.c.i
+.PHONY : ui/ui_screen_idle.c.i
+
+ui/ui_screen_idle.s: ui/ui_screen_idle.c.s
+.PHONY : ui/ui_screen_idle.s
+
+# target to generate assembly for a file
+ui/ui_screen_idle.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_idle.c.s
+.PHONY : ui/ui_screen_idle.c.s
 
 ui/ui_screen_intro.o: ui/ui_screen_intro.c.o
 .PHONY : ui/ui_screen_intro.o
@@ -442,6 +658,102 @@ ui/ui_screen_intro.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_intro.c.s
 .PHONY : ui/ui_screen_intro.c.s
 
+ui/ui_screen_nfc_test.o: ui/ui_screen_nfc_test.c.o
+.PHONY : ui/ui_screen_nfc_test.o
+
+# target to build an object file
+ui/ui_screen_nfc_test.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.o
+.PHONY : ui/ui_screen_nfc_test.c.o
+
+ui/ui_screen_nfc_test.i: ui/ui_screen_nfc_test.c.i
+.PHONY : ui/ui_screen_nfc_test.i
+
+# target to preprocess a source file
+ui/ui_screen_nfc_test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.i
+.PHONY : ui/ui_screen_nfc_test.c.i
+
+ui/ui_screen_nfc_test.s: ui/ui_screen_nfc_test.c.s
+.PHONY : ui/ui_screen_nfc_test.s
+
+# target to generate assembly for a file
+ui/ui_screen_nfc_test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_nfc_test.c.s
+.PHONY : ui/ui_screen_nfc_test.c.s
+
+ui/ui_screen_records.o: ui/ui_screen_records.c.o
+.PHONY : ui/ui_screen_records.o
+
+# target to build an object file
+ui/ui_screen_records.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_records.c.o
+.PHONY : ui/ui_screen_records.c.o
+
+ui/ui_screen_records.i: ui/ui_screen_records.c.i
+.PHONY : ui/ui_screen_records.i
+
+# target to preprocess a source file
+ui/ui_screen_records.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_records.c.i
+.PHONY : ui/ui_screen_records.c.i
+
+ui/ui_screen_records.s: ui/ui_screen_records.c.s
+.PHONY : ui/ui_screen_records.s
+
+# target to generate assembly for a file
+ui/ui_screen_records.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_records.c.s
+.PHONY : ui/ui_screen_records.c.s
+
+ui/ui_screen_study_plan.o: ui/ui_screen_study_plan.c.o
+.PHONY : ui/ui_screen_study_plan.o
+
+# target to build an object file
+ui/ui_screen_study_plan.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.o
+.PHONY : ui/ui_screen_study_plan.c.o
+
+ui/ui_screen_study_plan.i: ui/ui_screen_study_plan.c.i
+.PHONY : ui/ui_screen_study_plan.i
+
+# target to preprocess a source file
+ui/ui_screen_study_plan.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.i
+.PHONY : ui/ui_screen_study_plan.c.i
+
+ui/ui_screen_study_plan.s: ui/ui_screen_study_plan.c.s
+.PHONY : ui/ui_screen_study_plan.s
+
+# target to generate assembly for a file
+ui/ui_screen_study_plan.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_study_plan.c.s
+.PHONY : ui/ui_screen_study_plan.c.s
+
+ui/ui_screen_studying.o: ui/ui_screen_studying.c.o
+.PHONY : ui/ui_screen_studying.o
+
+# target to build an object file
+ui/ui_screen_studying.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_studying.c.o
+.PHONY : ui/ui_screen_studying.c.o
+
+ui/ui_screen_studying.i: ui/ui_screen_studying.c.i
+.PHONY : ui/ui_screen_studying.i
+
+# target to preprocess a source file
+ui/ui_screen_studying.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_studying.c.i
+.PHONY : ui/ui_screen_studying.c.i
+
+ui/ui_screen_studying.s: ui/ui_screen_studying.c.s
+.PHONY : ui/ui_screen_studying.s
+
+# target to generate assembly for a file
+ui/ui_screen_studying.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/ui/ui_screen_studying.c.s
+.PHONY : ui/ui_screen_studying.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -462,9 +774,18 @@ help:
 	@echo "... app/app_hx711.o"
 	@echo "... app/app_hx711.i"
 	@echo "... app/app_hx711.s"
+	@echo "... app/app_motor.o"
+	@echo "... app/app_motor.i"
+	@echo "... app/app_motor.s"
 	@echo "... app/app_nfc.o"
 	@echo "... app/app_nfc.i"
 	@echo "... app/app_nfc.s"
+	@echo "... app/app_sessions.o"
+	@echo "... app/app_sessions.i"
+	@echo "... app/app_sessions.s"
+	@echo "... app/app_supabase.o"
+	@echo "... app/app_supabase.i"
+	@echo "... app/app_supabase.s"
 	@echo "... app/app_touch.o"
 	@echo "... app/app_touch.i"
 	@echo "... app/app_touch.s"
@@ -480,12 +801,42 @@ help:
 	@echo "... ui/font_korean_20.o"
 	@echo "... ui/font_korean_20.i"
 	@echo "... ui/font_korean_20.s"
+	@echo "... ui/font_korean_20_bold.o"
+	@echo "... ui/font_korean_20_bold.i"
+	@echo "... ui/font_korean_20_bold.s"
 	@echo "... ui/lv_font_montserrat_32.o"
 	@echo "... ui/lv_font_montserrat_32.i"
 	@echo "... ui/lv_font_montserrat_32.s"
+	@echo "... ui/ui_screen_beforestudy.o"
+	@echo "... ui/ui_screen_beforestudy.i"
+	@echo "... ui/ui_screen_beforestudy.s"
+	@echo "... ui/ui_screen_calibrate.o"
+	@echo "... ui/ui_screen_calibrate.i"
+	@echo "... ui/ui_screen_calibrate.s"
+	@echo "... ui/ui_screen_device_select.o"
+	@echo "... ui/ui_screen_device_select.i"
+	@echo "... ui/ui_screen_device_select.s"
+	@echo "... ui/ui_screen_done.o"
+	@echo "... ui/ui_screen_done.i"
+	@echo "... ui/ui_screen_done.s"
+	@echo "... ui/ui_screen_idle.o"
+	@echo "... ui/ui_screen_idle.i"
+	@echo "... ui/ui_screen_idle.s"
 	@echo "... ui/ui_screen_intro.o"
 	@echo "... ui/ui_screen_intro.i"
 	@echo "... ui/ui_screen_intro.s"
+	@echo "... ui/ui_screen_nfc_test.o"
+	@echo "... ui/ui_screen_nfc_test.i"
+	@echo "... ui/ui_screen_nfc_test.s"
+	@echo "... ui/ui_screen_records.o"
+	@echo "... ui/ui_screen_records.i"
+	@echo "... ui/ui_screen_records.s"
+	@echo "... ui/ui_screen_study_plan.o"
+	@echo "... ui/ui_screen_study_plan.i"
+	@echo "... ui/ui_screen_study_plan.s"
+	@echo "... ui/ui_screen_studying.o"
+	@echo "... ui/ui_screen_studying.i"
+	@echo "... ui/ui_screen_studying.s"
 .PHONY : help
 
 
