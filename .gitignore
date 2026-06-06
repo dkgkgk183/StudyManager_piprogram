@@ -2,5 +2,6 @@
 build/CMakeFiles/
 build/lvgl/
 
-# User-local session data (not source)
+# User-local runtime data (not source)
 build/sessions_local.json
+build/debug.log
