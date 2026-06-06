@@ -2,6 +2,7 @@
 #include "ui_screen_studying.h"
 #include "ui_screen_records.h"
 #include "../app/app_supabase.h"
+#include "../app/app_nfc.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
@@ -40,6 +41,7 @@ static lv_obj_t *checklist_containers[MAX_CHECKLIST_SUBJECTS];
 static studying_info_t pending_info;
 static char            pending_progress_text[32];
 static char            pending_subject_id[40];
+static char            pending_nfc_id[40];
 
 /* ── hex → lv_color_t ── */
 static lv_color_t hex_to_color(const char *hex)
@@ -296,6 +298,16 @@ static void start_btn_cb(lv_event_t *e)
     pending_info.subject_id           = pending_subject_id;
     pending_info.color_hex            = g->color_hex;
     pending_info.color                = hex_to_color(g->color_hex);
+    /* NFC ID 캡처: 폰이 NFC 리더 위에 있는 상태에서 studying 으로 진입.
+     * g_nfc.uid_str 이 비어있으면 resume 매칭이 불가능하므로 빈 문자열로 두어
+     * pause check 시 항상 매칭 실패하도록 한다. */
+    if (g_nfc.tag_detected && g_nfc.uid_str[0]) {
+        strncpy(pending_nfc_id, (const char *)g_nfc.uid_str, sizeof(pending_nfc_id) - 1);
+        pending_nfc_id[sizeof(pending_nfc_id) - 1] = '\0';
+    } else {
+        pending_nfc_id[0] = '\0';
+    }
+    pending_info.nfc_id               = pending_nfc_id;
     pending_info.checklist_items      = g->items;
     pending_info.checklist_item_count = g->item_count;
     pending_info.checklist_checked_count = g->checked_count;

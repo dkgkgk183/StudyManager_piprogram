@@ -70,6 +70,12 @@ void sessions_init(void)
         j = cJSON_GetObjectItem(item, "duration_seconds");
         s->duration_seconds = cJSON_IsNumber(j) ? j->valueint : 0;
 
+        j = cJSON_GetObjectItem(item, "tray_open_count");
+        s->tray_open_count = cJSON_IsNumber(j) ? j->valueint : 0;
+
+        j = cJSON_GetObjectItem(item, "penalty_count");
+        s->penalty_count = cJSON_IsNumber(j) ? j->valueint : 0;
+
         j = cJSON_GetObjectItem(item, "pushed");
         s->pushed = cJSON_IsTrue(j);
     }
@@ -97,6 +103,8 @@ static void save_to_file(void)
         cJSON_AddStringToObject(item, "start_time", sessions[i].start_time);
         cJSON_AddStringToObject(item, "end_time", sessions[i].end_time);
         cJSON_AddNumberToObject(item, "duration_seconds", sessions[i].duration_seconds);
+        cJSON_AddNumberToObject(item, "tray_open_count", sessions[i].tray_open_count);
+        cJSON_AddNumberToObject(item, "penalty_count", sessions[i].penalty_count);
         cJSON_AddBoolToObject(item, "pushed", sessions[i].pushed);
         cJSON_AddItemToArray(json, item);
     }
@@ -143,6 +151,14 @@ int sessions_get_unpushed_count(void)
 int sessions_get_count(void)
 {
     return session_count;
+}
+
+void sessions_clear_all(void)
+{
+    if (session_count == 0) return;
+    session_count = 0;
+    save_to_file();
+    fprintf(stderr, "[sessions] cleared all local sessions\n");
 }
 
 void sessions_mark_all_pushed(void)

@@ -101,13 +101,34 @@ void app_motor_stop(void) {
     gpiod_line_set_value(in4, 0);
 }
 
-// 연속 동작 모드: duration_ms 동안 모터를 한 방향으로 계속 회전
+// 연속 동작 모드: duration_ms 동안 모터를 한 방향으로 PWM 회전
 static volatile bool run_active = false;
 
 static void *run_fn(void *arg) {
     int duration_us = (intptr_t)arg;
     run_active = true;
-    usleep(duration_us);
+    int elapsed = 0;
+    while (run_active && elapsed < duration_us) {
+        int on_us = pwm_duty * 10;
+        int off_us = (100 - pwm_duty) * 10;
+        int cycle = on_us + off_us;
+        if (cycle <= 0) {
+            usleep(1000);
+            elapsed += 1000;
+            continue;
+        }
+        if (on_us > 0) {
+            gpiod_line_set_value(ena, 1);
+            gpiod_line_set_value(enb, 1);
+            usleep(on_us);
+        }
+        if (off_us > 0) {
+            gpiod_line_set_value(ena, 0);
+            gpiod_line_set_value(enb, 0);
+            usleep(off_us);
+        }
+        elapsed += cycle;
+    }
     gpiod_line_set_value(ena, 0);
     gpiod_line_set_value(enb, 0);
     run_active = false;
@@ -141,10 +162,7 @@ void app_motor_run(bool forward, int duration_ms) {
         gpiod_line_set_value(in4, 0);
     }
 
-    // 모터 ON (duration_ms 동안 연속 회전)
-    gpiod_line_set_value(ena, 1);
-    gpiod_line_set_value(enb, 1);
-
+    // 모터 ON (PWM으로 duration_ms 동안 회전)
     pthread_t tid;
     pthread_create(&tid, NULL, run_fn, (void *)(intptr_t)(duration_ms * 1000));
     pthread_detach(tid);

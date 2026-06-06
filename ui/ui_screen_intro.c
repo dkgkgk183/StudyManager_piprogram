@@ -9,6 +9,10 @@
 #include "ui_screen_device_select.h"
 #include "ui_screen_study_plan.h"
 #include "ui_screen_beforestudy.h"
+#include "ui_screen_idle.h"
+
+#define IDLE_TIMEOUT_MS   30000   /* 대기 중 30초 무반응 시 서랍 닫고 메인화면 복귀 */
+#define NFC_TIMEOUT_MS   20000   /* NFC 인식 20초 무반응 시 서랍 열고 메인화면 복귀 */
 
 LV_FONT_DECLARE(font_korean_16);
 LV_FONT_DECLARE(font_korean_20);
@@ -20,12 +24,17 @@ static lv_obj_t *status_label;
 static lv_obj_t *guide_label;
 static lv_obj_t *spinner;
 static lv_obj_t *nfc_uid_label;
-static lv_obj_t *master_btn_label;
+static lv_obj_t *countdown_label;
+static lv_obj_t *device_label;
+static lv_obj_t *nfc_id_label;
 static int state = STATE_IDLE;
 static uint32_t recognize_start = 0;
+static uint32_t idle_enter_tick = 0;
+static uint32_t nfc_enter_tick = 0;
 static lv_timer_t *weight_timer;
 static lv_timer_t *nfc_timer;
-static bool master_running = false;
+static bool closing_to_idle = false;
+static bool opening_to_idle = false;
 
 static volatile bool supabase_query_done = false;
 static volatile bool supabase_found = false;
@@ -39,9 +48,26 @@ static void remove_spinner(void) {
     }
 }
 
+static void update_countdown_with(uint32_t start_tick, uint32_t total_ms) {
+    if (!countdown_label) return;
+    uint32_t elapsed = lv_tick_elaps(start_tick);
+    uint32_t remaining_ms = (elapsed < total_ms) ? (total_ms - elapsed) : 0;
+    uint32_t remaining_s = (remaining_ms + 999) / 1000;
+    char buf[32];
+    snprintf(buf, sizeof(buf), "남은 시간: %u초", (unsigned)remaining_s);
+    lv_label_set_text(countdown_label, buf);
+}
+
+static void update_countdown_label(void) {
+    update_countdown_with(idle_enter_tick, IDLE_TIMEOUT_MS);
+}
+
 static void go_idle(void) {
     state = STATE_IDLE;
-    if (!master_running) app_motor_stop();
+    closing_to_idle = false;
+    opening_to_idle = false;
+    idle_enter_tick = lv_tick_get();
+    app_motor_stop();
     remove_spinner();
     if (nfc_uid_label) {
         lv_obj_delete(nfc_uid_label);
@@ -50,21 +76,30 @@ static void go_idle(void) {
     lv_label_set_text(status_label, "대기 중...");
     lv_obj_set_style_text_color(status_label, lv_color_hex(0x333333), 0);
     lv_obj_clear_flag(guide_label, LV_OBJ_FLAG_HIDDEN);
+    if (countdown_label) {
+        lv_obj_clear_flag(countdown_label, LV_OBJ_FLAG_HIDDEN);
+        update_countdown_label();
+    }
 }
 
 static void transition_to_nfc_cb(lv_timer_t *timer) {
     (void)timer;
     state = STATE_NFC_WAIT;
+    opening_to_idle = false;
+    nfc_enter_tick = lv_tick_get();
     lv_label_set_text(status_label, "NFC 인식 중...");
     lv_obj_set_style_text_color(status_label, lv_color_hex(0x333333), 0);
     spinner = lv_spinner_create(lv_screen_active());
     lv_spinner_set_anim_params(spinner, 1000, 200);
     lv_obj_set_size(spinner, 40, 40);
     lv_obj_align(spinner, LV_ALIGN_CENTER, 0, 80);
+    if (countdown_label) {
+        lv_obj_clear_flag(countdown_label, LV_OBJ_FLAG_HIDDEN);
+        update_countdown_with(nfc_enter_tick, NFC_TIMEOUT_MS);
+    }
 }
 
 static void weight_timer_cb(lv_timer_t *timer) {
-    if (master_running) return;
     if (state == STATE_NFC_WAIT || state == STATE_NFC_DONE) return;
     if (!hx711_is_ready()) return;
 
@@ -72,19 +107,34 @@ static void weight_timer_cb(lv_timer_t *timer) {
     if (weight < 0) weight = 0;
 
     switch (state) {
-    case STATE_IDLE:
+    case STATE_IDLE: {
+        uint32_t elapsed = lv_tick_elaps(idle_enter_tick);
         if (weight >= 50) {
             state = STATE_RECOGNIZING;
             recognize_start = lv_tick_get();
             lv_label_set_text(status_label, "인식 중...");
             lv_obj_set_style_text_color(status_label, lv_color_hex(0x333333), 0);
             lv_obj_add_flag(guide_label, LV_OBJ_FLAG_HIDDEN);
+            if (countdown_label) lv_obj_add_flag(countdown_label, LV_OBJ_FLAG_HIDDEN);
             spinner = lv_spinner_create(lv_screen_active());
             lv_spinner_set_anim_params(spinner, 1000, 200);
             lv_obj_set_size(spinner, 40, 40);
             lv_obj_align(spinner, LV_ALIGN_CENTER, 0, 80);
+        } else {
+            update_countdown_label();
+            if (elapsed >= IDLE_TIMEOUT_MS) {
+                /* 30초간 무게 감지 없음 → 서랍 닫고 메인화면 복귀 */
+                state = STATE_MOTOR_RUN;
+                closing_to_idle = true;
+                app_motor_run(true, 1275);  /* 서랍 닫기 (forward) */
+                lv_label_set_text(status_label, "서랍장 닫는 중...");
+                lv_obj_set_style_text_color(status_label, lv_color_hex(0x333333), 0);
+                if (countdown_label) lv_obj_add_flag(countdown_label, LV_OBJ_FLAG_HIDDEN);
+                if (guide_label) lv_obj_add_flag(guide_label, LV_OBJ_FLAG_HIDDEN);
+            }
         }
         break;
+    }
 
     case STATE_RECOGNIZING:
         if (weight < 20) {
@@ -96,7 +146,7 @@ static void weight_timer_cb(lv_timer_t *timer) {
             lv_obj_set_style_text_color(status_label, lv_color_hex(0x2E7D32), 0);
             // 모터 시작 (forward, 1.5s 연속) — 무게 감지 후 닫기
             state = STATE_MOTOR_RUN;
-            app_motor_run(true, 1350);
+            app_motor_run(true, 1275);
             lv_label_set_text(status_label, "모터 동작 중...");
             lv_obj_set_style_text_color(status_label, lv_color_hex(0x333333), 0);
         }
@@ -104,8 +154,16 @@ static void weight_timer_cb(lv_timer_t *timer) {
 
     case STATE_MOTOR_RUN:
         if (!app_motor_run_active()) {
-            // NFC 단계로 전환
-            transition_to_nfc_cb(NULL);
+            if (closing_to_idle || opening_to_idle) {
+                /* 타임아웃으로 닫기/열기 동작 완료 → 메인 idle 로 복귀 */
+                if (weight_timer) { lv_timer_delete(weight_timer); weight_timer = NULL; }
+                if (nfc_timer)    { lv_timer_delete(nfc_timer);    nfc_timer    = NULL; }
+                supabase_clear_local_caches();
+                ui_screen_idle_create();
+            } else {
+                /* 무게 인식 후 닫기 완료 → NFC 단계로 전환 */
+                transition_to_nfc_cb(NULL);
+            }
         }
         break;
 
@@ -147,7 +205,24 @@ static void supabase_result_timer_cb(lv_timer_t *timer) {
     lv_timer_delete(timer);
 
     if (supabase_found) {
-        lv_label_set_text(status_label, "등록 완료!");
+        lv_label_set_text(status_label, "인증 완료");
+        lv_obj_set_style_text_color(status_label, lv_color_hex(0x2E7D32), 0);
+        lv_obj_set_style_text_font(status_label, &font_korean_20, 0);
+
+        /* 기기번호 / NFC ID 표시 (status_label 아래) */
+        if (device_label) {
+            char dbuf[64];
+            snprintf(dbuf, sizeof(dbuf), "기기번호: %s", supabase_device_number);
+            lv_label_set_text(device_label, dbuf);
+            lv_obj_clear_flag(device_label, LV_OBJ_FLAG_HIDDEN);
+        }
+        if (nfc_id_label) {
+            char nbuf[64];
+            snprintf(nbuf, sizeof(nbuf), "NFC ID: %s", supabase_nfc_id);
+            lv_label_set_text(nfc_id_label, nbuf);
+            lv_obj_clear_flag(nfc_id_label, LV_OBJ_FLAG_HIDDEN);
+        }
+        if (guide_label) lv_obj_add_flag(guide_label, LV_OBJ_FLAG_HIDDEN);
 
         /* 3초 후 beforestudy 로 이동 (사용자가 확인 메시지를 볼 시간 확보) */
         lv_timer_t *t = lv_timer_create(goto_beforestudy_after_delay_cb, 3000, NULL);
@@ -161,12 +236,12 @@ static void supabase_result_timer_cb(lv_timer_t *timer) {
 }
 
 static void nfc_timer_cb(lv_timer_t *timer) {
-    if (master_running) return;
     if (state != STATE_NFC_WAIT) return;
 
     if (g_nfc.tag_detected) {
         state = STATE_NFC_DONE;
         remove_spinner();
+        if (countdown_label) lv_obj_add_flag(countdown_label, LV_OBJ_FLAG_HIDDEN);
         lv_label_set_text(status_label, "NFC 인식 완료!");
         lv_obj_set_style_text_color(status_label, lv_color_hex(0x2E7D32), 0);
 
@@ -184,19 +259,21 @@ static void nfc_timer_cb(lv_timer_t *timer) {
         pthread_detach(tid);
 
         lv_timer_create(supabase_result_timer_cb, 100, NULL);
+        return;
     }
-}
 
-static void master_btn_cb(lv_event_t *e) {
-    (void)e;
-    if (!master_running) {
-        app_motor_reverse();
-        master_running = true;
-        lv_label_set_text(master_btn_label, "STOP");
-    } else {
-        app_motor_stop();
-        master_running = false;
-        lv_label_set_text(master_btn_label, "OPEN");
+    uint32_t elapsed = lv_tick_elaps(nfc_enter_tick);
+    update_countdown_with(nfc_enter_tick, NFC_TIMEOUT_MS);
+    if (elapsed >= NFC_TIMEOUT_MS) {
+        /* 20초간 NFC 미인식 → 서랍 열고 메인화면 복귀 */
+        state = STATE_MOTOR_RUN;
+        opening_to_idle = true;
+        app_motor_run(false, 1000);  /* 서랍 열기 (reverse) */
+        remove_spinner();
+        if (countdown_label) lv_obj_add_flag(countdown_label, LV_OBJ_FLAG_HIDDEN);
+        if (guide_label) lv_obj_add_flag(guide_label, LV_OBJ_FLAG_HIDDEN);
+        lv_label_set_text(status_label, "서랍장 여는 중...");
+        lv_obj_set_style_text_color(status_label, lv_color_hex(0x333333), 0);
     }
 }
 
@@ -210,19 +287,24 @@ void create_study_manager_ui(void) {
     if (nfc_timer)    { lv_timer_delete(nfc_timer);    nfc_timer    = NULL; }
 
     state = STATE_IDLE;
-    master_running = false;
+    closing_to_idle = false;
+    opening_to_idle = false;
     supabase_query_done = false;
     supabase_found = false;
     supabase_nfc_id[0] = '\0';
     supabase_device_number[0] = '\0';
     recognize_start = 0;
+    idle_enter_tick = lv_tick_get();
+    nfc_enter_tick = 0;
 
     /* 이전 화면이 delete 된 경우 dangling pointer 방지 */
     status_label = NULL;
     guide_label = NULL;
     spinner = NULL;
     nfc_uid_label = NULL;
-    master_btn_label = NULL;
+    countdown_label = NULL;
+    device_label = NULL;
+    nfc_id_label = NULL;
 
     lv_obj_t *scr = lv_obj_create(NULL);
     lv_obj_set_style_bg_color(scr, lv_color_white(), 0);
@@ -245,7 +327,33 @@ void create_study_manager_ui(void) {
     lv_label_set_text(status_label, "대기 중...");
     lv_obj_set_style_text_color(status_label, lv_color_hex(0x333333), 0);
     lv_obj_set_style_text_font(status_label, &font_korean_20, 0);
-    lv_obj_align(status_label, LV_ALIGN_CENTER, 0, 20);
+    lv_obj_align(status_label, LV_ALIGN_CENTER, 0, 0);
+
+    countdown_label = lv_label_create(scr);
+    char cbuf[32];
+    snprintf(cbuf, sizeof(cbuf), "남은 시간: %u초", (unsigned)(IDLE_TIMEOUT_MS / 1000));
+    lv_label_set_text(countdown_label, cbuf);
+    lv_obj_set_style_text_color(countdown_label, lv_color_hex(0x999999), 0);
+    lv_obj_set_style_text_font(countdown_label, &font_korean_16, 0);
+    lv_obj_set_style_text_align(countdown_label, LV_TEXT_ALIGN_CENTER, 0);
+    lv_obj_align(countdown_label, LV_ALIGN_CENTER, 0, 35);
+
+    /* 인증 완료 시 표시되는 기기번호/NFC ID (초기엔 숨김) */
+    device_label = lv_label_create(scr);
+    lv_label_set_text(device_label, "");
+    lv_obj_set_style_text_color(device_label, lv_color_hex(0x222222), 0);
+    lv_obj_set_style_text_font(device_label, &font_korean_16, 0);
+    lv_obj_set_style_text_align(device_label, LV_TEXT_ALIGN_CENTER, 0);
+    lv_obj_align(device_label, LV_ALIGN_CENTER, 0, 30);
+    lv_obj_add_flag(device_label, LV_OBJ_FLAG_HIDDEN);
+
+    nfc_id_label = lv_label_create(scr);
+    lv_label_set_text(nfc_id_label, "");
+    lv_obj_set_style_text_color(nfc_id_label, lv_color_hex(0x666666), 0);
+    lv_obj_set_style_text_font(nfc_id_label, &font_korean_16, 0);
+    lv_obj_set_style_text_align(nfc_id_label, LV_TEXT_ALIGN_CENTER, 0);
+    lv_obj_align(nfc_id_label, LV_ALIGN_CENTER, 0, 52);
+    lv_obj_add_flag(nfc_id_label, LV_OBJ_FLAG_HIDDEN);
 
     weight_timer = lv_timer_create(weight_timer_cb, 500, NULL);
     nfc_timer = lv_timer_create(nfc_timer_cb, 300, NULL);
@@ -257,26 +365,16 @@ void create_study_manager_ui(void) {
     lv_obj_set_style_text_align(guide_label, LV_TEXT_ALIGN_CENTER, 0);
     lv_obj_align(guide_label, LV_ALIGN_BOTTOM_MID, 0, -45);
 
-    // 마스터 버튼 (OPEN/STOP)
-    lv_obj_t *master_btn = lv_btn_create(scr);
-    lv_obj_set_size(master_btn, 60, 30);
-    lv_obj_align(master_btn, LV_ALIGN_BOTTOM_RIGHT, -10, -10);
-    lv_obj_set_style_bg_color(master_btn, lv_color_hex(0xFF5722), 0);
-    lv_obj_set_style_bg_color(master_btn, lv_color_hex(0xBF360C), LV_STATE_PRESSED);
-    lv_obj_add_event_cb(master_btn, master_btn_cb, LV_EVENT_CLICKED, NULL);
-
-    master_btn_label = lv_label_create(master_btn);
-    lv_label_set_text(master_btn_label, "OPEN");
-    lv_obj_center(master_btn_label);
+    // 마스터 버튼 제거됨
 
     lv_screen_load(scr);
 }
 
 void ui_screen_intro_resume(void) {
     state = STATE_IDLE;
-    master_running = false;
     supabase_query_done = false;
     supabase_found = false;
+    idle_enter_tick = lv_tick_get();
     if (weight_timer) lv_timer_resume(weight_timer);
     if (nfc_timer)    lv_timer_resume(nfc_timer);
 }

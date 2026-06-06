@@ -33,7 +33,7 @@ static void countdown_cb(lv_timer_t *timer)
         /* idle 전환과 동시에 서랍장 닫기 (forward).
          * 최초 부팅은 main.c 가 직접 idle_create() 로 진입하므로
          * 여기를 거치지 않아 닫기 동작이 불필요하게 일어나지 않음. */
-        app_motor_run(true, 1350);
+        app_motor_run(true, 1275);
         /* 다음 사용자는 처음부터 다시 NFC 인식이 필요하도록 세션 정리 */
         supabase_set_user_id(NULL);
         supabase_clear_local_caches();
@@ -85,7 +85,7 @@ void ui_screen_done_create(int countdown_seconds)
     countdown_timer = lv_timer_create(countdown_cb, 1000, NULL);
 
     /* 서랍장 열기 (reverse, 1.3s 연속) — 사용자가 물건을 가져갈 수 있도록 */
-    app_motor_run(false, 1100);
+    app_motor_run(false, 1000);
 
     lv_screen_load_anim(scr, LV_SCR_LOAD_ANIM_FADE_ON, 400, 0, true);
 }

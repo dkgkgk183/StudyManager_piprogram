@@ -35,6 +35,7 @@ static int           upload_total;
 static void update_time_cb(lv_timer_t *timer)
 {
     (void)timer;
+    if (!time_label) return;  /* 화면 전환 직후 dangling 방지 */
     time_t now = time(NULL);
     struct tm *t = localtime(&now);
     char buf[16];
@@ -588,6 +589,7 @@ void ui_screen_records_create(lv_scr_load_anim_t anim)
     lv_obj_set_style_text_color(done_lbl, lv_color_hex(0x222222), 0);
     lv_obj_center(done_lbl);
 
+    if (clock_timer) { lv_timer_delete(clock_timer); clock_timer = NULL; }
     clock_timer = lv_timer_create(update_time_cb, 1000, NULL);
     update_time_cb(NULL);
 

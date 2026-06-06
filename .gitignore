@@ -1,0 +1,6 @@
+# CMake intermediate / regeneratable artifacts
+build/CMakeFiles/
+build/lvgl/
+
+# User-local session data (not source)
+build/sessions_local.json

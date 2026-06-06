@@ -1,6 +1,7 @@
 #include "ui_screen_idle.h"
 #include "ui_screen_intro.h"
 #include "../app/app_motor.h"
+#include "../app/app_sessions.h"
 #include <stdio.h>
 #include <time.h>
 
@@ -34,11 +35,16 @@ static void start_btn_cb(lv_event_t *e) {
         clock_timer = NULL;
     }
     /* 서랍장 열기 (reverse, 1.3s 연속) */
-    app_motor_run(false, 1100);
+    app_motor_run(false, 1000);
     create_study_manager_ui();
 }
 
 void ui_screen_idle_create(void) {
+    /* idle 진입 = 이번 사용 사이클 종료. 모든 경로(공부완료/긴급종료/60초초과/
+     * 조기종료)에서 세션은 이미 Supabase 로 push 되었으므로 로컬 사본은
+     * 다음 사이클의 중복 409 업로드만 유발함. 깨끗이 비우고 시작. */
+    sessions_clear_all();
+
     lv_obj_t *scr = lv_obj_create(NULL);
     lv_obj_set_style_bg_color(scr, lv_color_hex(0xFAFAFA), 0);
     lv_obj_clear_flag(scr, LV_OBJ_FLAG_SCROLLABLE);

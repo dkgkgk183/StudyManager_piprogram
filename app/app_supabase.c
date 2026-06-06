@@ -527,8 +527,8 @@ bool supabase_upload_session(const local_session_t *session)
     cJSON_AddStringToObject(obj, "end_time",         session->end_time);
     cJSON_AddNumberToObject(obj, "duration_seconds", session->duration_seconds);
     cJSON_AddNumberToObject(obj, "self_score",       0);
-    cJSON_AddNumberToObject(obj, "penalty_count",    0);
-    cJSON_AddNumberToObject(obj, "tray_open_count",  0);
+    cJSON_AddNumberToObject(obj, "penalty_count",    session->penalty_count);
+    cJSON_AddNumberToObject(obj, "tray_open_count",  session->tray_open_count);
 
     char *body = cJSON_PrintUnformatted(obj);
     cJSON_Delete(obj);

@@ -15,6 +15,8 @@ typedef struct {
     char start_time[24];   /* "YYYY-MM-DDTHH:MM:SS" */
     char end_time[24];
     int  duration_seconds;
+    int  tray_open_count;  /* 서랍 열림(폰 들어올림) 횟수 */
+    int  penalty_count;    /* 패널티 횟수 */
     bool pushed;           /* Supabase 전송 완료 여부 */
 } local_session_t;
 
@@ -32,6 +34,9 @@ int sessions_get_unpushed_count(void);
 
 /* 전체 세션 수 */
 int sessions_get_count(void);
+
+/* 모든 세션 삭제 (in-memory + 파일) */
+void sessions_clear_all(void);
 
 /* 전송 완료 표시 (전체 마크) */
 void sessions_mark_all_pushed(void);

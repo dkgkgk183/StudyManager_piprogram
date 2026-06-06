@@ -8,6 +8,7 @@ typedef struct {
     const char *subject_id;
     const char *color_hex;   /* "#FF5722" 형태, NULL이면 "#4CAF50" 사용 */
     lv_color_t color;
+    const char *nfc_id;      /* 현재 세션의 NFC UID (resume 시 매칭용) */
     /* 체크리스트 (체크 가능) */
     checklist_item_t *checklist_items;
     int checklist_item_count;
